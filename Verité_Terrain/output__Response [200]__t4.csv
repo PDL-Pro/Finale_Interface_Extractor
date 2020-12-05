@@ -1,0 +1,12 @@
+Model		CodenameReleased		Fab (nm)SATA		USB2.0 + 1.1Parallel ATA1		RAIDNIC		PackageTDP (W)	Features / Notes
+AMD 480/570/580/690 CrossFire Chipset		SB6002006		1304 × 3 Gbit/s AHCI 1.1 SATA Revision 2.0		10 + 01 × ATA/133		0,1,10No		548-pin FC-BGA4.0	
+AMD 700 chipset series		SB700Q1 2008		1306 × 3 Gbit/s AHCI 1.1 SATA Revision 2.0		12 + 21 × ATA/133		0,1,10No		548-pin FC-BGA4.5	DASH 1.0
+AMD 700 chipset seriesSB700S		Q1 2008DASH 1.0Server southbridge		1306 × 3 Gbit/s AHCI 1.1 SATA Revision 2.0		12 + 21 × ATA/133		0,1,10No		548-pin FC-BGA4.5	
+AMD 700 chipset seriesSB710		Q4 2008DASH 1.0		1306 × 3 Gbit/s AHCI 1.1 SATA Revision 2.0		12 + 21 × ATA/133		0,1,10No		548-pin FC-BGA4.5	
+AMD 700 chipset seriesSB750		Q4 2008DASH 1.00,1,5,10		1306 × 3 Gbit/s AHCI 1.1 SATA Revision 2.0		12 + 21 × ATA/133		No		548-pin FC-BGA4.5	
+AMD 800chipset series		SB810Q1 2010		656 × 3 Gbit/s AHCI 1.2 SATA Revision 2.0		14 + 2No		0,1,1010/100/1000		605-pinFC-BGA6.0	
+AMD 800chipset series		Q1 2010SB8506 × 6 Gbit/sAHCI 1.2 SATA Revision 3.00,1,5,10		65		14 + 2No		10/100/1000		605-pinFC-BGA6.0	
+AMD 800chipset seriesSB820M		6 × 6 Gbit/sAHCI 1.2 SATA Revision 3.00,1		653.4 - 5.3mobile/embedded		14 + 2No		10/100/1000		605-pinFC-BGA	
+AMD 900 chipset series		SB920May 30, 2011		656 × 6 Gbit/s AHCI 1.2 SATA Revision 3.0		14 + 2No		0,1,1010/100/1000		605-pin FC-BGA6.0	
+AMD 900 chipset series		May 30, 2011SB9500,1,5,10		656 × 6 Gbit/s AHCI 1.2 SATA Revision 3.0		14 + 2No		10/100/1000		605-pin FC-BGA6.0	
+Model		CodenameReleased		Fab (nm)SATA		USB2.0 + 1.1Parallel ATA1		RAIDNIC		PackageTDP (W)	Features / Notes

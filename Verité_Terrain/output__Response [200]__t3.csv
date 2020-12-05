@@ -1,0 +1,14 @@
+Model		CodenameReleased		Fab (nm)USB2.0 + 1.1		AudioParallel ATA1	Features / Notes
+AMD 640 chipset		AMD-6451997				2 × ATA/33	
+AMD 750 chipset		AMD-7561999		0 + 4		2 × ATA/66	
+AMD 760 chipset		AMD-7662001		0 + 4		2 × ATA/100	
+AMD 760MPX chipset		2001AMD-768		0 + 4AC'97		2 × ATA/100	
+							
+Geode GX1		Geode CS5530				AC'972 × ATA/33	National Semiconductor release
+	Geode GXmGeode GXLVGeode CS5530A					AC'972 × ATA/33	National Semiconductor release
+Geode GX		Geode CS5535		0 + 4		AC'972 × ATA/66	
+Geode LX		Geode CS5536		4 + 0		AC'972 × ATA/100	
+							
+AMD-8111 nForce Professional ULi-1563		AMD-81312004		4 + 2		AC'972 × ATA/133	PCI-X
+AMD-8111 nForce Professional ULi-1563AMD-8132		2004PCI-X 2.0		4 + 2		AC'972 × ATA/133	
+AMD-8151		2004AMD-8151AGP 8X		4 + 2		AC'972 × ATA/133	
