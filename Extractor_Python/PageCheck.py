@@ -3,7 +3,7 @@ import requests
 import os
 import codecs
 class PageCheck:
-
+# Verifie si la page existe 
     def __init__(self,url):
         self.url=url
 
