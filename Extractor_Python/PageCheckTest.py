@@ -3,7 +3,7 @@ from src.main.PageCheck import *
 from src.main.Extrator import *
     
 import unittest
-
+# Test avec Unittest
 class PageCheckTest(unittest.TestCase):
     
     def PageExisteTest(self):
