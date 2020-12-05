@@ -3,7 +3,7 @@ import requests
 import os
 import codecs
 
-    
+    #Class Extractor
 class Extractor:  
 
     def __init__(self,url): 
@@ -32,7 +32,7 @@ class Extractor:
             f.write(rowStr + '\n')
         f.close()
         
-    
+    # Get Table Header
     def getTableHeader(self):
         wiki=self.url
         header = {
