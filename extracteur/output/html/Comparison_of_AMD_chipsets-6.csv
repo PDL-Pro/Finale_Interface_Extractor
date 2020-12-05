@@ -1,0 +1,10 @@
+Chipset;Release Date;PCI Express (PCIe);PCI Express (PCIe);PCI Express (PCIe);USB: 3.2 Gen 2 + 3.2 Gen 1 + 2.0;Storage features;Storage features;Storage features;Processor overclocking;TDP;CPU support;CPU support;CPU support;CPU support
+Chipset;Release Date;PCIe lanes;CrossFire;SLI;USB: 3.2 Gen 2 + 3.2 Gen 1 + 2.0;SATA ports;RAID;AMD StoreMI;Processor overclocking;TDP;Zen;Zen+;Zen 2;Zen 3
+A320;February 2017;PCIe 2.0 ×4;No;No;1 + 2 + 6;4;0, 1, 10;No;No;~5 W;Yes;Yes;Varies;No
+B350;February 2017;PCIe 2.0 ×6;Yes;No;2 + 2 + 6;4;0, 1, 10;No;Yes;~5 W;Yes;Yes;Varies;No
+X370;February 2017;PCIe 2.0 ×8;Yes;Yes;2 + 6 + 6;8;0, 1, 10;No;Yes;~5 W;Yes;Yes;Varies;No
+B450;March 2018;PCIe 2.0 ×6;Yes;No;2 + 2 + 6;4;0, 1, 10;Yes;Yes + PBO;~5 W;Yes;Yes;Yes;Varies
+X470;March 2018;PCIe 2.0 ×8;Yes;Yes;2 + 6 + 6;8;0, 1, 10;Yes;Yes + PBO;~5 W;Yes;Yes;Yes;Varies
+A520;August 2020;PCIe 3.0 ×6;No;No;1 + 2 + 6;4;0, 1, 10;Yes;No;~5 W;No;No;Yes;Yes
+B550;June 2020;PCIe 3.0 ×6;Yes;Yes;2 + 2 + 6;6;0, 1, 10;Yes;Yes + PBO;~5 W;No;No;Yes;Yes
+X570;July 2019;PCIe 4.0 ×16;Yes;Yes;8 + 0 + 4;12;0, 1, 10;Yes;Yes + PBO;~15 W;No;Yes;Yes;Yes

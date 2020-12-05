@@ -1,0 +1,18 @@
+ ; Trident ; EdgeHTML ; Gecko ; WebKit ; Presto 
+ main elementdate=17 December 2012 ; no ; 12 ; 21.0publisher=Mozilla ; yespublisher=WebKit ; no 
+ template elementdate=14 February 2013 ; no ; 13 ; no ; yespublisher=WebKit ; no 
+ Selectors APIpublisher=W3C ; 4.0first=John ; 12 ; 1.9.1title=document.querySelector ; 525url-status=dead   ; 2.2archiveurl= May 2008 
+ Web Storagepublisher=W3C ; 4.0 ; 12 ; 1.9.1url-status=dead   ; 525 ; 2.5archiveurl= December 2009 
+ Indexed Database APIpublisher=W3C ; 5.0title=IndexedDB Prototype Available for Internet Explorer ; 12 ; 16.0publisher=Mozilla ; Partial ; no 
+ Web SQL Database (obsolete)publisher=W3C ; no ; no ; nopublisher=Mozilla ; yesaccessdate=22 October 2009 ; 2.5 
+ File APIdate=26 October 2010 ; 5.0 ; 12 ; yespublisher=Mozilla ; yespublisher=WebKitpublisher=WebKit ; 2.8work=Opera 
+ File API: Writerdate=26 October 2010 ; 5.0 ; no ; nopublisher=Mozilla ; Partialpublisher=WebKit ; rowspan="2" no 
+ File API: Directories and Systemdate=26 October 2010 ; rowspan="3" no ; rowspan="3" no ; nopublisher=Mozilla ; yespublisher=WebKit 
+ Media Capture APIpublisher=W3C ; 2.01=Currently partially supported in nightly builds for the Linux platform.publisher=Mozilla ; no ; 2.10publisher=Opera Software ASA 
+ Server-sent eventspublisher=W3C ; 6.0publisher=Mozilla ; yespublisher=WebKit ; 2.7archiveurl= October 2006 
+ WebSocketpublisher=W3C ; 6.0publisher=IE Engineering Team ; 12 ; 11.0publisher=Mozilla ; 533 ; 2.111=WebSocket support was added in Presto 2.7 but was disabled due to security reasons. In Presto 2.11 protocol implementation was updated to version RFC 6455 which resolved security issue. 
+ Web Workerspublisher=W3Cdate=21 July 2009 ; 6.0publisher=Microsoft ; 12 ; 1.9.1publisher=Mozilla ; yes ; 2.6 
+ Geolocation APIpublisher=W3C ; 5.0title=Acting on Feedback: IE9 Release Candidate Available for Download ; 12 ; 1.9.1publisher=Mozilla ; 533publisher=WebKit ; 2.61=Geolocation support was added in Presto 2.5, but was not enabled by default until 2.6.archiveurl= February 2010url-status=dead  
+ Offline Web applicationspublisher=W3C ; 6.0 ; 12 ; 1.9.1publisher=Mozilla ; yes ; 2.6 
+ Web Notificationspublisher=W3C ; no ; no ; 22.0title=Available only in Firefox Mobile as of Gecko 2.0title=594543 – Implement Desktop Notifications ;  only in Chrometitle=There is a bug in Chrome but is working ; 25publisher=Opera Software ASA 
+ ; Trident ; EdgeHTML ; Gecko ; WebKit ; Presto 

@@ -1,0 +1,60 @@
+ Client ; Author/Developer ; Operating system ; Software license ; User Interface 
+ rh| Alpine ; University of Washington ; Cross-platform ; Apache License 2.0 ; TUI 
+ rh| Apple Mail ; Apple ; macOS, iOS, watchOS ; Proprietary ; GUI (Cocoa)  
+ rh| Balsa ; Stuart Parmenter ; Linux ; GNU General Public License ; GUI (GTK3) 
+ rh| Becky! Internet Mail ; Rimarts ; Windows ; Proprietary ; GUI 
+ rh2| BlitzMail ; Dartmouth College ; ; BSD licenses ; GUI 
+ rh| Citadel ; citadel.org ; Unix-like ; GNU General Public License ; Webmail 
+ rh| Claws Mail ; the Claws Mail team ; Cross-platform ; GNU General Public License ; GUI (GTK2) 
+ rh| Cone ; Courier Mail Server developers ; Unix-like ; GNU General Public License ; TUI 
+ rh2| Courier (formerly Calypso) ; Micro Computer Systems, Inc., continued by Rose City Software ; Windows ; proprietary ; GUI 
+ rh| Elm ; Dave Taylor, Sydney Weinstein, Bill Pemberton, Michael Elkins, Kari Hurtta ; Unix-like ; freeElm Mail System GPL ; TUI 
+ rh| eM Client ; eM Client Inc. ; Windows, macOS ; proprietary ; GUI 
+ rh| EmailTray ; Internet Promotion Agency S.A. ; Windows, Android ; proprietary ; GUI 
+ rh2| Eudora OSE ; Qualcomm ; Windows, macOS ; free ; GUI 
+ rh| Evolution ; The GNOME Project ; Unix-like ; GNU General Public License ; GUI (GTK) 
+ rh| FirstClass ; Open Text ;  ; proprietary ; GUI 
+ rh| Forté Agent ; Mark Sidell ; Windows ; proprietary ; GUI 
+ rh| Geary ; Yorba Foundation ; Unix-like ; GNU LGPL v2.1 ; GUI (GTK) 
+ rh| GNUMail ; Ludovic Marcotte and others ; Unix-like, macOS ; GNU General Public License ; GUI 
+ rh| Gnus ; Gnus team ; Cross-platform ; GNU General Public License ; TUI and GUI 
+ rh| GroupWise ; Micro Focus (formerly Novell) ; Cross-platform ; proprietary ; GUI 
+ rh| Hiri ; Hiri ; Cross-platform ; proprietary ; GUI 
+ rh| i.Scribe, InScribe ; Memecode ; Windows, macOS, Linux ; proprietary ; GUI 
+ rh| HCL Notes (formerly IBM Notes and IBM Lotus Notes) ; HCL Technologies (formerly IBM and Lotus Software), HCL Technologies ; Windows, macOS, Linux ; proprietary ; GUI (Notes), Web (Verse, iNotes) and Mobile (Traveler) 
+ rh| IMP ; Horde LLC ; Cross-platform ; GNU General Public License ; Webmail 
+ rh| K-9 Mail ; K-9 Dog Walkers: cketti, et al. ; Android ; Apache License 2.0 ; GUI 
+ rh| KMail ; KDE ; Cross-platform ; GNU General Public License ; GUI (Qt) 
+ rh2| Mail (Windows) ; Microsoft ; Windows ; proprietary ; GUI 
+ rh| Mailbird ; Mailbird ; Windows ; proprietary ; GUI 
+ rh| Mailpile ; Mailpile ; Linux, Windows, macOS ; Affero General Public License and Apache License 2.0 ; Webmail 
+ rh| mailx ; dunno ; Unix-like ; BSD Licenses ; TUI 
+ rh2| Microsoft Entourage ; Microsoft ; macOS ; proprietary ; GUI 
+ rh| Microsoft Outlook ; Microsoft ; Windows, macOS ; proprietary ; GUI 
+ rh2| Mozilla Mail & Newsgroups ; Mozilla Foundation ; ; Mozilla Public License ; GUI (XUL) 
+ rh| Mozilla Thunderbird ; Mozilla Foundation ; Cross-platform ; Mozilla Public License ; GUI (XUL) 
+ rh2| Mulberry ; Cyrus Daboo (formerly Cyrusoft International, Inc./ISAMET) ; Cross-platform ; Apache License 2.0 ; GUI 
+ rh| Mutt ; Michael Elkins ; Cross-platform ; GNU General Public License ; TUI (ncurses) 
+ rh2| Netscape Messenger ; Netscape Communications ; ; ? ; GUI 
+ rh2| Netscape Messenger 9 ; Netscape Communications ; ; Mozilla Public License ; GUI 
+ rh2| Nylas Mail ; Nylas ;macOS, Linux, Windows ; MIT ; GUI 
+ rh| nmh / MH ; RAND Corporation ; Unix-like ; BSD Licenses ; CLI 
+ rh| Opera Mail ; Opera Software ; Cross-platform ; proprietary ; GUI 
+ rh2| Outlook Express ; Microsoft ; Windows ; proprietary ; GUI 
+ rh| Pegasus Mail ; David Harris ; Windows ; proprietary ; GUI 
+ rh2| Pine ; University of Washington ; Cross-platform ; free ; TUI 
+ rh2| Pocomail ; Poco Systems ; Windows ; proprietary ; GUI 
+ rh| RoundCube ; The RoundCube Team ; Cross-platform ; GNU General Public License ; Webmail 
+ rh| SeaMonkey Mail & Newsgroups ; SeaMonkey Council ; Cross-platform ; Mozilla Public License ; GUI (XUL) 
+ rh| Spark ; Readdle ; macOS ; proprietary ; GUI 
+ rh2| Spicebird ; Synovel ; Windows, Linux, BSD ; Mozilla Public License ; GUI (XUL) 
+ rh| SquirrelMail ; The SquirrelMail Project Team ; Cross-platform ; GNU General Public License ; Webmail 
+ rh| Sylpheed ; Hiroyuki Yamamoto ; Cross-platform ; GNU General Public License ; GUI (GTK2) 
+ rh| The Bat! ; RitLabs ; Windows ; proprietary ; GUI 
+ rh| Trojitá ; KDE ; Cross-platform ; GNU General Public License ; GUI (Qt) 
+ rh2| Turnpike ; Thus PLC (Demon Internet) ; Windows ; proprietary ; GUI 
+ rh2| Windows Live Mail ; Microsoft ; Windows ; proprietary ; GUI 
+ rh2| Windows Mail (Vista) ; Microsoft ; Windows ; proprietary ; GUI 
+ rh| YAM ; YAM Open Source Team and contributing authors ; AmigaOS ; GNU General Public License ; GUI 
+ rh| Zimbra Desktop ; Zimbra ; Cross-platform ; Mozilla Public License for server and ZPL for client ; GUI 
+ Client ; Author/Developer ; Operating system ; Software license ; User interface 

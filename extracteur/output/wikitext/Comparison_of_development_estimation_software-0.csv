@@ -1,0 +1,8 @@
+ Estimation approach ; Category ; Examples of support of implementation of estimation approach 
+ Analogy-based estimation ; Formal estimation model ; ANGEL, Weighted Micro Function Points 
+ WBS-based (bottom up) estimation ; Expert estimation ; Project management software, company specific activity templates 
+ Parametric models ; Formal estimation model ; COCOMO, SLIM, SEER-SEM, TruePlanning for Software 
+ Size-based estimation modelsHill Peter (ISBSG) - Estimation Workbook 2 - published by International Software Benchmarking Standards Group ISBSG - Estimation and Benchmarking Resource Centre date=2008-08-29  ; Formal estimation model ; Function Point Analysis,Morris Pam— Overview of Function Point Analysis Total Metrics - Function Point Resource Centre Use Case Analysis, Use Case Points, SSU (Software Size Unit), Story point-based estimation in Agile software development, Object Points 
+ Group estimation ; Expert estimation ; Planning poker, Wideband delphi 
+ Mechanical combination ; Combination-based estimation ; Average of an analogy-based and a Work breakdown structure-based effort estimateSrinivasa Gopal and Meenakshi D'Souza. 2012. Improving estimation accuracy by using case based reasoning and a combined estimation approach.  In Proceedings of the 5th India Software Engineering Conference (ISEC '12). ACM, New York, NY, USA,  75-78. DOI= 
+ Judgmental combination ; Combination-based estimation ; Expert judgment based on estimates from a parametric model and group estimation 

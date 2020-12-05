@@ -1,0 +1,25 @@
+ ; Get object type ; Is instance of (includes subtypes) ; Upcasting ; Downcasting ; Downcasting 
+ ; Get object type ; Is instance of (includes subtypes) ; Upcasting ; Runtime check ; No check 
+ ABAP Objects ; colspan=2 n/aRun-time type information in ABAP can be gathered by using different description Classes like CL_ABAP_CLASSDESCR. ; = ; ?= 
+ C++ (STL) ; typeid(x) ; dynamic_cast<type *>(&x) != nullptr ; rowspan=8 n/aUpcasting is implicit in this language. A subtype instance can be used where a supertype is needed. ; dynamic_cast<type*>(ptr) ; (type*) ptr or  static_cast<type*>(ptr) 
+ C# ; x.GetType() ; x is type ; (type) x or x as type ; 
+ D ; typeid(x) ;  ; cast(type) x ; 
+ Delphi ;  ; x is type ; x as type ; 
+ eC ; x._class ; eClass_IsDerived(x._class, type) ; ; (type) x 
+ Java ; x.getClass() ; x instanceof class ; (type) x ; 
+ Objective-C (Cocoa) ; [x class]Only for non-class objects. If x is a class object, [x class] returns only x. The runtime method object_getClass(x) will return the class of x for all objects. ; [x isKindOfClass:[class class]] ; ; (type*) x 
+ Swift ; x.dynamicType ; x is type ; x as! type  x as? type 
+ JavaScript ; x.constructor (If not rewritten.) ; x instanceof class ; colspan=3 n/aThis language is dynamically typed. Casting between types is unneeded. 
+ Visual Basic .NET ; x.GetType() ; TypeOf x Is type ; n/a ; CType(x, type) or TryCast(x, type) ; 
+ Xojo ; Introspection.GetType(x) ; x IsA type ; n/a ; CType(x, type) ; n/a 
+ Eiffel ; x.generating_type ; attached {TYPE} x ; attached {TYPE} x as down_x ; 
+ Python ; type(x) ; isinstance(x, type) ; colspan=3 rowspan=3 n/a 
+ PHP ; get_class(x) ; x instanceof class 
+ Perl ; ref(x) ; x->isa("class") 
+ Raku ; x.WHAT ; x.isa(class) ; n/a ; type(x) or x.type ; 
+ Ruby ; x.class ; x.instance_of?(type) or x.kind_of?(type) ; colspan=3 rowspan=2 n/a 
+ Smalltalk ; x class ; x isKindOf: class 
+ Windows PowerShell ; x.GetType() ; x -is [type] ; n/a ; [type]x or x -as [type] ; 
+ OCaml ; colspan=2 n/aThis language doesn't give run-time type information. It is unneeded because it is statically typed and downcasting is impossible. ; (x :> type) ; colspan=2 n/a 
+ F# ; x.GetType() ; (x :> type) ; x :? type ; (x :?> type) ; 
+ COBOL ; colspan=2 n/a ; x AS type ; colspan=2 n/a 

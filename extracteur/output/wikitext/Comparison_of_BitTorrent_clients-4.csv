@@ -1,0 +1,23 @@
+ BitTorrent client ; Cache Reduces disk usage, file fragmentation (in case it is not preallocated) and latencies via larger written blocks and cached data for hash checking finished pieces. ; Hash Web seeding ; HTTP Web seeding ; Broad-catching (RSS) ; Prioritization ; Selective downloads ; Sequential downloading ; SOCKS ; Tracker exchange Tracker exchange spec: BEP 28 ; Remote control via web ; Search engine ; Auto updates ; Reviews and Comments ; Notes 
+ BitComet ; yes ; no ; yesSupports the Getright Webseeding spec since v1.14, see BitComet Wiki ; beta ; yes ; yes ; yesCalled "preview mode" ; yes ; no ; yes ;Built-in Web browser ; yes ; no ; Portable version available 
+ BitLord ; yes ; no ; Partial Does not support HTTP redirection (status codes: 301, 302, 303, 307).Does not support HTTPS. ; yes ; yes ; yes ; no ; yes ; no ; no ; Built-in Web browser ; yes ; no ; 
+ BitTorrent 5, Mainline ; no ; yes ; Partial Does not support HTTPS. ; no ; yes ; yes ; no ; no ; no ; no ; yes ; yes ; no ; 
+ BitTorrent 6 ; yes ; yes ; ; yes ; yes ; yes ; yesOnly available in Pro and web version ; yes ; no ; yes ; yes ; yes ; yes ; 
+ Deluge ; yes ; yes ; Partial Does not support HTTP redirection (status codes: 301, 302, 303, 307). ; yes2 Plugin ; yes ; yes ; yes ; yes ; no ; yes ; no ; yes2 via PMS ; no ; 
+ FlashGet ; no ; no ; ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; FlashGet (standalone application) is not FlashGot (Firefox Addon) 
+ Free Download Manager ; no ; yes ; no ; no ; yes ; yes ; no ; no ; no ; yes ; no ; Optional ; no ; 
+ KTorrent ; yes ; yes ; ; yes ; yes ; yes ; yes ; yes ; no ; yes ; Built-in Web browser ; yes2 via PMS ; no ; 
+ LimeWire ; yes ; yes ; no ; no ; yes ; yes ; no ; yes ; no ; no ; no ; yes ; no ; 
+ MLDonkey ; yes ; no ; ; 3rd party bash script ; yes ; no ; no ; noSee task #4401 SOCKS proxy, however, http proxy is supported. ; no ; yes ; Built-in Web browser ; yes2 via PMS ; no ; 
+ μTorrent ; yes ; yes ; Partial Does not support HTTPS. ; yes ; yes ; yes ; yesOnly available in Pro and web version.From version 3.0 this feature is called "Streaming mode". The number of pieces to download sequentially is configurable ; yes ; no ; yes ; yes ; yes ; yes ; 
+ Opera 12 ; no ; no ; ; yesOperaRSS ; no ; no ; no ; no ; no ; no ; built-into Web browser ; Windows and Mac OS X only, via PMS on Linux ; no ; Web browser 
+ qBittorrent ; yes ; yes ; Partial Does not support HTTP redirection (status codes: 301, 302, 303, 307). ; yes ; yes ; yes ; yes ; yes ; hard-coded as disabled in newer versions ; yes ; yes ; yes2 via PMS ; no ; 
+ rTorrent ; partial ; no ; no ; 3rd party utility 3rd party utility RSSDler ; yes ; yes ; no ; no ; no ; yes ; no ; yes2 via PMS ; no ; No built-in disk cache but a delayed sync 
+ Shareaza ; yes ; yes ; no ; no ; yes ; yesSince Shareaza v2.4.0.2 r7924. ; in mod client ; no ; yesSince Shareaza v2.5.3.1.Shareaza also uses G2 to transmit download metadata, such as BitTorrent trackers to other G2 clients. ; yes ; yes ; yes ; no ;  
+ Tixati ; yes ; yes ; Partial Does not support HTTP redirection (status codes: 301, 302, 303, 307).Support only base path ("url-list" path) redirection (message: "HTTP redirect does not match file path").Does not support HTTPS. ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yes ; no ; lightweight client, Portable version available, option to keep all peers unchoked available Integral encrypted chatrooms that allow streaming audio and video, link sharing and searching 
+ Tonido ; no ; no ; ; no ; yes ; yes ; no ; no ; no ; yes ; no ; yes ; no ; 
+ Transmission ; yes ; no ; Partial Does not support HTTPS.Adds HTTP referer header in request on HTTP redirection (useful behavior). ; no ; yes ; yes ; no ; no ; no ; yes ; no ; yes ; no ; 
+ Tribler ; yes ; no ; no ; yes ; yes ; yes ; no ; no ; no ; partial ; yes (DHT) ; yes ; no ; Fully distributed keyword search, integrated anti-spam measures 
+ Vuze (formerly Azureus) ; yes ; ; yesSupports the Getright Webseeding spec in addition to the Bittornado spec  ; yes ; yes ; yes ; yes2 in paid version Play Now feature on official page ; yes ; no ; yes2 PluginProvides a Java-based and a simple HTML/JS based WebUI. ; yes ; yes ; yesAdditional Vuze Features on VuzeWiki ; The only client to bridge between i2p and the clearnet. 
+ Xunlei ; yes ; no ; ; yes ; yes ; yes ; yes ; ; ; yes ; no ; yes ; no ; 
+ BitTorrent client ; Cache ; Hash Web seeding ; HTTP Web seeding ; Broad-catching (RSS) ; Prioritization ; Selective downloads ; Sequential downloading ; SOCKS ; Tracker exchange ; Remote control via web ; Search engine ; Auto updates ; Reviews and Comments ; Notes 

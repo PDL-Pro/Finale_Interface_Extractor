@@ -1,0 +1,49 @@
+Distribution ;x86 ;x86-64 ;arm ;ia64 ;ppc date=November 2016 ;ppc64 ;sparc32 ;sparc64 ;hppa ;loongson ;mips ;sh ;s390 ;s390x ;alpha ;m68k ;riscv 
+ Rh| Alpine Linux ;yes ;yes ;yes ;no ;no ;yes ;no ;no ;no ;no ;no ;no ;no ;yes ;no ;no ;no 
+ Rh| Arch Linux ;UnofficialOfficial discontinued 2017-11-08 ;yes ;Unofficial ;no ;Discontinued unofficial port ;no ;no ;no ;no ;Discontinued. Unofficial port ;no ;no ;no ;no ;no ;no ;no 
+ Rh| BackTrack ;{{partial|Discontinued from BackTrack 5 and superseded by Kali Linux ;Discontinued from BackTrack 5 and superseded by Kali Linux ;Discontinued from BackTrack 5 and superseded by Kali Linux ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ Rh| BLAG ;yes ;yes ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ Rh| Bodhi Linux ;yes ;yes ;Discontinued2013-10-23 ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ Rh| BOSS Linux ;yes ;yes ;dunno ;no ;yes ;yes ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ Rh| CentOS ;AltArch ;yes ;AltArch ;Discontinued3.5-3.84.1-4.7 date =2005-10-13 ;Beta, Discontinued4.0 ;AltArch ;Beta4.2 date = 2006-05-24 ;no ;no ;no ;no ;no ;Discontinued3.5-3.84.1-4.7 date = 2005-06-24 ;Discontinued3.5-3.84.1-4.7 ;Discontinued4.2-4.3 date = 2005-06-26 date = 2006-06-25 ;no ;no 
+ Rh| Chakra ;no ;yes ;dunno ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ Rh| CRUX ;yes ;yes ;no ;no ;yes ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ Rh| Debian ;yes ;Yes4.0+ ;Yes2.2+ ;Discontinued3.0-7.0 date = 2014-03-19 ;Discontinued2.2-8 ;yes ;Discontinued2.1-4.0 date = 2007-07-18 ;Discontinued-7 date = 2014-04-26 ;Discontinued3.0-5.0 ;yes ;Yes3.0+ ;In progress ;Discontinued3.0-7 ;Yes7+ ;Discontinued2.1-5.0 ;Discontinued2.0-3.1 ;In progress 
+ Rh| Devuan ;yes ;yes ;yes ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ Rh| Dragora GNU/Linux-Libre ;yes ;yes ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ Rh| dyne:bolic ;yes ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ Rh| Fedora ;Discontinued from Fedora 30 ;yes ;yes ;Discontinued from Fedora 9 ;Discontinued from Fedora 17 ;yes ;no ;Inactive from Fedora 12 ;no ;In progress ;Inactive from Fedora 13 ;no ;no ;yes ;no ;no ;In progress 
+ Rh| Finnix ;yes ;yes ;no ;no ;yes ;yes ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ Rh| Gentoo ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;Test release{{cite web |title=RISC-V |url= 
+ Rh| gNewSense ;yes ;yes ;no ;no ;no ;no ;no ;no ;no ;yes ;yes ;no ;no ;no ;no ;no ;no 
+ Rh| Guix System ;yes ;yes ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;In progress 
+ rh| Hyperbola GNU/Linux-libre ;yes ;yes ;no ;no ;no ;In progress ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;In progress 
+ Rh| Kali Linux ;yes ;yes ;yes ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ Rh| LibreCMC ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;yes XBurst ;no ;no ;no ;no ;no ;no 
+ Rh| Manjaro Linux ;yesUnofficial ;yes ;yes{{cite web|url= ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ Rh| MEPIS ;yes ;yes ;yes ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ Rh| Musix GNU+Linux ;yes ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ Rh| OpenELEC ;yes ;yes ;yes ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ Rh| openSUSE Leap ;no ;yes ;v7 64 ;no ;no ;ppc64le ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ Rh| openSUSE Tumbleweed ;yes ;yes ;v6 v7 64 ;no ;no ;yes ;no ;no ;no ;no ;no ;no ;no ;yes ;no ;no ;RV64G 
+ Rh| OpenWrt ;yes ;yes ;yes ;no ;yes ;no ;no ;no ;no ;no ;yes ;yes ;no ;no ;no ;no ;no 
+ Rh| Oracle Linux ;yes ;yes ;no ;Discontinued5 ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ Rh| Parabola GNU/Linux-libre ;yes ;yes ;Yes, ARMv7 ;no ;no ;Test release ;no ;no ;no ;Discontinued ;Discontinued ;no ;no ;no ;no ;no ;Test release 
+ Rh| Red Flag Linux ;Discontinued8.0 ;Discontinued8.0 ;no ;Discontinued3 ;no ;Discontinued3 ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ Rh| Red Hat Linux ;Discontinued9.0 ;no ;no ;Discontinued7.1-7.2 ;Test release5.1 date=November 2016 ;no ;Discontinued4.0-4.25.1-6.2 ;Test release5.1 ;no ;no ;Test release5.1 ;no ;Discontinued7.2 ;yes ;Discontinued2.1-7.1 ;Test release5.1 ;no 
+ Rh| Red Hat Enterprise Linux ;Discontinued2.1-6 ;yes3+ ;yes ;Discontinued2.1-5 ;yes3+ ;yes3+ ;no ;no ;no ;no ;no ;no ;Discontinued3-4RHEL 4 is the last version to support 31-bit s390. RHEL 5 only supports 64-bit s390x. ;yes3+ ;no ;no ;no 
+ Rh| Sabayon Linux ;Discontinued ;yes ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ Rh| Scientific Linux ;yes ;yes ;no ;Discontinued3-4 ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ Rh| SHR ;no ;no ;yes ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ Rh| Slackware ;yes ;yes ;yes ;no ;no ;no ;Discontinued? ;no ;no ;no ;no ;no ;Discontinued? ;Discontinued? ;Discontinued8.1 ;no ;no 
+ Rh| Solus ;no ;yes ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ Rh| Source Mage GNU/Linux ;yes ;yes ;no ;no ;yes ;no ;no ;no ;no ;dunno ;no ;no ;no ;no ;no ;no ;no 
+ Rh| SUSE Linux Enterprise Server ;yes ;yes ;AArch64 only ;yes ;yes ;yes ;no ;no ;no ;no ;no ;no ;no ;yes ;no ;no ;no 
+ Rh| Trisquel GNU/Linux ;yes ;yes ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ Rh| TurnKey GNU/Linux ;Selected ISOsavailable ;yes ;No - but under development by community ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ Rh| Ubuntu/Kubuntu/Xubuntu/Lubuntu ;Discontinued from Ubuntu 20.04 ;yes ;yes, including 64-bit ARMv8-A ;no ;yes ;yes ;no ;no ;no ;no ;no ;no ;no ;Ubuntu only, 16.04+ ;no ;no ;no 
+ Rh| Ututo ;yes ;yes ;no ;no ;no ;no ;no ;no ;no ;In progress ;no ;no ;no ;no ;no ;no ;no 
+ Rh| Void Linux ;yes ;yes ;yes ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ Rh| XBMCbuntu ;yes ;no ;yes ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ Rh| Yellow Dog Linux ;no ;no ;no ;no ;yes ;yes ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+Distribution ;x86 ;x86-64 ;arm ;ia64 ;ppc ;ppc64 ;sparc32 ;sparc64 ;hppa ;loongson ;mips ;sh ;s390 ;s390x ;alpha ;m68k ;riscv 

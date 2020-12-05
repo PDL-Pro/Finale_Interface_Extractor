@@ -1,0 +1,12 @@
+ Name ; Keyboard mapping ; Session tabs ; ZMODEM transfers ; Find text in buffer ;Mouseinput supportmouse_input ; Unicode support ; URL hyperlinking ; Public key authentication ; Smart card support ; Hardware encryption ; FIPS 140-2 validation ; Scripting ; Shared Database ; Auto-reconnect ; CA Certificates 
+rh| AbsoluteTelnet ;  full ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;dunno ;yes ;yes ;dunno ; dunno ;dunno 
+rh| Bitvise SSH Client ;dunno ;no ;no ;no ;yes ;yes ;no ;yes ;no ;dunno ;partial ;yes ;no ;yes ;no 
+rh| OpenSSH (OpenBSD Secure Shell) ;dunno ;no ;no ;dunno ;yesopenssh_mouse_input ;yes ;not nativeopenssh_url_highlight ;yes ;yesopenssh_smartcard ;yes ;partialopenssh_fips ;No ;No ; dunno ;yesopensshCA 
+rh| PuTTY ; no ;  noputtyTabs ;  no ;  no ;  yes ;  yes ;  noputtyHyperlink ;  yes ;  noputtySmartcard ;  yes ;  no ;  no ;  no ; no ;noputtyCA 
+rh| SecureCRT ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;no ;yes ;yes ;no ; dunno ;dunno 
+rh| SmartFTP ;  partial ;yes ;no ;yes ;yes ;yes ;yes ;yes ;yes ;AES-NI ;yes ;no ;dunno ; dunno ;dunno 
+rh| Tera Term ;yes ;yes ;yes ;no ;yes ;yes ;yes ;yes ;no ;no ;no ;yes ;no ; dunno ;dunno 
+rh| TN3270 Plus ;yes ;yes ;no ;no ;no ;no ;yes ;yes ;no ;no ;no ;yes ;dunno ; dunno ;dunno 
+rh| TtyEmulator ;no ;no ;no ;yes ;yes ;no ;yes ;yes ;no ;no ;no ;yes ;dunno ; dunno ;dunno 
+rh| wolfSSH ;no ;no ;no ;no ;no ;yes ;no ;yes ;no ;yes ;yes ;no ;no ; dunno ;yes 
+ rh| ZOC ; full ;  yes ;  yes ;  Alt+F ;  yes ;  UTF-8 ;  yes ;  yes ;  pkcs#11 ;  no ;  no ;  yes ;  dunno ; dunno ;dunno 

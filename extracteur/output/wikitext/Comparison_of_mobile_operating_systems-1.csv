@@ -1,0 +1,22 @@
+ Feature ; Android ; iOS ; Tizen ; Sailfish OS ; Ubuntu Touch 
+While-in-use permissions ;10+;11+: Location only;No;No;Yes 
+Per-app Internet access ;No2No, 3rd party software;7+: Cellular only, 3rd party software on jailbroken devices;No;No;No 
+Per-app identity access ;8+Android O Behavior Changes | Android Developers ;6+;No;No;Yes 
+Per-app user data access ;6+Android 6.0 Marshmallow, thoroughly reviewed | Ars Technica ;6+Apple Adds New Privacy Settings in iOS 6 . Iphonehacks.com (2012-06-12). Retrieved on 2012-07-03.;No;No;Yes 
+Per-app background execution ;No2 No, 3rd party apps available;7+How to turn off Background App Refresh in iOS 7 – CNET ;No;No;Background execution not allowed 
+Per-app notifications ;4.1+;5+;No;No;Yes 
+Per-app location access ;6+;4+;No;No;Yes 
+Per-app camera access ;6+;8+;No;No;Yes 
+Per-app microphone access ;6+;7+;No;No;Yes 
+Per-app shared files access ;6+;8+;No;No;Yes 
+Per-app network data usage auditing ;4+Android 4.0 Platform Highlights | Android Developers . Developer.android.com. Retrieved on 2012-07-03.;YesCellular Settings . manuals.info.apple.com. Retrieved on 2015-04-01.;?;Nopersistent data counter ;No 
+Fine grained storage usage ;YesAndroid 4.0 Internal Memory Storage and Apps Management . Android Tapp. Retrieved on 2012-07-03.;5+How To See How Much Space Is Being Used By Each of Your Apps in iOS 5 — iPad Insight . Ipadinsight.com (2011-06-13). Retrieved on 2012-07-03.;?;No;Yes 
+Parental controls ;4.3+ or 3rd party software;Yes;?;No;No 
+Screen orientation lock ;YesHow to enable the orientation lock on an Android phone . Youtube.com (2011-06-01). Retrieved on 2012-07-03.;Yes;?;1.0.4+Screen orientation setting / locking ;Yes 
+File manager ;6.0+;11+;No2 3rd party software;YesTutorial: Install Terminal, Native File Manager And Accessing SD Card Storage | Latest Jolla And Sailfish OS News ;Yes 
+File manager write access to external storage ;6+ Or 3rd party software like LineageOS;13+;Yes;Yes;Yes 
+Multi-user ;4.2+, including phones 5+;9.3+: Education use only on iPad;No;No;No 
+Guest mode ;5+Android 5.0 Lollipop announced with Material Design, Guest Mode and more ;6+;No;No;No 
+Guided Access ;No;YesWhat Is Guided Access on iPhone and How Do You Use It?;No;No;No 
+Do not disturb mode ;5+Set up 'Priority' mode on Android 5.0 Lollipop – CNET ;6+;No;No;No 
+App groups ;Yes;4+archivedate=2014-05-18;?;1.0.7+Folder support in app launcher ;Yes 

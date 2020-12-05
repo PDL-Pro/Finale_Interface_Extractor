@@ -1,0 +1,34 @@
+Atom (ULV);Atom (ULV);;Feature size;;x86;x86;;;;;;
+Microarchi.;Step;;Feature size;;Microarchi.;Step;;;;;;
+;;;600 nm;;P6;Pentium Pro (133 MHz);;;;;;
+;;;500 nm;;P6;Pentium Pro (150 MHz);;;;;;
+;;;350 nm;;P6;Pentium Pro (166–200 MHz);;;;;;
+;;;350 nm;;P6;Klamath;;;;;;
+;;;250 nm;;P6;Deschutes;;;;;;
+;;;250 nm;;P6;Katmai;;NetBurst;;;;
+;;;180 nm;;P6;Coppermine;;Willamette;;;;
+;;;130 nm;;P6;Tualatin;;Northwood;;;;
+;;;130 nm;;P6;Banias;;Northwood;;NetBurst(HT);;NetBurst(×2)
+;;;90 nm;;P6;Dothan;;Prescott;⇨;Prescott‑2M;⇨;Smithfield
+;;;90 nm;;P6;Dothan;;Tejas;→;⇩;→;Cedarmill (Tejas)
+;;;65 nm;;P6;Yonah;;Nehalem (NetBurst);;Cedar Mill;⇨;Presler
+;;;65 nm;;Core;Merom;4 cores on mainstream desktop, DDR3 introduced;4 cores on mainstream desktop, DDR3 introduced;4 cores on mainstream desktop, DDR3 introduced;4 cores on mainstream desktop, DDR3 introduced;4 cores on mainstream desktop, DDR3 introduced;4 cores on mainstream desktop, DDR3 introduced
+Bonnell;Bonnell;;45 nm;;Core;Penryn;;;;;;
+Bonnell;Bonnell;;45 nm;;Nehalem;Nehalem;HT reintroduced, integrated MC, PCH L3-cache introduced, 256KiB L2-cache/core;HT reintroduced, integrated MC, PCH L3-cache introduced, 256KiB L2-cache/core;HT reintroduced, integrated MC, PCH L3-cache introduced, 256KiB L2-cache/core;HT reintroduced, integrated MC, PCH L3-cache introduced, 256KiB L2-cache/core;HT reintroduced, integrated MC, PCH L3-cache introduced, 256KiB L2-cache/core;HT reintroduced, integrated MC, PCH L3-cache introduced, 256KiB L2-cache/core
+Bonnell;Saltwell;;32 nm;;Nehalem;Westmere;introduced GPU on same package and AES-NI;introduced GPU on same package and AES-NI;introduced GPU on same package and AES-NI;introduced GPU on same package and AES-NI;introduced GPU on same package and AES-NI;introduced GPU on same package and AES-NI
+Bonnell;Saltwell;;32 nm;;Sandy Bridge;Sandy Bridge;on-die ring bus, no more non-UEFI motherboards;on-die ring bus, no more non-UEFI motherboards;on-die ring bus, no more non-UEFI motherboards;on-die ring bus, no more non-UEFI motherboards;on-die ring bus, no more non-UEFI motherboards;on-die ring bus, no more non-UEFI motherboards
+Silvermont;Silvermont;;22 nm;;Sandy Bridge;Ivy Bridge;;;;;;
+Silvermont;Silvermont;;22 nm;;Haswell;Haswell;FIVR;FIVR;FIVR;FIVR;FIVR;FIVR
+Silvermont;Airmont;;14 nm;;Haswell;Broadwell;;;;;;
+Silvermont;Airmont;;14 nm;;Skylake;Skylake;DDR4 introduced on mainstream desktop;DDR4 introduced on mainstream desktop;DDR4 introduced on mainstream desktop;DDR4 introduced on mainstream desktop;DDR4 introduced on mainstream desktop;DDR4 introduced on mainstream desktop
+Goldmont;Goldmont;;14 nm;;Skylake;Kaby Lake;;;;;;
+Goldmont;Goldmont;;14 nm;;Skylake;Coffee Lake;6 cores on mainstream desktop;6 cores on mainstream desktop;6 cores on mainstream desktop;6 cores on mainstream desktop;6 cores on mainstream desktop;6 cores on mainstream desktop
+Goldmont;Goldmont;;14 nm;;Skylake;Amber Lake;mobile-only;mobile-only;mobile-only;mobile-only;mobile-only;mobile-only
+Goldmont;Goldmont Plus;;14 nm;;Skylake;Whiskey Lake;mobile-only;mobile-only;mobile-only;mobile-only;mobile-only;mobile-only
+Goldmont;Goldmont Plus;;14 nm;;Skylake;Coffee Lake Refresh;8 cores on mainstream desktop;8 cores on mainstream desktop;8 cores on mainstream desktop;8 cores on mainstream desktop;8 cores on mainstream desktop;8 cores on mainstream desktop
+Goldmont;Goldmont Plus;;14 nm;;Skylake;Comet Lake;10 cores on mainstream desktop;10 cores on mainstream desktop;10 cores on mainstream desktop;10 cores on mainstream desktop;10 cores on mainstream desktop;10 cores on mainstream desktop
+Goldmont;Goldmont Plus;;14 nm;;Willow Cove;Rocket Lake;;;;;;
+Tremont;Tremont;;10 nm;;Palm Cove;Cannon Lake;mobile-only;mobile-only;mobile-only;mobile-only;mobile-only;mobile-only
+Tremont;Tremont;;10 nm;;Sunny Cove;Ice Lake;512KiB L2-cache/core;512KiB L2-cache/core;512KiB L2-cache/core;512KiB L2-cache/core;512KiB L2-cache/core;512KiB L2-cache/core
+Tremont;Gracemont;;10 nm;;Willow Cove;Tiger Lake;X graphics engine;X graphics engine;X graphics engine;X graphics engine;X graphics engine;X graphics engine
+Tremont;Gracemont;;10 nm;;Golden Cove;Alder Lake;hybrid;hybrid;hybrid;hybrid;hybrid;hybrid

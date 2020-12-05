@@ -1,0 +1,4 @@
+ ; Trident ; edgeHTML ; Gecko ; WebKit ; Presto 
+ Ogg Theora ; Manual installname=ie-codecs ; ; 1.9.1url-status=dead   ; dependsname=webkit-codecs ; 2.5 
+ H.264 ; 5.0publisher=Technologizer ;  ; 33.0via OpenH264publisher=Mozilla ; Depends (525) accessdate=22 January 2010 ; dependsname=opera-av 
+ WebM VP8 ; Manual install ; yes ; 2.0publisher=Mozillapublisher=Mozilla ; Depends (534)last=Bankoski  ; 2.6.30archivedate=21 March 2011 work=Operaarchivedate=2 July 2010  

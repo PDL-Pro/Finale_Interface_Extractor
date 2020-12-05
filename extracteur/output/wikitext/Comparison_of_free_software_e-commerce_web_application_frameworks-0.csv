@@ -1,0 +1,23 @@
+ Name ;Creator ;First release date ;Latest stable version ;Latest release date ;License ;Language ;Web application framework ;CMS extension 
+ AbanteCart Software ; Belavier Commerce, LLC ; 2011 ; AbanteCart Software version ; releasedate ; OSL 3.0 ; PHP ; Model-View-Controller ; integrated, and 3rd party extensions 
+ Apache OFBiz ; Apache Software Foundation ; 2007 ; 17.12.04 ; 2020-07-13 ; Apache 2.0 ; Java ; Apache OFBiz ; integrated, and 3rd party extensions 
+rh2| Batavi ; Batavi ; dunno ; Continuous/SaaS ; Continuous/SaaS ; Proprietary ; PHP ;  ;  
+rh2| Bigcommerce ; Bigcommerce Inc ; dunno ; Continuous/SaaS ; Continuous/SaaS ; Proprietary ; PHP ;  ;  
+CE Phoenix ;osCommerce and Gary Burton ;2019-07-04 ;1.0.2.0 ;2019-08-14 ;GNU GPL ;PHP ;Bootstrap 4 ; 
+ Drupal Commerce ; Drupal Commerce ; 2011-08-23 ; Drupal Commerce version ; releasedate ; GPL ; PHP ;  ; Drupal 
+ KonaKart ; DS Data Systems UK Ltd ; dunno ; 9.0.0.0 ; 2019-08-26 ; GNU LGPL ; Java ;  ;  
+ Magento ; Varien ; 2007-08-13 ; Magento version ; releasedate ; OSL 3.0 ; PHP ; Zend Framework ;  
+rh2| Miva Merchant ; Miva, Inc. ; dunno ; 9.14 ; 2019-08-07 ; Proprietary ; MIVA Script ;  ;  
+ nopCommerce ; Nop Solutions Ltd ; 2008-10-23 ; NopCommerce version ; releasedate ; GPL ; C# ; ASP.NET MVC ;  
+ OpenCart ; OpenCart Ltd. ; 1999-05-11 ; OpenCart version ; releasedate ; GPL ; PHP ; ; 
+ osCommerce ; osCommerce ; 2000-03 ; 2.3.4.1 ; 2017-08-18 ; GNU GPL ; PHP ;  ; 
+ pimcore ; pimcore GmbH ; 2010 ; Pimcore version ; releasedate ; BSD ; PHP ; Symfony ; pimcore  
+ PrestaShop ; PrestaShop SA ; 2007-08-15 ; PrestaShop version ; releasedate ; OSL 3.0 ; PHP ; Model-View-Controller ;  
+rh2| Shopify ; Shopify ; 2006 ; Continuous/SAAS ; Continuous/SAAS ; Proprietary ; Ruby ; Ruby on Rails ;  
+ Spree Commerce ; Sean Schofield ; 2007 ; Spree Commerce version ; releasedate ; BSD ; Ruby ; Ruby on Rails ;   
+rh2| SupaDupa ; SupaDupa ; dunno ; Continuous/SAAS ; Continuous/SAAS ; Proprietary ; Ruby ; Ruby on Rails ; 
+rh2| uCoz ; uCoz Media ; dunno ; Continuous/SAAS ; Continuous/SAAS ; Proprietary ; Perl ;  ; 
+ VirtueMart ; Max Milbers and Team ; dunno ; VirtueMart version ; releasedate ; GPL ; PHP ;  ; Mambo or Joomla! 
+ WooCommerce ; WooThemes ; 2011 ; 3.8.1 ; 2019-11-27 ; GPL ; PHP ; ; WordPress 
+ Zen Cart ; Zen Ventures ; 2003-06 ; Zen Cart version ; releasedate ; GPL ; PHP ;  ;  
+ ;Creator ;First release date ;Latest stable version ;Latest release date ;License ;Language ;Web application framework ;CMS extension 

@@ -1,0 +1,10 @@
+ Name ; Tail-Call Optimization ; Choice Point Elimination ; Environment Trimming ; Just-in-Time Indexing 
+rh|Ciao ; Yes ; Yes ; Yes ; ? 
+rh|ECLiPSe ; Yes ; Yes ; Yes ; multi-argument (compile time)  
+rh|GNU Prolog ; Yes ; Yes ; Yes ; ? 
+rh|Jekejeke Prolog ; Yes (runtime) ; Yes (runtime) ; Yes (runtime) ; Yes 
+rh|SICStus Prolog ; Yes ; Yes ; Yes ;  
+rh|SWI-Prolog ; Yes ; Yes ; Yes ; Yes 
+rh|Visual Prolog ; Yes (compile time) ; Yes (compile time) ; n/a ; N/A (compile time)  
+rh|XSB ; Yes ; Yes ; Yes ; ? 
+rh|YAP-Prolog ; Yes ; Yes ; Yes ; Yes 

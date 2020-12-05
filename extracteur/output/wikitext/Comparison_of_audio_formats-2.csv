@@ -1,0 +1,40 @@
+ Audio compression format ; ACM ; DirectShow ; QuickTime ; GStreamer ; FFmpeg ; Media Foundation 
+ 8SVX ; Yes (ffdshow) ; Yes (ffdshow) ; Yes (Perian) ; Yes (GStreamer FFmpeg plug-in) ; yes ; Yes (ffdshow) 
+ AAC ; Yes  ; Yes (ffdshow, Monogram) ; yes ; Yes (GStreamer FFmpeg plug-in) ; yes ; Yes  
+ AC3 ; Yes ; Yes (ffdshow) ; Yes (Perian) ; Yes (GStreamer FFmpeg plug-in) ; yes ; yes 
+ ALS ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ AMR ; no ; no ; Yes About QuickTime 6.3 (Apple Knowledge Base), In QuickTime 6.3 the AMR codec is natively supported and the .AMR file format supported with the free-to-download 3GPP Component, Retrieved 2012-12-11 Media formats supported by QuickTime Player in Mac OS X 10.6.x (Apple Knowledge Base), "Media formats and codecs that QuickTime Player can play back in Mac OS X v10.6.x or later" AMR is listed both under "File formats" and "Codecs or components", Retrieved 2012-12-11 ; Yes (GStreamer Ugly Plug-ins) ; yes ; yes 
+ ALAC ; Yes ; Yes (ffdshow) ; Yes ; Yes (GStreamer FFmpeg plug-in) ; yes ; yes 
+ aptX ; dunno ; dunno ; dunno ; dunno ; yes ; dunno 
+ ATRAC3 ; Yes (ffdshow) ; Yes (ffdshow) ; Yes (Perian) ; Yes (GStreamer FFmpeg plug-in) ; yes ; Yes (ffdshow) 
+ ATRAC3plus ; no ; no ; no ; no ; yes ; Yes (ffdshow) 
+ CELT ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ Cook Codec ; Yes (ffdshow) ; Yes (ffdshow) ; Yes (Perian) ; Yes (GStreamer FFmpeg plug-in) ; yes ; Yes (ffdshow) 
+ DCA aka DTS ; Yes (ffdshow) ; Yes (ffdshow) ; Yes (Perian) ; Yes (GStreamer FFmpeg plug-in) ; yes ; Yes (ffdshow) 
+ DTS-HD ; Yes (ffdshow) ; Yes (ffdshow) ; Yes (Perian) ; Yes (GStreamer FFmpeg plug-in) ; yes ; Yes (ffdshow) 
+ E-AC-3 ; Yes ; Yes (ffdshow) ; Yes (Perian) ; Yes (GStreamer FFmpeg plug-in) ; yes ; yes 
+ FLAC ; yes  ; Yes (ffdshow) ; Yes (Perian) ; Yes (GStreamer Base Plug-ins, GStreamer FFmpeg plug-in) ; yes ; yes 
+ HE-AAC ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ Monkey's Audio ; Yes (ffdshow) ; Yes (ffdshow) ; Yes (Perian) ; Yes (GStreamer FFmpeg plug-in) ; yes ; Yes (ffdshow) 
+ WavPack ; Yes (ffdshow) ; Yes (ffdshow) ; Yes (Perian) ; Yes (GStreamer FFmpeg plug-in) ; yes ; Yes (ffdshow) 
+ Shorten ; Yes (ffdshow) ; Yes (ffdshow) ; Yes (Perian) ; Yes (GStreamer FFmpeg plug-in) ; yes ; Yes (ffdshow) 
+ Sonic Audio ; Yes (ffdshow) ; Yes (ffdshow) ; Yes (Perian) ; Yes (GStreamer FFmpeg plug-in) ; yes ; Yes (ffdshow) 
+ MP3 ; yes  ; yes ; yes ; Yes (GStreamer Ugly, GStreamer FFmpeg plug-in) ; yes ; yes 
+ RealAudio ; Yes (ffdshow) ; Yes (ffdshow) ; Yes (Perian) ; Yes (GStreamer FFmpeg plug-in, GStreamer DLL loader plugin + Binary Codec Packages) ; yes ; Yes (ffdshow) 
+ Speex ; Yes (ffdshow) ; Yes (ffdshow) ; Yes (Perian) ; Yes (GStramer Good Plug-ins, GStreamer FFmpeg plug-in) ; yes ; Yes (ffdshow) 
+ Vorbis ; Yes (ffdshow) ; Yes (ffdshow) ; Yes (Perian) ; Yes (GStreamer Base Plug-ins, GStreamer FFmpeg plug-in) ; yes ; Yes (ffdshow) 
+ La ??? ; no ; no ; no ; no ; no ; Yes (ffdshow) 
+ LPAC ; no ; no ; no ; no ; no ; Yes (ffdshow) 
+ Windows Media Audio v1 ; Yes  ; yes ; Yes (Perian) ; Yes (GStreamer FFmpeg plug-in) ; yes ; yes 
+ Windows Media Audio v2 ; Yes  ; yes ; Yes (Perian) ; Yes (GStreamer FFmpeg plug-in) ; yes ; Yes  
+ Windows Media Audio Pro ; Yes  ; yes ; Yes (Perian) ; Yes (GStreamer FFmpeg plug-in) ; yes ; Yes  
+ Windows Media Audio Lossless ; yes ; yes ; Yes (flip4mac) ; Yes (GStreamer FFmpeg plug-in) ; yes ; Yes  
+ Windows Media Audio Voice ; yes ; yes ; no ; no ; yes ; yes 
+ Musepack ; Yes (ffdshow) ; Yes (ffdshow, MonogramMonogram DS filters date=2011-09-26 , Retrieved 2009-10-22) ; Yes (Perian) ; Yes (GStreamer FFmpeg plug-in) ; yes ; Yes (ffdshow) 
+ Meridian Lossless Packing ; Yes (ffdshow) ; Yes (ffdshow) ; Yes (Perian) ; Yes (GStreamer FFmpeg plug-in) ; yes ; Yes (ffdshow) 
+ Nellymoser Asao Codec in Flash ; Yes (ffdshow) ; Yes (ffdshow) ; Yes (Perian) ; Yes (GStreamer FFmpeg plug-in) ; yes ; Yes (ffdshow) 
+ OptimFROG ; no ; no ; no ; no ; no ; Yes (ffdshow) 
+ Truespeech ; Yes  ; Yes  ; Yes (Perian) ; Yes (GStreamer FFmpeg plug-in) ; yes ; Yes (ffdshow) 
+ True Audio (TTA) ; Yes (ffdshow) ; Yes (ffdshow) ; Yes (Perian) ; Yes (GStreamer FFmpeg plug-in) ; yes ; Yes (ffdshow) 
+ QCELP ; Yes (ffdshow) ; Yes (ffdshow) ; yes ; Yes (GStreamer FFmpeg plug-in) ; yes ; Yes (ffdshow) 
+ Audio compression format ; ACM ; DirectShow ; QuickTime ; GStreamer ; FFmpeg ; Media Foundation 

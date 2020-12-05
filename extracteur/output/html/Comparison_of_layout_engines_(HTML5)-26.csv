@@ -1,0 +1,18 @@
+;Trident;EdgeHTML;Gecko;WebKit;Presto
+main element;No;12;21.0;Yes;No
+template element;No;13;No;Yes;No
+Selectors API;4.0;12;1.9.1;525;2.2
+Web Storage;4.0;12;1.9.1;525;2.5
+Indexed Database API;5.0;12;16.0;Partial;No
+Web SQL Database (obsolete);No;No;No;Yes;2.5
+File API;5.0;12;Yes;Yes;2.8
+File API: Writer;5.0;No;No;Partial;No
+File API: Directories and System;No;No;No;Yes;No
+Media Capture API;No;No;2.0;No;2.10
+Server-sent events;No;No;6.0;Yes;2.7
+WebSocket;6.0;12;11.0;533;2.11
+Web Workers;6.0;12;1.9.1;Yes;2.6
+Geolocation API;5.0;12;1.9.1;533;2.6
+Offline Web applications;6.0;12;1.9.1;Yes;2.6
+Web Notifications;No;No;22.0;only in Chrome;25
+;Trident;EdgeHTML;Gecko;WebKit;Presto

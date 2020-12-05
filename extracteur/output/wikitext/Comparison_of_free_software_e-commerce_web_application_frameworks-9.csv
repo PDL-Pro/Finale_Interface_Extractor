@@ -1,0 +1,16 @@
+ ;Multiple store fronts ;Affiliates ;API (remote management functions) ;Minimum orders ;Multiple vendor support ;Out-of-the-box shopping cart 
+ Apache OFBiz ; yes ; yes ; yes ; yes ; no ; yes 
+ Batavi ; no ; no ; no ; yes ; yes ; yes 
+ Bigcommerce ; no ; 3rd party ; yes ; yes ; yes ; yes 
+ Drupal Commerce ; yes ; yes ; yes ; yes ; yes ; yes 
+ KonaKart ; no ; no ; yes ; yes ; yes ; yes 
+ Magento ; yes ; 3rd party ; yes ; yes ; yes ; yes 
+ nopCommerce ; yes ; yes ; yes ; yes ; yes ; yes 
+ osCommerce ; no ; no ; no ; yes ; no ; yes 
+ pimcore ; yes ; yes ; yes ; yes ; yes ; no 
+ PrestaShop ; yes ; yes ; yes ; yes ; yes ; yes 
+ Shopify ; no ; yes ; yes ; yes ; yes ; yes 
+ SupaDupa ; no ; no ; no ; no ; no ; yes 
+ WooCommerce ; no ; yes ; yes ; no ; yes ; no 
+ Zen Cart ; add-on ; 3rd party ; no ; add-on ; no ; yes 
+ ;Multiple store fronts ;Affiliates ;API (remote management functions) ;Minimum orders ;Multiple vendor support ;Out-of-the-box shopping cart 

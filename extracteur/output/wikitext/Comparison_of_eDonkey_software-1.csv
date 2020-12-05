@@ -1,0 +1,25 @@
+ Client ; Client ; Play While Downloading ; PowerShare ; Dynamic Upload ; SUQWT ; SubChunk Transfer ; Drop Sources ; Push small files ; ZZ ratio ; ALeech ; IPFilter ; Slot Control 
+ rh| aMule ; rh| aMule ; yes ; yes ; UBT ; no ; no ; yes ; no ; no ; noThere's no AntiLeech for official aMule. Some users released an unofficial aMule with DLP (ref.). ; yes ; yes 
+ rh| eMule ; rh| Official ; no ; no ; USS ; no ; no ; no ; no ; no ; no ; yes ; no 
+ rh| eMule ; rh| Osp ; yes ; no ; USS ; no ; no ; no ; no ; no ; no ; yes ; no 
+ rh| eMule ; rh2| AnalyZZUL ; no ; yes ; USS ; yes ; no ; no ; no ; fixed 1:3 Ratio ; Client Analyzer ; yes ; ZZ Slot Focus 
+ rh| eMule ; rh| beba ; no ; Release Priority ; USS ; yes ; no ; yes ; no ; no ; Client Analyzer ; yes ; Slot Focus, Upload Slot Control 
+ rh| eMule ; rh| Magic Angel ; no ; yes ; SUC, USS ; yes ; no ; no ; yes ; yes ; ARGOS ; yes ; SlotFocus, trickleSlots 
+ rh| eMule ; rh| Mephisto ; no ; PS & PowerRelease ; NAFC ; yes ; no ; yes ; yes ; optional: 1:3 ratio or source limits or enforced with chooseable ratio or dynamic by friendslot ; DLP ; yes ;  Slotfocus 
+ rh| eMule ; rh| MorphXT ; no ; PowerShare & Release Priority ; SUC, USS ; yes ; no ; no ; yes ; optional: dynamic 1:3 Ratio ; Stringlist, Stricter protocol checks ; yes ; SlotFocus, trickleSlots 
+ rh| eMule ; rh| NeoMule ; no ; PowerShare & Release Priority ; USS, NAFC, NeoBC NeoBC is based on PawcioBC ; yes ; yes ; yes (including IpBlock) ; custom ; optional 1:4 Ratio ; ARGOS (including DLP support) ; yes ; SlotFocus, trickleSlots, Badwolf, manuel 
+ rh| eMule ; rh| ScarAngel ; no ; PS & PowerRelease ; NAFC ; yes ; no ; yes ; yes ; optional: 1:3 ratio or source limits or enforced with chooseable ratio ; DLP ; yes ; Xtreme Upload System 
+ rh| eMule ; rh| SharkX ; no ; Power Release ; no ; yes ; no ; yes ; Only incomplete ; taz dynamic ratio ; Client Analyzer ; yes ; Slot Focus 
+ rh| eMule ; rh| Sivka ; no ; Release priority ; USS ; no ; no ; Yes (incl. List) ; yes ; no ; no ; yes ; yes 
+ rh| eMule ; rh| Spike2 ; no ; yes ; USS ; no ; no ; Yes (incl. List) ; no ; no ; Stringlist + Client Analyzer ; yes ; Slotfocus, Min/Max. Slots 
+ rh| eMule ; rh| StulleMule ; no ; yes ; SUC, USS ; yes ; no ; Yes (incl. List) ; yes ; dynamic 1:3 Ratio or enforced choosable ratio ; DLP methods ; yes ; USC, Slotfocus 
+ rh| eMule ; rh| Xtreme ; no ; PowerRelease ; NAFC ; no ; no ; yes ; yes ; optional: 1:3 ratio or source limits ; DLP ; yes ; Xtreme Upload System 
+ rh| eMule ; rh| X-Ray ; no ; yes ; USS ; yes ; no ; List+Variable Blocktime ; no ; no ; Argos (with own DLP) ; yes ; Slotspeed 
+ rh| eMule ; rh| ZZUL ; no ; yes ; USS ; no ; no ; no ; no ; fixed 1:3 Ratio ; no ; yes ; SlotFocus 
+ rh| eMule ; rh| ZZUL BastarD ; no ; PowerShare, SuperRelease ; USS ; yes ; no ; no ; yes ; fixed 1:3 Ratio ; Stringlist + Client Analyzer for Armadillo ; yes ; SlotFocus 
+ rh| eMule Plus ; rh| eMule Plus ; no ; Release priority, JumpStart ; no ; no ; no ; no ; yes ; 1:3 < 4KB/s, 1:4 < 10KB/s ; yes ; yes ; trickleSlots 
+ rh2| Lphant ; rh2| Lphant ; no ; dunno ; no ; dunno ; Basic Support for Crumbs ; dunno ; dunno ; no ; no ; yes ; dunno 
+ rh| MLDonkey ; rh| MLDonkey ; no ; Folder reserved slot + release file slot ; yes ; no (No queue) ; no ; Uses a very low priority list instead ; Similar Feature ; About 1:4 below 10KB/s ; no ; yes ; yes (user selects number of slots)  
+ rh| Shareaza ; rh| Shareaza ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; Reward uploaders ; yes ; yes 
+ rh2| xMule ; rh2| xMule ; no ; no ; no ; no ; no ; no ; no ; no ; no ; yes ; no 
+ Client ; Client ; Play While Downloading ; PowerShare (eMule) ; Dynamic Upload ; SUQWT ; SubChunk Transfer ; Drop Sources ; Push Small files ; ZZ Ratio ; ALeech ; IPFilter ; Slot Control 

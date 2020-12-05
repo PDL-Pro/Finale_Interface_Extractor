@@ -1,0 +1,22 @@
+ ; ; Trident ; Tasman ; Gecko ; WebKit ; KHTML ; Presto 
+ rh| Interface StyleSheet ; rh| Interface StyleSheet ; rh| Interface StyleSheet ; rh| Interface StyleSheet ; rh| Interface StyleSheet ; rh| Interface StyleSheet ; rh| Interface StyleSheet ; rh| Interface StyleSheet 
+ DOM2 ; type ; 6.0 ; ? ; 1.0 ; rowspan="7" yes ; ? ; 2.0 
+ DOM2 ; disabled ; 6.0 ; ? ; 1.0 ; ? ; 2.0 
+ DOM2 ; ownerNode ; no ; ? ; 1.0 ; ? ; 2.0 
+ DOM2 ; parentStyleSheet ; 6.0 ; ? ; 1.0 ; ? ; 2.0 
+ DOM2 ; href ; 8.0 ; ? ; 1.0 ; ? ; 2.0 
+ DOM2 ; title ; 6.0 ; ? ; 1.0 ; ? ; 2.0 
+ DOM2 ; media ; Incorrect ; ? ; 1.0 ; ? ; 2.0 
+ rh| Interface StyleSheetList ; rh| Interface StyleSheetList ; rh| Interface StyleSheetList ; rh| Interface StyleSheetList ; rh| Interface StyleSheetList ; rh| Interface StyleSheetList ; rh| Interface StyleSheetList ; rh| Interface StyleSheetList 
+ DOM2 ; length ; 6.0 ; ? ; 1.0 ; rowspan="2" yes ; ? ; 2.0 
+ DOM2 ; item() ; 6.0 ; ? ; 1.0 ; ? ; 2.0 
+ rh| Interface MediaList ; rh| Interface MediaList ; rh| Interface MediaList ; rh| Interface MediaList ; rh| Interface MediaList ; rh| Interface MediaList ; rh| Interface MediaList ; rh| Interface MediaList 
+ DOM2 ; mediaText ; rowspan="5" no ; ? ; 1.0 ; rowspan="5" yes ; ? ; 2.0 
+ DOM2 ; length ; ? ; ? ; 1.0 ; 2.0 
+ DOM2 ; item() ; ? ; ? ; 1.0 ; 2.0 
+ DOM2 ; deleteMedium() ; ? ; ? ; 1.0 ; 2.0 
+ DOM2 ; appendMedium() ; ? ; ? ; 1.0 ; 2.0 
+ rh| Interface LinkStyle ; rh| Interface LinkStyle ; rh| Interface LinkStyle ; rh| Interface LinkStyle ; rh| Interface LinkStyle ; rh| Interface LinkStyle ; rh| Interface LinkStyle ; rh| Interface LinkStyle 
+ DOM2 ; sheet ; no ; ? ; 1.0 ; no ; ? ; 2.0 
+ rh| Interface DocumentStyle ; rh| Interface DocumentStyle ; rh| Interface DocumentStyle ; rh| Interface DocumentStyle ; rh| Interface DocumentStyle ; rh| Interface DocumentStyle ; rh| Interface DocumentStyle ; rh| Interface DocumentStyle 
+ DOM2 ; styleSheets ; no ; ? ; 1.0 ; no ; ? ; 2.0 

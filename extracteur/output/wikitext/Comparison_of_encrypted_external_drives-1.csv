@@ -1,0 +1,16 @@
+ Name ; Windows ; FreeBSD ; Linux ; Mac OS ; NetBSD ; OpenBSD 
+Rh| SafeStick ; yes  ; no  ; yes  ; yes  ; no  ; no  
+Rh| SafeStick SuperSonic ; yes  ; no  ; yes  ; yes  ; no  ; no  
+Rh| IronKey S100 ; yes ; no ; yes ; yes ; no ; no 
+Rh| IronKey S200 ; yes ; no ; yes ; yes ; no ; no 
+Rh| IronKey D200 ; yes ; no ; yes ; yes ; no ; no 
+Rh| CryptX2 ; yes ; yes ; yes ; yes ; yes ; yes 
+Rh| DataTraveler 5000 ; yes  ; no  ; no  ; no  ; no  ; no  
+Rh| DataTraveler Locker+ ; yes  ; no  ; no  ; yes  ; no  ; no  
+Rh| DataTraveler Vault ; yes  ; no  ;Public partition only ; Public partition only ; no  ; no  
+Rh| DataTraveler Vault – Privacy Edition ; yes  ; no  ; no  ; yes  ; no  ; no  
+Rh| JumpDrive SecureII Plus ; yes  ; unk  ; unk  ; unk  ; unk  ; unk  
+Rh| IronClad ; yes ; no ; yes ; yes ; no ; no 
+Rh| Cruzer Enterprise ; yes  ; unk  ; unk  ; yes  ; unk  ; unk  
+Rh| Store n' Go Corporate ; yes  ; unk  ; unk  ; unk  ; unk  ; unk  
+ Name ; Windows ; FreeBSD ; Linux ; Mac OS ; NetBSD ; OpenBSD 

@@ -1,0 +1,30 @@
+ ; Trident ; EdgeHTML ; Gecko ; WebKit ; Presto  
+ section ; 5.0publisher=Microsoft ; 12 ; 2.0publisher=Mozillapublisher=Mozilla ; 533publisher=WebKitpublisher=WebKitpublisher=WebKitpublisher=WebKitpublisher=WebKitpublisher=WebKit ; 2.7.70 
+ nav ; 5.0publisher=Microsoft ; 12 ; 2.0publisher=Mozillapublisher=Mozilla ; 533publisher=WebKitpublisher=WebKitpublisher=WebKitpublisher=WebKitpublisher=WebKitpublisher=WebKit ; 2.7.70 
+ article ; 5.0publisher=Microsoft ; 12 ; 2.0publisher=Mozillapublisher=Mozilla ; 533publisher=WebKitpublisher=WebKitpublisher=WebKitpublisher=WebKitpublisher=WebKitpublisher=WebKit ; 2.7.70 
+ aside  ; 5.0publisher=Microsoft ; 12 ; 2.0publisher=Mozillapublisher=Mozilla ; 533publisher=WebKitpublisher=WebKitpublisher=WebKitpublisher=WebKitpublisher=WebKitpublisher=WebKit ; 2.7.70 
+ hgroup ; 5.0publisher=Microsoft ; 12 ; 2.0publisher=Mozillapublisher=Mozilla ; 533publisher=WebKitpublisher=WebKitpublisher=WebKitpublisher=WebKitpublisher=WebKitpublisher=WebKit ; 2.7.70 
+ header ; 5.0publisher=Microsoft ; 12 ; 2.0publisher=Mozillapublisher=Mozilla ; 533publisher=WebKitpublisher=WebKitpublisher=WebKitpublisher=WebKitpublisher=WebKitpublisher=WebKit ; 2.7.70 
+ footer  ; 5.0publisher=Microsoft ; 12 ; 2.0publisher=Mozillapublisher=Mozilla ; 533publisher=WebKitpublisher=WebKitpublisher=WebKitpublisher=WebKitpublisher=WebKitpublisher=WebKit ; 2.7.70 
+ ping ; no ; no ; Disabled ; yes ; no  
+ time ; no ; no ; 22.0publisher=Mozilla ; no ; 2.8.146  
+ mark ; 5.0 ; 12 ; 2.0publisher=Mozilla ; yespublisher=WebKit ; 2.7.70 
+ ruby,publisher=HTML5 Doctor rt, rp ; 3.1title=Ruby ; 12 ; 38.0accessdate=3 December 2014 ; 533publisher=WebKiturl-status=dead   ; No  
+ dialog ; no ; no ; nopublisher=Mozilla ; Only in Chromepublisher=WebKit ; no 
+ figure ; 5.0 ; 12 ; 2.0publisher=Mozilla ; rowspan="2" Yespublisher=WebKit ; 2.7.70 
+ figcaption  ; 5.0 ; 12 ; 2.0publisher=Mozilla ; 2.7.70 
+ embed ; 3.0 ; 12 ; 1.7 ; 85 ; 1.0  
+ video ; 5.0 (Partial)publisher=ZDNetpublisher=Microsoft ; 12 ; 15.0publisher=Mozilla ; 525 ; 2.51=Beginning in 2007,work=Opera several experimental builds have been released with Ogg Theora support. Full support for the video element is included in Presto 2.5.archiveurl= January 20101=Presto added very limited support for the ECMAScript API related to the audio element in version 2.0 using only the WAV PCM codec, while not implementing the element itself.url-status=dead  Full support for the audio element with the Ogg Vorbis and WAV codecs is included in Presto 2.5. 
+ audio ; 5.0 (Partial)publisher=ZDNetpublisher=Microsoft ; 12 ; 15.0publisher=Mozilla ; 525 ; 2.51=Beginning in 2007,work=Opera several experimental builds have been released with Ogg Theora support. Full support for the video element is included in Presto 2.5.archiveurl= January 20101=Presto added very limited support for the ECMAScript API related to the audio element in version 2.0 using only the WAV PCM codec, while not implementing the element itself.url-status=dead  Full support for the audio element with the Ogg Vorbis and WAV codecs is included in Presto 2.5. 
+ source ; 5.0 (Partial)publisher=ZDNetpublisher=Microsoft ; 12 ; 15.0publisher=Mozilla ; 525 ; 2.51=Beginning in 2007,work=Opera several experimental builds have been released with Ogg Theora support. Full support for the video element is included in Presto 2.5.archiveurl= January 20101=Presto added very limited support for the ECMAScript API related to the audio element in version 2.0 using only the WAV PCM codec, while not implementing the element itself.url-status=dead  Full support for the audio element with the Ogg Vorbis and WAV codecs is included in Presto 2.5. 
+ canvas ; 5.0 (Partial)publisher=ZDNetpublisher=Microsoft ; Partial ; 1.9.2publisher=Mozilla ; Partial ; 2.0url-status=dead   
+ Inline MathML ; No ; No ; 2.0 ; Nopublisher=WebKit ; 2.11=MathML for CSS, XHTML onlyarchiveurl= October 2008 
+ Inline SVG ; 5.0 ; 12 ; 2.0 ; yes ; 2.9.220work=Opera  
+ details ; rowspan="5" No ; rowspan="5" No ; 47publisher=Mozilla ; yespublisher=WebKit ; rowspan="3" No 
+ summary ; yes ; 47publisher=Mozilla 
+ command ; Nopublisher=Mozilla ; No 
+ menu ; 8.0publisher=Mozilla ; Nopublisher=WebKit ; 2.8work=Opera 
+ bdi ; 10.0publisher=Mozilla ; 528publisher=WebKit ; No 
+ data ; no ; no ; 22.0publisher=Mozilla ; no ; no 
+ picture ; no ; 13 ; 38.0publisher=Mozilla ; nopublisher=WebKit ; no 
+ ; Trident ; EdgeHTML ; Gecko ; WebKit ; Presto 

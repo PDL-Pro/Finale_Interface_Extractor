@@ -1,0 +1,31 @@
+Software;Passworded;Networking;Networking
+Software;Passworded;User-specific permissions;Simultaneous write access
+Bebop;No;N/A;N/A
+BibBase;N/A;N/A;N/A
+BibDesk;Yes;No;No
+Biblioscape;Yes;Yes;Yes
+BibSonomy;Yes;Yes;Yes
+Bibus;?;?;?
+Bookends;?;?;?
+Citavi;Yes;Yes;Yes
+CiteULike;Yes;No;Yes
+colwiz;Yes;Yes;Yes
+EndNote;Yes;No;No
+JabRef;No;No;Partial
+KBibTeX;No;N/A;N/A
+Mendeley;Yes;Yes;Yes
+Paperpile;Yes;Yes;Yes
+Pybliographer;?;?;?
+Qiqqa;Yes;Yes;Yes
+ReadCube (now Papers);Yes;Yes;Yes
+refbase;Yes;Yes;Yes
+RefDB;Yes;Yes;Yes
+Reference Manager;Yes;No;Yes
+Referencer;?;?;?
+RefME;?;?;?
+RefWorks;Yes;?;Yes
+SciRef;?;?;?
+Sente;Yes;Yes;Yes
+Wikindx;Yes;Yes;Yes
+WizFolio;Yes;Yes;Yes
+Zotero;Yes;Yes;Yes

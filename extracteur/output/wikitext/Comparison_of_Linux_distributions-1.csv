@@ -1,0 +1,70 @@
+ Distribution ; Default Linux kernel ; Default file system ; Default init system ; Install-time desktop environment or window manager selection ; Reproducible builds 
+ Rh| Alpine Linux ; Binary blobs ; ext4 ; openrc ; no2 none ; In progressReproducible alpine continuous tests 
+ Rh| ALT Linux ; Binary blobs ; ext3 ; systemd ; KDE Plasma Workspaces, Xfce ; no 
+ Rh| Arch Linux ; Binary blobs{{cite web|url= ; none ; systemd ; no2 none ; In progress- Arch Linux WikiReproducible builds progress report #2 and package rebuilders 
+ Rh| BLAG ; Linux-libre ; ext3 ; sysvinit ; GNOME ; no 
+ Rh| Bodhi Linux ; Binary blobs ; ext4 ; systemd ; Moksha (Enlightenment fork) ; no 
+ Rh| Canaima ; Binary blobs ; dunno ; systemd ; Cinnamon and MATE ; no 
+ Rh| CentOS ; Binary blobs ; xfs ; systemd ; GNOME ; no 
+ Rh| Chakra ; Binary blobs ; ext4 ; systemd ; KDE Plasma Workspaces ; no 
+ Rh| ClearOS ; Binary blobs ; ext3 ; systemd ; No2 none (Web based) ; no 
+ Rh| CoreOS ; Binary blobs ; ext4 ; systemd ; None ; no 
+ Rh| CrunchBang Linux ; Binary blobs ; ext4 ; sysvinit ; Openbox ; no 
+ Rh| Damn Small Linux ; Binary blobs ; ext3 ; sysvinit ; JWM ; no 
+ Rh| Debian ; By default Linux-libre, but the Debian Project also hosts a non-free repository allowing blobs to be installed optionally. Built with Linux-libre tools. ; ext4 ; systemd ; GNOME, KDE, Xfce, LXDE ; In progressReproducibleBuilds - DebianToward a fully reproducible Debian 
+ Rh| Devuan ; Binary blobs ; ext4 ; sysvinit ; Xfce ; no 
+ Rh| Dragora GNU/Linux-Libre ; Linux-libre ; ext4 ; runit ; Xfce ; no 
+ Rh| dyne:bolic ; Linux-libre ; dunno ; systemd ; GNOME ; no 
+ Rh| Fedora ; Binary blobs ; ext4 ; systemd ; GNOME (default Workstation Edition), Spins for: KDE Plasma Workspaces, Xfce, LXDE, MATE (with Compiz), Cinnamon, Sugar on a Stick ; In progressReproducible Builds for Fedora 
+ Rh| Funtoo ; Binary blobs ; none ; openrc ; None ; no 
+ Rh| Gentoo ; Binary blobs ; none ; openrc ; Awesome, Enlightenment, Fluxbox, GNOME, KDE, LXDE-Meta, Openbox, XBMC and Xfce (live DVD) ; no 
+ Rh| gNewSense ; Debian Linux kernel, and (unlike Debian) blobs cannot be installed ; ext3 ; sysvinit ; GNOME ; no 
+ Rh| Guix System ; Linux-libre, Hurd (in progress) ; btrfs, ext4 ; GNU Shepherd ; GNOME, Xfce, Mate, Enlightenment, i3, ratpoison, xmonad ; In progressQuick reproducible test for GNU GuixReproducible builds: a status update 
+ rh| Hyperbola GNU/Linux-libre ; Linux-libre ; none ; openrc{{cite web|title=End of systemd support|publisher=Hyperbola Project|date=2017-08-05|access-date=2018-12-07|url= ; none ; no 
+ Rh| Kali Linux ; Binary blobs ; ext3 ; systemd ; GNOME ; no 
+ Rh| Knoppix ; Binary blobs ; xfs ; microknoppix ; LXDE ; no 
+ Rh| LibreCMC ; Binary blobs ; ext4 ; busybox-init ; No2 none ; no 
+ Rh| Linux Mint ; Binary blobs ; ext4 ; systemd ; MATE, Cinnamon, KDE 4, XFCE ; no 
+ Rh| Mageia ; Binary blobs ; ext4 ; systemd ; KDE Plasma Workspaces, GNOME ; no 
+ Rh| Mandriva Linux ; Binary blobs ; ext4 ; systemd ; KDE Plasma Workspaces ; no 
+ Rh| Manjaro Linux ; Binary blobs ; none ; systemd ; Xfce, KDE, GNOME  ; no 
+ Rh| MEPIS ; Binary blobs ; ext3, ext4 ; sysvinit ; KDE Plasma Workspaces ; no 
+ Rh| Musix GNU+Linux{{cite web|url= Packages|accessdate=2015-11-28|url-status=dead|archiveurl= ; Linux-libre ; ext4 ; initscripts ; LXDE ; no 
+ Rh| OpenELEC ; Binary blobs ; SquashFS ; shell script ; XBMC Media Center ; no 
+ Rh| openSUSE ; Binary blobs ; btrfs ; systemd ; KDE Plasma Workspaces, GNOME, Xfce ; In progressopenSUSE:Reproducible Builds 
+ Rh| OpenWrt ; Binary blobs ; overlayfs+SquashFS/JFFS2 ; procd ; no2 none ; In progressReproducible OpenWrt continuous tests 
+ Rh| Parabola GNU/Linux-libre ; Linux-libre ; none ; openrc or systemd ; no2 none ; no 
+ Rh| Pardus ; Binary blobs ; ext4 ; systemd ; KDE Plasma Workspaces ; no 
+ Rh| Parsix ; Binary blobs ; ext4 ; systemd ; GNOME ; no 
+ Rh| PCLinuxOS ; Binary blobs ; none ; sysvinit ; KDE Plasma Workspaces, GNOME, LXDE, Xfce, Enlightenment, Openbox ; no 
+ Rh| Pentoo ; Binary blobs ; SquashFS ; openrc ; Enlightenment ; no 
+ Rh| Porteus ; Binary blobs ; Squashfs, ext2, ext3, ext4, FAT32, reiser, xfs ; sysvinit ; KDE, LXDE, Xfce, Openbox, Razor-qt ; no 
+ Rh| Puppy Linux ; Binary blobs ; SquashFS containing ext2 ; busybox-init ; JWM ; no 
+ Rh| Red Hat Enterprise Linux ; Binary blobs ; xfs ; systemd ; GNOME ; no 
+ Rh| Rxart Desktop ; Binary blobs ; ext3 ; dunno ; KDE Plasma Workspaces ; no 
+ Rh| Sabayon Linux ; Binary blobs ; ext4 ; systemd ; KDE Plasma Workspaces, GNOME ; no 
+ Rh| Scientific Linux ; Binary blobs ; ext4 ;sysvinit, systemdPrior to v7.0, Scientific Linux used sysvinit. Since v7.0, it uses systemd.  ; GNOME ; no 
+ Rh| Slackware ; Binary blobs ; ext4, ext3, ext2, reiserfs, brtfs, xfs ; RC.d and sysvinit compatibile ; KDE, XFCE Fluxbox, Blackbox, fvwm2 twm ; no 
+ Rh| Slax ; Binary blobs ; SquashFS ; sysvinit ; KDE Plasma Workspaces ; no 
+ Rh| SliTaz GNU/Linux ; Binary blobs ; ext3 ; busybox-init ; Openbox ; no 
+ Rh| Solus ; Binary blobs ; ext4 ; systemd ; Budgie, Gnome, MATE ; no 
+ Rh| Source Mage GNU/Linux ; Binary blobs ; ext2 ; simpleinit-msb ; no2 none ; no 
+ Rh| SteamOS ; Binary blobs ; dunno ; systemd ; Steam ; no 
+ Rh| SUSE Linux Enterprise Desktop ; Binary blobs ; btrfs ; systemd ; GNOME ; no 
+ Rh| Tails ; Vanilla Linux ; dunno ; systemd ; GNOME ; Reproducible ISO and USB imagesHave your cake and eat it, too!Verifying a Tails image for reproducibility 
+ Rh| Trisquel ; Linux-libre ; ext4, xfs ; systemd ; GNOME, LXDE ; no 
+ Rh| TurnKey GNU/Linux ; Binary blobs ; ext4 ; systemd ; none - headless server by design, provides Webmin for administration ; no 
+ Rh| Ubuntu/Edubuntu ; Binary blobs ; ext4 ; systemd ; Unity ; no 
+ Rh| Ubuntu GNOME ; Binary blobs ; ext4 ; systemd ; GNOME 3 ; no 
+ Rh| Ubuntu MATE ; Binary blobs ; ext4 ; systemd ; MATE ; no 
+ Rh| Kubuntu ; Binary blobs ; ext4 ; systemd ; KDE Plasma Workspaces ; no 
+ Rh| Xubuntu ; Binary blobs ; ext4 ; systemd ; Xfce ; no 
+ Rh| Lubuntu ; Binary blobs ; ext4 ; systemd ; LXQt ; no 
+ Rh| Ututo ; {{Free|Ututo XS (stable) is de-blobbed with Linux-libre tools. ; ext3 ; systemd ; GNOME ; no 
+ Rh| VectorLinux ; Binary blobs ; ReiserFS ; sysvinit ; KDE, Openbox, Fluxbox, IceWM, Xfce ; no 
+ Rh| Void Linux ; Binary blobs ; none ; runit ; no2 none ; no 
+ Rh| Webconverger ; Binary blobs ; gitfs ; sysvinit ; dwm enforcing a Browser-only interface ; no 
+ Rh| XBMC Live ; Binary blobs ; ext3 ; systemd ; XBMC Media Center ; no 
+ Rh| Zentyal ; Binary blobs ; ext4 ; systemd ; LXDE ; no 
+ Rh| Zenwalk ; Binary blobs ; ext4 ; sysvinit ; Xfce ; no 
+ Distribution ; Default Linux kernel ; Default file system ; Default init system ; Install-time desktop environment or window manager selection ; Reproducible builds 

@@ -1,0 +1,10 @@
+ Country ; Engine ; Thrust (vac.) ; Stage ; Cycle ; Active ; Status 
+ JPN ; LE-5 cryogenic engine ;LE-5 — 102.9----------LE-5A — kN----------LE-5B — 121.5 kN; Upper stage ; 5 — Gas generator5A and 5B — Expander ; 1986 — present ; In service 
+ JPN ; LE-7 cryogenic engine ;LE-7 — 1078----------LE-7A — kN 1074; Booster ; Staged combustion ; 1994 — present ; In service 
+ CHN ; YF-73 cryogenic engine ; 44.15 kN; Upper stage ; Gas generator ; 1987-2000 ; Retired 
+ CHN ; YF-75 cryogenic engine ; 78.45 kN; Upper stage ; Gas generator ; 1994 — present ; In service 
+ CHN ; YF-75D cryogenic engine ; 88.26 kN; Upper stage ; Expander ; 2016 — present ; In service 
+ CHN ; YF-77 cryogenic engine ; 700 kN; Booster ; Gas generator ; 2016 — present ; In service 
+ IND ; CE-7.5 cryogenic engine ; 73.5 kN; Upper stage ; Staged combustion ; 2014 — present ; In service 
+ IND ; CE-20 cryogenic engine ; 200 kN; Upper stage ; Gas-generator ; 2017 — present ; In service 
+ IND ; SCE-200 semi-cryogenic engine ; 2030 kN; Booster ; Staged combustion ; After 2022 ; Under development 

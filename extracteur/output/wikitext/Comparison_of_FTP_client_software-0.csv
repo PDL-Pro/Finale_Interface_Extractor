@@ -1,0 +1,14 @@
+ Client ; Creator ; First public release date ; Latest stable version ; Software license ; Copy files over 2 GB limitubuntuforums.org: 2007, 2GB data transfer limitation? Quote: "...The common 2 GB limit is actually a bug in many FTP clients. If he is using Windows, try the latest FileZilla...", kernel.org: FAQ: I can't download a file with size greater than 2GB, is your website broken?, Comparison of file systems#Limits ; Interface 
+ rh| cURL ; Daniel Stenberg ; 1998 ; Latest stable software release/cURL ; MIT ; yes ; CLI 
+ rh| Cyberduck ; David V. Kocher ; 2001 ; 7.2.5 01 ; GPL ; yes ; GUI and CLI 
+ rh| FAR Manager ; Eugene Roshal / FAR Group ; 1996 ; mf=y ; BSD ; yes ; TUI 
+ rh| *FileZilla ; Community ; 2001 (January) ; Latest stable software release/FileZilla ; GPL ; yes ; GUI 
+ rh| FireFTP ; Mime Čuvalo ; 2004 (September) ; Latest stable software release/FireFTP ; MPL1.1, Charityware ; Yes (since version 2.0.5) ; Waterfox, Firefox pre-version 57 addon 
+ rh| Fugu ; University of Michigan Research Systems Unix Group ; 2003 ; 1.2.0 02 ; BSD ; dunno ; GUI 
+ rh| gFTP ; Brian Masney ; 1998 ; 2.0.19 30 ; GPL ; Yes ; GTK+ 
+ rh| lftp ; Alexander V. Lukyanov ; 1996 (August) ; Latest stable software release/lftp ; GPL ; yes ; CLI 
+ rh| Macfusion ; Michael Gorbach ; 0 ? ; 2.0.4 ; BSD ; dunno ; GUI 
+ rh| NcFTP ; NcFTP Software Inc. ; 1991 ; 3.2.6  27 ; Clarified Artistic License ; yes ; CLI 
+ rh| net2ftp ; David C. Gartner ; 2003 (January) ; 0.98 01 ; GPL ; dunno ; Web application 
+ rh| tnftp ; Luke Mewburn ; 1999 ; 20151004 04 ; BSD ; yes ; CLI 
+ rh| WinSCP ; Martin Přikryl ; 2000 ; Latest stable software release/WinSCP ; GPL ; yes ; GUI and CLI 

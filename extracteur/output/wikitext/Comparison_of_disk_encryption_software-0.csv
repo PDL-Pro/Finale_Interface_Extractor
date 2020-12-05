@@ -1,0 +1,79 @@
+ Name ; Developer ; First released ; Licensing ; Maintained? 
+Rh| Aloaha Crypt Disk ; Aloaha ; 2008 ; Open source ; yes 
+Rh| ArchiCrypt Live ; Softwaredevelopment Remus ArchiCrypt ; 1998 ; Proprietary ; yes 
+Rh| BestCrypt ; Jetico ; 1993 ; Proprietary ; yes 
+Rh| BitArmor DataControl ; BitArmor Systems Inc. ; 2008-05 ; Proprietary ; yes 
+Rh| BitLocker ; Microsoft ; 2006 ; Proprietary ; yes 
+Rh| Bloombase Keyparc ; Bloombase ; 2007 ; Proprietary ; no{{cite web|publisher=Bloombase|title=Keyparc - Free Encryption for Everyone|url= 
+Rh| Boxcryptor ; Secomba GmbH ; 2011 ; Proprietary ; yes 
+Rh| CGD ; Roland C. Dowdeswell ; 2002-10-04 ; BSD ; yes 
+Rh| CenterTools DriveLock ; CenterTools ; 2008 ; Proprietary ; yes 
+Rh| Check Point Full Disk Encryption ; Check Point Software Technologies Ltd ; 1999Company and product name change to Pointsec  ; Proprietary ; yes 
+Rh| CipherShed ; CipherShed Project ; 2014 ; TrueCrypt License Version 3.0 ; no 
+Rh| CrossCrypt ; Steven Scherrer ; 2004-02-10 ; GPL ; no 
+Rh| CryFS ;Sebastian Messmer ;2015 ; LGPLv3 ; yes 
+Rh| Cryhod ;Prim'X Technologies ;2010 ; Proprietary ; yes 
+Rh| Cryptainer ; Cypherix Software ; 1999 ; Proprietary ; yes 
+Rh| Cryptic Disk ; Exlade ; 2003 ; Proprietary ; yes 
+Rh| CryptArchiver ; WinEncrypt ; dunno ; Proprietary ; yes 
+Rh| Cryptoloop ; dunno ; 2003-07-02Initial cryptoloop patches for the Linux 2.5 development kernel:  ; GPL ; no 
+Rh| Cryptomator ; Skymatic UG (haftungsbeschränkt) ; 2016-03-09 ; GPLv3 ; yes 
+Rh| CryptoPro Secure Disk Enterprise ; cpsd it-services GmbH ; 2010 ; Proprietary ; yes 
+Rh| CryptoPro Secure Disk for BitLocker ; cpsd it-services GmbH ; 2012 ; Proprietary ; yes 
+Rh| CryptSync ; Stefan Küng ; 2012 ; Gpl v2 ; yes 
+Rh| Discryptor ; Cosect Ltd. ; 2008 ; Proprietary ; no 
+Rh| DiskCryptor ; ntldr ; 2007 ; GPL ; yes 
+Rh| DISK Protect ; Becrypt Ltd ; 2001 ; Proprietary ; yes 
+Rh| Cryptsetup / Dmsetup ; Christophe Saout ; 2004-03-11dm-crypt was first included in Linux kernel version 2.6.4:  ; GPL ; yes 
+Rh| Dm-crypt / LUKS ; Clemens Fruhwirth (LUKS) ; 2005-02-05 ; GPL ; yes 
+Rh| DriveCrypt ; SecurStar GmbH ; 2001 ; Proprietary ; yes 
+Rh| DriveSentry GoAnywhere 2 ; DriveSentry ; 2008 ; Proprietary ; No 
+Rh| E4M ; Paul Le Roux ; 1998-12-18 ; Open source ; no 
+Rh| e-Capsule Private Safe ; EISST Ltd. ; 2005 ; Proprietary ; yes 
+Rh| eCryptfs ; Dustin Kirkland, Tyler Hicks, (formerly Mike Halcrow) ; 2005 ; GPL ; yes 
+Rh| EgoSecure HDD Encryption ; EgoSecure GmbH ; 2006 ; Proprietary ; yes 
+Rh| EncFS ; Valient Gough ; 2003 ; LGPLv3 ; yes 
+Rh| EncryptStick ; ENC Security Systems ; 2009 ; Proprietary ; yes 
+Rh| EncryptUSB ; ClevX ; 2016 ; Proprietary ; yes 
+Rh| FileVault ; Apple Inc. ; 2003-10-24 ; Proprietary ; yes 
+Rh| FileVault 2 ; Apple Inc. ; 2011-07-20 ; Proprietary ; yes 
+Rh| FREE CompuSec ; CE-Infosys ; 2002 ; Proprietary ; yes 
+Rh| FreeOTFE ; Sarah Dean ; 2004-10-10 ; Open source ; no 
+Rh| GBDE ; Poul-Henning Kamp ; 2002-10-19 ; BSD ; no 
+Rh| GELI ; Pawel Jakub Dawidek ; 2005-04-11 ; BSD ; yes 
+Rh| GnuPG ; Werner Koch ; 1999-09-07Release Notes. GnuPG ; GPL ; yes 
+Rh| gocryptfs ; Jakob Unterwurzacher ; 2015-10-07 ; MIT / X Consortium License ; yes 
+Rh| Knox ; AgileBits ; 2010 ; Proprietary ; yes 
+Rh| KryptOS ; The MorphOS Development Team ; 2010 ; Proprietary ; yes 
+Rh| LibreCrypt ; tdk ; 2014-06-19 ; Open source ; no 
+Rh| Loop-AES ; Jari Ruusu ; 2001-04-11 ; GPL ; yes 
+Rh| McAfee Drive Encryption (SafeBoot) ; McAfee, LLC ; 2007 ; Proprietary ; yes 
+Rh| n-Crypt Pro ; n-Trance Security Ltd ; 2005 ; Proprietary ; yes 
+Rh| NetLib Encryptionizer (directory encryption) ; NetLib Security ; 1987 ; Proprietary ; yes 
+Rh| Nodrive (Virtual Encrypted Disk) ; Hidden Solutions ; 2018 ; Proprietary ; yes 
+Rh| PGPDisk ; PGP Corporation (acquired by Symantec in 2010) ; 1998-09-01accessdate=2007-01-04  ; Proprietary ; yes 
+Rh| Private Disk ; Dekart ; 1993{{cite web |publisher=Dekart |title=Dekart Encryption software timeline |url= ; Proprietary ; yes 
+Rh| ProxyCrypt ; v77 ; 2013 ; Open source ; yes 
+Rh| R-Crypto ; R-Tools Technology Inc ; 2008 ; Proprietary ; yes 
+Rh| SafeGuard Easy ; Sophos (Utimaco) ; 1993 ; Proprietary ; yes 
+Rh| SafeGuard Enterprise ; Sophos (Utimaco) ; 2007 ; Proprietary ; yes 
+Rh| SafeGuard PrivateDisk ; Sophos (Utimaco)Rebranded as ThinkVantage Client Security fix-attempted=yes  ; 2000 ; Proprietary ; yes 
+Rh| SafeHouse Professional ; PC Dynamics, Inc. ; 1992 ; Proprietary ; yes 
+Rh| Scramdisk ; Shaun Hollingworth ; 1997-07-01 ; Open source ; no 
+Rh| Scramdisk 4 Linux ; Hans-Ulrich Juettner ; 2005-08-06{{cite web |title=ScramDisk 4 Linux Releases |url= ; GPL ; no 
+Rh| SecuBox ; Aiko Solutions ; 2007-02-19 ; Proprietary ; yes 
+Rh| SECUDE Secure Notebook ; SECUDE ; 2003 ; Proprietary ; yes 
+Rh| SecureDoc ; WinMagic Inc. ; 1997 ; Proprietary ; yes 
+Rh| Seqrite Encryption Manager ; Quick Heal Technologies Ltd. ; 2017 ; Proprietary ; yes 
+Rh| Sentry 2020 ; SoftWinter ; 1998 ; Proprietary ; no 
+Rh| Softraid / RAID C ; OpenBSD ; 2007-11-01 ; BSD ; yes 
+Rh| SpyProof! ; Information Security Corp. ; 2002 ; Proprietary ; yes 
+Rh| Svnd / Vnconfig ; OpenBSD ; 2000-12-01 ; BSD ; yes 
+Rh| Symantec Endpoint Encryption ; Symantec Corporation ; 2008 ; Proprietary ; yes 
+Rh| Tcplay ; Alex Hornung ; 2012-01-28{{cite web|url= ; BSD ; yes 
+Rh| Trend Micro Endpoint Encryption (Mobile Armor) ; Trend MicroTrend Micro ; 2004 or earlier ; Proprietary ; yes 
+Rh| TrueCrypt ; TrueCrypt Foundation ; 2004-02-02{{cite web|url= ; TrueCrypt License 3.1 ; no 
+Rh| USBCrypt ; WinAbility Software Corp. ; 2010 ; Proprietary ; yes 
+Rh| VeraCrypt ; IDRIX ; 2013-06-22{{cite web|url= ; Apache License 2.0 TrueCrypt License Version 3.0 (legacy code only) ; yes 
+Rh| CyberSafe Top Secret ; CyberSoft ; 2013 ; Proprietary ; yes 
+Rh| Name ;Rh| Developer ;Rh| First released ;Rh| Licensing ;Rh| Maintained? 

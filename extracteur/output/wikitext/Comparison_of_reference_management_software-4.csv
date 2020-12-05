@@ -1,0 +1,30 @@
+Software ; APA ; Chicago/Turabian ; Harvard ; MLA ; Other ; Extension method 
+ Bebop ; no ; no ; no ; no ; none ; none 
+ BibBase ; yes ; no ; no ; no ; none ; none 
+ BibDesk ; yes ; yes ; no ; no ; various ; BibDesk export templates 
+ Biblioscape ; yes ; yes ; yes ; yes ; 2000+ styles  ; Biblioscape format (through GUI) 
+ BibSonomy ; yes ; no ; yes ; no ; none ; none 
+ Bibus ; yes ; no ; no ; no ; 56 styles, user-contributed ; bibus format (through GUI) 
+ Bookends ; yes ; yes ; yes ; yes ; various ; dunno 
+ Citavi ; yes ; yes ; yes ; yes ;  10600+ styles. Styles can be requested and are centrally corrected, any BibTeX style when used with LaTeX. ; Citavi format (through GUI), includes conditions and programmable components, BibTeX 
+ CiteULike ; yes ; yes ; yes ; yes ; various ; none 
+ colwiz ; yes ; yes ; yes ; yes ; 9464 styles ; CSL 
+ EndNote ; yes ; yes ; yes ; yes ; 6926 styles ; EndNote format (through GUI) 
+ JabRef ; yes ; yes ; yes ; yes ; any BibTeX style ; BibTeX 
+ KBibTeX ; yes ; yes ; yes ; yes ; any BibTeX style ; BibTeX 
+ Mendeley ; yes ; yes ; yes ; yes ; 9464 styles ; CSL 
+ Paperpile ; yes ; yes ; yes ; yes ; 9464 styles ; CSL 
+ Pybliographer ; yes ; no ; no ; no ; none ; Pybliographer XML 
+ Qiqqa ; yes ; yes ; yes ; yes ; 9464 styles ; BibTeX and CSL 
+ ReadCube (now Papers) ; yes ; yes ; yes ; yes ; 9464 styles ; BibTeX and CSL 
+ refbase ; yes ; yes ; yes ; yes ; various polar & marine journals ; PHP 
+ RefDB ; yes ; yes ; yes ; yes ; 21 biomedical & law journals ; XML (citestylex.dtd), interactive script 
+ Reference Manager ; yes ; yes ; yes ; yes ; various ; Reference Manager format (through GUI) 
+ Referencer ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ RefME ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ RefWorks ; yes ; yes ; yes ; yes ; 4256, plus CSL styles ; RefWorks format (through GUI), CSL 
+ SciRef ; yes ; yes ; yes ; yes ; various ; SciRef format (through GUI) 
+ Sente ; yes ; yes ; yes ; yes ; various ; Sente format (through GUI) 
+ Wikindx ; yes ; yes ; yes ; yes ; ABNT, APA, BMJ, Chicago, Harvard, IEEE, MLA, Turabian ; Wikindx format (through GUI) 
+ WizFolio ; yes ; yes ; yes ; yes ; 1000+ styles ; WizFolio format (through GUI) 
+ Zotero ; yes ; yes ; yes ; yes ; 9464 styles ; CSL 

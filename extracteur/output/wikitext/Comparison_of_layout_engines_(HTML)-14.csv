@@ -1,0 +1,24 @@
+ Attribute ; Element ; Alternative solution ; Trident ; Gecko ; WebKit ; KHTML ; Presto 
+ align ; caption, div, fieldset, h1, h2, h3, h4, h5, h6, hr, img, input, legend, p, object, table ; CSS ; 3.1 ; rowspan="6" Yes ; Yes ; rowspan="18" Yes ; rowspan="18" Yes 
+ alink ; body ; CSS ; 3.1 ; No 
+ background ; body ; CSS ; 3.1 ; rowspan="2" Yes 
+ bgcolor ; body, table, tr, td, th ; CSS ; 3.1 
+ border ; img, object ; CSS ; 3.1 ; PartialSupported for only img. 
+ clear ; br ; CSS ; 3.1 ; rowspan="2" No 
+ compact ; dl, ul, ol ; CSS ; No ; No 
+ color ; basefont, font ; CSS ; 3.1 ; Partial ; PartialSupported for only font. 
+ height ; td, th ; CSS ; 3.1 ; rowspan="2" Yes ; rowspan="10" Yes 
+ hspace ; img, object ; CSS ; 3.1 
+ language ; script ; The type attribute ; 3.1 ; Nodate=September 2010 
+ link ; body ; CSS ; 3.1 ; rowspan="7" Yes 
+ noshade ; hr ; CSS ; 3.1 
+ nowrap ; td, th ; CSS ; 3.1 
+ size ; basefont, font, hr ; CSS ; 3.1 
+ start ; ol ; None ; 3.1 
+ 3.1 
+ text ; body ; CSS ; 3.1 
+ type ; li, ul, ol ; CSS 
+ version ; html ; DTD ; No ; No ; No ; No ; No 
+ vlink ; body ; CSS ; rowspan="3" Yes ; rowspan="3" Yes ; rowspan="3" Yes ; rowspan="3" Yes ; rowspan="3" Yes 
+ width ; hr, pre, td, th ; CSS 
+ vspace ; img, object ; CSS 

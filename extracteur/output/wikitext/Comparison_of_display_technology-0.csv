@@ -1,0 +1,32 @@
+ Display technology ; Screen shape ; Largest known diagonal ; Largest known diagonal ; Typical use ; Usable in bright room 
+ Display technology ; Screen shape ; (in) ; (cm) ; Typical use ; Usable in bright room 
+ rh| Eidophor front projection ; Flat ;(limited only by brightness) ;(limited only by brightness) ; TV ; no 
+ rh| Shadow mask CRT ; Spherical curve or Flat ; 42 ; 107 ; Computer monitor, TV ; yes 
+ rh| Aperture grille CRT ; Cylindrical curve or Flat ; 42 ; 107 ; Computer monitor, TV ; yes 
+ rh| Monochrome CRT ; Spherical curve or Flat ; 30{{cite web|url= CRT|url-status=dead|archiveurl= ; 76 ; Computer monitor, TV, Radar display, Oscilloscope ; yes 
+ rh|Direct view Charactron CRT ; Spherical curve ; 24<!--> ; 61 ; Computer monitor,Radar display ; no 
+ rh| CRT self-contained rear-projection ; Flat lenticular ; 80{{cite web|url= Rear Projection CRT|publisher=|access-date=2007-11-04|archive-url= ; 203 ; TV ; yes 
+ rh| CRT front projection ; Flat ;(limited only by brightness) ;(limited only by brightness) ; TV or presentation ; no 
+ rh| Plasma display panel (PDP) ; Flat ; 152 ; 386 ; TV ; partial 
+ rh| Direct view LCD ; Flat ; 110 ; 274 ; Computer monitor, TV ; yes 
+ rh| LCD self-contained rear-projection ; Flat lenticular ; 70 ; 178 ; TV ; yes 
+ rh| LCD front-projection ; Flat ;(limited only by brightness) ;(limited only by brightness) ; TV or presentation ; yes 
+ rh| DLP self-contained rear-projection ; Flat lenticular ; 120 ; 305 ; TV ; yes 
+ rh| DLP front-projection ; Flat ;(limited only by brightness) ;(limited only by brightness) ; TV or presentation ; yes 
+ rh| LCoS self-contained rear-projection ; Flat ; 110 ; 279 ; TV ; yes 
+ rh| LCoS front-projection ; Flat ;(limited only by brightness) ;(limited only by brightness) ; TV or presentation ; yes 
+ rh|Laser self-contained rear projection ; Flat lenticular ; 75 ; 191 ; TV ; yes 
+ rh| LED  ; Flat ; 279.92 ; 711 ; Billboard, TV ; yes 
+ rh| SED  ; Flat ; 55 ; 140 ; Computer monitor, TV ; yes 
+ rh| FED ; Flat ; dunno ; dunno ; Computer monitor, TV ; yes 
+ rh| EPD (e-paper) ; Flat (flexible) ; dunno ; dunno ; Electronic paper ; yes 
+ rh| OLED  ; Any, but most commonly flat rectangular with or without rounded edges, notch(es) and holes, circular, or curved (flexible) ; 88{{cite web|url= ; 223.52 ; Computer monitor, TV, Mobile phone ; yes 
+ rh| 'LED' LCD ; Flat rectangular, circular, semi circle ; 80 ; 203 ;  TV,  Computer monitor ; yes 
+ rh| 'QLED' LCD ; Curved or Flat  ; 80 ; 203 ;  TV,  Computer monitor ; yes 
+ rh| Telescopic pixel display ; ; ; ; ; 
+ rh| Ferroelectric LCD ;  ;  ;  ;  ;  
+ rh| 'mLED' LED ; Curved or Flat  ; ?? ; ?? ; Mobile phone, Wearable Electronics, VR Display, Smartwatch, Optical Instruments, AR Display ; yes 
+ rh| QDLED{{cite web|url= Dots QDTV Displays from Nanoco Technologies|publisher=|access-date=2009-05-02|archive-url= ; n/a ; n/a ; n/a ; n/a ; yes 
+ rh| IMOD  ; Flat ; 1.2 ; 3 ; Mobile phone{{cite web|url= ; yes 
+ rh| Laser Phosphor Display (LPD) ; Flat / Box ; 196 ; 497.8 ; Presentation ; yes 
+ rh| Virtual retinal display ; Any shape ; n/a ; n/a ; Experimental, possiblyvirtual reality ; Dependson system 

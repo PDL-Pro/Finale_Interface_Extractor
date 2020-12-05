@@ -1,0 +1,24 @@
+  ; Has member? ; Has member? ; Handler for missing member ; Handler for missing member 
+ ; Method ; Field ; Method ; Field 
+ APL (Dyalog) ; 3=x.⎕NC'method' ; 2=x.⎕NC'method' ; colspan=2 n/a 
+ ABAP Objects ; rowspan=2 colspan=4 n/a 
+ C++ (STL) 
+ Objective-C (Cocoa) ; [x respondsToSelector:@selector(method)] ; n/a ; forwardInvocation: ; n/a 
+ Smalltalk ; x respondsTo: selector ; n/a ; doesNotUnderstand: ; n/a 
+ C# ; (using reflection) ; (using reflection) ; (using reflection) ; (using reflection) 
+ eC ; (using reflection) ; (using reflection) ; (using reflection) ; (using reflection) 
+ Java ; (using reflection) ; (using reflection) ; (using reflection) ; (using reflection) 
+ D ;  ;  ; opDispatch() ; opDispatch() 
+ Eiffel  ; colspan=4 n/a 
+ Python  ; hasattr(x, "method") and callable(x.method) ; hasattr(x, "field") ; __getattr__() ; __getattr__() 
+ Visual Basic .NET ;(using reflection) ;(using reflection) ;(using reflection) ;(using reflection) 
+ Xojo ;(using Introspection) ;(using Introspection) ;(using Introspection) ;(using Introspection) 
+ Windows PowerShell ;(using reflection) ;(using reflection) ;(using reflection) ;(using reflection) 
+ F# ;(using reflection) ;(using reflection) ;(using reflection) ;(using reflection) 
+ Ruby ; x.respond_to?(:method) ; n/a ; method_missing() ; n/a 
+ PHP ; method_exists(x, "method") ; property_exists(x, "field") ; __call() ; __get() / __set() 
+ Perl ; x->can("method") ; exists x->{field} ; AUTOLOAD ; 
+ Raku ; x.can("method") ; x.field.defined ; AUTOLOAD ; 
+ OCaml ; colspan=4 n/a 
+ JavaScript  ; typeof x.method === "function" ; field in x ;  ;  
+ COBOL ; colspan=4 n/a 

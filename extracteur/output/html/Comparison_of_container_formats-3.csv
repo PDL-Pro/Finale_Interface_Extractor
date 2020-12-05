@@ -1,0 +1,20 @@
+Format;Type;3GP, 3G2;ASF;AVI;DMF;EVO;FLV;F4V;MKV;PS, TS;M2TS;MP4;MXF;Ogg;QTFF;RMVB;VOB;WebM
+VobSub;Picture;No;No;Needs alterations;No;No;No;No;Mature;No;As PGS;Yes;No;No;Not standard;No;Yes;No
+DVB-SUB;Picture;No;No;No;No;No;No;No;Mature;Yes;No;No;Yes;No;No;No;No;No
+PGS;Picture;No;No;No;No;HD DVD;No;No;Mature;No;Blu-ray;As VobSub;No;No;No;No;As VobSub;No
+XSUB;Picture;No;No;Needs alterations;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No
+Ogg Kate;Picture or formatted text;No;No;No;No;No;No;No;Beta;No;No;No;No;Yes;No;No;No;No
+SMIL;XML;No;No;No;No;No;No;No;No;No;No;No;No;No;QuickTime SMIL;RealText;No;No
+USF;XML;No;No;Needs alterations;No;No;No;No;Planned;No;No;No;No;No;No;No;No;No
+TTXT;XML;Yes;No;No;No;No;No;Yes;No;No;No;Yes;No;No;Yes;No;No;No
+SAMI;HTML;No;Yes;Needs alterations;No;No;No;No;No;No;No;No;As SMPTE-TT;No;No;No;No;No
+SubRip;Formatted text;As TTXT;As SAMI;Needs alterations;No;No;No;As TTXT;Yes;No;No;As TTXT;As SMPTE-TT;As Ogg Kate;As TTXT;No;No;As WebVTT
+WebVTT;Formatted text;As TTXT;No;No;No;No;Using ActionScript;As TTXT;Yes;No;No;Yes;As SMPTE-TT;No;As TTXT;No;No;Yes
+ASS, SSA;Formatted text;No;No;Needs alterations;No;No;No;No;Yes;No;No;No;As SMPTE-TT;No;No;No;No;No
+TextST;Text stream;No;No;No;No;No;No;No;Beta;No;Yes;No;No;No;No;No;No;No
+SMPTE-TT;Text stream;No;No;No;No;No;No;No;No;No;No;No;Yes;No;No;No;No;No
+Ogg Writ;Text stream;No;No;No;No;No;No;No;No;No;No;No;No;Beta;No;No;No;No
+MicroDVD;Plain text;No;No;Needs alterations;No;No;No;No;No;No;No;No;No;As Ogg Writ;No;No;No;No
+Others;Other;—;—;—;—;—;—;—;Generic bitmap images, generic plain text;CEA-708;—;BIFS;EBU-TT;—;EIA-608;—;—;—
+Obsolete;Other;—;—;—;—;—;—;—;—;—;—;—;—;CMML;—;—;—;—
+Format;Type;3GP, 3G2;ASF;AVI;DMF;EVO;FLV;F4V;MKV;PS, TS;M2TS;MP4;MXF;Ogg;QTFF;RMVB;VOB;WebM

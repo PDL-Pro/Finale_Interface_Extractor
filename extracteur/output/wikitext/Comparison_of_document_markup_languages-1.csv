@@ -1,0 +1,31 @@
+ Language ; Major purpose ; Based on ; Markup type ; Structural markup ; Presentational markupMany markup languages have purposely avoided presentational markups. For markup languages based on SGML and XML, CSS is used as a presentation layer. 
+ AsciiDoc ; Multi-purpose ;  ; Tag ; yes ; yes 
+ Computable Document Format ; Interactive technical documents, infographics, blogsUses and Examples of the Computable Document Format (CDF), Wolfram.com. ; Wolfram Language ; Tag ; yes ; yes 
+ Darwin Information Typing Architecture (DITA) ; Technical documents ; XML ; Tag ; yes ; yesIncludes basic presentational content and SVG and MathML markup, officially supported in version 1.3. In select XML editors and management systems, the images and content can be viewed as rendered, through CSS mostly. 
+ DocBook ; Technical documents ; SGML / XML ; Tag ; yes ; yesPresentational content is supported through SVG and MathML markup. In select XML editors, the images can be viewed as rendered. 
+ Encoded Archival Description (EAD) ; Finding aid ; XML ; Tag ; yes ; no 
+ Extensible HyperText Markup Language (XHTML) ; Hypertext documents ; XML ; Tag ; yes ; yesPresentational markup is deprecated as of XHTML 1.0 and no longer allowed as of XHTML 1.1 
+ FictionBook ; Multi-purpose ; XML ; Tag ; yes ; yes 
+ HyperText Markup Language (HTML) ; Hypertext documents ; SGML ; Tag ; yes ; yesPresentational markup is deprecated as of HTML 4.0 
+ Lilypond ; Music notation ; ; Control code ; yes ; yes 
+ Maker Interchange Format (MIF) ; Technical documents ;  ; Tag ; yes ; yes 
+ Markdown ; Formatted Technical documents, Hypertext documents, E-mail ; Text E-mail conventions ; Tag ; yes ; yes 
+ Math Markup Language (MathML) ; Mathematical documents ; XML ; Tag ; yes ; yesMathML comes in two mark-up syntaxes: a semantic and a presentational. 
+ The Music Encoding Initiative (MEI) ; Music notation ; XML ; Tag ; yes ; yes 
+ Music Extensible Markup Language (MusicXML) ; Music notation ; XML ; Tag ; yes ; yes 
+ Office Open XML (OOXML) ; Multi-purpose ; XML / ZIP ; Tag ; yes ; yes 
+ OpenDocument Format (ODF) ; Multi-purpose ; XML / ZIP ; Tag ; yes ; yes 
+ Open Mathematical Document (OMDoc) ; Mathematical documents ; XML ; Tag ; yesuses Content MathML, OpenMath or other formats for formulae ; yesExact presentation of symbols can be specified in OMDoc, these specifications are used when transforming OMDoc to a presentational format. 
+ Org-mode ; Multi-purpose (notes, project management, publishing, literate programming) ; Text outliner ; Tag ; yes ; yes 
+ reStructuredText ; Technical and Multi-purpose documents ; Structured Text and Setext ; Tag ; yes ; yesuses CSS 
+ Rich Text Format (RTF) ; Formatted documents ; TeX ; Pattern parsing ; yes ; yes 
+ Scalable Vector Graphics (SVG) ; 2D Vector graphics ; XML ; Tag ; yes ; yes 
+ ScriptGML ; Multi-purpose ; RUNOFF ; Control code ; yes ; yes 
+ TeXLaTeX ; Academic documentsMulti-purposeWhile Donald Knuth wrote TeX for Academic publications and Leslie Lamport wrote LaTeX for similar purpose, packages are available from Comprehensive TeX Archive Network (CTAN) for nonacademic purposes, e.g., writing scripts. ;  ; Control code ; yes ; yes 
+ Texinfo ; Technical documents ; TeX, Scribe ; Control code ; yes ; yes 
+ TeXmacs format ; Academic documents ; tree ; Tag ; yes ; yes 
+ Textile ; Hypertext documents ; AsciiDoc (based on some similarities and dates of release) ; Tag ; yes ; yes 
+ Text Encoding Initiative (TEI) ; Academic, linguistic, literary and technical documents ; SGML / XML ; Tag ; yes ; no 
+ troff (typesetter runoff), groff (GNU runoff) ; Technical documents ; RUNOFF ; Control code ; yes ; yes 
+ Wireless Markup Language (WML) ; Hypertext documents ; XML ; Tag ; yes ; yes 
+ Language ; Major purpose ; Based on ; Markup type ; Structural markup ; Presentational markup 

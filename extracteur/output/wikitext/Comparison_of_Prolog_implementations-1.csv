@@ -1,0 +1,13 @@
+  ;  ;  ;  ;  ; Web-related ; Web-related ; Web-related ; Web-related 
+ Name ; Conditional compilation ; Sockets ; Multi-threading ; Tabling ; HTTP client ; HTTP server ; HTML Parser ; RDF Triple store 
+rh|BProlog ; ; ; ; yes ; ; ; ; 
+rh|Ciao ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; 
+rh|ECLiPSe ; Yes ; Yes ; Yes ; ; Yes ; ; Yes ; 
+rh|GNU Prolog ;  ; Yes ; ; ; ; ; ; 
+rh|Jekejeke Prolog ;  ; Yes ; Yes ;  ; Yes ; Yes ; Yes ;  
+rh|LPA-Prolog ; ; yes ;  ;  ; yes ; yes ; yes ;  
+rh|SICStus Prolog ; yes ; Yes ; Yes ; ; ; ; ; 
+rh|SWI-Prolog ; yes ; yes ; yes ;  yes ; yes ; yes ; yes ; yes 
+rh|Visual Prolog ; yes ; yes ; yes ;  ; yes ; yes ; yes ; 
+rh|XSB ; yes ; yes ; yes ; yes ; yes ; ; ; 
+rh|YAP-Prolog ; yes ; yes ; yes ; yes ; ; ; ; 

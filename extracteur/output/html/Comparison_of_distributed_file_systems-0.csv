@@ -1,0 +1,20 @@
+Client;Written in;License;Access API;High availability;Shards;Efficient Resiliency;Redundancy Granularity;Initial release year;Memory requirements (GB)
+Alluxio (Virtual Distributed File System);Java;Apache License 2.0;HDFS, FUSE, HTTP/REST, S3;hot standby;No;Replication;File;2013;
+Ceph;C++;LGPL;librados (C, C++, Python, Ruby), S3, Swift, FUSE;Yes;Yes;Pluggable erasure codes;Pool;2010;1 per TB of storage
+Coda;C;GPL;C;Yes;Yes;Replication;Volume;1987;
+GlusterFS;C;GPLv3;libglusterfs, FUSE, NFS, SMB, Swift, libgfapi;Yes;Yes;Reed-Solomon;Volume;2005;
+MooseFS;C;GPLv2;POSIX, FUSE;master;No;Replication;File;2008;
+Quantcast File System;C;Apache License 2.0;C++ client, FUSE (C++ server: MetaServer and ChunkServer are both in C++);master;No;Reed-Solomon;File;2012;
+IPFS;Go;Apache 2.0 or MIT;HTTP gateway, FUSE, Go client, Javascript client, command line tool;Yes;with IPFS Cluster;Replication;Block;2015;
+Kertish-DFS;Go;GPLv3;HTTP(REST), CLI, C# Client, Go Client;Yes;;Replication;;2020;
+LizardFS;C++;GPLv3;POSIX, FUSE, NFS-Ganesha, Ceph FSAL (via libcephfs);master;No;Reed-Solomon;File;2013;
+Lustre;C;GPLv2;POSIX, NFS-Ganesha, NFS, SMB;Yes;Yes;No redundancy;No redundancy;2003;
+MinIO;Go;Apache Licence 2.0;AWS S3 API;Yes;Yes;Reed-Solomon;Object;2014;
+OpenAFS;C;IBM Public License;Virtual file system, Installable File System;;;Replication;Volume;2000;
+OpenIO;C;AGPLv3 / LGPLv3;Native (Python, C, Java), HTTP/REST, S3, Swift, FUSE (POSIX, NFS, SMB, FTP);Yes;;Pluggable erasure codes;Object;2015;0.5
+RozoFS;C, Python;GPLv2;FUSE, SMB, NFS, key/value;Yes;;Mojette;Volume;2011;
+SeaweedFS;Go, Java;Apache License 2.0;HTTP (REST), POSIX, FUSE, S3, HDFS;requires CockroachDB, undocumented config;;Reed-Solomon;Volume;2015;
+Tahoe-LAFS;Python;GNU GPL;HTTP (browser or CLI), SFTP, FTP, FUSE via SSHFS, pyfilesystem;;;Reed-Solomon;File;2007;
+HDFS;Java;Apache License 2.0;Java and C client, HTTP;transparent master failover;No;Reed-Solomon;File;2005;
+XtreemFS;Java, C++;BSD License;libxtreemfs (Java, C++), FUSE;;;Replication;File;2009;
+Ori;C, C++;MIT;libori, FUSE;;;Replication;Filesystem;2012;

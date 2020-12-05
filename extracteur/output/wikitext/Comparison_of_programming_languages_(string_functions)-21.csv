@@ -1,0 +1,34 @@
+ Format ; Languages  
+string (string'First .. string'First + n - 1) ;Ada 
+ substr(string, 0, n) ;AWK (changes string), Perl, PHP, Raku 
+ LEFT$(string,n) ;BASIC, VB 
+ left(string,n) ;VB, FreeBASIC, Ingres, Pick Basic 
+ strncpy(string2, string, n) ;C standard library 
+ string.substr(0,n) ;C++ (STL), Raku 
+ [string substringToIndex:n] ;Objective-C (NSString * only) 
+ (apply str (take n string)) ;Clojure 
+ string[0 .. n] ;Dif n is larger than the length of the string, then in Debug mode ArrayRangeException is thrown, in Release mode, the behaviour is unspecified. 
+ string:substr(string, start, length) ;Erlang 
+ (subseq string 0 n) ;Common Lisp 
+ string[:n] ;Cobra, Go, Python 
+ left(string,n «,padchar») ;Rexx, Erlang 
+ string[0, n]  string[0..n - 1] ;Ruby 
+ string[1, n] ;Pick Basic 
+ string[ .. n] ;Seed7 
+ string.Substring(0,n) ;VB .NET, C#, Windows PowerShell, F# 
+ leftstr(string, n) ;Pascal, Object Pascal (Delphi) 
+copy (string,1,n) ;Turbo Pascal 
+ string.substring(0,n) ;Java,if n is larger than the length of the string, Java will throw an IndexOutOfBoundsException JavaScript  
+ (string-take string n) ;Scheme (SRFI 13) 
+ take n string ;Haskell 
+ String.extract (string, n, NONE) ;Standard ML 
+ String.sub string 0 n ;OCamlif n is larger than length of string, raises Invalid_argument 
+ string.[..n] ;F# 
+ string.sub(string, 1, n)  (string):sub(1, n) ;Lua 
+ string first: n ;Smalltalk (Squeak, Pharo) 
+ string(:n) ;Fortran 
+ StringTake[string, n] ;Mathematicaif n is larger than length of string, throw the message "StringTake::take:" 
+string («FUNCTION» LENGTH(string) - n:n) ;COBOL 
+string.substring(0, n) ;Cobra 
+n↑string. ;APL 
+ string[0..n]string[..n]string.get(0..n)string.get(..n) ; RustIn Rust, strings are indexed in terms of byte offsets and there is a runtime panic if the index is out of bounds or if it would result in invalid UTF-8. A &str (string reference) can be indexed by various types of ranges, including Range (0..n), RangeFrom (n..), and RangeTo (..n) because they all implement the SliceIndex trait with str being the type being indexed.  The str::get method is the non-panicking way to index. It returns None in the cases in which indexing would panic. 

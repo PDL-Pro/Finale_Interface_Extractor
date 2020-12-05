@@ -1,0 +1,11 @@
+ Name ; Gui ; Logging ; Mapper ; Multiplaying ; Scrollback ; Spell checker ; Tab completion ; Telnet triggers ; Timers ; Triggers ; Redirection ; Regex 
+ Axmud ; Custom ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yes 
+ BeipMU ; no ; yes ; no ; no ; yes ; yes ; yes ; no ; no ; yes ; WSH ; yes 
+ Blightmud ; VT102 ; yes ; no ; no ; yes ; no ; yes ; yes ; yes ; yes ; no ; yes 
+ CMUD ; Custom ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; WSH ; yes 
+ Mud Gangster ; Custom ; Plugin ; no ; no ; yes ; no ; no ; yes ; yes ; yes ; no ; Lua patterns 
+ Mudlet ; Custom ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yes 
+ MUSHclient ; Custom ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; WSH ; yes 
+ TinTin++ ; VT100 ; yes ; yes ; yes ; yes ; no ; yes ; yes ; yes ; yes ; yes ; yes 
+ Wintin.net ; no ; yes ; no ; yes ; yes ; no ; yes ; no ; yes ; yes ; no ; no 
+ zMud ; Custom ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; WSH ; yes 

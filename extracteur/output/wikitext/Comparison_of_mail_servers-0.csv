@@ -1,0 +1,45 @@
+ 00000 ; Server OS support ; Server OS support ; Server OS support ; Features ; Features ; Features ; Features ; Features ; Features ; Features ; Features ; Features ; Features ; Features ; Features ; Storage ; Storage ; Users 
+Mail server ; Linux/ Unix ;Windows ;Mac OS ; SMTP ; POP3 ; IMAP ; JMAP ; IMAP IDLE ; SMTP over TLS ;POP over TLS ;IPv6 ;SSL ; DANE ; Webmail ; ActiveSync ; Sieve ; Database ; Filesystem ; Other ; IDN/UTF8 ; License 
+rh| agorum core ; yes ; yes ; no ; yes ; no ; yes ; dunno ; no ; no ; no ; no ; yes ; no ; yes ; no ; no ; yes ; no ; no ; Dunno ; GPLv2 
+rh| Apache James ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; Dunno ; yes ; dunno ; no ; no ; yes ; yes ; yes ; no ; Dunno ; ASLv2 
+rh| Axigen ; yes ; yes ; no ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; yes ; dunno ; Ajax, Basic & Mobile ; yes ; yes ; Proprietary, Embedded, Optimized for Email & Groupware ; yes ; yes ; yes ; Proprietary (free version: 5 domains, 5 users, 5 groups) 
+rh| Citadel ; yes ; no ; yes ; yes ; yes ; yes ; dunno ; no ; yes ; yes ; yes ; yes ; dunno ; yes ; no ; yes ; yes ; no ; no ; Dunno ; GPLv3 
+rh| CommuniGate Pro ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; dunno ; yes ; yes ; yes  ; yes ; Proprietary (Free for up to 5 users) 
+rh| Courier Mail Server ; yes ; no ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; yes ; no ; yes ; no ; maildrop ; no ; maildir ; no ; yes ; GPLv3See COPYING file in the distribution 
+rh| Cyrus IMAP ; yes ; no ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; no ; no ; yes ; yes (indexes) ; yes ; yes ; Dunno ; 4-clause BSD 
+rh| Dovecot ; yesDovecot Operating System Compatibility. Retrieved on 2008-09-03. ; no ; yes ; yesDovecot Submisison Service. Retrieved on 2010-07-15. ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; yes ; dunno ; no ; no ; yes ; yes ; maildir, mbox, dbox ; no ; no ; Mixed: MIT and LGPL 2.1 
+rh| Eudora Internet Mail Server ; no ; no ; yes ; yes ; yes ; yes ; dunno ; dunno ; no ; no ; dunno ; no ; dunno ; no ; no ; dunno ; no ; no ; yes ; Dunno ; Proprietary 
+rh| Exim ; yes ; yes (via Cygwin) ; yes ; yes ; Dovecot, UW IMAP ; Dovecot, UW IMAP ; dunno ; Dovecot, UW IMAP ; yes ; no ; yes ; yes ; yes ; no ; no ; yes ; yes ; yes ; no ; yes ; GPLv2+See NOTICE file in the distribution 
+rh| FirstClass ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; yes ; yes ; Dunno ; yes ; dunno ; yes ; yes ; dunno ; yes ; yes ; yes ; Dunno ; Proprietary 
+rh| Gordano Messaging Suite ; yes ; yes ; no ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; Dunno ; yes ; dunno ; yes ; yes ; no ; yes ; yes ; yes ; Dunno ; Proprietary 
+rh| GroupWise ; yes ; yes ; no ; yes ; yes ; yes ; dunno ; dunno ; yes ; yes ; Dunno ; yes ; dunno ; yes ; yes ; dunno ; yes ; no ; no ; Dunno ; Proprietary 
+rh| Halon ; yes ; no ; no ; yes ; no ; no ; dunno ; no ; yes ; no ; yes ; yes ; yesABOUTSELF=y ; no ; no ; dunno ; yes ; yes ; yes ; yes ; Proprietary 
+rh| Haraka ; yes ; yes ; yes ; yes ; no ; no ; dunno ; no ; yes ; no ; yes ; yes ; dunno ; no ; no ; dunno ; yes ; yes ; yes ; yes ; MIT 
+rh|hMailServer ; no ; yes ; no ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; no ; dunno ; yes ; yes ; no ; no ; GNU AGPL 
+rh| IBM Lotus Domino ; yes ; yes ; no ; yes ; yes ; yes ; dunno ; no ; yes ; yes ; yes ; yes ; no ; yes ; no ; dunno ; yes ; no ; no ; no ; Proprietary 
+rh| IceWarp Mail Server ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes ; no ; yes ; yes ; no ; Dunno ; Proprietary 
+rh| Ipswitch IMail Server ; no ; yes ; no ; yes ; yes ; yes ; dunno ; yes (since v12.2) ; yes ; yes ; Dunno ; yes ; dunno ; yes ; yes ; dunno ; no ; yes ; no ; Dunno ; Proprietary 
+rh| Kerio Connect ; yes ; Yes ; Yes ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; no ; yes ; no ; Dunno ; Proprietary 
+rh| Kolab ; yes ; no ; no ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; Dunno ; GPLv3 
+rh| Kopano ; yes ; yes ; yes ; ExternalZarafa Collaboration Platform architecture diagram. Retrieved on 2011-12-10. ; yes ; yes ; dunno ; yes ; External ; yes ; yes ; yes ; no ; yes ; yes ; no ; yes ; yes ; Amazon S3 ; Dunno ; AGPLv3, paid 
+rh| Mailsite ; no ; yes ; no ; yes ; yes ; yes ; dunno ; dunno ; yes ; yes ; Dunno ; yes ; dunno ; yes ; yes ; yes ; yes ; yes ; yes ; Dunno ; Proprietary 
+rh| Mailtraq ; no ; yes ; no ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; Dunno ; yes ; dunno ; yes ; no ; dunno ; yes ; yes ; yes ; Dunno ; Proprietary 
+rh| MDaemon ; no ; yes ; no ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes ; no ; no ; yes ; yes ; Not IMAP ; Proprietary 
+rh| Mercury Mail Transport System ; no ; yes ; no ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; no ; yes ; no ; yes ; no ; no ; no ; yes ; no ; no ; Proprietary donationware 
+rh| Microsoft Exchange Server ; no ; yes ; no ; yes ; yes ; yes ; no ; yes ; yes ; yes ; yes  ; yes ; no ; yes ; yes ; yes2 3rd Party support  ; yes ; yes ; yes ; Not IMAP ; Proprietary 
+rh| NetMail ; yes ; yes ; no ; yes ; yes ; yes ; dunno ; dunno ; yes ; yes ; dunno ; yes ; dunno ; yes ; no ; dunno ; yes ; no ; no ; Dunno ; Proprietary 
+rh| OpenSMTPD ; yes ; no ; yes ; yes ; no ; no ; dunno ; no ; yes ; no ; yes ; yes ; noABOUTSELF=y ; no ; no ; dunno ; possible through custom backends ; yes ; no ; no ; ISC 
+rh| Open-Xchange ; yes ; no ; no ; yes ; yes ; yes ; dunno ; dunno ; yes ; yes ; dunno ; yes ; dunno ; yes ; yes ; dunno ; yes ; no ; no ; Dunno ; Proprietary/SaaS, with open-source parts 
+rh| Oracle Communications Messaging Server ; yes ; no ; no ; yes ; yes ; yes ; dunno ; dunno ; yes ; yes ; dunno ; yes ; dunno ; yes ; no ; dunno ; yes ; yes ; no ; yes ; Proprietary 
+rh| Postfix ; yes ; no ; yes ; yes ; Dovecot, UW IMAP ; Dovecot, UW IMAP ; dunno ; Dovecot, UW IMAP ; yes ; no ; Yes ; yes ; yes ; no ; no ; no ; yes ; yes ; yes ; yes ; IBM Public License 
+rh| qmail ; yes ; no ; yes ; yes ; yes ; Dovecot, UW IMAP ; dunno ; Dovecot, UW IMAP ; no ; Dovecot, UW IMAP ; via Qsmtp ; no ; no ; no ; no ; dunno ; (cdb) ; yes ; no ; Dunno ; Public domain 
+rh| Qpopper ; yes ; yes (via Cygwin) ; yes ; no ; yes ; no ; dunno ; no ; no ; yes ; dunno ; yes ; dunno ; no ; no ; dunno ; no ; yes ; yes ; Dunno ; BSD-style, GPL-incompatibleContains jurisdiction selection and IBM Public License-style indemnification clause. 
+rh| Scalix ; yes ; dunno ; dunno ; yes ; yes ; yes ; dunno ; yes ; yes (via Stunnel) ; yes (via Stunnel) ; dunno ; yes (via Stunnel) ; dunno ; yes ; yes ; dunno ; yes ; yes ; no ; Dunno ; Proprietary with OSS parts, a community (Freeware) and 3 paid editions (SMB, Enterprise, Hosting) 
+rh| Sendmail ; yes ; no ; yes ; yes ; Dovecot, UW IMAP ; Dovecot, UW IMAP ; dunno ; Dovecot, UW IMAP ; yes ; no ; yes ; yes ; dunno ; no ; no ; no ; Dunno ; yes ; dunno ; yes ; Sendmail License 
+rh| SparkEngine ; yes ; yes ; yes ; yes ; no ; no ; dunno ; no ; yes ; no ; Dunno ; yes ; dunno ; no ; no ; dunno ; yes ; yes ; yes ; Dunno ; Proprietary 
+rh| UW IMAP ; yes ; yes ; yes ; no ; yes ; yes ; dunno ; yes ; no ; yes ; yes ; yes ; no ; WebPine ; no ; no ; yes (Indexes) ; yes ; no ; Dunno ; Apache License 2.0 
+rh| WinGate ; no ; yes ; no ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; no ; yes ; dunno ; yes ; no ; dunno ; no ; yes ; no ; Dunno ; Proprietary 
+rh| Zarafa ; yes ; no ; no ; External ; yes ; yes ; dunno ; yes ; External ; yes ; yes ; yes ; no ; yes ; yes ; no ; yes ; yes ; no ; Dunno ; AGPLv3, paid 
+rh| Zentyal ; yes ; no ; no ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; no ; yes ; dunno ; yes ; yes ; dunno ; yes ; yes ; no ; Dunno ; GPLv2{{cite web|url= Linux Small Business Server|website=www.zentyal.org|access-date=2015-10-15|archive-url= 
+rh| Zimbra ; yes ; no ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; ZPL and proprietary editions 
+Mail server ; Linux/ Unix ;Windows ;Mac OS ; SMTP ; POP3 ; IMAP ; JMAP ; IMAP IDLE ; SMTP over TLS ;POP over TLS ;IPv6 ;SSL ; DANE ; Webmail ; ActiveSync ; Sieve ; Database ; Filesystem ; Other ; IDN/UTF8 ; License 

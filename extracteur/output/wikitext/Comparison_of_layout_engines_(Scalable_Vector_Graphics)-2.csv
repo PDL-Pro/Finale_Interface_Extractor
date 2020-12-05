@@ -1,0 +1,104 @@
+ Profile ; Element ; Trident ; Gecko ; WebKit ; Blink ; Presto ; KSVG ; Prince ; Amaya ; Adobe SVG Viewer  ; Batik ; Renesis ;LeonLabs 
+ Structure Module ; Structure Module ; Structure Module ; Structure Module ; Structure Module ; Structure Module ; Structure Module ; Structure Module ; Structure Module ; Structure Module ; Structure Module ; Structure Module 
+ Tiny ; svg ; 5.0publisher=Microsoft ; 1.8 ; 522 ; rowspan="8" dunno ; 1.0 ; rowspan="3" yes ; rowspan="2" yes ; rowspan="2" yes ; 1.0 ; rowspan="8" yes ; yes ; 1.0 
+ Tiny ; g ; 5.0publisher=Microsoft ; 1.8 ; 522 ; 2.0 ; 1.0 ; 1.0 ; 1.0 
+ Tiny ; defs ; 5.0publisher=Microsoft ; 1.8 ; 522 ; 2.0 ; 1.0 ; 6.0 ; dunno ; 1.0 ; 1.0 
+ Tiny ; desc ; 5.0publisher=Microsoft ; 1.8 ; 522 ; 2.0 ; 1.0 ; rowspan="2" no ; rowspan="3" no ; dunno ; 1.0 ; 1.0 
+ Tiny ; title ; 5.0publisher=Microsoft ; 1.8 ; 522 ; 2.0 ; 1.0 ; dunno ; 3.0 ; 1.0 
+ Tiny ; metadata ; 5.0publisher=Microsoft ; 1.8 ; 522 ; 2.0 ; 1.0 ; dunno ; dunno ; 2.0 ; 1.0 
+ Tiny ; use ; 5.0publisher=Microsoft ; 1.8 ; yespublisher=WebKit ; 2.0 ; rowspan="2" no ; 6.0 ; yes ; 1.0 ; 0.6 ; 1.0 
+ Basic ; symbol ; 5.0publisher=Microsoft ; 1.8 ; 522 ; 2.0 ; dunno ; 6.0 ; 1.0 ; 0.6 ; 1.0 
+ Conditional Processing Module ; Conditional Processing Module ; Conditional Processing Module ; Conditional Processing Module ; Conditional Processing Module ; Conditional Processing Module ; Conditional Processing Module ; Conditional Processing Module ; Conditional Processing Module ; Conditional Processing Module ; Conditional Processing Module ; Conditional Processing Module 
+ Tiny ; switch ; yes ; 1.8 ; 522 ; dunno ; 2.0 ; dunno ; no ; dunno ; 2.0 ; yes ; no ; 1.0 
+ Image Module ; Image Module ; Image Module ; Image Module ; Image Module ; Image Module ; Image Module ; Image Module ; Image Module ; Image Module ; Image Module ; Image Module 
+ Tiny ; image ; 5.0 ; 2.0publisher=Mozilla ; 522 ; dunno ; 2.0 ; no ; 5.1 ; 4.0 ; 1.0 ; yes ; 0.5 ; 1.0 
+ Style Module ; Style Module ; Style Module ; Style Module ; Style Module ; Style Module ; Style Module ; Style Module ; Style Module ; Style Module ; Style Module ; Style Module 
+ Tiny ; style ; 5.0 ; 1.8 ; 522 ; dunno ; 2.0 ; dunno ; yes ; yes ; 1.0 ; yes ; 0.6 ; 1.0 
+ Shape Module ; Shape Module ; Shape Module ; Shape Module ; Shape Module ; Shape Module ; Shape Module ; Shape Module ; Shape Module ; Shape Module ; Shape Module ; Shape Module 
+ Tiny ; circle ; 5.0 ; 1.8 ; 522 ; rowspan="7" dunno ; 2.0 ; rowspan="7" yes ; rowspan="7" yes ; 4.0 ; 1.0 ; rowspan="7" yes ; 1.0 ; 1.0 
+ Tiny ; ellipse ; 5.0 ; 1.8 ; 522 ; 2.0 ; 4.0 ; 1.0 ; 1.0 ; 1.0 
+ Tiny ; line ; 5.0 ; 1.8 ; 522 ; 2.0 ; 4.0 ; 1.0 ; 1.0 ; 1.0 
+ Tiny ; path ; 5.0 ; 1.8 ; 522 ; 2.0 ; 4.0 ; 1.0 ; 1.0 ; 1.0 
+ Tiny ; polygon ; 5.0 ; 1.8 ; 522 ; 2.0 ; 4.0 ; 1.0 ; 1.0 ; 1.0 
+ Tiny ; polyline ; 5.0 ; 1.8 ; 522 ; 2.0 ; 4.0 ; 1.0 ; 1.0 ; 1.0 
+ Tiny ; rect ; 5.0 ; 1.8 ; 522 ; 0.6 ; 2.0 ; 4.0 ; 1.0 ; 1.0 
+ Text Module ; Text Module ; Text Module ; Text Module ; Text Module ; Text Module ; Text Module ; Text Module ; Text Module ; Text Module ; Text Module ; Text Module 
+ Tiny ; text ; 5.0 ; 1.8 ; 522 ; rowspan="8" dunno ; 2.0 ; rowspan="4" yes ; 5.1 ; 4.0 ; 1.0 ; rowspan="8" yes ; 0.7 ; 1.0 
+ Basic ; tspan ; 5.0 ; 1.8 ; 522 ; yes ; 2.0 ; 4.0 ; 1.0 ; 0.7 ; 1.0 
+ Basic ; tref ; 5.0 ; nopublisher=Mozilla ; 522 ; rowspan="6" no ; 2.0 ; 6.3 ; 0.6 ; 1.0 ; 1.0 
+ Basic ; textPath ; 5.0 ; 1.8.1 ; 522 ; 4.0 ; 2.0 ; rowspan="5" no ; 1.0 ; 1.0 
+ Full ; altGlyph ; 5.0 ; partialpublisher=Mozilla ; partial ; 4.0 ; 2.2 ; dunno ; 2.0 ; 1.0 
+ Full ; altGlyphDef ; 5.0 ; rowspan="3" no ; rowspan="3" no ; 4.0 ; 2.2 ; dunno ; 2.0 ; 1.0 
+ Full ; altGlyphItem ; 5.0 ; dunno ; dunno ; 4.0 ; no ; 1.0 
+ Full ; glyphRef ; 5.0 ; 2.2 ; dunno ; 4.0 ; 2.0 ; 1.0 
+ Profile ; Element ; Trident ; Gecko ; WebKit ; Blink ; Presto ; KSVG ; Prince XML ; Amaya ; Adobe SVG Viewer ; Batik ; Renesis ;LeonLabs 
+ Marker Module ; Marker Module ; Marker Module ; Marker Module ; Marker Module ; Marker Module ; Marker Module ; Marker Module ; Marker Module ; Marker Module ; Marker Module ; Marker Module 
+ Full ; marker ; 5.0 ; 1.8 ; 522 ; dunno ; 2.0 ; dunno ; 6.0 ; dunno ; 3.0 ; yes ; 1.0 ; 1.0 
+ Color Profile Module ; Color Profile Module ; Color Profile Module ; Color Profile Module ; Color Profile Module ; Color Profile Module ; Color Profile Module ; Color Profile Module ; Color Profile Module ; Color Profile Module ; Color Profile Module ; Color Profile Module 
+ Full ; color-profile ; no ; nopublisher=Mozilla ; nopublisher=WebKit ; dunno ; no ; no ; no ; dunno ; 3.0 ; yes ; no ; 1.0 
+ Gradient Module ; Gradient Module ; Gradient Module ; Gradient Module ; Gradient Module ; Gradient Module ; Gradient Module ; Gradient Module ; Gradient Module ; Gradient Module ; Gradient Module ; Gradient Module 
+ Basic ; linearGradient ; 5.0 ; 1.8 ; 522 ; rowspan="3" dunno ; 1.0 ; rowspan="3" yes ; 6.0 ; dunno ; 1.0 ; rowspan="3" yes ; 0.5 ; 1.0 
+ Basic ; radialGradient ; 5.0 ; 1.8 ; 522 ; 2.0 ; dunno ; 6.0 ; 1.0 ; 0.5 ; 1.0 
+ Basic ; stop ; 5.0 ; 1.8 ; 522 ; 1.0 ; dunno ; dunno ; 1.0 ; 0.5 ; 1.0 
+ Pattern Module ; Pattern Module ; Pattern Module ; Pattern Module ; Pattern Module ; Pattern Module ; Pattern Module ; Pattern Module ; Pattern Module ; Pattern Module ; Pattern Module ; Pattern Module 
+ Basic ; pattern ; 5.0 ; 1.9 ; 522 ; dunno ; 2.0 ; yes ; dunno ; dunno ; 2.0 ; yes ; 0.5 ;1.0ttt 
+ Clip Module ; Clip Module ; Clip Module ; Clip Module ; Clip Module ; Clip Module ; Clip Module ; Clip Module ; Clip Module ; Clip Module ; Clip Module ; Clip Module 
+ Basic ; clipPath ; 5.0 ; 1.8 ; Mostlypublisher=WebKit ; dunno ; 2.0 ; dunno ; dunno ; dunno ; 1.0 ; yes ; 0.6 ; 1.0 
+ Mask Module ; Mask Module ; Mask Module ; Mask Module ; Mask Module ; Mask Module ; Mask Module ; Mask Module ; Mask Module ; Mask Module ; Mask Module ; Mask Module 
+ Basic ; mask ; 5.0 ; 1.9 ; 522 ; dunno ; 2.0 ; dunno ; dunno ; dunno ; 1.0 ; yes ; no ; 1.0 
+ Filter Module ; Filter Module ; Filter Module ; Filter Module ; Filter Module ; Filter Module ; Filter Module ; Filter Module ; Filter Module ; Filter Module ; Filter Module ; Filter Module 
+ Basic ; feBlend ; 6.0publisher=Microsoft ; 1.9 ; rowspan="10" nightlypublisher=WebKit ; rowspan="25" dunno ; 2.0 ; dunno ; rowspan="25" no ; dunno ; 1.0 ; rowspan="25" yes ; rowspan="25" no ; 
+ Basic ; feColorMatrix ; 6.0publisher=Microsoft ; 1.9 ; dunno ; dunno ; 2.0 ; 1.0 ; 1.0 
+ Basic ; feComponentTransfer ; 6.0publisher=Microsoft ; 1.9 ; dunno ; dunno ; 2.0 ; ; 1.0 
+ Basic ; feComposite ; 6.0publisher=Microsoft ; 1.9 ; dunno ; dunno ; 2.0 ; ; 1.0 
+ Basic ; feFlood ; 6.0publisher=Microsoft ; 1.9 ; dunno ; dunno ; 2.0 ; ; 1.0 
+ Basic ; feGaussianBlur ; 6.0publisher=Microsoft ; 1.9 ; dunno ; dunno ; 2.0 ; 1.0 ; 1.0 
+ Basic ; feImage ; 6.0publisher=Microsoft ; 1.9 ; dunno ; dunno ; 2.0 ; 1.0 ; 1.0 
+ Basic ; feMerge ; 6.0publisher=Microsoft ; 1.9 ; dunno ; dunno ; 2.0 ; ; 1.0 
+ Basic ; feOffset ; 6.0publisher=Microsoft ; 1.9 ; dunno ; dunno ; 2.0 ; 1.0 ; 1.0 
+ Basic ; feTile ; 6.0publisher=Microsoft ; 1.9 ; dunno ; dunno ; 2.0 ; ; 1.0 
+ Full ; filter ; 6.0publisher=Microsoft ; 1.9 ; nightly ; dunno ; 2.0 ; dunno ; ; 1.0 
+ Full ; feConvolveMatrix ; 6.0publisher=Microsoft ; 1.9 ; nightlypublisher=WebKit ; dunno ; 2.0 ; dunno ; ; 1.0 
+ Full ; feDiffuseLighting ; 6.0publisher=Microsoft ; 1.9 ; nightlypublisher=WebKit ; dunno ; 2.0 ; dunno ; ; 1.0 
+ Full ; feDisplacementMap ; 6.0publisher=Microsoft ; 1.9 ; rowspan="3" nightly ; dunno ; 2.0 ; dunno ; ; 1.0 
+ Full ; feMergeNode ; 6.0publisher=Microsoft ; 1.9 ; dunno ; dunno ; 2.0 ; ; 1.0 
+ Full ; feMorphology ; 6.0publisher=Microsoft ; 1.9 ; dunno ; dunno ; 2.0 ; ; 1.0 
+ Full ; feSpecularLighting ; 6.0publisher=Microsoft ; 1.9 ; nightlypublisher=WebKit ; dunno ; 2.0 ; dunno ; ; 1.0 
+ Full ; feTurbulence ; 6.0publisher=Microsoft ; 1.9 ; nightlypublisher=WebKit ; dunno ; 2.0 ; dunno ; ; 1.0 
+ Full ; feDistantLight ; 6.0publisher=Microsoft ; 1.9 ; rowspan="3" no ; dunno ; 2.0 ; dunno ; ; 1.0 
+ Full ; fePointLight ; 6.0publisher=Microsoft ; 1.9 ; dunno ; dunno ; 2.0 ; ; 1.0 
+ Full ; feSpotLight ; 6.0publisher=Microsoft ; 1.9 ; dunno ; dunno ; 2.0 ; ; 1.0 
+ Full ; feFuncR ; 6.0publisher=Microsoft ; 1.9 ; rowspan="4" nightly ; dunno ; 2.0 ; dunno ; ; 1.0 
+ Full ; feFuncG ; 6.0publisher=Microsoft ; 1.9 ; dunno ; dunno ; 2.0 ; ; 1.0 
+ Full ; feFuncB ; 6.0publisher=Microsoft ; 1.9 ; dunno ; dunno ; 2.0 ; ; 1.0 
+ Full ; feFuncA ; 6.0publisher=Microsoft ; 1.9 ; dunno ; dunno ; 2.0 ; ; 1.0 
+ Profile ; Element ; Trident ; Gecko ; WebKit ; Blink ; Presto ; KSVG ; Prince XML ; Amaya ; Adobe SVG Viewer ; Batik ; Renesis ;LeonLabs 
+ Cursor Module ; Cursor Module ; Cursor Module ; Cursor Module ; Cursor Module ; Cursor Module ; Cursor Module ; Cursor Module ; Cursor Module ; Cursor Module ; Cursor Module ; Cursor Module 
+ Full ; cursor ; nopublisher=Microsoft ; nopublisher=Mozilla ; partial ; dunno ; no ; dunno ; dunno ; dunno ; no ; yes ; 0.6 ; 
+ Hyperlinking Module ; Hyperlinking Module ; Hyperlinking Module ; Hyperlinking Module ; Hyperlinking Module ; Hyperlinking Module ; Hyperlinking Module ; Hyperlinking Module ; Hyperlinking Module ; Hyperlinking Module ; Hyperlinking Module ; Hyperlinking Module 
+ Tiny ; a ; yes ; 1.8 ; 522 ; dunno ; 1.0 ; yes ; 5.1 ; 8.2 ; 1.0 ; yes ; 0.6 ; 1.0 
+ View Module ; View Module ; View Module ; View Module ; View Module ; View Module ; View Module ; View Module ; View Module ; View Module ; View Module ; View Module 
+ Basic ; view ; no ; 15.0publisher=Mozilla ; partial ; dunno ; 2.0 ; dunno ; dunno ; dunno ; 3.0 ; yes ; no ; 1.0 
+ Scripting Module ; Scripting Module ; Scripting Module ; Scripting Module ; Scripting Module ; Scripting Module ; Scripting Module ; Scripting Module ; Scripting Module ; Scripting Module ; Scripting Module ; Scripting Module 
+ Tiny ; script ; yes ; 1.8 ; 522 ; dunno ; 2.0 ; dunno ; dunno ; dunno ; 1.0 ; yes ; 0.5 ; 
+ Animation Module ; Animation Module ; Animation Module ; Animation Module ; Animation Module ; Animation Module ; Animation Module ; Animation Module ; Animation Module ; Animation Module ; Animation Module ; Animation Module 
+ Tiny ; animate ; rowspan="6" no ; 2.0publisher=Mozilla ; no ; rowspan="6" dunno ; 2.0 ; rowspan="2" yes ; rowspan="6" no ; rowspan="5" yes ; 1.0 ; rowspan="6" yes ; rowspan="6" no ; 1.0 
+ Tiny ; set ; rowspan="4" partial ; 2.0publisher=Mozilla ; ; 2.0 ; 1.0 
+ Tiny ; animateMotion ; 2.0publisher=Mozilla ; rowspan="2" no ; 1.0 ; 2.0 ; 1.0 
+ Tiny ; animateTransform ; 2.0 ; 1.0 ; 2.0 ; 1.0 
+ Tiny ; animateColor (deprecated) ; nopublisher=Mozilla ; yes ; ; 2.0 ; 1.0 
+ Tiny ; mpath ; 2.0 ; 522 ; dunno ; dunno ; 2.0 ; 2.0 ; 
+ Font Module ; Font Module ; Font Module ; Font Module ; Font Module ; Font Module ; Font Module ; Font Module ; Font Module ; Font Module ; Font Module ; Font Module 
+ Tiny ; font ; rowspan="10" no ; rowspan="10" nopublisher=Mozilla ; rowspan="4" yes ; rowspan="10" dunno ; 2.0 ; dunno ; dunno ; dunno ; 2.0 ; rowspan="8" yes ; 1.0 ; 1.0 
+ Tiny ; font-face ; 1.0 ; dunno ; dunno ; dunno ; droppedgroup=note ; 2.0 ; 1.0 
+ Tiny ; glyph ; 1.0 ; dunno ; dunno ; dunno ; 1.0 ; 2.0 ; 1.0 
+ Tiny ; missing-glyph ; 1.0 ; dunno ; dunno ; dunno ; 1.0 ; 2.0 ; 1.0 
+ Full ; hkern ; nightlypublisher=WebKit ; 2.0 ; dunno ; dunno ; dunno ; rowspan="6" no ; 2.0 ; 1.0 
+ Full ; vkern ; nightlypublisher=WebKit ; 2.0 ; dunno ; dunno ; dunno ; 2.0 ; 1.0 
+ Full ; font-face-src ; rowspan="4" yes ; no ; dunno ; dunno ; dunno ; rowspan="4" no ; 1.0 
+ Full ; font-face-uri ; 2.0 ; dunno ; dunno ; dunno ; 1.0 
+ Full ; font-face-format ; rowspan="2" no ; dunno ; dunno ; dunno ; no ; 1.0 
+ Full ; font-face-name ; dunno ; dunno ; dunno ; yes ; 1.0 
+ Extensibility Module ; Extensibility Module ; Extensibility Module ; Extensibility Module ; Extensibility Module ; Extensibility Module ; Extensibility Module ; Extensibility Module ; Extensibility Module ; Extensibility Module ; Extensibility Module ; Extensibility Module 
+ Full ; foreignObject ; no ; 1.9 ; 522 ; dunno ; 2.0 ; dunno ; no ; 7.2 ; no ; no ; no ; no 
+ Profile ; Element ; Trident ; Gecko ; WebKit ; Blink ; Presto ; KSVG ; Prince XML ; Amaya ; Adobe SVG Viewer ; Batik ; Renesis ;LeonLabs 

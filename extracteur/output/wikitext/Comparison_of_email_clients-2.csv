@@ -1,0 +1,53 @@
+ Client ; Microsoft Windows ; macOS ; Linux ; BSD ; Unix ; DOS ; Other 
+ rh| Alpine ; yes ; yes ; yes ; yes ; yes ; no ; no 
+ rh| Apple Mail ; no ; yes ; no ; no ; no ; no ; no 
+ rh| Balsa ; no ; no ; yes ; yes ; no ; no ; no 
+ rh| Becky! Internet Mail ; yes ; no ; no ; no ; no ; no ; no 
+ rh| Citadel ; no ; yes ; yes ; yes ; yes ; no ; no 
+ rh| Claws Mail ; yes ; yes ; yes ; yes ; yes ; no ; no 
+ rh| Cone ; no ; yes ; yes ; yes ; yes ; no ; no 
+ rh2| Courier ; yes ; no ; no ; no ; no ; no ; no 
+ rh| Elm ; no ; yes ; yes ; yes ; yes ; no ; no 
+ rh| eM Client ; yes ; yes ; no ; no ; no ; no ; no 
+ rh| EmailTray ; yes ; no ; no ; no ; no ; no ; no 
+ rh2| Eudora ; yes ; yes ; no ; no ; no ; no ; no 
+ rh| Evolution ; no Evolution_nowin ; no ; yes ; yes ; yes ; no ; no 
+ rh| Forté Agent ; yes ; no ; no ; no ; no ; no ; no 
+ rh| Geary ; no ; no ; yes ; yes ; yes ; no ; no 
+ rh| Gnus ; yes ; yes ; yes ; yes ; yes ; yes ; no 
+ rh| GroupWise ; yes ; yes ; yes ; yes ; no ; no ; no 
+ rh| Hiri ; yes ; yes ; yes ; no ; yes ; no ; no 
+ rh| i.Scribe / InScribe ; yes ; yes ; yes ; no ; no ; no ; no 
+ rh| IBM Lotus Notes ; yes ; yes ; yes ; no ; yes ; no ; no 
+ rh| IMP ; yes ; yes ; yes ; yes ; yes ; no ; no 
+ rh| KMail ; no ; yes ; yes ; yes ; yes ; no ; no 
+ rh| Mailbird ; yes ; no ; no ; no ; no ; no ; no 
+ rh| Mailpile ; yes Mailpile_soon ; yes Mailpile_soon ; yes ; yes Mailpile_foss ; yes Mailpile_foss ; no  Mailpile_port ; no  Mailpile_port 
+ rh| mailx ; no ; no ; yes ; yes ; yes ; no ; no 
+ rh2| Microsoft Entourage ; no ; terminated (2008) ; no ; no ; no ; no ; no 
+ rh| Microsoft Office Outlook ; yes ; yes ; no ; no ; no ; no ; no 
+ rh2| Mozilla Mail & Newsgroups ; colspan="5" terminated (1.7.13) ; no ; no 
+ rh| Mozilla Thunderbird ; yes ; yes ; yes ; yes ; yes ; no ; no 
+ rh2| Mulberry ; yes ; yes ; yes ; yes ; yes ; no ; no 
+ rh| Mutt ; yes ; yes ; yes ; yes ; yes ; yes{{cite web|url= Programming Projects and Downloads|accessdate=2007-04-06|archive-url= ; no 
+ rh2| Netscape Messenger ; colspan="5" terminated (4.80) ; no ; no 
+ rh2| Netscape Messenger 9 ; colspan="5" terminated (9.0a1) ; no ; no 
+ rh| nmh / MH ; no ; yes ; yes ; yes ; yes ; no ; no 
+ rh| Opera Mail ; yes ; yes ; yes ; yes ; dunno ; no ; no 
+ rh2| Outlook Express ; included (up to XP) ; no ; no ; no ; no ; no ; no 
+ rh| Pegasus Mail ; yes ; no ; no ; no ; no ; yes ; NetWareNLM 
+ rh2| Pine ; yes ; yes ; yes ; yes ; yes ; terminated (3.96) ; no 
+ rh2| Pocomail ; yes ; no ; no ; no ; no ; no ; no 
+ rh| RoundCube ; yes ; yes ; yes ; yes ; yes ; no ; no 
+ rh| SeaMonkey Mail & Newsgroups ; yes ; yes ; yes ; yes ; yes ; no ; no 
+ rh2| Spicebird ; yes ; planned ; yes ; yes ; no ; no ; no 
+ rh| SquirrelMail ; yes ; yes ; yes ; yes ; yes ; no ; no 
+ rh| Sylpheed ; yes ; yes ; yes ; yes ; yes ; no ; no 
+ rh| The Bat! ; yes ; no ; no ; no ; no ; no ; no 
+ rh| Trojitá ; yes ; yes ; yes ; yes ; yes ; no ; MeeGo 
+ rh2| Turnpike ; yes ; no ; no ; no ; no ; no ; no 
+ rh2| Windows Live Mail ; yes ; no ; no ; no ; no ; no ; no 
+ rh2| Windows Mail ; included (Vista) ; no ; no ; no ; no ; no ; no 
+ rh| YAM ; no ; no ; no ; no ; no ; no ; AmigaOSAROSMorphOS 
+ rh| Zimbra ; yes ; yes ; yes ; yes ; yes ; no ; no 
+ Client ; Microsoft Windows ; macOS ; Linux ; BSD ; Unix ; DOS ; Other 

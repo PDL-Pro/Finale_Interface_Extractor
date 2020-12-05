@@ -1,0 +1,24 @@
+ Name ; CVS ; Git ; Hg ; SVN ; BZR ; TFVC ; Arch ; Perforce ; Fossil 
+ Assembla ; no ; yes ; no ; yes ; no ; no ; no ; yes ; no 
+ Azure DevOps Services ; no ; yes ; no ; no ; no ; yes ; no ; no ; no 
+ Bitbucket ; no ; yes ; Until Feb 2020name=BitBucSer ; no ; no ; no ; no ; no ; no 
+ Buddy ; no ; yes ; no ; no ; no ; no ; no ; no ; no 
+ CloudForge ; no ; yes ; no ; yes ; no ; no ; no ; no ; no 
+ GForge ; yes ; yes ; no ; yes ; no ; no ; no ; no ; no 
+ Gitea ; no ; yes ; no ; no ; no ; no ; no ; no ; no 
+ GitHub ; no ; yes ; no ; partialCollaborating on GitHub with Subversion 路 GitHub. Github.com (2012-06-26). Retrieved on 2015-04-01. ; no ; no ; no ; no ; no 
+ GitLab ; no ; yes ; no ; no ; no ; no ; no ; no ; no 
+ GNU Savannah ; yes ; yes ; yes ; yes ; yespostscript =   ; no ; yes ; no ; no 
+ java.net ; no ; yes ; yes ; yes ; no ; no ; no ; no ; no 
+ Kallithea ; no ; yes ; yes ; no ; no ; no ; no ; no ; no 
+ Launchpad ; Import only ; yes ; Import only ; Import only ; yes ; no ; no ; no ; unk 
+ OSDN ; yes ; yes ; yes ; yes ; yes ; no ; no ; unk ; unk 
+  Ourproject.org ; yes ; no ; no ; yes ; no ; no ; no ; unk ; unk 
+ OW2 Consortium ; yes ; no ; no ; yes ; no ; no ; no ; unk ; unk 
+ Helix TeamHub  ; no ; yes ; yes ; yes ; no ; no ; no ; yes ; no 
+ Phabricator ; no ; yes ; yes ; yes ; no ; no ; no ; no ; no 
+ RhodeCode  ; no ; yes ; yes ; yes ; no ; no ; no ; no ; no 
+ SEUL.org ; yes ; no ; no ; yes ; no ; no ; no ; unk ; unk 
+ SourceForge ; Dropped ; yes ; yes ; yes ; DroppedSourceForge docs for bazaar, Bazaar is no longer available for new projects, they only offer limited support for Bazaar for projects previously using it on the Classic SourceForge system (2013-07-01).;no ; no ; unk ; noFeature Request: Fossil Repositories 
+ Sourcehut ; no ; yes ; yes ; no ; no ; no ; no ; unk ; unk 
+ Name ; CVS ; Git ; Hg ; SVN ; BZR ; TFVC ; Arch ; Perforce ; Fossil 

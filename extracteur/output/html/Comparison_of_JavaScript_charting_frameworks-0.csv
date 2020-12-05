@@ -1,0 +1,57 @@
+Library Name;License;Free;Supported Chart Types;Supported Chart Types;Supported Chart Types;Supported Chart Types;Supported Chart Types;Supported Chart Types;Supported Chart Types;Supported Chart Types;Supported Chart Types;Supported Chart Types;Supported Chart Types;Supported Chart Types;Supported Chart Types;Supported Bar Chart Types;Supported Bar Chart Types;Supported Bar Chart Types;Supported Bar Chart Types;Supported Bar Chart Types;Other Features;Interactivity;Interactivity;Rendering Technologies;Rendering Technologies;Rendering Technologies;Databinding;HTML 5 Canvas
+Library Name;License;Free;Line;Timeline;Scatter;Area;Pie;Donut;Bullet;Radar;Funnel;Gantt;Network;Grouped;Mind Mapping;Stacked;Negative;Discrete;Horizontal;3D;Legends;Mouse Over;onClick;HTML5 Canvas;SVG;VML;AxisXY;WebGL rendering
+amCharts;Proprietary;Free with a link or commercial;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;;
+AnyChart;Proprietary;Free for education and non-profit use. Paid for commercial applications.;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;
+ApexCharts;MIT;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;No;No;No;Yes;;Yes;Yes;Yes;Yes;;Yes;Yes;Yes;No;Yes;No;;
+billboard.js;MIT;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;No;No;No;Yes;;Yes;Yes;Yes;Yes;;Yes;Yes;Yes;No;Yes;No;Yes;
+C3.js;MIT;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;Yes;;Yes;Yes;Yes;Yes;;Yes;Yes;Yes;No;Yes;No;Yes;
+CanvasJS;Proprietary;Free for Personal, Educational and Non-Commercial Uses;Yes;Yes;Yes;Yes;Yes;Yes;No;No;Yes;No;No;No;;Yes;Yes;Yes;Yes;;Yes;Yes;Yes;Yes;No;No;Yes;
+canvasXpress;GPLv3, name/email required for source link;Yes;Yes;No;Yes;Yes;Yes;No;No;No;No;No;Yes;Yes;;Yes;No;No;Yes;;Yes;Yes;Yes;Yes;No;Yes;;
+Chartist;WTFPL or MIT;Yes;Yes;No;Yes;Yes;Yes;Yes;No;No;No;No;No;Yes;;Yes;Yes;Yes;Yes;;No;Yes;Yes;No;Yes;No;;
+Chart.js;MIT;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;No;No;No;Yes;;Yes;Yes;Yes;Yes;;Yes;Yes;Yes;Yes;No;No;No;
+Chart Builder By Livegap;Free;Yes;Yes;No;No;Yes;Yes;Yes;No;Yes;No;No;No;No;;Yes;Yes;No;Yes;;Yes;Yes;Yes;Yes;No;No;;
+Charts 4 PHP;Proprietary;Free basic edition;No;No;Yes;Yes;Yes;No;No;No;No;No;No;Yes;;No;No;Yes;;Yes;Yes;Yes;Yes;No;No;;;
+Cytoscape.js;MIT;Yes;No;No;No;No;No;No;No;No;No;No;Yes;No;;No;No;No;No;;No;Yes;Yes;Yes;No;No;Yes;
+D3.js, formerly Protovis;BSD-3;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;;Yes;Yes;Yes;Yes;;Yes;Yes;Yes;No;Yes;No;Yes;
+dc;Apache 2.0;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;Yes;;Yes;No;No;No;;No;Yes;Yes;No;Yes;No;;
+DevExtreme;Proprietary;Non-commercial or commercial;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;Yes;;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;No;Yes;
+DHTMLX Charts;GPL;Yes;Yes;No;Yes;Yes;Yes;Yes;No;Yes;No;Yes;No;Yes;;Yes;Yes;No;Yes;;Yes;Yes;Yes;Yes;No;Yes;;
+dimple;MIT;Yes;Yes;No;Yes;Yes;Yes;Yes;No;No;No;No;No;Yes;;Yes;Yes;Yes;Yes;;Yes;Yes;Yes;No;Yes;No;Yes;
+Dojo Charting;BSD or AFL;Yes;Yes;No;Yes;Yes;Yes;No;No;No;No;No;No;Yes;;Yes;Yes;No;Yes;;Yes;Yes;Yes;Yes;Yes;Yes;;
+Dygraphs;MIT;Yes;Yes;Yes;No;Yes;No;No;No;No;No;No;No;Yes;;Yes;Yes;Yes;Yes;;Yes;Yes;Yes;Yes;No;No;;
+Echarts;BSD-3;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;No;No;Yes;
+Factmint Charts;Proprietary;Non-commercial or commercial;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;No;No;;Yes;Yes;Yes;;Yes;Yes;Yes;No;Yes;No;;;
+Flot Charts;MIT;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;No;;Yes;No;No;No;;Yes;Yes;Yes;Yes;No;No;;
+Flotr2;MIT;Yes;Yes;No;Yes;No;Yes;No;No;Yes;No;No;No;Yes;;Yes;Yes;No;Yes;;Yes;Yes;Yes;Yes;No;No;;
+FusionCharts;Proprietary;Free for personal and non-commercial uses. Paid for commercial applications.;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;;Yes;Yes;Yes;;Yes;Yes;Yes;No;Yes;Yes;;;
+Google Charts;Free;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;Yes;Yes;Yes;Yes;;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;
+gRaphael;MIT;Yes;Yes;No;Yes;No;Yes;No;No;No;No;No;No;Yes;;Yes;No;No;Yes;;Yes;Yes;No;No;Yes;No;;
+Highcharts, Highstock;Proprietary;Free for personal and non-commercial uses. Paid for commercial applications.;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;
+JenScript;BSD-3;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;Yes;Yes;Yes;;Yes;Yes;Yes;Yes;;Yes;Yes;Yes;No;Yes;No;Yes;
+jqPlot;MIT or GPLv2;Yes;Yes;No;Yes;Yes;Yes;Yes;No;No;No;No;No;Yes;;Yes;Yes;No;Yes;;Yes;Yes;Yes;Yes;No;No;;
+jqxChart;Proprietary;Free with a link or commercial;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;Yes;;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;;
+JSCharting;Proprietary;Free with branding;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;No;Yes;No;;
+KoolChart;Proprietary;Free with a link or commercial;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;Yes;;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;
+LightningChart JS;Proprietary;Free for personal and non-commercial uses. Paid for commercial applications.;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;;Yes;No;Yes;Yes;Yes;No;Yes;Yes;Yes;No;;Yes;Yes
+MetricsGraphics;Mozilla Public License Version 2.0;Yes;Yes;No;Yes;Yes;No;No;No;No;No;No;No;Yes;;Yes;No;Yes;Yes;;Yes;Yes;Yes;No;Yes;Yes;;
+MuzeJS;MIT;Yes;No;Yes;Yes;Yes;Yes;No;No;No;No;No;No;Yes;;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;No;Yes;;;
+NextCharts;Apache 2.0;Yes;Yes;No;No;Yes;Yes;No;No;No;No;No;No;Yes;;Yes;Yes;Yes;Yes;;Yes;Yes;Yes;Yes;No;No;Yes;
+NVD3;Apache 2.0;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;Yes;;Yes;Yes;Yes;Yes;;Yes;Yes;Yes;No;Yes;No;;
+OLAPCharts;Proprietary;Free basic edition;No;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;Yes;Yes;;Yes;Yes;Yes;;Yes;Yes;Yes;Yes;No;No;;;
+plotly.js;MIT;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;via Python;Yes;;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;No;;Yes
+PlusCharts;Free;Yes;Yes;No;No;Yes;Yes;No;No;No;No;No;No;Yes;;Yes;No;No;Yes;;Yes;Yes;Yes;No;Yes;Yes;;
+ReactiveChart;MIT;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;No;Yes;Yes;;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;No;Yes;;
+RGraph;MIT;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;;
+rickshaw;MIT;Yes;Yes;No;Yes;Yes;No;No;No;No;No;No;No;Yes;;Yes;No;No;No;;Yes;Yes;No;No;Yes;No;;
+Shield UI;Proprietary;Non-commercial or commercial;No;Yes;Yes;Yes;Yes;No;Yes;No;No;No;Yes;Yes;;Yes;Yes;Yes;;Yes;Yes;Yes;No;Yes;Yes;;;
+Syncfusion;Proprietary;Yes Free or commercial;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;
+TeeChart JS;MIT;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;No;Yes;;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;;
+Vaadin Charts;Proprietary;No;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;No;No;Yes;Yes;;Yes;Yes;Yes;;Yes;Yes;Yes;No;Yes;Yes;;;
+VanCharts;Proprietary;cc-by-nc 4.0 or commercial;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;No;Yes;Yes;;Yes;Yes;Yes;;Yes;Yes;Yes;Yes;No;Yes;;;
+VisJS;Apache 2.0 and MIT;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;Yes;Yes;Yes;;Yes;Yes;No;No;Yes;Yes;Yes;Yes;Yes;No;No;;
+Webcharts;MIT;Yes;Yes;Yes;Yes;No;No;No;Yes;No;No;No;No;Yes;;Yes;No;No;Yes;;Yes;Yes;Yes;No;Yes;No;;
+Webix JS Charts;GPL;Yes;Yes;No;Yes;Yes;Yes;Yes;No;Yes;No;No;No;Yes;;Yes;Yes;No;Yes;;Yes;Yes;Yes;Yes;No;Yes;Yes;
+xcharts;MIT;Yes;Yes;No;No;No;No;No;No;No;No;No;No;Yes;;No;No;No;No;;No;Yes;Yes;No;Yes;No;;
+YUI Charts;BSD-3;Yes;Yes;No;No;Yes;Yes;No;No;No;No;No;No;Yes;;Yes;No;No;No;;Yes;Yes;No;Yes;Yes;Yes;;
+ZingChart;Proprietary;Free with a link or commercial;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;;Yes;Yes;Yes;;Yes;Yes;Yes;Yes;Yes;Yes;Yes;;
+ZoomCharts;Proprietary;Non-commercial or commercial;Yes;Yes;Yes;Yes;Yes;Yes;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;;Yes;Yes;Yes;Yes;Yes;No;;

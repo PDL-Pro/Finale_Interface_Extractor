@@ -1,0 +1,8 @@
+Model (codename);Release Date;Architecture & Fab;Transistors & Die Size;Core;Core;Fillrate;Fillrate;Processing power (GFLOPS);Processing power (GFLOPS);Processing power (GFLOPS);Memory;Memory;Memory;Memory;TBP;Bus interface
+Model (codename);Release Date;Architecture & Fab;Transistors & Die Size;Config;Clock (MHz);Texture (GT/s);Pixel (GP/s);Half;Single;Double;Bus type & width;Size (GiB);Clock (MT/s);Bandwidth (GB/s);TBP;Bus interface
+Radeon Instinct MI6 (Polaris 10);December 2016;GCN 4 gen 14 nm;5.7×10 232 mm;2304:144:32 36 CU;1120 1233;177.6;39.46;5800;5800;358;GDDR5 256-bit;16;7000;224;150 W;PCIe 3.0 x16
+Radeon Instinct MI8 (Fiji XT);December 2016;GCN 3 gen 28 nm;8.9×10 596 mm;4096:256:64 64 CU;1000;256.0;64.0;8200;8200;512;HBM 4096-bit;4;1000;512;175 W;PCIe 3.0 x16
+Radeon Instinct MI25 (Vega 10 XT);December 2016;GCN 5 gen 14 nm;12.5×10 510 mm;4096:256:64 64 CU;1400 1500;384;96.0;24600;12300;768;HBM2 2048-bit;16;1704;436.2;300 W;PCIe 3.0 x16
+Radeon Instinct MI25 mxgpu (Prototype, June 2017);Unreleased;GCN 5 gen 14 nm;2× 12.5×10 510 mm;2× 4096:256:64 64 CU;1400 1500;2× 384;2× 96.0;2× 24600;2× 12300;2× 768;HBM2 2048-bit;2× 16;1704;2× 436.2;300 W;PCIe 3.0 x16
+Radeon Instinct MI50 (Vega 20 GL);November 2018;GCN 5 gen 7 nm;13.2×10 331 mm;3840:240:- 60 CU;1450 1746;419.04;-;26800;13400;6700;HBM2 4096-bit;16;2000;1024;300 W;PCIe 4.0 x16
+Radeon Instinct MI60 (Vega 20 GL);November 2018;GCN 5 gen 7 nm;13.2×10 331 mm;4096:256:- 64 CU;1500 1800;460.8;-;29450;14725;7362.5;HBM2 4096-bit;32;2000;1024;300 W;PCIe 4.0 x16

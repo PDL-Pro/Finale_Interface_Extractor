@@ -1,0 +1,10 @@
+ ; Trident ; Gecko ; WebKit ; Presto 
+ Microdata ; No ; 16.0publisher=Mozilla ; Notitle=Bug 68609 – Implement HTML5 Microdata (master bug) ; yestitle=Web specifications support in Opera Presto 2.9 
+ HTML5 Tokenizer ; 6.0date=6 July 2001 ; 2.0publisher=Mozilla ; yesurl= 39259 – MASTER: WebKit needs an HTML5 Tokenizer ; 2.10url-status=dead  
+ HTML5 Tree Builder ; 6.0date=6 July 2001 ; 2.0publisher=Mozilla ; yes ; 2.10url-status=dead  
+ HTML5 Fragment Parser ; 6.0date=6 July 2001 ; 2.0publisher=Mozilla ; yes ; 2.10url-status=dead  
+ a rel="noreferrer" ; No ; 33.0publisher=Mozilla ; Yesurl-status=dead   ; No 
+ window.onhashchange ; 4.0publisher=Microsoft ; 1.9.2publisher=Mozilla ; 528publisher=WebKit ; 2.6archiveurl= June 2010 
+ element.classList ; No ; 1.9.2publisher=Mozilla ; Yespublisher=WebKit ; 2.8 
+ dir="auto" ; No ; 20.0publisher=Mozilla ; 528+publisher=WebKit ; No 
+ ; Trident ; Gecko ; WebKit ; Presto 

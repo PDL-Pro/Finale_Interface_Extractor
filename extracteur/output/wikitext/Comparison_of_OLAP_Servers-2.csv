@@ -1,0 +1,15 @@
+ OLAP server ; XML for Analysis ; OLE DB for OLAP ; MDX ; Stored procedures ; Custom functions ; SQL ; LINQ ; Visualization ; JSON ; REST API 
+Apache Kylin ; No ; No ; No ; No ; Yes ; Yes ; ;Superset, Zeppelin, Tableau, Qlik, Redash, Microsoft Excel ; Yes ; Yes 
+ClickHouse ; No ; No ; No ; No ; Yes ; Yes ; No ; Superset, Zeppelin, Tableau, Qlik, Redash, DataLens ; Yes ; Yes 
+ Druid ; No ; No ; No ; No ; Yes ; Druid SQL ; No ; Superset, Pivot, Redash ; Yes ; Yes 
+ Essbase ; Yes ; Yes ; Yes ; Yes ; Yes ; No ; Yes ; SmartView (Excel-AddIn), Oracle Analytics Cloud, Narrative Reporting ; dunno ; dunno 
+ IBM Cognos TM1 ; Yes ; Yes ; Yes ; Yes ; Yes ; No ; Yes ; TM1 Web/TM1 Contributor, IBM Cognos Insight, IBM Performance Modeler, IBM Cognos Cafe for Excel, Cognos BI, TM1 Perspectives for Excel ; Yes ; Yes 
+ icCube ; Yes ; Yes ; Yes ; Java, R ; Yes ; In the reporting ; Yes ;  icCube reporting and all XMLA compliant visualization tools like Excel, etc ; Yes ; Yes 
+ Jedox OLAP Server ; Yes ; Yes ; Yes ; Cube Rules, SVS Triggers ; Yes ; No ; Yes ; Microsoft Excel, Qlik, Tableau, Jedox Web, Power BI ; No ; Yes 
+Kyvos  ; Yes ; Yes ; Yes ; No ; Yes ; Yes ; No ; Kyvos Insights, Microsoft Excel, Qlik, Tableau, Power BI, MicroStrategy, IBM Cognos, Business Objects ; Yes ; Yes 
+ Microsoft Analysis Services ; Yes ; Yes ; Yes ; .NET ; Yes ; Yes ; Yes ; Microsoft Excel, SharePoint, Microsoft Power BI, and 70+ other visualization tools ; No ; No 
+ MicroStrategy Intelligence Server ; Yes ; No ; Yes ; Yes ; Yes ; Yes ; Yes ; Dossier, Dashboard, Reports ; Yes ; Yes 
+ Mondrian OLAP server ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; dunno ; dunno 
+ Oracle Database OLAP Option ; No ; Yes ; Yes ; Java, PL/SQL, OLAP DML ; Yes ; Yes ; No ; dunno ; dunno ; dunno 
+ SAP NetWeaver BW ; Yes ; Yes ; Yes ; No ; Yes ; No ; Yes ; dunno ; dunno ; dunno 
+ SAS OLAP Server ; Yes ; Yes ; Yes ; No ; No ; No ; Yes ; Web Report Studio ; dunno ; dunno 

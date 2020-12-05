@@ -1,0 +1,48 @@
+ ; Austria ; Belgium ; Czechia ; Denmark ; Estonia ; Finland ; France ; Germany ; Greece ; Hungary ; Iceland ; Ireland ; Italy ; Luxembourg ; Moldova ; Netherlands ; Norway ; Poland ; Portugal ; Romania ; RussiaBelarus ; Slovakia ; Slovenia ; Spain ; Sweden ; SwitzerlandLiechtenstein ; Turkey ; Ukraine ; UK ; Åland 
+ Give Way ahead ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Stop ahead ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Traffic signals ahead ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; or ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Roundabout ahead ;  ; NOTUSED ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ; or(mini-roundabout) ;  ;  ;  ;  ;  ;  ;  ;  ;  ; DEFUNCT ;  ;  ;  ; REPLACEDby signNo. 4.54 ;  ;  ;  ;  
+ Two-way traffic ahead ;  ;  ;  ;  ; or ;  ;  ;  ;  ;  ;  ; or ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; or ;  
+ Traffic queues likely ahead ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED 
+ Level crossing without barriers ahead ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED 
+ Level crossing with barriers ahead ;  ;  ;  ;  ;  ;  ;  ; (until 2022) ;  ;  ; NOTUSED ; or(no lights) ;  ;  ;  ;  ;  ;  ;  ;  ;  ; DEFUNCT ;  ;  ;  ;  ;  ;  ;  ; NOTUSED 
+ Level crossing (one track) ;  ;  ;  ;  ;  ;  ;  ; (overhead wires) ;  ;  ; NOTUSED ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ; and ;  ;  ;  ;  ;  ;  ;  ;  ; (ungated) ; NOTUSED 
+ Level crossing (multiple tracks) ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ; NOTUSED ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ; and ;  ; DEFUNCT ;  ;  ;  ; DEFUNCT ;  ;  ; (ungated)DEFUNCT ; NOTUSED 
+ ; Austria ; Belgium ; Czechia ; Denmark ; Estonia ; Finland ; France ; Germany ; Greece ; Hungary ; Iceland ; Ireland ; Italy ; Luxembourg ; Moldova ; Netherlands ; Norway ; Poland ; Portugal ; Romania ; RussiaBelarus ; Slovakia ; Slovenia ; Spain ; Sweden ; SwitzerlandLiechtenstein ; Turkey ; Ukraine ; UK ; Åland 
+ Tram crossing ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; DEFUNCT ;  ;  ;  ;  ;  ;  ;  ; NOTUSED 
+ Crossroads with priority to the right ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ; (dangerouscrossroads) ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  
+ Crossroads with a minor road ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Junction with a minor road ;  ;  ;  ;  ;  ;  ; NOTUSED ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; DEFUNCT ;  ;  ;  ;  
+ Merging traffic ; NOTUSED ; NOTUSED ; NOTUSED ; NOTUSED ; NOTUSED ;  ; NOTUSED ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ; NOTUSED ;  ;  ; NOTUSED ;  ; NOTUSED ;  ;  ;  ; DEFUNCT ; NOTUSED ; NOTUSED ;  ;  
+ Road narrows on both sides ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Road narrows on one side ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Dangerous crosswinds ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; DEFUNCT ;  ;  ;  ;  
+ Low-flying aircraft ; (until 2022) ;  ;  ; or ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; ;  ;  ;  ;  ;  ;  ; DEFUNCT ;  ;  ;  ; DEFUNCT ;  ;  ; or ;  
+ Steep descent ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Steep ascent ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ ; Austria ; Belgium ; Czechia ; Denmark ; Estonia ; Finland ; France ; Germany ; Greece ; Hungary ; Iceland ; Ireland ; Italy ; Luxembourg ; Moldova ; Netherlands ; Norway ; Poland ; Portugal ; Romania ; RussiaBelarus ; Slovakia ; Slovenia ; Spain ; Sweden ; SwitzerlandLiechtenstein ; Turkey ; Ukraine ; UK ; Åland 
+ Road hump ahead ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; DEFUNCT ;  ;  ;  ;  ;  ;  ;  ;  
+ Uneven road ahead ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Bend ahead ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Double bend ahead ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Slippery road surface ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Loose road surface ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Soft verges ;  ; NOTUSED ;  ;  ;  ;  ; NOTUSED ; (until 2022) ;  ;  ;  ;  ;  ;  ; ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  
+ Children ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Pedestrian crossing ahead ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Cyclists ahead ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Falling rocks or debris ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ ; Austria ; Belgium ; Czechia ; Denmark ; Estonia ; Finland ; France ; Germany ; Greece ; Hungary ; Iceland ; Ireland ; Italy ; Luxembourg ; Moldova ; Netherlands ; Norway ; Poland ; Portugal ; Romania ; RussiaBelarus ; Slovakia ; Slovenia ; Spain ; Sweden ; SwitzerlandLiechtenstein ; Turkey ; Ukraine ; UK ; Åland 
+ Snow or ice ;  ;  ;  ;  ;  ; NOTUSED ; NOTUSED ; ;  ;   ;  ;  ;  ;  ; ;  ;  ;  ;  ;  ; (Belarus) ;  ;  ;  ; NOTUSED ; The slippery road surface sign is permanent and the lower plate is added temporarily. ;  ;  ;  ; NOTUSED 
+ Fog likely ;  ; ;  ;  ; ;  ; NOTUSED ; ;  ;  ; ;  ; ;  ;  ;  ;  ; NOTUSED ;  ;  ; NOTUSED ; DEFUNCT ;  ;  ; NOTUSED ; Plate below danger sign reads one of either: Nebel, brouillard, nebbia ;  ; ; NOTUSED ; NOTUSED 
+ Opening or swing bridge ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ; ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ; NOTUSED ;  ;  ;  ;  
+ Unprotected quayside or riverbank ;  ;  ;  ;  ;  ;  ;  ;  ;  ; or ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ; NOTUSED ;  ;  ; or ;  
+ Domestic animals ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ; ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Wild animals ;  ;  ;  ;  ;  ; or ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Tunnel ahead ; NOTUSED ; NOTUSED ;  ;  ; NOTUSED ; NOTUSED ; NOTUSED ; NOTUSED ;  ;  ;  ;  ; NOTUSED ; NOTUSED ;  ; NOTUSED ;  ; NOTUSED ;  ;  ;  ; DEFUNCT ;  ; NOTUSED ;  ; REPLACEDby signno. 4.07aThis sign (no. 4.07a) is the announcement of a tunnel, the distance indicated tells the distance to tunnel entrance, not its length. Not to be mismatched with sign no. 4.07! ;  ;  ;  ;  
+ Accident area / accident ahead ; NOTUSED ; NOTUSED ;  ; NOTUSED ;  ; NOTUSED ;  ;  ; NOTUSED ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ;  ; (Belarus) ; DEFUNCT ;  ;  ;  ; Plate below danger sign reads one of either: Unfall, accident, incidente ; NOTUSED ; or ;  ; NOTUSED 
+ Roadworks ahead ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Other danger ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Other danger (temporary) ; NOTUSED ; NOTUSED ; NOTUSED ; NOTUSED ;  ; NOTUSED ;  ; NOTUSED ;  ; NOTUSED ; NOTUSED ; NOTUSED ;  ; NOTUSED ;  ; NOTUSED ;  ; NOTUSED ;  ; NOTUSED ; NOTUSED ; NOTUSED ; NOTUSED ;  ; NOTUSED ; NOTUSED ;  ; NOTUSED ; NOTUSED ; NOTUSED 
+ ; Austria ; Belgium ; Czechia ; Denmark ; Estonia ; Finland ; France ; Germany ; Greece ; Hungary ; Iceland ; Ireland ; Italy ; Luxembourg ; Moldova ; Netherlands ; Norway ; Poland ; Portugal ; Romania ; RussiaBelarus ; Slovakia ; Slovenia ; Spain ; Sweden ; SwitzerlandLiechtenstein ; Turkey ; Ukraine ; UK ; Åland 

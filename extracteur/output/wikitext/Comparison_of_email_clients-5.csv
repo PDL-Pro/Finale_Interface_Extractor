@@ -1,0 +1,48 @@
+ Client ; Regular ; Regular ; MSN (NTLM) browser login ; Compuserve (RPA) ; MD5 APOPAPOP ; CRAM-HMACHMAC ; CRAM-HMACHMAC ; CRAM-HMACHMAC ; DIGEST-MD5 ;SCRAM ; with hardware token PKCS#11 ; Biometric ; SMTP AuthSMTPAUTH ; X.509 Client certificate ; OAuth 
+ Client ; LOGIN ; PLAIN ; MSN (NTLM) browser login ; Compuserve (RPA) ; MD5 APOPAPOP ; MD5 ; SHA1 ; RIPEMD ; DIGEST-MD5 ;SCRAM ; with hardware token PKCS#11 ; Biometric ; SMTP AuthSMTPAUTH ; X.509 Client certificate ; OAuth 
+ rh| Alpine ; yes ; yes ; no ; no ; no ; yes ; no ; no ; no ; dunno ; no ; no ; yes ; no ; dunno 
+ rh| Apple Mail ; yes ; yes ; no ; no ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; yes ; yes ; yes ; yes AppleMailOAuth 
+ rh| Becky! Internet Mail ; yes ; yes ; yes ; dunno ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; yes ; yes ; dunno 
+ rh| Citadel ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Claws Mail ; yes ; yes ; dunno ; dunno ; yes ; yes ; dunno ; dunno ; yes  ; yes ; no ; dunno ; yes ; no ; dunno 
+ rh| Cone ; yes ; yes ; no ; no ; no ; yes ; yes ; no ; no ; dunno ; no ; no ; yes ; yes ; dunno 
+ rh2| Courier ; yes ; yes ; yes ; no ; yes ; yes ; yes ; no ; yes ; dunno ; no ; no ; yes ; yes ; dunno 
+ rh| Elm ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| eM Client ; yes ; yes ; yes ; no ; no ; yes ; no ; no ; yes ; dunno ; no ; no ; yes ; no ; yes 
+ rh| EmailTray ; yes ; yes ; dunno ; dunno ; yes ; yes ; yes ; no ; dunno ; dunno ; no ; no ; yes ; no ; dunno 
+ rh2| Eudora ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; no ; dunno ; no ; no ; no ; dunno ; dunno 
+ rh| Evolution ; yes ; yes ; yes ; no ; yes ; yes ; no ; no ; yes ; dunno ; no ; no ; yes ; no ; dunno 
+ rh| Gnus ; yes ; yes ; dunno ; dunno ; yes ; yes ; yes ; dunno ; yes ; dunno ; dunno ; dunno ; yes ; dunno ; dunno 
+ rh| GroupWise ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Hiri ; yes ; yes ; yes ; no ; no ; no ; no ; no ; no ; dunno ; no ; no ; no ; no ; yes 
+ rh| i.Scribe / InScribe ; yes ; yes ; yes ; no ; yes ; no ; no ; no ; no ; dunno ; no ; no ; yes ; no ; yes 
+ rh| IBM Lotus Notes ; yes ; dunno ; yes ; no ; no ; no ; dunno ; dunno ; dunno ; dunno ; yes ; no ; yes ; dunno ; dunno 
+ rh| KMail ; yes ; yes ; yes ; no ; yes ; yes ; no ; no ; yes ; dunno ; no ; no ; yes ; yes ; dunno 
+ rh| Mailpile ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Microsoft Entourage ; yes ; no ; yes ; dunno ; dunno ; Yes ; dunno ; dunno ; dunno ; dunno ; Yes ; dunno ; Yes ; Yes ; dunno 
+ rh| Microsoft Office Outlook ; yes ; no ; yes ; no ; no ; no ; no ; no ; no ; dunno ; no ; no ; yes ; no ; dunno 
+ rh2| Mozilla Mail & Newsgroups ; yes ; dunno ; dunno ; yes ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Mozilla Thunderbird ; yes ; yes ; yes ; no ; yes ; yes ; no ; no ; no ; dunno ; yes ; no ; yes ; yes ; yes 
+ rh2| Mulberry ; yes ; yes ; yes ; no ; no ; yes ; no ; no ; yes ; dunno ; no ; no ; yes ; yes ; dunno 
+ rh| Mutt ; yes ; yes ; yes ; dunno ; yes ; yes ; no ; no ; yes ; dunno ; no ; no ; 1.5.15 ; yes ; 1.10.1 
+ rh2| Netscape Messenger ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Netscape Messenger 9 ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| nmh / MH ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Opera Mail ; yes ; yes ; no ; no ; yes ; yes ; no ; dunno ; dunno ; dunno ; no ; no ; yes ; yes ; dunno 
+ rh2| Outlook Express ; yes ; no ; yes ; no ; no ; no ; no ; no ; no ; dunno ; no ; no ; yes ; no ; dunno 
+ rh| Pegasus Mail ; yes ; dunno ; no ; no ; yes ; no ; no ; no ; no ; dunno ; no ; no ; yes ; yes ; dunno 
+ rh2| Pine ; yes ; yes ; no ; no ; no ; yes ; no ; no ; no ; dunno ; no ; no ; yes ; no ; dunno 
+ rh2| Pocomail ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| RoundCube ; yes ; yes ; dunno ; dunno ; yes ; yes ; yes ; dunno ; yes ; dunno ; yes ; dunno ; yes ; dunno ; dunno 
+ rh| SeaMonkey Mail & Newsgroups ; yes ; yes ; yes ; no ; yes ; yes ; no ; no ; no ; dunno ; yes ; no ; yes ; yes ; dunno 
+ rh| SquirrelMail ; yes ; yes ; dunno ; dunno ; yes ; yes ; yes ; dunno ; yes ; dunno ; yes ; dunno ; yes ; dunno ; dunno 
+ rh| Sylpheed ; yes ; yes ; no ; no ; yes ; yes ; no ; no ; no ; dunno ; no ; no ; yes ; no ; no 
+ rh| The Bat! ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; no ; dunno ; yes TheBat ; yes TheBat ; yes ; no ; yes 
+ rh| Trojitá ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; dunno ; no ; no ; yes ; no ; dunno 
+ rh2| Turnpike ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Windows Live Mail ; yes ; no ; yes ; no ; yes ; no ; no ; no ; no ; dunno ; no ; no ; no ; no ; no 
+ rh2| Windows Mail ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; yes WindowsMailOAuth 
+ rh| YAM ; yes ; yes ; dunno ; dunno ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; yes ; AmiSSL ; dunno 
+ rh| Zimbra ; yes ; yes ; dunno ; dunno ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; yes Zimbra ; dunno ; dunno 
+ Client ; Regular ; Regular ; MSN (NTLM) browser login ; Compuserve (RPA) ; MD5 APOPAPOP ; CRAM-HMACHMAC ; CRAM-HMACHMAC ; CRAM-HMACHMAC ; DIGEST-MD5 ;SCRAM ; with hardware token PKCS#11 ; Biometric ; SMTP AuthSMTPAUTH ; SSL/TLS Client Certificate ; OAUTH 
+ Client ; LOGIN ; PLAIN ; MSN (NTLM) browser login ; Compuserve (RPA) ; MD5 APOPAPOP ; MD5 ; SHA1 ; RIPEMD ; DIGEST-MD5 ;SCRAM ; with hardware token PKCS#11 ; Biometric ; SMTP AuthSMTPAUTH ; SSL/TLS Client Certificate ; OAUTH 

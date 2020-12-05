@@ -1,0 +1,13 @@
+ Feature ; Android ; iOS ; Tizen ; Sailfish OS ; Ubuntu Touch 
+Camera focus at specified point ;2.3+;Yes;?;1.0.4+Add capability to tap to focus on a certain area of the image ;Yes 
+Camera exposure metering from specified point ;No,Android Issue 68974: Camera exposure metering from specified point does not work pipe available on some phones.archivedate=2014-05-08;Yes;No;?;No 
+On device picture info (including Exif data) ;Only date and location, more with 3rd party software;Only date and location, more with 3rd party software{{cite web|url= iPhone GPS & Geographic Tagging Data in iPhone Photos|date=2011-11-07|accessdate=2015-04-10|url-status=live|archiveurl=;No;?;Yes 
+On device picture categorization ;Nopipe 3rd party software like TouchWiz;5+;No;?;No 
+On device picture description and search ;NoAndroid Issue 20661: Add a descriptive text to created videos, photos and audio and search for it . Code.google.com (2011-10-09). Retrieved on 2012-07-03.;10+: Items/objects in picture,Photos app on iOS 10: Albums, searching and memories 7+: Only date and locationiOS 8 will help photo search, but won't fix it ;No;?;No 
+Turn off shutter sound ;In silent mode;In silent mode;In silent mode;In silent modeCamera app: setting for turning off shutter sound ;No 
+Picture crop ;Yes;5+;No;Yes;Yes 
+Photo rotation ;Yes;5+;No;Yes;Yes 
+Photo red-eye reduction ;2.3+archivedate=October 19, 2011;5+;No;NoAvoid red eye with flash ;No 
+HDR photos option ;4.2+, some manufacturers earlier;Yes;No;NoCamera: add HDR (High-dynamic-range imaging) support ;Yes 
+Photo/video import from memory cards ;Yes;With Camera Connection Kit;Yes;Yes;Yes 
+Video trim ;2.3+;Yes;No;?;No 

@@ -1,0 +1,49 @@
+ Client ; FTP ; FTP over SSH ; SFTP ; FTPS (FTP over SSL) ; FXP (Site2site transfer) ; DAV / HTTP(S) ; Compression ; Remote Compression ; API / Commandline available ; Resume Download ; Passive mode ; Parallel Transfer{{Cite web|title=Multi-threaded and Segmented FTP · Whatbox|url= ; Segmented Downloads 
+ rh|AbsoluteTelnet ; no ; no ; yes ; no ; no ; no ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh|ALFTP ; yes ; no ; no ; yes ; no ; no ; no ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh|Beyond Compare ; yes ; no ; yes (Pro only) ; yes (Pro only) ; no ; yes (Pro only) ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno 
+ rh|Classic FTP ; yes ; no ; no ; yes ; no ; no ; no ; dunno ; dunno ; dunno ; yes ; dunno ; dunno 
+ rh|Codeanywhere ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno 
+ rh|Commander One ; yes ; no ; yes ; yes ; no ; no ; no ; no ; no ; no ; yes ; dunno ; dunno 
+ rh|CoreFTP ; yes ; yes ; yes ; yes ; Yes ; yes ; yes ; no ; yes ; dunno ; dunno ; dunno ;Yes{{Cite web|title=Core FTP - SFTP client features|url= 
+ rh|CrossFTP ; yes ; yes (Pro only) ; yes (Pro only) ; yes (Pro only) ; yes (Pro only) ; yes (Pro only) ; yes ; dunno ; yes ; yes ; yes ; dunno ; dunno 
+ rh|cURL ; yes ; yes ; yes ; yes ; no ; yes ; yes ; no ; yes (Only) ; yes ; yes ; dunno ; dunno 
+ rh|CuteFTP ; yes ; yes ; yes  ; yes ; yes  ; yes (HTTP(S))  ; yes  ; no ; dunno ; yes ; yes ; dunno ;Yes 
+ rh|Cyberduck ; yes ; no ; yes ; yes ; no ; yes ; no ; yes (SFTP only) ; yes ; yes ; yes ; dunno ; dunno 
+ rh|Directory Opus ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; no ; yes ; yes ; dunno ; dunno 
+ rh|ExpanDrive (Mac) ; yes ; yes ; yes ; yes ; no ; no ; yes ; no ; yes ; dunno ; dunno ; dunno ; dunno 
+ rh|ExpanDrive (Windows) ; yes ; no ; yes ; yes ; no ; no ; dunno ; no ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh|FAR Manager ; yes ; yes ; yes ; yes ; dunno ; yes ; no ; dunno ; dunno ; yes ; yes ; dunno ; dunno 
+ rh|Fetch ; yes ; no ; yes ; yes ; yes ; no ; yes ; no ; no ; yes ; yes ; dunno ; dunno 
+ rh|FileZilla ; yes ; yes ; yes ; yes ; yes ; no ; no ; no ; yes (basic) ; yes ; yes ; dunno ; dunno 
+ rh|FireFTP ; yes ; no ; yes ; yes ; yes ; no ; yes ; no ; no ; yes ; yes ; dunno ; dunno 
+ rh|FlashFXP ; yes ; yes ; yes ; yes ; yes ; no ; yes ; no ; yes ; yes ; yes ; dunno ; dunno 
+ rh|Fling FTP ; yes ; no ; no ; yes ; no ; no ; no ; yes ; yes ; dunno ; dunno ; dunno ; dunno 
+ rh| ForkLift ; yes ; no ; yes ; yes ; yes ; yes ; yes ; no ; no ; yes ; yes ; dunno ; dunno 
+ rh|FTP Client ; yes ; no ; yes ; yes ; yes ; no ; no ; no ; no ; yes ; dunno ; dunno ; dunno 
+ rh|FTP Commander ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh|FTP Explorer ; yes ; no ; no ; no ; dunno ; dunno ; no ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| FTP Voyager ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno 
+ rh|Fugu ; no ; no ; yes ; no ; no ; no ; no ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh|gFTP ; yes ; yes ; yes ; yes (control connection only) ; yes ; dunno ; no ; dunno ; yes ; dunno ; dunno ; dunno ; dunno 
+ rh|Interarchy ; yes ; yes ; yes ; yes ; yes ; yes ; no ; dunno ; dunno ; yes ; yes ; dunno ; dunno 
+ rh|LeechFTP ; yes ; no ; no ; no ; no ; no ; no ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh|lftp ; yes ; yes ; yes ; yes ; yes ; yes (Partial) ; no ; no ; yes ; yes ; dunno ; dunno ;Yes 
+ rh|Macfusion ; yes ; dunno ; yes ; no ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh|Macfusion ; yes ; dunno ; yes ; no ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh|NcFTP ; yes ; no ; no ; dunno ; dunno ; dunno ; no ; dunno ; yes ; dunno ; yes ; dunno ; dunno 
+ rh|pbFtpClient ; yes ; yes ; yes ; yes ; no ; no ; yes ; no ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh|PSFTP (PuTTY) ; no ; no ; yes ; no ; no ; no ; no ; no ; yes ; yes ; dunno ; dunno ; dunno 
+ rh|Secure FTP ; yes ; no ; no ; yes ; no ; no ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno 
+ rh|SmartFTP ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes ; yes ; dunno ;Yes 
+ rh|Steed ; yes ; no ; yes ; yes ; no ; no ; no ; no ; no ; dunno ; yes ; dunno ; dunno 
+ rh|Sysax FTP Automation ; yes ; no ; yes ; yes ; no ; no ; yes  ; no ; yes (script and command line) ; dunno ; dunno ; dunno ; dunno 
+ rh|Total Commander ; yes ; yes ; yes (plugin) ; yes ; yes ; yes (plugin) ; yes ; dunno ; yes ; yes ; yes ; dunno ; dunno 
+ rh|Transmit ; yes ; no ; yes ; yes ; yes ; yes ; no ; dunno ; yes (AppleScript) ; yes ; yes ; dunno ; dunno 
+ rh|WebDrive ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes (SFTP) ; yes ; yes ; yes ; dunno ; dunno 
+ rh|Windows 7 (ftp.exe) ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; dunno ; no ; dunno ; dunno 
+ rh|WinSCP ; yes ; yes ; yes ; yes ; no ; yes ; yes (SFTP only) ; yes (SCP command) ; yes ; yes ; yes ; yes ; no 
+ rh|WISE-FTP ; yes ; no ; yes ; yes ; yes ; no ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh|WS_FTP ; yes ; yes (Pro only) ; yes (Pro only) ; yes ; yes (Pro only) ; yes ; yes (Pro only) ; no ; yes (Pro only) ; yes (Pro only) ; yes ; dunno ; dunno 
+ rh|Yummy FTP ; yes ; no ; yes ; yes ; yes ; yes ; yes ; yes ; yes (AppleScript) ; yes ; yes ; dunno ; dunno 
+ Client ; FTP ; FTP over SSH ; SFTP ; FTPS (FTP over SSL) ; FXP (Site2site transfer) ; DAV / HTTP(S) ; Compression ; Remote Compression ; API / Commandline available ; Resume Download ; Passive mode ; Parallel Transfer ; Segmented Downloads 

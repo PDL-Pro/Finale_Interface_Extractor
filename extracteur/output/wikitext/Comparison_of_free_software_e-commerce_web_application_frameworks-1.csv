@@ -1,0 +1,19 @@
+ ;Flat file ;MySQL ;MySQLi ;PostgreSQL ;MSSQL ;Oracle ;SQLite ;Firebird ;Apache Derby ;MongoDB 
+ Apache OFBiz ; no ; yes ; no ; yes ; yes ; yes ; no ; yes ; yes ; no 
+ Batavi ; no ; yes ; no ; no ; no ; no ; no ; no ; no ; no 
+ Bigcommerce ; no ; yes ; no ; yes ; no ; no ; no ; no ; no ; no 
+ Drupal Commerce ; no ; yes ; yes ; yes ; no ; no ; yes ; no ; no ; discontinued 
+ KonaKart ; no ; yes ; no ; yes ; yes ; yes ; no ; no ; no ; no 
+ Magento ; no ; yes ; yes ; no ; no ; no ; no ; no ; no ; no 
+ nopCommerce ; no ; no ; no ; no ; yes ; no ; no ; no ; no ; no 
+ OpenCart ; no ; yes ; yes ; no ; no ; no ; no ; no ; no ; no 
+ osCommerce ; no ; yes ; no ; no ; no ; no ; no ; no ; no ; no 
+ pimcore ; no ; yes ; no ; no ; no ; no ; no ; no ; no ; no 
+ PrestaShop ; no ; yes ; yes ; no ; no ; no ; no ; no ; no ; no 
+ Shopify ; no ; yes ; yes ; no ; no ; no ; no ; no ; no ; no 
+ Spree Commerce ; no ; yes ; yes ; yes ; no ; no ; yes ; no ; no ; no 
+ SupaDupa ; no ; yes ; yes ; no ; no ; no ; no ; no ; no ; no 
+ WooCommerce ; no ; yes ; yes ; noThere are some discussion for database abstraction in the future for WordPress, specially using PostgreSQL  ; no ; no ; no ; no ; no ; no 
+ X-Cart ; no ; yes ; yes ; yes ; no ; no ; no ; no ; no ; no 
+ Zen Cart ; no ; yes ; yes ; no ; no ; no ; no ; no ; no ; no 
+ ;Flat file ;MySQL ;MySQLi ;PostgreSQL ;MSSQL ;Oracle ;SQLite ;Firebird ;Apache Derby ;MongoDB 

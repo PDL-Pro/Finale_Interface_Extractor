@@ -1,0 +1,23 @@
+ ; AIX ; *BSD ; HP-UX ; Linux ; OS X ; Solaris ; Windows ; Others 
+ rh| Ansible ; yes ; yes ; yes ; yes ; yes ; yes ; yes (Need linux control machine) ; yesaccessdate=May 12, 2015 Can manage any machine with Python 2.4 or later and sshd. Control machine can be any non-Windows machine with Python 2.6 or 2.7 installed. This includes Red Hat, Debian, CentOS, OS X, any of the BSDs, and so on. 
+ rh| Bcfg2 ; partialEncap, RPM, and POSIX file support only ; yesFreeBSD ; no ; yesDebian, Ubuntu, Gentoo, RPM-based distributions (CentOS, Mandrake, Red Hat, RHEL, SLES, SuSE) ; partialPOSIX File, Launchd, and MacPorts Support only ; yes ; no ; no 
+ rh| CFEngine ; yes ; yes ; yes ; yes ; yes ; yes ; yes (Enterprise version only) ; yesUnix 
+ rh| cdist ;  ; yes ;  ; yes ; yes ;  ; no ;  
+ rh| Chef ; yesdate=2013-04-25 ; yes  ; yes ; yes ; yes ; yes ; yesaccessdate=2017-03-15 ; yes  
+ rh| ISconf ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no 
+ rh| Juju ;  ;  ;  ; yes ;  ;  ; yesaccessdate=November 25, 2015 ;  
+ rh| Local ConFiGuration system (LCFG) ; no ; no ; no ; partial"Recent versions run on Fedora Core (3, 5, 6). Various people have ported some of the LCFG core to other Linux distributions, such as Debian, but these ports have not been incorporated" ; partial"There has been an experimental port to OS X, which does work and includes some Mac-specific components. However, this is not production quality and the lack of uniform packaging system under OS X means that automatic management of installed software is likely to be difficult." ; partial"LCFG core has been ported back to Solaris and we are using this in production, although the software has not been packaged for distribution, and is not so well supported" ; no ; no 
+ rh| OCS Inventory NG  ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no 
+ rh| Open pc server integration (Opsi) ; no ; no ; no ; yes ; no ; no ; yes ; no 
+ rh| PIKT ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yesDigital Unix, IRIX 
+ rh| Puppet ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| Quattor ; no ; no ; no ; yes ; partial{{cite web|url= ; yes ; no ; no 
+ rh| Radmind ; yes ; yesNetBSDOpenBSD ; no ; yes ; yes ; yes ; yes ; no 
+ rh| Rex ; ; yes ; ; yes ; yes ; yes ; yes ; no 
+ rh| Rudder ; yes ; partialMultiple users have successfully built and run the agent on FreeBSD, but no official package is available currently ; no ; yes ; partial ; partial ; yes ; yesAndroid 
+ rh| SmartFrog ; noWritten in Java, so should in theory work on this platform if there is the appropriate JVM version available for it, however it has not been tested on the platform, which should be considered unsupported. ; no ; yes ; yes ; yes ; yes ; yes ; no 
+ rh| Salt ; yes ; yes ; partialWill run anywhere Python runs, but handlers for different platforms are untested. ; yes ; yes ; yesSalt was added to the OpenCSW package repository in September of 2012 in version 0.10.2 of Salt ; yes ; partial 
+ rh| Spacewalk ; no ; no ; no ; yes{{cite web|url= ; no ; yes ; no ; no 
+ rh| STAF ; yes4.3.3+ (Power 32), 5.1+ (Power 32/64) ; yesFreeBSD 4.10 (x86-32), FreeBSD 6.1+ (x86-32) ; yes11.00+ (PA-RISC 32, IA-64) ; yes(x86-32, x86-64, IA-64, PPC 64, zSeries 32/64) ; yes10.2+ (?) ; yes2.6+ (Sparc 32), 10+ (x86-32, x86-64) ; yes95, 98, Me, NT4, 2000, XP, 2003, Vista (x86-32), 7 (x86-32), 7 (x86-64), 2003, Vista (x86-64), 2004 (IA-64) ; yesOS/400 5.2+ (iSeries 32), z/OS Unix 1.4+ 
+ rh| Synctool ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yesSynctool runs on any platform that supports SSH, Rsync and Python. 
+ ; AIX ; *BSD ; HP-UX ; Linux ; OS X ; Solaris ; Windows ; Others 

@@ -1,0 +1,77 @@
+ ; ; Trident ; Tasman ; Gecko ; WebKit ; KHTML ; Presto 
+ rh| Interface EventTarget ; rh| Interface EventTarget ; rh| Interface EventTarget ; rh| Interface EventTarget ; rh| Interface EventTarget ; rh| Interface EventTarget ; rh| Interface EventTarget ; rh| Interface EventTarget 
+ DOM2 ; addEventListener() ; 5.0 ; rowspan="3" no ; 1.0 ; rowspan="2" yes ; rowspan="2" yes ; 1.0 
+ DOM2 ; removeEventListener() ; 5.0 ; 1.0 ; 1.0 
+ DOM2 ; dispatchEvent() ; 5.0 ; ? ; 1.0 ; ? ; 1.0 
+ rh| Interface EventListener ; rh| Interface EventListener ; rh| Interface EventListener ; rh| Interface EventListener ; rh| Interface EventListener ; rh| Interface EventListener ; rh| Interface EventListener ; rh| Interface EventListener 
+ DOM2 ; handleEvent() ; ? ; ? ; ? ; ? ; ? ; 1.0 
+ rh| Interface Event ; rh| Interface Event ; rh| Interface Event ; rh| Interface Event ; rh| Interface Event ; rh| Interface Event ; rh| Interface Event ; rh| Interface Event 
+ DOM2 ; type ; 4.0 ; rowspan="2" yes ; 1.0 ; ? ; ? ; 1.0 
+ DOM2 ; target ; rowspan="9" no ; 1.3 ; Incorrect ; ? ; 1.0 
+ DOM2 ; currentTarget ; rowspan="8" no ; 1.0 ; ? ; ? ; 1.0 
+ DOM2 ; eventPhase ; ? ; 1.0 ; ? ; 1.0 
+ DOM2 ; bubbles ; ? ; 1.0 ; ? ; 1.0 
+ DOM2 ; cancelable ; ? ; 1.0 ; ? ; 1.0 
+ DOM2 ; timeStamp ; Yes ; ? ; ? ; 1.0 
+ DOM2 ; stopPropagation() ; 1.0 ; ? ; ? ; 1.0 
+ DOM2 ; preventDefault() ; 1.0 ; ? ; ? ; 1.0 
+ DOM2 ; initEvent() ; 1.0 ; ? ; ? ; 1.0 
+ rh| Exception EventException ; rh| Exception EventException ; rh| Exception EventException ; rh| Exception EventException ; rh| Exception EventException ; rh| Exception EventException ; rh| Exception EventException ; rh| Exception EventException 
+ DOM2 ; code ; no ; no ; 1.0 ; ? ; ? ; 1.0 
+ rh| Interface DocumentEvent ; rh| Interface DocumentEvent ; rh| Interface DocumentEvent ; rh| Interface DocumentEvent ; rh| Interface DocumentEvent ; rh| Interface DocumentEvent ; rh| Interface DocumentEvent ; rh| Interface DocumentEvent 
+ DOM2 ; createEvent() ; no ; no ; 1.0 ; ? ; ? ; 1.0 
+ rh| Interface UIEvent ; rh| Interface UIEvent ; rh| Interface UIEvent ; rh| Interface UIEvent ; rh| Interface UIEvent ; rh| Interface UIEvent ; rh| Interface UIEvent ; rh| Interface UIEvent 
+ DOM2 ; view ; rowspan="3" no ; rowspan="3" no ; rowspan="3" nopublisher=Mozilla ; ? ; ? ; 1.0 
+ DOM2 ; detail ; ? ; ? ; 1.0 
+ DOM2 ; initUIEvent() ; ? ; ? ; 1.0 
+ rh| Events for interface UIEvent ; rh| Events for interface UIEvent ; rh| Events for interface UIEvent ; rh| Events for interface UIEvent ; rh| Events for interface UIEvent ; rh| Events for interface UIEvent ; rh| Events for interface UIEvent ; rh| Events for interface UIEvent 
+ DOM2 ; DOMFocusIn ; rowspan="3" no ; rowspan="3" no ; rowspan="3" no ; ? ; ? ; 1.0 
+ DOM2 ; DOMFocusOut ; ? ; ? ; 1.0 
+ DOM2 ; DOMActivate ; ? ; ? ; 1.0 
+ rh| Interface MouseEvent ; rh| Interface MouseEvent ; rh| Interface MouseEvent ; rh| Interface MouseEvent ; rh| Interface MouseEvent ; rh| Interface MouseEvent ; rh| Interface MouseEvent ; rh| Interface MouseEvent 
+ DOM2 ; screenX ; 4.0 ; rowspan="7" yes ; 1.0 ; rowspan="2" yes ; ? ; 1.0 
+ DOM2 ; screenY ; 4.0 ; ? ; 1.0 ; 1.0 
+ DOM2 ; clientX ; 4.0 ; Incorrect ; 1.0 ; ? ; 1.0 
+ DOM2 ; clientY ; 4.0 ; Incorrect ; 1.0 ; ? ; 1.0 
+ DOM2 ; ctrlKey ; 4.0 ; rowspan="4" yes ; 1.0 ; ? ; 1.0 
+ DOM2 ; shiftKey ; 4.0 ; ? ; 1.0 ; 1.0 
+ DOM2 ; altKey ; 4.0 ; ? ; 1.0 ; 1.0 
+ DOM2 ; metaKey ; no ; no ; 1.0 ; ? ; 1.0 
+ DOM2 ; button ; Incorrect ; Incorrect ; 1.0 ; Incorrect ; ? ; 1.0 
+ DOM2 ; relatedTarget ; no ; no ; 1.0 ; yes ; ? ; 1.0 
+ DOM2 ; initMouseEvent() ; ? ; ? ; 1.0 ; ? ; ? ; 1.0 
+ rh| Events for interface MouseEvent ; rh| Events for interface MouseEvent ; rh| Events for interface MouseEvent ; rh| Events for interface MouseEvent ; rh| Events for interface MouseEvent ; rh| Events for interface MouseEvent ; rh| Events for interface MouseEvent ; rh| Events for interface MouseEvent 
+ DOM2 ; click ; 4.0 ; rowspan="6" yes ; 1.0 ; ? ; ? ; 1.0 
+ DOM2 ; mousedown ; 4.0 ; ? ; 1.0 ; ? ; 1.0 
+ DOM2 ; mouseup ; 4.0 ; ? ; 1.0 ; ? ; 1.0 
+ DOM2 ; mouseover ; 4.0 ; ? ; 1.0 ; ? ; 1.0 
+ DOM2 ; mousemove ; 4.0 ; ? ; 1.0 ; ? ; 1.0 
+ DOM2 ; mouseout ; 4.0 ; ? ; 1.0 ; ? ; 1.0 
+ rh| Interface MutationEvent ; rh| Interface MutationEvent ; rh| Interface MutationEvent ; rh| Interface MutationEvent ; rh| Interface MutationEvent ; rh| Interface MutationEvent ; rh| Interface MutationEvent ; rh| Interface MutationEvent 
+ DOM2 ; relatedNode ; rowspan="6" no ; rowspan="6" no ; 1.0 ; ? ; ? ; 1.0 
+ DOM2 ; prevValue ; ? ; ? ; 1.0 ; 1.0 
+ DOM2 ; newValue ; ? ; ? ; 1.0 ; 1.0 
+ DOM2 ; attrName ; ? ; ? ; 1.0 ; 1.0 
+ DOM2 ; attrChange ; ? ; ? ; 1.0 ; 1.0 
+ DOM2 ; initMutationEvent ; ? ; ? ; 1.0 ; 1.0 
+ rh| Events for interface MutationEvent ; rh| Events for interface MutationEvent ; rh| Events for interface MutationEvent ; rh| Events for interface MutationEvent ; rh| Events for interface MutationEvent ; rh| Events for interface MutationEvent ; rh| Events for interface MutationEvent ; rh| Events for interface MutationEvent 
+ DOM2 ; DOMSubtreeModified ; 5.0publisher=Microsoft ; rowspan="7" no ; 1.9 ; rowspan="5" yes ; Partial ; no 
+ DOM2 ; DOMNodeInserted ; 5.0publisher=Microsoft ; 1.0 ; rowspan="3" no ; 1.0 
+ DOM2 ; DOMNodeRemoved ; 5.0publisher=Microsoft ; 1.0 ; 1.0 
+ DOM2 ; DOMNodeRemovedFromDocument ; 5.0publisher=Microsoft ; rowspan="2" nopublisher=Mozilla ; 1.0 
+ DOM2 ; DOMNodeInsertedIntoDocument ; 5.0publisher=Microsoft ; yes ; 1.0 
+ DOM2 ; DOMAttrModified ; 5.0publisher=Microsoft ; 1.0 ; no ; 1.0 ; rowspan="2" no 
+ DOM2 ; DOMCharacterDataModified ; 5.0publisher=Microsoft ; 1.0 ; yes ; 1.0 
+ rh| Events for HTML ; rh| Events for HTML ; rh| Events for HTML ; rh| Events for HTML ; rh| Events for HTML ; rh| Events for HTML ; rh| Events for HTML ; rh| Events for HTML 
+ DOM2 ; load ; 4.0 ; rowspan="12" yes ; 1.0 ; ? ; ? ; 2.0 
+ DOM2 ; unload ; 4.0 ; ? ; 1.0 ; ? ; 2.0 
+ DOM2 ; abort ; 4.0 ; ? ; 1.0 ; ? ; no 
+ DOM2 ; error ; 4.0 ; ? ; 1.0 ; ? ; 2.0 
+ DOM2 ; select ; 4.0 ; ? ; 1.0 ; ? ; 2.0 
+ DOM2 ; change ; 4.0 ; ? ; 1.0 ; ? ; 2.0 
+ DOM2 ; submit ; 4.0 ; ? ; 1.0 ; ? ; 2.0 
+ DOM2 ; reset ; 4.0 ; ? ; 1.0 ; ? ; 2.0 
+ DOM2 ; focus ; 4.0 ; ? ; 1.0 ; ? ; 2.0 
+ DOM2 ; blur ; 4.0 ; ? ; 1.0 ; ? ; 2.0 
+ DOM2 ; resize ; 4.0 ; ? ; 1.0 ; ? ; 2.0 
+ DOM2 ; scroll ; 4.0 ; ? ; 1.0 ; ? ; 2.0 

@@ -1,0 +1,56 @@
+ Name ; CBC w/ predictable IVs ; CBC w/ secret IVs ; CBC w/ random per-sector keys ; LRW ; XTS ; Authenticated encryption 
+ Aloaha Crypt Disk ; no ; no ; no ; yes ; yes ; dunno 
+ ArchiCrypt Live ; no ; no ; no ; Legacy supportContainers created with ArchiCrypt Live version 5 use LRW ; yes ; dunno 
+ BestCrypt ; no ; yes ; no ; yes ; yes ; dunno 
+ BitArmor DataControl ; no ; yes ; Plumb-IV ; no ; no ; dunno 
+ BitLocker ; no{{Cite journal|author=Niels Fergusson|title=AES-CBC + Elephant Diffuser: A Disk Encryption Algorithm for Windows Vista|accessdate=2008-02-22|publisher=Microsoft|date=August 2006|url= ; yes ; No ; No ; Yes, Windows 10 10547+ ; dunno 
+ Bloombase Keyparc ; dunno ; yes ; dunno ; dunno ; dunno ; dunno 
+ CGD ; no ; yes ; no ; no ; no ; dunno 
+ CenterTools DriveLock ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ Check Point Full Disk Encryption ; no ; no ; yes ; yes ; yes ; dunno 
+ CipherShed ; Legacy supportContainers created with TrueCrypt versions 1.0 through 4.0 use CBC. ; no ; no ; Legacy supportContainers created with TrueCrypt versions 4.1 through 4.3a use LRW, and support CBC for opening legacy containers only. ; yesContainers created with CipherShed or TrueCrypt versions 5.0+ use XTS, and support LRW/CBC for opening legacy containers only. ; dunno 
+ CrossCrypt ; yes ; no ; no ; no ; no ; dunno 
+ CryFS ; no ; no ; yes ; no ; no ; dunno 
+ CryptArchiver ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ Cryptic Disk ; no ; no ; no ; no ; yes ; no 
+ Cryhod ; no ; yes ; no ; no ; no ; dunno 
+ Cryptoloop ; yes ; no ; no ; no ; no ; no 
+ DiskCryptor ; no ; no ; no ; no ; yes ; dunno 
+ Dm-crypt / LUKS ; yes ; yes ; no ; Yes, using *-lrw-benbiStarting with Linux kernel version 2.6.20, CryptoAPI supports the LRW mode:  ; Yes, using *-xts-plain ; {{yes|Yes, using --integrity mode{{cite web ; url =  ; title = cryptsetup - manage plain dm-crypt and LUKS encrypted volumes ; 2018-01-01| accessdate = 2018-05-08 }}}} 
+ DriveCrypt ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ DriveSentry GoAnywhere 2 ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ E4M ; dunno ; dunno ; dunno ; no ; no ; dunno 
+ e-Capsule Private Safe ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ eCryptfs ; no ; yes ; dunno ; no ; no ; dunno 
+ EgoSecure HDD Encryption ; no ; yes ; no ; no ; no ; dunno 
+ FileVault ; yes ; no ; no ; no ; no ; dunno 
+ FileVault 2 ; no ; no ; no ; no ; yes ; dunno 
+ FREE CompuSec ; yes ; no ; no ; no ; no ; dunno 
+ FreeOTFE ; yes ; yes ; no ; yes ; yes ; no 
+ GBDE ; no ; no ; yes ; no ; no ; dunno 
+ GELI ; no ; yes ; no ; no ; yes ; dunno 
+ Loop-AES ; single-key, multi-key-v2 modes ; multi-key-v3 mode ; no ; no ; no ; no 
+ McAfee Drive Encryption (SafeBoot) ; no ; Yes ; no ; no ; no ; dunno 
+ n-Crypt Pro ; dunno ; dunno ; no ; no ; no ; dunno 
+ PGPDisk ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ Private Disk ; no ; yes ; no ; no ; no ; dunno 
+ ProxyCrypt ; no ; no ; no ; no ; yes ; dunno 
+ R-Crypto ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ SafeGuard Easy ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ SafeGuard Enterprise ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ SafeGuard PrivateDisk ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ SafeHouse Professional ; yes ; no ; no ; no ; no ; dunno 
+ Scramdisk ; no ; yes ; no ; no ; no ; dunno 
+ Scramdisk 4 Linux ; no ; yesFor Scramdisk containers ; no ; yesFor TrueCrypt 4 containers ; yesFor TrueCrypt 5 and 6 containers ; dunno 
+ SecuBox ; yes ; no ; no ; no ; no ; dunno 
+ SecureDoc ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ Sentry 2020 ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ Seqrite Encryption Manager ; no ; yes ; no ; yes ; yes ; dunno 
+ Softraid / RAID C ; dunno ; dunno ; dunno ; dunno ; yes ; dunno 
+ Svnd / Vnconfig ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ Symantec Endpoint Encryption ; no ; no ; yes ; no ; no ; dunno 
+ TrueCrypt ; Legacy support ; no ; no ; Legacy support ; yesContainers created with TrueCrypt versions 5.0 or later use XTS, and support LRW/CBC for opening legacy containers only. ; no 
+ USBCrypt ; no ; yes ; no ; no ; yes ; dunno 
+ VeraCrypt ; no ; no ; no ; no ; yes ; dunno 
+ CyberSafe Top Secret ; no ; no ; no ; no ; yes ; dunno 
+ Name ; CBC w/ predictable IVs ; CBC w/ secret IVs ; CBC w/ random per-sector keys ; LRW ; XTS ; Authenticated encryption 

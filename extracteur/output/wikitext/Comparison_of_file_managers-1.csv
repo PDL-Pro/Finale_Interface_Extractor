@@ -1,0 +1,29 @@
+ File manager ; DOS ; OS/2 & eCS ; Windows ; Mac OS X ; Linux ; BSD ; Unix ; AmigaOS ; OpenVMS 
+ rh| Directory Opus ; no ; no ; yes ; no ; no ; no ; no ; yes ; no 
+ rh| Dired ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| Dolphin ; no ; no ; Needs KDE ; yes ; yes ; yes ; yes ; no ; no 
+ rh| Double Commander ; no ; no ; yes ; yes ; yes ; yes ; yes ; no ; no 
+ rh| DOS Navigator ; yes ; yes ; yes ; no ; no ; no ; no ; no ; no 
+ rh| emelFM2 ; no ; no ; no ; no ; yes ; Yes ; Yes ; no ; no 
+ rh| File Commander ; no ; yes ; yes ; no ; yes ; yes ; yes ; no ; no 
+ rh| fman ; no ; no ; yes ; yes ; yes ; no ; no ; no ; no 
+ rh| GNOME Commander ; no ; no ; no ; yes ; yes ; yes ; yes ; no ; no 
+ rh| Konqueror ; no ; no ; Needs KDE ; yes ; yes ; yes ; yes ; no ; no 
+ rh| Krusader ; no ; no ; no ; Needs X ; yes ; yes ; yes ; no ; no 
+ rh| Midnight Commander ; yes ; no ; yes ; yes ; yes ; yes ; yes ; yes ; no 
+ rh| muCommander ; no ; no ; yes ; yes ; yes ; yes ; yes ; dunno ; yes 
+ rh| nnn ; no ; no ; no ; yes ; yes ; yes ; yes ; no ; no 
+ rh| GNOME Files (Nautilus) ; no ; no ; no ; no ; yes ; yes ; yes ; no ; no 
+ rh| Nemo ; no ; no ; no ; no ; yes ; yes ; yes ; no ; no 
+ rh| PathMinder ; yes ; no ; yes ; no ; no ; no ; no ; no ; no 
+ rh| PCManFM ; no ; Needs POSIX-compliant platform ; Needs POSIX-compliant platform ; Needs POSIX-compliant platform ; yes ; yes ; yes ; no ; yes 
+ rh| Ranger ; no ; no ; no ; yes ; yes ; yes ; yes ; no ; no 
+ rh| ROX-Filer ; no ; no ; ; ; yes ; yes ; yes ; no ; no 
+ rh| Thunar ; no ; no ; no ; no ; yes ; yes ; yes ; no ; no 
+ rh| Total Commander ; no ; no ; yes ; no ; yes ; no ; no ; no ; no 
+ rh| Volkov Commander ; yes ; yes ; yes ; no ; no ; no ; no ; no ; no 
+ rh| Xandros File Manager ; no ; no ; no ; no ; yes ; dunno ; dunno ; no ; no 
+ rh| Xfe ; no ; Needs X ; Needs X ; Needs X ; yes ; yes ; yes ; Needs X ; yes 
+ rh| Xfm ; no ; Needs X ; Needs X ; Needs X ; yes ; yes ; yes ; no ; yes 
+ rh| ZTreeWin ; no ; yes ; yes ; no ; no ; no ; no ; no ; no 
+ File manager ; DOS ; OS/2 & eCS ; Windows ; Mac OS X ; Linux ; BSD ; Unix ; AmigaOS ; OpenVMS 

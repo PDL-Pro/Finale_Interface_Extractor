@@ -1,0 +1,25 @@
+Name ; Collapsible sections ; Find and replace using RegEx ; Intelligent error handling ; Autocompletion of LaTeX commands ; Parenthesis matching ; Starts up to previous stateStarts up to previous state including the current editing point. ; Unicode support ; RTL SupportRTL support means Right to Left language support.  
+ AUCTeX ; yes ; yes ; yes ; yes ; yes ; yesconfigurable as an option of the Emacs editor ; yes ; yes  
+ Authorea ; no ; yes ; no ; no ; yes ; yes ; yes ; ?  
+Auto-Latex Equations for Google Docs ; no ; yes ; no ; no ; no ; yes ; yes ; ?  
+CoCalc ; yes ; yes ; no ; yes ; yes ; yes ; yes ; ?  
+ GNOME LaTeX ; Planned ; yes ; yes ; yes ; yes ; (just same files) ; yes ; yes  
+ Gummi ; no ; no ; no ; no ; yes ; no ; yes ; ?  
+ Kile ; {{yes|YesWith usual \section{} notation, Kile collapses equations and figures, but not sections. Collapsing of sections is possible with non-standard notation \begin{section}{}...\end{section}{}, but it eliminates sections from Structure View. An alternative possibility is bracketing sections with comments %BEGIN and %END.}} ; yes ; yes ; yes ; yes ; yes ; yes ; yes  
+ LEd ; yes ; yes ; ? ; yes ; yes ; no (just same files) ; no ; ?  
+ LyX ; no ; yes ; yes ; yes ; yes ; yes ; yes ; yes  
+ MeWa ; no ; yes ; no ; no ; no ; no ; yes ; ?  
+ Notepad++ ; yes ; yes ; no ; partialThis will have to be set up manually. ; yes ; yes ; yes ; yes  
+ Overleaf ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; ?  
+ Scientific WorkPlace ; no ; ? ; ? ; N/A ; yes ; no ; yes ; ?  
+ TexLab ; no ; no ; yes ; yes ; yes ; yes ; yes ; no  
+ TeXmacs ; no ; yes ; N/A ; N/A ; N/A ; no ; yes ; ? 
+ Texmaker ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes  
+ TeXnicCenter ; since v2.0 ; since v2.0 ; yes ; yes ; yes ; yes ; since v2.0 ; ?  
+ TeXShop ; no ; yes ; yes ; yes ; yes ; yes ; yes ; ?  
+ TeXstudio ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes  
+ TeXworks ; no ; yesProvides a subset of the regular expression syntax implemented in the Perl scripting language, but fully supports Unicode (  Issue 194: Add advanced regexp options to Find/Replace ) ; no ; yesTemplate file in resource directory (  Documentation of the code completion feature ) ; yes ; no ; yes ; yes  
+ Verbosus ; no ; no ; yes ; yes ; yes ; no ; yes ; ?  
+WinEdt ; yes ; yes (modified) ; yes ; yes ; yes ; yes ; yes ; yes  
+ WinShell ; yes ; yes ; yes ; yes ; yes ; no (just same files) ; yes ; ?  
+Name ; Collapsible sections ; Find and replace using RegEx ; Intelligent error handling ; Autocompletion of LaTeX commands ; Parenthesis matching ; Starts up to previous stateStarts up to previous state including the current editing point. ; Unicode support ;  RTL SupportRTL support means Right to Left language support. 

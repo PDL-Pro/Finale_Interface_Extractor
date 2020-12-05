@@ -1,0 +1,34 @@
+;HTML5 standard;HTML web browser features;Adobe Flash/AIR features
+Date started;Work began in 2003 Working Draft as of 2011;N/A;Work began in 1996 Version 1 released in 1997
+Desktop operating systems;N/A;AmigaOS, MorphOS, Apple macOS, Linux, Microsoft Windows;Apple macOS, Linux, Microsoft Windows
+Mobile operating systems;N/A;Android 2.3 and newer Apple iOS 6 and newer Symbian Belle BlackBerry OS 7 and 10 Windows Phone 7 and newer;Android 2.1 to 4.1 Apple iOS (Adobe AIR only) BlackBerry 10 (up to OS 10.3.0) BlackBerry Tablet OS Windows RT
+Video game consoles;N/A;PlayStation (PS4, PS3 and PS Vita) Nintendo Switch and Wii U Nintendo 3DS family (partial) Xbox One and Xbox 360;PlayStation 3 (Flash 9.1) and PSP (Flash 6) Wii (Flash Lite 3.1, equivalent to Flash 8) Leapster (Flash 5 for games) Dreamcast (Flash 4)
+Device support;N/A;Full, permission-based access to web camera, microphone, accelerometer and GPS;Full, permission-based access to web camera, microphone, accelerometer and GPS
+Market penetration;N/A;82.3% of websites (as of March 28, 2020);4.5% of websites (as of April 19, 2018)
+Browser support;N/A;97.5% of browser installations (as of February 2020);29% of browser installations (as of July 2019)
+Vector graphics formats;N/A;Scalable Vector Graphics (SVG) supported on ~97% of browsers;SWF with embedded graphics and AS3SVGRenderer
+Bitmap effects;Yes;90+% support of Filters in CSS3 (e.g. Glow, Blur, Drop Shadow, Sepia);Yes, applied to text or graphics (e.g. Glow, Drop Shadow, Bevel)
+Vector text display;Yes;Yes;Yes, with Saffron Type System
+Font support;N/A;Installed fonts and custom fonts using CSS 3 web fonts;Installed fonts and embedded fonts
+Text anti-aliasing;N/A;Yes, implemented in most browsers, for system and custom fonts;Yes, in most cases
+Text tab stops;No;Only supported inside "pre" tags;Yes, with Text Layout Framework
+Liquid text layout;Yes;Yes, via "div" tag and CSS styling;No, but text fields can be resized in ActionScript
+Tabular data;Yes;Yes, via "table" tag;No, but text fields can be arranged into a grid
+Linked text frames;As of 2016, two specifications compete: CSS Regions and CSS Overflow;With CSS Regions, supported by Safari, IE11 and Edge;Yes, with Text Layout Framework
+Programming languages;Depends;JavaScript;ActionScript, Pixel Bender
+C++ support;Cross-compiling C++ code to JavaScript via Emscripten;Native code execution with Google Native Client in Google Chrome, also supported with WebAssembly (experimental);Cross-compiling C++ code to run in Flash Player via FlasCC AIR has AIR Native Extensions that allow loading native code, such as compiled C++ code.
+Code delivery format;Plaintext;Plaintext JavaScript with limited obfuscation, WebAssembly bytecode (experimental), GLSL for GPUs, in Canvas elements;Compiled bytecode, can be obfuscated
+Data formats;Depends;CSS 3, HTML, XML, JSON;JSON, XML, Subset of CSS 1
+Data compression;No;GZIP compression for HTML, JS and CSS files;LZMA or DEFLATE for SWF files
+Image formats;Depends;PNG, JPEG, SVG, Animated GIF;PNG, JPEG, JPEG-XR, Single-frame GIF
+Video formats;Depends;90+% support of H.264, varying support of WebM and Ogg Theora (see HTML5 video);H.264, Sorenson Spark, and On2 VP6
+Streaming video;Yes;Supported by IE, Edge, Firefox, Chrome, Safari and Opera.;Flash Video, H.264 and partial support for MP4
+Audio formats;Depends;~94% support of MP3, AAC and WAV PCM, varying support of Ogg Vorbis, and WebM Vorbis (see HTML5 audio);MP3, WAV and AAC audio files or embedded sound
+Fullscreen support;Yes;Supported on all major desktop browsers, with warning displayed. Not yet widely supported on mobile;Yes, with warning displayed
+Encryption DRM;Depends;~65% support of audio/video files. All other files being plaintext, except for obfuscation;No, binary formatted files can be decompiled, which is obfuscation
+File system access;Depends;~87% support of single file upload, and drag and drop of files onto browser;Support for single file upload and generation, AIR only: full create/read/write access to file system
+Bitmap manipulation;Depends;~95% support for canvas element;Yes, via BitmapData class
+Binary manipulation;Yes;Yes, via JavaScript Typed Arrays;Yes, via ByteArray class
+Large binary data;No;Via Web Sockets to stream binary or XML data;Yes, embedded or streaming binary data
+Offline storage;Depends;Yes, via Web storage, HTTP cookie, or Indexed DB to store binary, XML or JSON data;Yes, via Local Shared Objects to store AMF-formatted data
+Metadata;Meta tags;Can be included in meta tags;Extensible Metadata Platform

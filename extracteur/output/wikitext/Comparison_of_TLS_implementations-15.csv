@@ -1,0 +1,17 @@
+ Implementation ; PKCS #11 device ; Intel AES-NI ; VIA PadLock ; ARMv8-A ; Intel SGX ; Intel QAT ; Intel SHA 
+ Botan ; yes  ; yes ; no ; yes ; no ; no ;  
+ cryptlib ; yes ; yes ; yes ; no ; ; no ; 
+ Crypto++ ; ; yes ;  ;  ; ; no ; yes 
+ GnuTLS ; yes ; yes ; yes ; yes ; no ; no ; 
+ JSSE ; yes ; yes ; no ; no ; ; no ; 
+ LibreSSL ; no ; yes ; yes ; no ; ; no ; 
+ MatrixSSL ; yes ; yes ; no ; yes ; ; no ; 
+ Mbed TLS ; yes ; yes ; yes ; no ; ; no ; 
+ NSS ; yesNormally NSS's libssl performs all operations via the PKCS#11 interface, either to hardware or software tokens ; yes ; no ; no ; ; no ; 
+ OpenSSL ; yes, ,  ru ; yes ; yes ; yes ; ; no ; yes 
+ RSA BSAFE Micro Edition Suite ; yes ; yes ; no ; yes ; no ; no ; yes 
+ RSA BSAFE SSL-J  ; Yes ; Yes ; no ; Yes ; no ; no ; Yes 
+ SChannel ; no ; yes ; no ; no ; ; no ; 
+ Secure Transport ; no ; Yes ; no ; Yes ; ; no ; 
+ wolfSSL ; yes ; yes ; no ; yes ; yes ; yes ; 
+ Implementation ; PKCS #11 device ; Intel AES-NI ; VIA PadLock ; ARMv8-A ; Intel SGX ; Intel QAT ; Intel SHA 

@@ -1,0 +1,53 @@
+ ; ; Trident ; Tasman ; Gecko ; WebKit ; KHTML ; Presto 
+ rh| Exception LSException ; rh| Exception LSException ; rh| Exception LSException ; rh| Exception LSException ; rh| Exception LSException ; rh| Exception LSException ; rh| Exception LSException ; rh| Exception LSException 
+ DOM3 ; code ; no ; no ; nopublisher=Mozilla ; no ; no ; 1.0 
+ rh| Interface DOMImplementationLS ; rh| Interface DOMImplementationLS ; rh| Interface DOMImplementationLS ; rh| Interface DOMImplementationLS ; rh| Interface DOMImplementationLS ; rh| Interface DOMImplementationLS ; rh| Interface DOMImplementationLS ; rh| Interface DOMImplementationLS 
+ DOM3 ; createLSParser() ; rowspan="4" no ; rowspan="4" no ; rowspan="4" no ; rowspan="4" no ; rowspan="4" no ; 1.0 
+ DOM3 ; createLSSerializer() ; 1.0 
+ DOM3 ; createLSInput() ; 1.0 
+ DOM3 ; createLSOutput() ; 1.0 
+ rh| Interface LSParser ; rh| Interface LSParser ; rh| Interface LSParser ; rh| Interface LSParser ; rh| Interface LSParser ; rh| Interface LSParser ; rh| Interface LSParser ; rh| Interface LSParser 
+ DOM3 ; domConfig ; rowspan="8" no ; rowspan="8" no ; rowspan="8" no ; rowspan="8" no ; rowspan="8" no ; 1.0 
+ DOM3 ; filter ; 1.0 
+ DOM3 ; async ; 1.0 
+ DOM3 ; busy ; 1.0 
+ DOM3 ; parse() ; 1.0 
+ DOM3 ; parseURI() ; 1.0 
+ DOM3 ; parseWithContext() ; 1.0 
+ DOM3 ; abort() ; 1.0 
+ rh| Interface LSInput ; rh| Interface LSInput ; rh| Interface LSInput ; rh| Interface LSInput ; rh| Interface LSInput ; rh| Interface LSInput ; rh| Interface LSInput ; rh| Interface LSInput 
+ DOM3 ; characterStream ; rowspan="8" no ; rowspan="8" no ; rowspan="8" no ; rowspan="8" no ; rowspan="8" no ; 1.0 
+ DOM3 ; byteStream ; 1.0 
+ DOM3 ; stringData ; 1.0 
+ DOM3 ; systemId ; 1.0 
+ DOM3 ; publicId ; 1.0 
+ DOM3 ; baseURI ; 1.0 
+ DOM3 ; encoding ; 1.0 
+ DOM3 ; certifiedText ; 1.0 
+ rh| Interface LSResourceResolver ; rh| Interface LSResourceResolver ; rh| Interface LSResourceResolver ; rh| Interface LSResourceResolver ; rh| Interface LSResourceResolver ; rh| Interface LSResourceResolver ; rh| Interface LSResourceResolver ; rh| Interface LSResourceResolver 
+ DOM3 ; resolveResource() ; no ; no ; no ; no ; no ; no 
+ rh| Interface LSParserFilter ; rh| Interface LSParserFilter ; rh| Interface LSParserFilter ; rh| Interface LSParserFilter ; rh| Interface LSParserFilter ; rh| Interface LSParserFilter ; rh| Interface LSParserFilter ; rh| Interface LSParserFilter 
+ DOM3 ; whatToShow ; rowspan="3" no ; rowspan="3" no ; rowspan="3" no ; rowspan="3" no ; rowspan="3" no ; no 
+ DOM3 ; startElement() ; 2.0 
+ DOM3 ; acceptNode() ; 2.0 
+ rh| Interface LSProgressEvent ; rh| Interface LSProgressEvent ; rh| Interface LSProgressEvent ; rh| Interface LSProgressEvent ; rh| Interface LSProgressEvent ; rh| Interface LSProgressEvent ; rh| Interface LSProgressEvent ; rh| Interface LSProgressEvent 
+ DOM3 ; input ; rowspan="3" no ; rowspan="3" no ; rowspan="3" no ; rowspan="3" no ; rowspan="3" no ; rowspan="3" no 
+ DOM3 ; position 
+ DOM3 ; totalSize 
+ rh| Interface LSLoadEvent ; rh| Interface LSLoadEvent ; rh| Interface LSLoadEvent ; rh| Interface LSLoadEvent ; rh| Interface LSLoadEvent ; rh| Interface LSLoadEvent ; rh| Interface LSLoadEvent ; rh| Interface LSLoadEvent 
+ DOM3 ; newDocument ; rowspan="2" no ; rowspan="2" no ; rowspan="2" no ; rowspan="2" no ; rowspan="2" no ; 2.0 
+ DOM3 ; input ; no 
+ rh| Interface LSSerializer ; rh| Interface LSSerializer ; rh| Interface LSSerializer ; rh| Interface LSSerializer ; rh| Interface LSSerializer ; rh| Interface LSSerializer ; rh| Interface LSSerializer ; rh| Interface LSSerializer 
+ DOM3 ; domConfig ; rowspan="6" no ; rowspan="6" no ; rowspan="6" no ; rowspan="6" no ; rowspan="6" no ; 1.0 
+ DOM3 ; newLine ; 1.0 
+ DOM3 ; filter ; 1.0 
+ DOM3 ; write() ; 1.0 
+ DOM3 ; writeToURI() ; 1.0 
+ DOM3 ; writeToString() ; 1.0 
+ rh| Interface LSOutput ; rh| Interface LSOutput ; rh| Interface LSOutput ; rh| Interface LSOutput ; rh| Interface LSOutput ; rh| Interface LSOutput ; rh| Interface LSOutput ; rh| Interface LSOutput 
+ DOM3 ; characterStream ; rowspan="4" no ; rowspan="4" no ; rowspan="4" no ; rowspan="4" no ; rowspan="4" no ; 1.0 
+ DOM3 ; byteStream ; 1.0 
+ DOM3 ; systemId ; 1.0 
+ DOM3 ; encoding ; 1.0 
+ rh| Interface LSSerializerFilter ; rh| Interface LSSerializerFilter ; rh| Interface LSSerializerFilter ; rh| Interface LSSerializerFilter ; rh| Interface LSSerializerFilter ; rh| Interface LSSerializerFilter ; rh| Interface LSSerializerFilter ; rh| Interface LSSerializerFilter 
+ DOM3 ; whatToShow ; no ; no ; no ; no ; no ; no 

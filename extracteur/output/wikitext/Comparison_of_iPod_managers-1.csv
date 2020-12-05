@@ -1,0 +1,15 @@
+ Manager ; Copy Music ; Copy Videos ; Copy Smart Playlists ; Copy Album Artwork ; Extract DRM-Free Music ; Extract DRM-Free Videos ; Extract Playcounts ; Extract Playlists ; Copy Content to iPod 
+ rh|Amarok ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; no 
+ rh|Banshee ; yes ; dunno ; yes ; yes ; yes ; no ; yes ; dunno ; yes 
+ rh|Clementine ; yes ; yes ; yes ; yes ; no ; no ; yes ; yes ; yes 
+ rh|EphPod ; yes ; dunno ; yes ; no ; yes ; no ; dunno ; dunno ; dunno 
+ rh|gtkpod ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh|iRip ; yes ; yes ; no ; yes ; yes ; yes ; yes ; yes ; no 
+ rh|iTunes ; yes ; yes ; yes ; yes ; no ; no ; yes ; yes ; yes 
+ rh|JRiver Media Center ; yes ; dunno ; yes ; yes ; no ; yes ; dunno ; dunno ; dunno 
+ rh|MediaMonkey ; yes ; no ; no ; yes ; yes ; no ; yes ; yes ; yes 
+ rh|Rhythmbox ; yes ; no ; no ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh|Senuti ; yes ; yes ; no ; no ; yes ; yes ; yes ; dunno ; dunno 
+ rh|Winamp native ; yes ; yes ; no ; yes ; yes ; yes ; dunno ; yes ; yes 
+ rh|XPlay ; yes ; yes ; no ; yes ; yes ; yes ; yes ; yes ; yes 
+ Manager ; Copy Music ; Copy Videos ; Copy Smart Playlists ; Copy Album Artwork ; Extract DRM-Free Music ; Extract DRM-Free Videos ; Extract Playcounts ; Extract Playlists ; Copy Content to iPod 

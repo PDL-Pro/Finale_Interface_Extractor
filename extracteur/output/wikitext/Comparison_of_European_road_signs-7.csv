@@ -1,0 +1,15 @@
+ ; Austria ; Belgium ; Czechia ; Denmark ; Estonia ; Finland ; France ; Germany ; Greece ; Hungary ; Iceland ; Ireland ; Italy ; Luxembourg ; Netherlands ; Norway ; Poland ; Portugal ; Romania ; RussiaBelarus ; Slovakia ; Slovenia ; Spain ; Sweden ; SwitzerlandLiechtenstein ; Turkey ; Ukraine ; UK ; Åland 
+ One-way street ;  ;  ;  ;  ;  ;  ;  ;  (until 2022) ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED 
+ One-way street ;  ; NOTUSED ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ; NOTUSED ; NOTUSED ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  
+ End of one-way street ;  ; ;  ; ;  ; NOTUSED ;  ; NOTUSED ;  ; ;  ; ;  ; ;  ; ;  ;  ;  ;  ; NOTUSED ;  ; ;  ; ;  ;  ; NOTUSED ; NOTUSED 
+ Pedestrian crossing ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; or ; Always produced on non-urban roads, in urban settings only, if badly visible, mandatory priority given to pedestrians – always applicable on any pedestrian crossings even without sign. ;  ;  ; NOTUSED ;  
+ Road hump ;  ;  ;  ;  ; ; NOTUSED ;  ; NOTUSED ;  ; ;  ; ; NOTUSED ;  ; ;  ; ;  ; ;  ; DEFUNCT ;  ; ; NOTUSED ; NOTUSED ;  ; ; NOTUSED ; NOTUSED 
+ Lane ends ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Residential area / living street ; or ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; or ;  ;  ;  ;  
+ Pedestrian zone ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ; (Russia)(Belarus) ;  ;  ;  ;  ; or ;  ;  ;  ;  
+ Bus lane ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED 
+ Expressway ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ;  ; NOTUSED ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ; NOTUSED 
+ Expressway ends ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ;  ; NOTUSED ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ; NOTUSED 
+ Motorway ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED 
+ Motorway ends ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED 
+ ; Austria ; Belgium ; Czechia ; Denmark ; Estonia ; Finland ; France ; Germany ; Greece ; Hungary ; Iceland ; Ireland ; Italy ; Luxembourg ; Netherlands ; Norway ; Poland ; Portugal ; Romania ; RussiaBelarus ; Slovakia ; Slovenia ; Spain ; Sweden ; SwitzerlandLiechtenstein ; Turkey ; Ukraine ; UK ; Åland 

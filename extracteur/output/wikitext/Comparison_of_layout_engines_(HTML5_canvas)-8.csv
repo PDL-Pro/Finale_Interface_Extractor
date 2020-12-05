@@ -1,0 +1,9 @@
+ ; Trident ; Gecko ; WebKit ; KHTML ; Presto 
+ rh| Font styles ; rh| Font styles ; rh| Font styles ; rh| Font styles ; rh| Font styles ; rh| Font styles 
+ b ; 4.0 ; 1.0 ; rowspan="5" yes ; rowspan="5" yes ; 1.0 
+ i ; 4.0 ; 1.0 ; 1.0 
+ big ; 4.0 ; 1.0 ; 1.0 
+ small ; 4.0 ; 1.0 ; 1.0 
+ tt ; 4.0 ; 1.0 ; 1.0 
+ rh| Horizontal rules ; rh| Horizontal rules ; rh| Horizontal rules ; rh| Horizontal rules ; rh| Horizontal rules ; rh| Horizontal rules 
+ hr ; 4.0 ; 1.0 ; yes ; yes ; 1.0 

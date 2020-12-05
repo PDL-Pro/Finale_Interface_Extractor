@@ -1,0 +1,27 @@
+ Name ; GUI ; CLI ; Scripting ; Horizontal / vertical ; Syntax highlighting ; Reports 
+ rh| Beyond Compare ; Yes ; Yes ; Yes ; Both ; Yes ; XML, HTML, CSV, Text, Unix Patch 
+ rh| Compare++ ; Yes ; Yes ; ; Both ; Yes ; HTML, Text(combined or side-by-side)  
+ rh| diff ; No ; Yes ; ; Horizontal ; yes pipe to diff-highlight ; 
+ rh| diff3 ; No ; Yes ; ; Horizontal ; ; 
+ rh| Eclipse (compare) ; Yes ; ; ; Vertical ; Yes ; 
+ rh| Ediff ; Yes ; Yes ; elisp ; Both ; Yes ; 
+ rh| ExamDiff Pro ; Yes ; Yes ; ; optional ; Yes ; UNIX, HTML, Diff 
+ rh| Far Manager (compare) ; Yes ; Yes ; Yes ; ; Yes ; No 
+ rh| fc ; No ; Yes ; ; Horizontal ; ; 
+ rh| FileMerge (aka opendiff) ; Yes ; Yes ; ; Vertical ; Yes ; No 
+ rh| Guiffy SureMerge ; Yes ; Yes ; Java API ; Both ; Yes ;  HTML, Text, Unix Patch 
+ rh| IntelliJ IDEA (compare) ; Yes ; Yes ; ; Vertical ; Yes ; 
+ rh| jEdit JDiff plugin ; Yes ; ; ; Both ; Yes ; 
+ rh| Kompare ; Yes ; ; ; Vertical ; No ; 
+ rh| Lazarus Diff ; Yes ; ; ; ; Yes ; 
+ rh| Meld ; Yes ; No ; ; Horizontal ; Yes ; No 
+ rh| Notepad++ (compare) ; Yes ; Yes ; ; Both ; Yes ; No 
+ rh| Perforce P4Merge ; Yes ; Yes ; ; Vertical ; No ; No 
+ rh| Pretty Diff ; Yes ; Yes ; JavaScript ; Both ; Yes ;  XHTML 
+ rh| Tkdiff ; Yes ; ; ; ; ; 
+ rh| Total Commander (compare) ; Yes ; ; ; Both ; No ; No 
+ rh| vimdiff ; Yes ; Yes ; vim script ; Both ; Yes ; HTML 
+ rh| WinDiff ; Yes ; Yes ; ; Horizontal ; No ; Text 
+ rh| WinMerge ; Yes ; Yes ; ; Both ; Yes ; CSV, Tab-delimited, HTML, XML 
+ rh| UCC ; Yes ; Yes ; ; Vertical ; Yes ; Text, CSV 
+ Name ; GUI ; CLI ; Scripting ; Horizontal / vertical ; Syntax highlighting ; Reports 

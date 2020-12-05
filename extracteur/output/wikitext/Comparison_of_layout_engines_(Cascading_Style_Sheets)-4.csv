@@ -1,0 +1,99 @@
+ ; ; ; Trident ; EdgeHTML ; Gecko ; WebKit ; KHTML ; Presto 
+ Numberspublisher=W3C ; Numberspublisher=W3C ; Numberspublisher=W3C ; Numberspublisher=W3C ; Numberspublisher=W3C ; Numberspublisher=W3C ; Numberspublisher=W3C ; Numberspublisher=W3C ; Numberspublisher=W3C 
+ CSS2 ; number ; A floating-point number ; 3.0 ; 12 ; 1.0 ; 85 ; rowspan="4" yes ; 1.0 
+ CSS2 ; length ; number followed by units ; 3.0 ; 12 ; 1.0 ; 85 ; 1.0 
+ CSS2 ; percentage ; number followed by % ; 3.0 ; 12 ; 1.0 ; 85 ; 1.0 
+ CSS2 ; integer ; An integer ; 3.0 ; 12 ; 1.0 ; 85 ; 1.0 
+ css-values-3 ; angle ; number angle-unit ; 9.0 ; 12 ; yes ; Partial ; Partial ; Partial 
+ css-values-3 ; time ; number time-unit ; 9.0 ; 12 ; 2.0 ; rowspan="2" yes ; rowspan="2" yes ; 2.5 
+ css-values-3 ; frequency ; number frequency-unit ; rowspan="2" no ; rowspan="2" no ; rowspan="2" no ; rowspan="2" no 
+ css-values-3 ; fraction ; Remaining space ; no ; no 
+ Strings ; Strings ; Strings ; Strings ; Strings ; Strings ; Strings ; Strings ; Strings 
+ CSS2 ; string ; String ; 3.0 ; 12 ; 1.0 ; 85 ; rowspan="2" yes ; 1.0 
+ CSS2 ; \code ; Unicode escapes ; 6.0 ; 12 ; 1.0 ; 85 ; 1.0 
+ Functions ; Functions ; Functions ; Functions ; Functions ; Functions ; Functions ; Functions ; Functions 
+ CSS2 ; rect() ; A rectangle ; 8.0 ; 12 ; 1.0 ; 85 ; yes ; 1.0 
+ CSS2 ; url() ; Uniform Resource Identifier ; 3.0 ; 12 ; 1.0 ; 85 ; rowspan="3" yes ; 1.0 
+ CSS2 ; counter() ; ; 8.0 ; 12 ; 1.0 ; 85 ; 1.0 
+ CSS2 ; attr() ; Attribute identifier ; 8.0 ; 12 ; 1.0 ; 85 ; 1.0 
+ css-values-3 ; calc() ; ; 9.0 ; 12 ; 16.0publisher=Mozilla ; yespublisher=Webkit ; no ; no 
+ css-values-3 ; toggle() ; Toggling between values ; no ; no ; nopublisher=Mozilla ; no ; no ; no 
+ css-grid-1 ? ; repeat() ; Repeat n times ; no ; no ; 32.0publisher=Mozilla ; no ; no ; no 
+ Colors ; Colors ; Colors ; Colors ; Colors ; Colors ; Colors ; Colors ; Colors 
+ CSS2 ; HTML4 color keywords ; 16 predefined web colors ; 3.0 ; 12 ; 1.0 ; 85 ; rowspan="4" yes ; 1.0 
+ CSS2 ; #rrggbb or #rgb ; Hexadecimal notation ; 3.0 ; 12 ; 1.0 ; 85 ; 1.0 
+ CSS2 ; rgb(r, g, b) ; RGB notation ; 4.0 ; 12 ; 1.0 ; 85 ; 1.0 
+ CSS2 ; system colorspublisher=W3C ; 28 predefined system colors ; 3.0 ; 12 ; 1.0 ; 85 ; 1.0 
+ css-color-3 ; SVG color keywords ; ; 8.0 ; 12 ; yes ; yes ; yes ; yes 
+ css-color-3 ; currentColor ; The value of the color property. ; 9.0 ; 12 ; 1.8 ; 528 ; yes ; 2.1 
+ css-color-3 ; rgba(r, g, b, a) ; RGBA notation ; 9.0 ; 12 ; 1.9 ; 525 ; 4.0 ; 2.2 
+ css-color-3 ; hsl(h, s, l) ; HSL notation ; 9.0 ; 12 ; 1.5 ; 525 ; 3.5.5 ; 2.1 
+ css-color-3 ; hsla(h, s, l, a) ; HSLA notation ; 9.0 ; 12 ; 1.9 ; 525 ; 3.5.5 ; 2.2 
+ css-color-3 ; transparent ; Full transparency ; 9.0 ; 12 ; 1.9 ; 525 ; 4.0 ; Partial 
+ Image values ; Image values ; Image values ; Image values ; Image values ; Image values ; Image values ; Image values ; Image values 
+ CSS2 ; url ; Image types ; 3.0 ; 12 ; 1.0 ; 85 ; yes ; 1.0 
+ css-images-3 ; sprite ; Image types ; rowspan="2" no ; rowspan="2" no ; no ; no ; rowspan="8" no ; no 
+ css-images-3 ; image-list ; Image types ; no ; no ; no 
+ css-images-3 ; linear-gradient ; Image types ; 10.0 ; 12 ; 16.0 ; rowspan="6" yes ; Experimental 
+ css-images-3 ; radial-gradient ; Image types ; 10.0 ; 12 ; 16.0 ; Experimental 
+ css-images-3 ; linear-gradient() ; Color gradients ; 10.0 ; 12 ; 16.0 ; Experimental 
+ css-images-3 ; radial-gradient() ; Color gradients ; 10.0 ; 12 ; 16.0 ; Experimental 
+ css-images-3 ; repeating-linear-gradient() ; Color gradients ; 10.0 ; 12 ; 16.0 ; Experimental 
+ css-images-3 ; repeating-radial-gradient() ; Color gradients ; 10.0 ; 12 ; 16.0 ; Experimental 
+ css-images-4 ; conic-gradient() ;  ; rowspan="2" no ; rowspan="2" no ; rowspan="2" no ; rowspan="2" no ; rowspan="2" no ; rowspan="2" no 
+ css-images-4 ; repeating-conic-gradient() ;  
+ css-images-4 ; element() ; Reproduce element ; no ; no ; Experimental ; no ; no ; no 
+ css-images-4 ; cross-fade() ; Transitioning between images ; no ; no ; nopublisher=Mozilla ; no ; no ; no 
+ css-images-4 ; image-set() ; Resolution negotiation ; no ; no ; no  ; no ; no ; no 
+ Counter Stylespublisher=W3C   ; Counter Stylespublisher=W3C   ; Counter Stylespublisher=W3C   ; Counter Stylespublisher=W3C   ; Counter Stylespublisher=W3C   ; Counter Stylespublisher=W3C   ; Counter Stylespublisher=W3C   ; Counter Stylespublisher=W3C   ; Counter Stylespublisher=W3C   
+ css-counter-styles-3 ; symbols() ; Anonymous Counter Styles ; rowspan="1" no ; rowspan="1" no ; rowspan="1" no ; rowspan="1" no ; rowspan="1" no ; rowspan="1" no 
+ Keywords ; Keywords ; Keywords ; Keywords ; Keywords ; Keywords ; Keywords ; Keywords ; Keywords 
+ CSS2 ; auto ; Automatically calculated ; 6.0 ; 12 ; 1.0 ; 85 ; rowspan="2" yes ; 1.0 
+ CSS2 ; inherit ; Inherited from the parent ; 8.0 ; 12 ; 1.0 ; 85 ; 1.0 
+ css-values-3 ; initial ; ; no ; 13 ; 19.0 ; 125 ; no ; no 
+ Units ; Units ; Units ; Units ; Units ; Units ; Units ; Units ; Units 
+ CSS2 ; px ; Pixel ; 3.0 ; 12 ; 1.0 ; 85 ; rowspan="9" yes ; 1.0 
+ CSS2 ; pt ; Point ; 3.0 ; 12 ; 1.0 ; 85 ; 1.0 
+ CSS2 ; pc ; Pica ; 3.0 ; 12 ; 1.0 ; 85 ; 1.0 
+ CSS2 ; cm ; Centimetre ; 3.0 ; 12 ; 1.0 ; 85 ; 1.0 
+ CSS2 ; mm ; Millimetre ; 3.0 ; 12 ; 1.0 ; 85 ; 1.0 
+ CSS2 ; in ; inch ; 3.0 ; 12 ; 1.0 ; 85 ; 1.0 
+ CSS2 ; em ; em ; 3.0 ; 12 ; 1.0 ; 85 ; 1.0 
+ CSS2 ; ex ; ex ; 3.0 ; 12 ; 1.0 ; 85 ; 1.0 
+ CSS2 ; % ; Percent ; 3.0 ; 12 ; 1.0 ; 85 ; 1.0 
+ css-values-3 ; deg ; Degree ; 9.0 ; 12 ; 1.9.1 ; rowspan="3" yes ; rowspan="3" yes ; 2.5 
+ css-values-3 ; grad ; Grad ; 9.0 ; 12 ; 1.9.1 ; 2.5 
+ css-values-3 ; rad ; Radian ; 9.0 ; 12 ; 1.9.1 ; 2.5 
+ css-values-3 ; turn ; turn ; 9.0 ; 12 ; 13.0publisher=Mozilla ; no ; no ; no 
+ css-values-3 ; ms ; Millisecond ; 9.0 ; 12 ; 2.0publisher=Mozilla ; rowspan="4" yes ; rowspan="4" yes ; 2.5 
+ css-values-3 ; s ; Second ; 9.0 ; 12 ; 2.0publisher=Mozilla ; 2.5 
+ css-values-3 ; Hz ; Hertz ; rowspan="7" no ; rowspan="2" no ; rowspan="2" no ; rowspan="2" no 
+ css-values-3 ; kHz ; Kilohertz 
+ css-values-3 ; dpi ; Dots per inch ; 12 ; 1.9.1 ; rowspan="2" no ; 4.1 ; 2.5 
+ css-values-3 ; dpcm ;Dots per centimetre ; 12 ; 1.9.1 ; 4.1 ; 2.5 
+ css-values-3 ; dppx ; Dots per pixel-unit ; 12 ; 16.0 ; no ; dunno ; no 
+ earlierdraft ofcss-line-grid-1 ; gd ; Cells in the layout-grid ; no ; no ; no ; no ; no 
+ unit beingconsideredfor css-template-3 ; fr ; Remaining space in a series of length values ; 12 ; no ; no ; no ; no 
+ css-values-3 ; rem ; the font size of the root element ; 12 ; 9.0 ; 1.9.2 ; yes ; no ; 2.10.229{{Cite news |title=Hello Opera 11.60! |url= |first=Bruce |last=Lawson |date=2011-12-06 |accessdate=2012-05-05 |publisher=Opera|archiveurl= 
+ css-values-3 ; vw ; the viewport's width ; 12 ; 9.0 ; 19.0 ; 28.0publisher=Can I Use ; rowspan="4" no ; rowspan="4" no 
+ css-values-3 ; vh ; the viewport's height ; 12 ; 9.0 ; 19.0 ; 28.0publisher=Can I Use 
+ css-values-3 ; vmin ; equal to the smaller of ‘vw’ or ‘vh’.  ; 12 ; rowspan="2" no ; 19.0 ; 28.0publisher=Can I Use 
+ css-values-3 ; vmax ; equal to the larger of ‘vw’ or ‘vh’.  ; 12 ; 19.0 ; 28.0publisher=Can I Use 
+ css-values-3 ; ch ; the width of the "0" (ZERO, U+0030) glyph found in the font for the font size used to render. ; 12 ; no ; 1.9.1 ; no ; no ; no 
+ Filter Effects  ; Filter Effects  ; Filter Effects  ; Filter Effects  ; Filter Effects  ; Filter Effects  ; Filter Effects  ; Filter Effects  ; Filter Effects  
+ filter-effects 
+ filter-effects ; grayscale() ;  ; rowspan="10" no ; 13 ; 35.0publisher=Mozilla ; 18.0publisher=MDN ; rowspan="10" no ; rowspan="10" no 
+ filter-effects ; sepia() ;  ; 13 ; 35.0publisher=Mozilla ; 18.0publisher=MDN 
+ filter-effects ; saturate() ;  ; 13 ; 35.0publisher=Mozilla ; 18.0publisher=MDN 
+ filter-effects ; hue-rotate() ;  ; 13 ; 35.0publisher=Mozilla ; 18.0publisher=MDN 
+ filter-effects ; invert() ;  ; 13 ; 35.0publisher=Mozilla ; 18.0publisher=MDN 
+ filter-effects ; opacity() ;  ; 13 ; 35.0publisher=Mozilla ; 18.0publisher=MDN 
+ filter-effects ; brightness() ;  ; 13 ; 35.0publisher=Mozilla ; 18.0publisher=MDN 
+ filter-effects ; contrast() ;  ; 13 ; 35.0publisher=Mozilla ; 18.0publisher=MDN 
+ filter-effects ; blur() ;  ; 13 ; 35.0publisher=Mozilla ; 18.0publisher=MDN 
+ filter-effects ; drop-shadow() ;  ; 13 ; 35.0publisher=Mozilla ; 18.0publisher=MDN 
+ filter-effects ; Variables ; Variables ; Variables ; Variables ; Variables ; Variables ; Variables ; Variables ; Variables 
+ css-variables-1 
+ css-variables-1 ; --* ; define variable ; rowspan="2" no ; rowspan="2" no ; 31.0publisher=Mozilla ; rowspan="2" table-experimental ; rowspan="2" no ; rowspan="2" no 
+ css-variables-1 ; var(--*) ; use variable ; 31.0publisher=Mozilla 
+ ; ; ; Trident ; EdgeHTML ; Gecko ; WebKit ; KHTML ; Presto 

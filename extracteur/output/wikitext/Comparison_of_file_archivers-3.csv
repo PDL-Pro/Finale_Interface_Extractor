@@ -1,0 +1,33 @@
+ File archivers ; ZIP ; TAR ; GZ ; BZ/BZ2 ; 7z ; xz ; RAR ; LHA/LZH ; ACE ; SIT ; SITX ; ARJ ; KGB ; DAR ; ARC ; CAB ; ALZ ; ISO/CD Image ; ZPAQ 
+ rh| 7-Zip ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;no1 ;no ;no ;yes ;no ;no ;no ;yes ;no ;yes ;no 
+ rh| ALZip ;yes ;yes ;yes ;yes ;yes ;unk ;yes ;yes ;yes ;no ;no ;yes ;no ;no ;yes ;yes ;yes ;yes ;no 
+ rh| TAR ;no ;yes ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ rh| Archive Utility ;yes ;yes ;yes ;yes ;no ;yes ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no7 ;no 
+ rh| Ark ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;no ;yes ;yes ;yes ;yes ;no ;yes ;yes ;yes ;yes ;no 
+ rh| B1 Free Archiver ;yes ;yes ;yes ;yes ;yes ;no ;yes ;yes ;no ;no ;no ;no11 ;no ;no ;no ;yes ;yes ;yes ;no 
+ rh| BetterZip ;yes ;yes ;yes ;yes ;yes ;no ;yes ;yes ;no ;yes ;no ;yes ;no ;no ;no ;yes ;no ;yes ;no 
+ rh| bsdtar/libarchive ;yes ;yes ;yes10 ;yes10 ;yes ;yes10 ;yes ;yes ;no ;no ;no ;no ;no ;no ;no ;yes ;no ;yes ;no 
+ rh| cpio ; no ; yes ; no ; no ; no ;no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ;no 
+ rh| Commander One ;yes ;yes ;yes ;yes ;yes ;no ;yes ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ rh| CRAX Commander ;yes ;yes ;yes ;yes ;yes ;no ;yes ;yes ;no ;no ;no ;no ;no ;no ;yes ;no ;no ;yes ;no 
+ rh| Disk ARchiver ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;yes ;no ;no ;no ;no ;no 
+ rh2| Filzip ;yes ;yes ;yes ;no ;no ;unk ;yes ;yes ;yes ;no ;no ;yes ;no ;no ;yes ;yes ;no ;no ;no 
+ rh| FreeArc ;yes ;yes ;yes ;yes ;yes ;unk ;yes ;yes ;no1 ;no ;no ;yes ;no ;no ;no12 ;yes ;no ;yes ;no 
+ rh| GNU tar2 ;no2 ;yes ;yes2 ;yes2 ;no3 ;yes ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ rh2| iArchiver ;yes ;yes ;yes ;yes ;yes ;unk ;yes ;yes ;yes ;yes ;no ;yes ;no ;no ;no ;yes ;no ;no ;no 
+ rh| Info-ZIP ;yes ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ rh2| KGB Archiver ;yes ;no ;no ;no ;no ;unk ;no ;no ;no ;no ;no ;no ;yes ;no ;no ;no ;no ;no ;no 
+ rh| PeaZip ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;no ;no ;yes ;no ;no ;yes ;yes ;no ;yes ;yes 
+ rh| PKZIP ;yes ;yes ;yes ;yes ;yes ;unk ;yes ;yes ;no ;no ;no ;yes ;no ;no ;yes ;yes ;yes ;yes ;no 
+ rh| PowerArchiver ;yes ;yes ;yes ;yes ;yes ;unk ;yes ;yes ;yes ;no ;no ;yes ;no ;no ;yes ;yes ;no ;yes ;yes 
+ rh| Star2 ;no2 ;yes ;yes2 ;yes2 ;yes2 ;yes ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no ;no 
+ rh| StuffIt ;yes ;yes ;yes ;yes ;yes ;unk ;yes ;yes ;no ;yes ;yes ;yes ;no ;no ;yes ;yes ;yes ;yes ;no 
+ rh| The Unarchiver ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;Partial ;yes ;Partial11 ;yes ;no ;no ;yes ;yes ;yes ;yes ;no 
+ rh2| TUGZip ;yes ;yes ;yes ;yes ;yes ;unk ;yes ;yes ;yes ;no ;no ;yes ;no ;no ;yes ;yes ;no ;yes ;no 
+ rh2| WinAce ;yes ;yes ;yes ;no ;no ;unk ;yes ;yes ;yes ;no ;no ;yes ;no ;no ;yes ;no ;no ;yes ;no 
+ rh| WinRAR ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;no ;no ;no ;yes ;no ;no ;no ;yes ;no ;yes ;no 
+ rh| WinZip ;yes ;yes ;yes ;yes ;yes ;unk ;yes4 ;yes ;no ;no ;no ;yes5 ;no ;no ;yes5 ;yes ;no ;yes ;no 
+ rh| XAD ;yes ;yes ;yes ;yes ;no ;unk ;yes ;yes ;Partial ;yes ;no ;no ;no ;no ;yes ;yes ;yes ;yes ;no 
+ rh2| Xarchiver ;yes ;yes ;yes ;yes ;yes ;unk ;yes ;yes ;no ;yes ;yes ;yes ;no ;no ;no ;yes ;no ;yes ;no 
+ rh| ZipGenius ;yes ;yes ;yes ;yes ;yes ;unk ;yes ;yes10 ;yes ;no ;no ;yes10 ;no ;no ;yes ;yes ;no ;yes ;no 
+ ; ZIP ; TAR ; GZ ; BZ/BZ2 ; 7z ; xz ; RAR ; LHA/LZH ; ACE ; SIT ; SITX ; ARJ ; KGB ; DAR ; ARC ; CAB ; ALZ ; ISO/CD Image ; ZPAQ 

@@ -1,0 +1,25 @@
+ Client ; Client ; IP to Country ; Protocol ObfuscationCompatible with the implementation of official eMule. ; Handles files >4GB ; ChatIt refers to client to client chat. ; Buddy list ; Send FILERATING tags to servers ; EndGame ; AICH ; L2HAC LowID to HighID Automatic Callback. ; Secure User ID ; Global Searches ; UPnP port mappingAutomatically configure port forwarding (requires Router with UPnP support) ; Intelligent Chunk Selection ; Lancast ; HideOS / SotN 
+ rh| aMule ; rh| aMule ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes ; yesUPnP does not work on Windows version ; no ; no ; no 
+ rh| eMule ; rh| Official ; no ; yes ; yes ; yes ; yes ; yes ; zz's Version ; yes ; no ; yes ; yes ; yes ; no ; no ; no 
+ rh| eMule ; rh| Osp ; no ; yes ; yes ; yes ; yes ; yes ; zz's Version ; yes ; no ; yes ; yes ; yes ; no ; no ; no 
+ rh| eMule ; rh2| AnalyZZUL ; no ; yes ; yes ; yes ; yes ; yes ; zz's Version ; yes ; no ; yes ; yes ; yes ; no ; no ; no 
+ rh| eMule ; rh| beba ; no ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; Version 1 ; no ; no 
+ rh| eMule ; rh| Magic Angel ; yes ; yes ; yes ; yes ; yes ; yes ; DBR ; yes ; yes ; yes ; yes ; yes ; Version 1 ; no ; both 
+ rh| eMule ; rh| Mephisto ; yes ; yes ; yes ; yes ; yes ; yes ; DBR ; yes ; yes ; yes ; yes ; yes ; no ; no ; both 
+ rh| eMule ; rh| MorphXT ; yes ; yes ; yes ; yes ; yes ; yes ; DBR ; yes ; yes ; yes ; yes ; yes ; Version 1 ; no ; both 
+ rh| eMule ; rh| NeoMule ; yes ; yes ; yes ; yes ; yes ; yes ; own simplified implementation ; yes ; yes ; yes ; yes ; yes ; Version 2 ; Version 2 ; own implementation 
+ rh| eMule ; rh| ScarAngel ; yes ; yes ; yes ; yes ; yes ; yes ; DBR ; yes ; yes ; yes ; yes ; yes ; no ; no ; both 
+ rh| eMule ; rh| SharkX ; yes ; yes ; yes ; yes ; yes ; yes ; DBR ; yes ; yes ; yes ; yes ; yes ; Version 1 ; no ; no 
+ rh| eMule ; rh| Sivka ; no ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes ; yes ; yes ; yes ; no ; Version 1 ; HideOS 
+ rh| eMule ; rh| Spike2 ; yes ; yes ; yes ; yes ; yes ; yes ; DBR ; yes ; yes ; yes ; yes ; yes ; Version 1 ; no ; no 
+ rh| eMule ; rh| StulleMule ; yes ; yes ; yes ; yes ; yes ; yes ; DBR ; yes ; yes ; yes ; yes ; yes ; Version 1 ; no ; both 
+ rh| eMule ; rh| Xtreme ; yes ; yes ; yes ; yes ; yes ; yes ; DBR ; yes ; yes ; yes ; yes ; yes ; no ; no ; own implementation 
+ rh| eMule ; rh| X-Ray ; yes ; yes ; yes ; yes ; yes ; yes ; DBR ; yes ; yes ; yes ; yes ; yes ; Version 1 ; no ; no 
+ rh| eMule ; rh| ZZUL ; no ; yes ; yes ; yes ; yes ; yes ; zz's Version ; yes ; no ; yes ; yes ; yes ; no ; no ; no 
+ rh| eMule ; rh| ZZUL BastarD ; no ; yes ; yes ; yes ; yes ; yes ; zz's Version ; yes ; no ; yes ; yes ; yes ; no ; no ; no 
+ rh| eMule Plus ; rh| eMule Plus ; yes ; no ; up to 512GB ; yes ; yes ; yes ; dunno ; no ; yes ; yes ; yes ; no ; yes ; Version 1 ; manual hiding 
+ rh2| Lphant ; rh2| Lphant ; no ; yes ; yes ; yes ; yes ; yes ; yes ; CCH (similar to ICH) ; no ; yes ; no ; yes ; no ; Version 1 ; no 
+ rh| MLDonkey ; rh| MLDonkey ; yes ; no ; yes ; yes ; yes ; dunno ; no ; yes ; no ; yes ; yes ; yes ; no ; no ; no 
+ rh| Shareaza ; rh| Shareaza ; yes ; no ; yes ; yes ; yes ; yes ; yes ; no ; yes ; no ; yes ; yes ; no ; no ; no 
+ rh2| xMule ; rh2| xMule ; no ; no ; no ; no ; yes ; no ; no ; no ; no ; no ; yes ; no ; no ; no ; no 
+ Client ; Client ; IP to Country ; Protocol Obfuscation ; Handles files >4GB ; ChatIt refers to client to client chat. ; Buddy list ; Send FILERATING tags to servers ; EndGame ; AICH ; L2HAC  ; Secure User ID ; Global Searches ; UPnP port mapping ; Intelligent Chunk Selection ; Lancast ; HideOS / SotN 

@@ -1,0 +1,33 @@
+ ; ; Trident ; EdgeHTML ; Gecko ; WebKit ; KHTML ; Presto 
+ @counter-style ; @counter-style ; @counter-style ; @counter-style ; @counter-style ; @counter-style ; @counter-style ; @counter-style 
+ css-counter-styles-3 ; additive-symbols ; rowspan="10" no ; rowspan="10" no ; rowspan="10" nopublisher=Mozilla ; rowspan="10" no ; rowspan="10" no ; rowspan="10" no 
+ css-counter-styles-3 ; fallback  
+ css-counter-styles-3 ; negative  
+ css-counter-styles-3 ; pad 
+ css-counter-styles-3 ; prefix 
+ css-counter-styles-3 ; range 
+ css-counter-styles-3 ; speak-as 
+ css-counter-styles-3 ; suffix 
+ css-counter-styles-3 ; symbols 
+ css-counter-styles-3 ; system 
+ @font-face ; @font-face ; @font-face ; @font-face ; @font-face ; @font-face ; @font-face ; @font-face 
+ css-fonts-3 ; font-family ; rowspan="8" yes ; 12 ; rowspan="5" yes ; rowspan="2" yes ; rowspan="2" yes ; rowspan="2" yes 
+ css-fonts-3 ; font-feature-settings ; 12 
+ css-fonts-3 ; font-stretch ; no ; 12 ; no ; no 
+ css-fonts-3 ; font-style ; rowspan="2" yes ; 12 ; rowspan="4" yes ; rowspan="2" yes 
+ css-fonts-3 ; font-variant ; 12 
+ css-fonts-3 ; font-weight ; Partial ; 12 ; Partial ; Incorrect 
+ css-fonts-3 ; src ; yes ; 12 ; yes ; yes 
+ css-fonts-3 ; unicode-range ; 36.0publisher=Mozilla ; 12 ; no  ; no ; no 
+ @viewport ; @viewport ; @viewport ; @viewport ; @viewport ; @viewport ; @viewport ; @viewport 
+ css-device-adapt-1 ; height  ; 10.0publisher=Treehouse Blog ; 12  ; rowspan="11" no ; rowspan="11" no ; rowspan="11" no ; 2.7 
+ css-device-adapt-1 ; max-height  ; rowspan="2" no ; rowspan="2" no ; rowspan="2" no 
+ css-device-adapt-1 ; min-height 
+ css-device-adapt-1 ; width ; 10.0publisher=Treehouse Blog ; 12 ; 2.7 
+ css-device-adapt-1 ; max-width ; rowspan="7" no ; rowspan="7" no ; rowspan="2" no 
+ css-device-adapt-1 ; min-width 
+ css-device-adapt-1 ; zoom ; 2.7 
+ css-device-adapt-1 ; max-zoom ; 2.7 
+ css-device-adapt-1 ; min-zoom ; 2.7 
+ css-device-adapt-1 ; user-zoom ; 2.7 
+ css-device-adapt-1 ; orientation ; no 

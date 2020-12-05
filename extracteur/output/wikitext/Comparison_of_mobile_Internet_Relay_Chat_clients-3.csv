@@ -1,0 +1,14 @@
+ Client ; CHAT ; Whiteboard ; SEND ; GET ; RESUME ; TSEND ; SEND T ; XMIT ; Passive DCC ; Server ; RDCC ; REVERSE ; RSEND ; Reverse / Firewall DCC ; File servers (FSERVs) ; XDCC 
+ rh| AndroidChat ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+ rh| Mobile Colloquy ; yesdate=August 2010 ; no ; no ; dunno ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+ rh| fIRC ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| jmIrc ; no ; no ; no ; dunno ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+ rh2| k-IRC ; no ; no ; no ; dunno ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+ rh2| Revolution IRC ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Virca ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh|  wIRC ; yes ; no ; yes ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+ rh| WLIrc ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Yaaic ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Simple IRC ; no ; no ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+ rh| zsIRC ; no ; no ; no ; dunno ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+ Client ; CHAT ; Whiteboard ; SEND ; GET ; RESUME ; TSEND ; SEND T ; XMIT ; Passive DCC ; Server ; RDCC ; REVERSE ; RSEND ; Reverse / Firewall DCC ; File servers (FSERVs) ; XDCC 

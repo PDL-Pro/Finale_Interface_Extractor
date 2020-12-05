@@ -1,0 +1,18 @@
+ ; Trident ; Gecko ; WebKit ; KHTML ; Presto 
+ rh| Basic structure ; rh| Basic structure ; rh| Basic structure ; rh| Basic structure ; rh| Basic structure ; rh| Basic structure 
+ html ; 5.0 ; rowspan="3" yes ; rowspan="3" yes ; rowspan="3" yes ; 1.0 
+ head ; 4.0 ; 1.0 
+ body ; 4.0 ; 1.0 
+ rh| Metadata ; rh| Metadata ; rh| Metadata ; rh| Metadata ; rh| Metadata ; rh| Metadata 
+ title ; 4.0 ; 1.0 ; rowspan="2" yes ; rowspan="2" yes ; 1.0 
+ meta ; 4.0 ; 1.0 ; 1.0 
+ rh| Headings ; rh| Headings ; rh| Headings ; rh| Headings ; rh| Headings ; rh| Headings 
+ h1 ; 4.0 ; 1.0 ; rowspan="6" yes ; rowspan="6" yes ; 1.0 
+ h2 ; 4.0 ; 1.0 ; 1.0 
+ h3 ; 4.0 ; 1.0 ; 1.0 
+ h4 ; 4.0 ; 1.0 ; 1.0 
+ h5 ; 4.0 ; 1.0 ; 1.0 
+ h6 ; 4.0 ; 1.0 ; 1.0 
+ rh| Grouping elements ; rh| Grouping elements ; rh| Grouping elements ; rh| Grouping elements ; rh| Grouping elements ; rh| Grouping elements 
+ div ; 4.0 ; 1.0 ; rowspan="2" yes ; rowspan="2" yes ; 1.0 
+ span ; 4.0 ; 1.0 ; 1.0 

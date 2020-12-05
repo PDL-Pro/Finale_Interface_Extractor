@@ -1,0 +1,11 @@
+ Fields and initialization ;Java ;C# 
+Fields ; yes ; yes 
+Constants ; yes ; yes, but no support for constant passed parameters{{cite web ;url=  ;title=C# Equivalent to Java's "final"  ;last1=Sunwold  ;first1=Corey  ;date=25 February 2010  ;publisher=Corey Sunwold  ;archiveurl=  ;url-status=live  ;archivedate=29 November 2012  ;quote=There is than one use of the final keyword that C# does not have an equivalent for. When you pass a parameter to a method in Java, and you don't want that parameter's value to change within the scope of that method you can set it as final like this:  ;accessdate=13 September 2016  }} 
+Static (class) constructors ; yes ; yes 
+Instance constructors ; yes ; yes 
+Finalizers/destructors ; yes ; yes 
+Instance initializers ; yes ; no, can be simulated with instance constructor 
+Object initialization ; Bottom-up (fields and constructors) ; Top-down (fields), bottom-up (constructors) 
+Object initializers ; yes ; yes 
+Collection initializers ; no, static varargs methods ; yes 
+Array initializers ; yes ; yes 

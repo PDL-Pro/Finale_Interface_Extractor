@@ -1,0 +1,44 @@
+ ; 8 bit (byte) ; 8 bit (byte) ; 16 bit (short integer) ; 16 bit (short integer) ; 32 bit ; 32 bit ; 64 bit (long integer) ; 64 bit (long integer) ; Word size ; Word size ; Arbitrarily precise (bignum) 
+ ; Signed ; Unsigned ; Signed ; Unsigned ; Signed ; Unsigned ; Signed ; Unsigned ; Signed ; Unsigned ; Arbitrarily precise (bignum) 
+ AdaAda Reference Manual – Language and Standard Libraries, ISO/IEC 8652:201x (E),  ; range -2**7 .. 2**7 - 1 ; range 0 .. 2**8 - 1 or mod 2**8 ; range -2**15 .. 2**15 - 1 ; range 0 .. 2**16 - 1 or mod 2**16 ; range -2**31 .. 2**31 - 1 ; range 0 .. 2**32 - 1 or mod 2**32 ; range -2**63 .. 2**63 - 1 ; mod 2**64 ; Integer ; range 0 .. 2**Integer'Size - 1 or mod Integer'Size ; n/a 
+ ALGOL 68 (variable-width) ; short short int ; rowspan=2 n/a ; short int ; rowspan=2 n/a ; int ; rowspan=2 n/a ; long int ; rowspan=2 n/a ; int ; n/a ; long long int  
+ ALGOL 68 (variable-width) ; short short int ;bytes & bits ; short int ;bytes & bits ; int ;bytes & bits ; long int ;bytes & bits ;bytes & bits ; long long int  
+ C (C99 fixed-width) ; int8_t ; uint8_t ; int16_t ; uint16_t ; int32_t ; uint32_t ; int64_t ; uint64_t ; intptr_t ; size_t ; rowspan=5 n/a 
+ C++ (C++11 fixed-width) ; int8_t ; uint8_t ; int16_t ; uint16_t ; int32_t ; uint32_t ; int64_t ; uint64_t ; intptr_t ; size_t 
+ C (C99 variable-width) ; signed char ; unsigned char ; short ; unsigned short ; long ; unsigned long ; long long ; unsigned long long ; int ; unsigned int 
+ C++ (C++11 variable-width) ; signed char ; unsigned char ; short ; unsigned short ; long ; unsigned long ; long long ; unsigned long long ; int ; unsigned int 
+ Objective-C (Cocoa) ; signed char or int8_t ; unsigned char or uint8_t ; short or int16_t ; unsigned short or uint16_t ; int or int32_t ; unsigned int or uint32_t ; long long or int64_t ; unsigned long long or uint64_t ; NSInteger or long ; NSUInteger or unsigned long 
+ C# ; sbyte ; byte ; short ; ushort ; int ; uint ; long ; ulong ; IntPtr ; UIntPtr ; System.Numerics.BigInteger(.NET 4.0) 
+ Java ; byte ; n/a ; short ; char ; int ; n/a ; long ; n/a ; n/a ; n/a ; java.math.BigInteger 
+ Go ; int8 ; uint8 or byte ; int16 ; uint16 ; int32 ; uint32 ; int64 ; uint64 ; int ; uint ; big.Int 
+ Rust ; i8 ; u8 ; i16 ; u16 ; i32 ; u32 ; i64 ; u64 ; isize ; usize ; n/a 
+ Swift ; Int8 ; UInt8 ; Int16 ; UInt16 ; Int32 ; UInt32 ; Int64 ; UInt64 ; Int ; UInt 
+ D ; byte ; ubyte ; short ; ushort ; int ; uint ; long ; ulong ;n/a ;n/a ; BigInt 
+ Common Lisp ; (signed-byte 8) ; (unsigned-byte 8) ; (signed-byte 16) ; (unsigned-byte 16) ; (signed-byte 32) ; (unsigned-byte 32) ; (signed-byte 64) ; (unsigned-byte 64) ;  ;  ; bignum 
+ Scheme ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ ISLISP ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; bignum 
+ Pascal (FPC) ; shortint ; byte ; smallint ; word ; longint ; longword ; int64 ; qword ; integer ; cardinal ; n/a 
+ Visual Basic ; n/a ;Byte ; Integer ; n/a ; Long ; n/a ; colspan=2 n/a ; rowspan=2 colspan=2 n/a ; rowspan=1 n/a 
+ Visual Basic .NET ; SByte ;Byte ; Short ; UShort ; Integer ; UInteger ; Long ; ULong ; System.Numerics.BigInteger(.NET 4.0) 
+ FreeBasic ; Byte or Integer<8> ; UByte or UInteger<8> ; Short or Integer<16> ; UShort or UInteger<16> ; Long or Integer<32> ; ULong or UInteger<32> ; LongInt or Integer<64> ; ULongInt or UInteger<64> ; Integer ; UInteger ; n/a 
+ Python 2.x ; colspan=2 n/a ; colspan=2 n/a ; colspan=2 n/a ; colspan=2 n/a ; int ; n/a ; long 
+ Python 3.x ; colspan=2 n/a ; colspan=2 n/a ; colspan=2 n/a ; colspan=2 n/a ; colspan=2 n/a ; int 
+ S-Lang ; colspan=2 n/a ; colspan=2 n/a ; colspan=2 n/a ; colspan=2 n/a ; colspan=2 n/a ; n/a 
+ Fortran ; INTEGER(KIND = n) ; n/a ; INTEGER(KIND = n) ; n/a ; INTEGER(KIND = n) ; n/a ; INTEGER(KIND = n) ; n/a ; ; ; 
+ PHP ; colspan=2 n/a ; colspan=2 n/a ; int  ; n/a ; int  ; n/a ; colspan=2 n/a ;  
+ Perl 5 ; n/a ; n/a ; n/a ; n/a ; n/a ; n/a ; n/a ; n/a ; n/a ; n/a ; Math::BigInt 
+ Raku ; int8 ; uint8 ; int16 ; uint16 ; int32 ; uint32 ; int64 ; uint64 ; Int ; colspan=2 n/a 
+ Ruby ; colspan=2 n/a ; colspan=2 n/a ; colspan=2 n/a ; colspan=2 n/a ; Fixnum ; n/a ; Bignum 
+ Erlang ; colspan=2 n/a ; colspan=2 n/a ; colspan=2 n/a ; colspan=2 n/a ; integer() ; n/a ; integer() 
+ Scala ; Byte ; n/a ; Short ; Char ; Int ; n/a ; Long ; n/a ; n/a ; n/a ; scala.math.BigInt 
+ Seed7 ; n/a ; n/a ; n/a ; n/a ; n/a ; n/a ; integer ; n/a ; n/a ; n/a ; bigInteger 
+ Smalltalk ; colspan=2 n/a ; colspan=2 n/a ; colspan=2 n/a ; colspan=2 n/a ; SmallInteger ; n/a ; LargeInteger 
+ Windows PowerShell ; colspan=2 n/a ; colspan=2 n/a ; colspan=2 n/a ; colspan=2 n/a ; colspan=2 n/a ; n/a 
+ OCaml ; colspan=2 n/a ; colspan=2 n/a ; int32 ; n/a ; int64 ; n/a ; int  or  nativeint ; ; open Big_int,,  big_int 
+ F# ; sbyte ; byte ; int16 ; uint16 ; int64 ; int32 or int ; uint32 ; uint64 ; nativeint ; unativeint ; bigint 
+ Standard ML ; n/a ; Word8.word ; colspan=2 n/a ; Int32.int ; Word32.word ; Int64.int ; Word64.word ; int ; word ; LargeInt.int or  IntInf.int 
+ Haskell (GHC) ; «import Int»  Int8 ; «import Word»  Word8 ; «import Int»  Int16 ; «import Word»  Word16 ; «import Int»  Int32 ; «import Word»  Word32 ; «import Int»  Int64 ; «import Word»  Word64 ; Int ; «import Word»  Word ; Integer 
+ Eiffel ; INTEGER_8 ; NATURAL_8 ; INTEGER_16 ; NATURAL_16 ; INTEGER_32 ; NATURAL_32 ; INTEGER_64 ; NATURAL_64 ; INTEGER ; NATURAL ; n/a 
+ COBOL ; BINARY-CHAR «SIGNED» ; BINARY-CHAR UNSIGNED ; BINARY-SHORT «SIGNED» ; BINARY-SHORT UNSIGNED ; BINARY-LONG «SIGNED» ; BINARY-LONG UNSIGNED ; BINARY-DOUBLE «SIGNED» ; BINARY-DOUBLE UNSIGNED ; n/a ; n/a ; n/a 
+ Mathematica ; colspan=2 n/a ; colspan=2 n/a ; colspan=2 n/a ; colspan=2 n/a ; colspan=2 n/a ; Integer 
+ Wolfram Language ; colspan=2 n/a ; colspan=2 n/a ; colspan=2 n/a ; colspan=2 n/a ; colspan=2 n/a ; Integer 

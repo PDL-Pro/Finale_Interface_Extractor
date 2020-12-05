@@ -1,0 +1,27 @@
+ Office suite ; Windows ; Mac OS ; GNU/Linux ; BSD ; Unix ; Android ; iOS 
+ rh| Ability Office ; yes ; no ; no ; no ; no ; no ; no 
+ rh| Apache OpenOffice ; yes ; yes ; yes ; yes ; yes ; no ; no 
+ rh| Breadbox Office ; DOS, Windows ; no ; no ; no ; no ; no ; no 
+ rh| Calligra Suite ; yes ; yes ; yes ; yes ; yes ; no ; no 
+ rh| Feng Office Community Edition ; Fully online ; Fully online ; Fully online ; Fully online ; Fully online ; no ; no 
+ rh| Gobe Productive ; yes ; no ; no ; no ; no ; no ; no 
+ rh| Google Apps for Work ; Fully online ; Fully online ; Fully online ; Fully online ; Fully online ; Fully online ; Fully online 
+ rh| iWork ; Fully online (iCloud version) ; yes ; Fully online (iCloud version) ; Fully online (iCloud version) ; Fully online (iCloud version) ; no ; yes 
+ rh| LibreOffice ; yes ; yes ; yes ; yes ; yes ; beta ; no 
+ rh| Lotus SmartSuite ; yes ; no ; some (with Wine) ; no ; no ; no ; no 
+ rh| MarinerPak ; no ; yes ; no ; no ; no ; no ; Calc only 
+ rh| Microsoft Office ; yes ; partial (not all features available, e.g. Project, Visio, Access) ; Some (with Wine) ; no ; no ; yes ; yes 
+ rh| Microsoft Works ; yes ; dropped (4.0, Classic only) ; some (with Wine) ; no ; no ; no ; no 
+ rh| MobiSystems OfficeSuite ; yes ; no ; no ; no ; no ; no ; no 
+ rh| NeoOffice ; no ; Mac OS X v10.3 or above ; no ; no ; no ; no ; no 
+ rh| ONLYOFFICE ; yes ; yes ; yes ; Online version ; Online version ; yes ; yes 
+ rh| SoftMaker Office ; yes ; yes ; yes ; dropped (2006) ; no ; yes ; no 
+ rh| StarOffice ; yes ; yes (Intel only) ; yes ; yes ; yes ; no ; no 
+ rh| TeXmacs ; yes ; yes ; yes ; yes ; yes ; no ; no 
+ rh| TeamLab ; Fully online ; Fully online ; Fully online ; Fully online ; Fully online ; no ; no 
+ rh| ThinkFree Office ; Fully online ; Fully online ; Fully online ; Fully online ; Fully online ; no ; no 
+ rh| Tiki Wiki CMS Groupware ; Fully online ; Fully online ; Fully online ; Fully online ; Fully online ; no ; no 
+ rh| WordPerfect Office ; yes ; no ; some (Ver. 2000) ; no ; no ; no ; no 
+ rh| WPS Office (Kingsoft Office) ; yes ; yes ; yes ; no ; no ; yes ; yes 
+ rh| Zoho Office Suite ; Fully online ; Fully online ; Fully online ; Fully online ; Fully online ; no ; no 
+ Office suite ; Windows ; Mac OS ; GNU/Linux ; BSD ; Unix ; Android ; iOS 

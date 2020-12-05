@@ -1,0 +1,25 @@
+ ; Trident ; Gecko ; WebKit ; Presto 
+ audio attributes ; audio attributes ; audio attributes ; audio attributes ; audio attributes 
+ src ; 5.0publisher=Microsoft ; 1.9.1 ; 525 ; 2.5 
+ preload ; 5.0publisher=Microsoft ; 2.0Supports preload under the older name autobuffer.publisher=Mozilla ; 525 ; table-experimental 
+ autoplay ; 5.0publisher=Microsoft ; 1.9.1 ; 525 ; 2.5 
+ loop ; 5.0publisher=Microsoft ; 11.0publisher=Mozilla ; 525 ; 2.5 
+ controls ; 5.0publisher=Microsoft ; 1.9.1 ; 525 ; 2.5 
+ video attributes ; video attributes ; video attributes ; video attributes ; video attributes 
+ src ; 5.0 ; 1.9.1 ; 525 ; 2.5 
+ preload ; 5.0 ; 2.0 ; 525 ; table-experimental 
+ autoplay ; 5.0 ; 1.9.1 ; 525 ; 2.5 
+ loop ; 5.0 ; 11.0 ; 525 ; 2.5 
+ controls ; 5.0 ; 1.9.1 ; 525 ; 2.5 
+ poster ; 5.0 ; 1.9.2publisher=Mozilla ; 525 ; 2.5 
+ width ; 5.0 ; 1.9.1 ; 525 ; 2.5 
+ height ; 5.0 ; 1.9.1 ; 525 ; 2.5 
+ source attributes ; source attributes ; source attributes ; source attributes ; source attributes 
+ src ; 5.0 ; 1.9.1 ; 525url-status=dead   ; 2.5 
+ type ; 5.0 ; 1.9.1 ; 525url-status=dead   ; 2.5 
+ media ; 5.0 ; 15.0publisher=Mozilla ; 525url-status=dead   ; 2.5 
+ track attributes ; track attributes ; track attributes ; track attributes ; track attributes 
+ kind ; 6.0 ; 24.0publisher=Mozilla ; rowspan="4" yes title=April 2012 HTML5 Media Element & WebAudio – WebKit  ; rowspan="4" no 
+ label ; 6.0 ; 24.0publisher=Mozilla 
+ src ; 6.0 ; 24.0publisher=Mozilla 
+ srclang ; 6.0 ; 24.0publisher=Mozilla 

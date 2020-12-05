@@ -1,0 +1,22 @@
+ Platform ; Platform ; Platform ; Features ; Features ; Features ; Features ; Features ; Features ; Features ; Features ; Toolkit ; Toolkit ; Toolkit ; Prolog Mechanics 
+ Name ; OS ; Licence ; Native Graphics ; Compiled Code ; Unicode ; Object Oriented ; Native OS Control ; Stand Alone Executable ; C InterfaceC/Java interface can also be used for graphics and OS control. ; Java Interface ; Interactive Interpreter ; Debugger ; Code Profiler ; Syntax 
+rh|BProlog ;Unix, Windows, Mac OS X ;Free for non-commercial uses ; ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;ISO-Prolog, plus event-handling, CLP(FD), and tabling 
+rh|JIProlog ;JVM, Android ;Shareware/Commercial and AGPL ;yes ; ;yes ; ;yes via Java ;yes ;yes via Java ;yes ;yes ;yes ; ;ISO-Prolog 
+rh|Ciao ;Unix, Windows, Mac OS X ;GPL, LGPL ; ;yes ; ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;ISO-Prolog, plus extensions 
+rh|DOS-PROLOG ;MS-DOS ;Shareware ;yes ;yes ;yes ; ;yes ;yes ; ; ; ;yes ; ;Edinburgh Prolog 
+rh|ECLiPSe ;Linux, Windows, Solaris, macOS ;MPL ; ;yes ; ; ;yes ; ;yes ;yes ;yes ;yes ;yes ;Extended Prolog, Multi-dialect, including ISO 
+rh|GNU Prolog ;Unix, Windows, Mac OS X ;GPL, LGPL ; ;yes ; ; ;yes ;yes ;yes ; ;yes ;yes ; ;ISO-Prolog 
+rh|Jekejeke Prolog ;JVM, Android ;Distribution Evaluation ;yes ; ;yes ;yes ;yes ; ; ;yes ;yes ;yes ;yes ;ISO-Prolog, Java API 
+rh|JLog ;JVM ;GPL ;yes ;yes ; ; ; ; ; ;yes ;yes ; ; ;ISO-Prolog 
+rh|JScriptLog ;Web Browser ;GPL ; ; ; ; ; ; ; ; ;yes ; ; ;ISO-Prolog 
+rh|jTrolog ;JVM ;LGPL ; ; ;yes ; ; ; ; ;yes ;yes ;yes ; ;ISO-Prolog [http://jtrolog.dev.java.net/test_results/resultsISO.html tests]fix-attempted=yes  
+rh|LPA-PROLOG ;Windows ;Commercial ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;Edinburgh Prolog with extensions 
+rh|Open Prolog ;Mac OS ;Freeware ; ; ; ; ; ; ; ; ; ;yes ; ; 
+rh|Poplog Prolog ;Linux (32- and 64-bit), Unix, Windows  ;Free Open Source ;Only through POP-11, on Linux ;yes ; ; ;yes ;yes ;yes ; ;yes ;yes ; ;Edinburgh Prolog, with interfaces to Poplog Common Lisp and Pop-11 
+rh|SICStus Prolog ;Unix, Linux, Windows, macOS ;Commercial ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;ISO-Prolog 
+rh|Strawberry Prolog ;Windows, Unix ;Freeware, Commercial ;yes ;yes ;yes ; ; ;yes ; ; ; ;yes ; ;Not ISO-Prolog + extensions 
+rh|SWI-Prolog ;Unix, Linux, Windows, macOS ;BSD License ;yes ;yes ;yes ; ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;ISO-Prolog, Edinburgh Prolog 
+rh|tuProlog ;JVM, Android ;LGPL ;yes ; ;yes ; ; ; ;yes ;yes ;yes ;yes ; ;ISO-Prolog 
+rh|Visual Prolog ;Windows ;Freeware, Commercial ;yes ;yes ;yes ;yes ;yes ;yes ;yes ; ; ;yes ;yes ; 
+rh|XSB Prolog ;Linux, Windows, Solaris, macOS ;LGPL ; ;yes ;yes ; ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;ISO-Prolog, tabled WFS 
+rh|YAP-Prolog ;Linux, Windows, Solaris, Mac OS X, HP-UX ;GPL or Artistic (user choice) ; ;yes ;yes ; ;yes ;yes ;yes ;yes ;yes ;yes ; ;Edinburgh, ISO-Prolog, Quintus and SICStus Prolog compatible 

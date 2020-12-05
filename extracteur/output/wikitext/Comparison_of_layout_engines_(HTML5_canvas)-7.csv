@@ -1,0 +1,14 @@
+ ; Trident ; Gecko ; WebKit ; KHTML ; Presto 
+ rh| Basic structure ; rh| Basic structure ; rh| Basic structure ; rh| Basic structure ; rh| Basic structure ; rh| Basic structure 
+ form ; 4.0 ; 1.0 ; rowspan="3" yes ; rowspan="3" yes ; 1.0 
+ fieldset ; 4.0 ; 1.0 ; 1.0 
+ legend ; 4.0 ; 1.0 ; 1.0 
+ rh| Form controls and labels ; rh| Form controls and labels ; rh| Form controls and labels ; rh| Form controls and labels ; rh| Form controls and labels ; rh| Form controls and labels 
+ button ; 4.0group=note ; 1.0 ; rowspan="4" yes ; rowspan="3" yes ; 1.0 
+ textarea ; 4.0 ; 1.0 ; 1.0 
+ input ; 4.0 ; 1.0 ; 1.0 
+ label ; 4.0 ; 1.0 ; 3.4.2group=note ; 1.0 
+ rh| List boxes (combo boxes) ; rh| List boxes (combo boxes) ; rh| List boxes (combo boxes) ; rh| List boxes (combo boxes) ; rh| List boxes (combo boxes) ; rh| List boxes (combo boxes) 
+ select ; 4.0 ; 1.0 ; rowspan="3" yes ; rowspan="3" yes ; 1.0 
+ optgroup ; 4.0 ; 1.0 ; 1.0 
+ option ; 4.0 ; 1.0 ; 1.0 

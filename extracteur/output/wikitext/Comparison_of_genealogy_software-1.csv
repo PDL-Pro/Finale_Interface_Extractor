@@ -1,0 +1,23 @@
+ Name ; Individual view ; Family view ; Pedigree view ; Chronology view ; Ancestor charts ; Ancestor narrative reports ; Ancestor pedigree reports ; Descendant charts ; Descendant narrative reports ; Fan charts ; Research Manager ; DNA charts ; Research Guidance ; Mapping 
+ rh| Agelong Tree ; yes ; yes ; yes ; no ; yes ; yes ; yes ; yes ; yes ; no ; no ; no ; no ; no 
+ rh| Ahnenblatt ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; no ; no ; yes 
+ rh| Ancestral Quest ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; yes 
+ rh|Ancestris ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes 
+ rh| Brother's Keeper ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; no ; dunno 
+ rh| Family HistorianFamily Historian users can also optionally install free plugins (access to the Family Historian plugin store is integrated into the program). Scripting tools are included for automation of repetitive tasks, and much more. ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; yes ; yes 
+ rh| Family Tree Builder ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes 
+ rh| Family Tree Maker ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; yes 
+ rh| GEDitCOM II ; yes ; yes ; yes ; no ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; yes 
+ rh| Genbox Family History ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; no 
+ rh| GenealogyJ ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; no ; yes 
+ rh| GenoPro ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; no ; yes 
+ rh| Gramps ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; yes 
+ rh| Heredis ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes 
+ rh| Legacy Family TreeLegacy Family Tree can also save DNA Test Results and Print the values. Mapping is included to automatically pinpoint and plot important locations in ancestors' lives. ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no 
+ rh| LifeLines ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; no ; dunno 
+ rh| MacFamilyTree ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes 
+ rh| Personal Ancestral File ; yes ; yes ; yes ; no ; yes ; yes ; yes ; yes ; yes ; no ; no ; dunno ; no ; dunno 
+ rh| Reunion ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; no ; yes 
+ rh| RootsMagic ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| The Master Genealogist ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; no ; dunno 
+ rh| webtrees ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 

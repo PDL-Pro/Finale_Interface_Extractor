@@ -1,0 +1,21 @@
+Name;Code review;Bug tracking;Web hosting;Wiki;Translation system;Shell server;Mailing list;Forum;Personal repository;Private repository;Announce;Build system;Team;Release binaries;Self-hosting
+Assembla;Yes;Yes;Yes;Yes;Yes;No;No;No;Yes;Yes;Yes;Yes;Yes;Unknown;No
+Azure DevOps Services;Yes;Yes;Yes;Yes;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Commercially (Azure DevOps Server)
+Bitbucket;Yes;Yes;Yes;Yes;No;No;No;No;Yes;Yes;No;Yes;Yes;No;Commercially (Bitbucket Server formerly Stash)
+Buddy;Yes;Yes;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+CloudForge;Unknown;Yes;Yes;Yes;No;No;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;No
+GForge;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+Gitea;Yes;Yes;No;Yes;Unknown;Unknown;Unknown;Unknown;Yes;Yes;Unknown;3rd-party (e.g. Travis CI, Appveyor and others);Yes;Unknown;Yes
+GitHub;Yes;Yes;Yes;Yes;No;No;No;No;Yes;Yes;Yes;3rd-party (e.g. Travis CI, Appveyor and others);Yes;Yes;Commercially (GitHub Enterprise)
+GitLab;Yes;Yes;Yes;Yes;No;No;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+GNU Savannah;Yes;Yes;Yes;No;No;Yes;Yes;No;No;No;Yes;No;Yes;Unknown;Yes
+Helix TeamHub;Yes;Yes;No;Yes;No;No;Yes;Yes;Yes;Yes;No;Yes, with hooks. Jenkins, TeamCity, etc.;No;Yes;Yes
+java.net/Project Kenai;Unknown;Yes;Yes;Yes;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Unknown;No
+Kallithea;Yes;No;Yes;No;No;Unknown;No;No;Yes;Yes;No;No;Yes;Yes;Yes
+Launchpad;Yes;Yes;No;No;Yes;No;Yes;No;Yes;Yes;Yes;Yes;Yes;Unknown;Yes
+OSDN;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes;No;Yes;No;Yes;Yes;No
+Ourproject.org;Unknown;Yes;Yes;Yes;No;Unknown;Yes;Yes;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Yes
+Phabricator;Yes;Yes;Yes;Yes;Unknown;Yes;Unknown;Yes;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Yes
+RhodeCode;Yes;No;Yes;No;No;Unknown;No;No;Yes;Yes;Yes;No;Yes;Yes;Yes
+SourceForge;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes
+Name;Code review;Bug tracking;Web hosting;Wiki;Translation system;Shell server;Mailing list;Forum;Personal repository;Private repository;Announce;Build system;Team;Release binaries;Self-hosting

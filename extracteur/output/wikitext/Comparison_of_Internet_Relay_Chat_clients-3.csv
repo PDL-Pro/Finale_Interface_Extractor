@@ -1,0 +1,36 @@
+ Client ; 386BSD ; BSD/OS (BSD/386, BSDI) ; FreeBSD, NetBSD, OpenBSD ; SunOS ; ULTRIX ; AIX ; A/UX ; HP-UX ; IRIX ; SCO OpenServer ; Solaris ; UnixWare ; Linux ; NeXTSTEP ; OpenVMS ; OSF/1 ; QNX ; Tru64 UNIX 
+ rh| Bersirc ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; no ; dunno ; dunno ; dunno 
+ rh| BitchX ; dunno ; yesgroup=Note ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; dunno 
+ rh| ChatZilla ; no ; no ; yes ; yes ; no ; yes ; no ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yes ; no ; yes ; yes 
+ rh| Colloquy ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+ rh| degesch ; dunno ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| DMDIrc ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| ERC ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| HexChat ; dunno ; dunno ; yes ; yes ; dunno ; yes ; dunno ; yes ; yes ; dunno ; yes ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; yes 
+ rh| HydraIRC ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+ rh| IceChat ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+ rh| IRCCloud ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| ircII ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; dunno ; yes ; yes ; yes 
+ rh| IRCjr ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+ rh| Ircle ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+ rh| Irssi ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes ; yes 
+ rh| KiwiIRC ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| Konversation ; dunno ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; yes 
+ rh| KVIrc ; dunno ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| LeafChat ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; yes ; no ; no ; no ; no ; no 
+ rh| LimeChat ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+ rh| Linkinus ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+ rh| Mibbit ; dunno ; dunno ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; dunno ; dunno ; yes 
+ rh| mIRC ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+ rh| Nettalk ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+ rh| Opera ; no ; no ; yes ; no ; no ; no ; no ; no ; no ; no ; yes ; no ; yes ; no ; no ; no ; dropped ; no 
+ rh| PIRCH ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+ rh| PJIRC ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| Quassel ; dunno ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| qwebirc ; dunno ; dunno ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; dunno ; dunno ; yes 
+ rh| rcirc ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| Smuxi ; dunno ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Snak ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+ rh| Visual IRC ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+ rh| WeeChat ; dunno ; dunno ; yesgroup=Note ; dunno ; dunno ; dunno ; dunno ; yes ; partialgroup=Note ; dunno ; yes ; dunno ; yes ; dunno ; dunno ; dunno ; yes ; dunno 
+ Client ; 386BSD ; BSD/OS (BSD/386, BSDI) ; FreeBSD, NetBSD, OpenBSD ; SunOS ; ULTRIX ; AIX ; A/UX ; HP-UX ; IRIX ; SCO OpenServer ; Solaris ; UnixWare ; Linux ; NeXTSTEP ; OpenVMS ; OSF/1 ; QNX ; Tru64 UNIX 

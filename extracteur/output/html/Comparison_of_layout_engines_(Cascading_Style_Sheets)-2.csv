@@ -1,0 +1,41 @@
+;;;Trident;EdgeHTML;Gecko;WebKit;KHTML;Presto
+CSS2;!important;Weight increasing;7.0;12;1.0;85;Yes;1.0
+CSS2;/*Comment*/;Comments;3.0;12;1.0;85;Yes;1.0
+CSS2;@import;Import stylesheet;8.0;12;1.0;Yes;Yes;1.0
+CSS2;@charset;Character set;5.5;12;1.0;Yes;4.2.3;1.0
+CSS2;@media;Media-specific rules;5.5;12;1.0;Yes;Yes;1.0
+css- namespace-3;@namespace;Namespace declaration;9.0;12;1.0;Yes;Yes;1.0
+earlier draft of css3- conditional;@document;Restriction by URLs;No;No;6.0;No;No;No
+css- animations-1;@keyframes;Animation key;10.0;12;16.0;Experimental;No;2.12
+css3- conditional;@supports;Conditional Rules;No;12;22.0;28.0;No;2.12
+css-counter- styles-3;@counter-style;Custom Counter Styles;No;No;33.0;No;No;No
+css-device- adapt-1;@viewport;Viewport, Device Adaptation;10.0;12.0;No;No;No;2.7.62
+filter- effects-1;@filter;Filter;No;No;35.0;Experimental;No;No
+Page;Page;Page;Page;Page;Page;Page;Page;Page;Page;Page;Page
+CSS2;@page;For paged media;8.0;12;19.0;Nightly Build;No;1.0
+css-page-3;@top-left-corner;Margin boxes;No;No;No;No;No;No
+css-page-3;@top-left;Margin boxes;No;No;No;No;No;No
+css-page-3;@top-center;Margin boxes;No;No;No;No;No;No
+css-page-3;@top-right;Margin boxes;No;No;No;No;No;No
+css-page-3;@top-right-corner;Margin boxes;No;No;No;No;No;No
+css-page-3;@bottom-left-corner;Margin boxes;No;No;No;No;No;No
+css-page-3;@bottom-left;Margin boxes;No;No;No;No;No;No
+css-page-3;@bottom-center;Margin boxes;No;No;No;No;No;No
+css-page-3;@bottom-right;Margin boxes;No;No;No;No;No;No
+css-page-3;@bottom-right-corner;Margin boxes;No;No;No;No;No;No
+css-page-3;@left-top;Margin boxes;No;No;No;No;No;No
+css-page-3;@left-middle;Margin boxes;No;No;No;No;No;No
+css-page-3;@left-bottom;Margin boxes;No;No;No;No;No;No
+css-page-3;@right-top;Margin boxes;No;No;No;No;No;No
+css-page-3;@right-middle;Margin boxes;No;No;No;No;No;No
+css-page-3;@right-bottom;Margin boxes;No;No;No;No;No;No
+Font;Font;Font;Font;Font;Font;Font;Font;Font;Font;Font;Font
+css-fonts-3;@font-face;Define font;9.0;12;1.9.1;525;4.3;2.2
+css-fonts-3;@font-feature-values;Define font features;No;No;34.0;No;No;No
+css-fonts-3;@annotation;Font feature value block;No;No;34.0;No;No;No
+css-fonts-3;@styleset;Font feature value block;No;No;34.0;No;No;No
+css-fonts-3;@swash;Font feature value block;No;No;34.0;No;No;No
+css-fonts-3;@ornaments;Font feature value block;No;No;34.0;No;No;No
+css-fonts-3;@stylistic;Font feature value block;No;No;34.0;No;No;No
+css-fonts-3;@character-variant;Font feature value block;No;No;34.0;No;No;No
+;;;Trident;EdgeHTML;Gecko;WebKit;KHTML;Presto

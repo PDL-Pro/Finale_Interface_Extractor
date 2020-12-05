@@ -1,0 +1,113 @@
+Vehicle;Origin;Manufacturer;Payload mass to ... (kg);Payload mass to ... (kg);Payload mass to ... (kg);Orbital launches incl. failures;Date of flight;Date of flight
+Vehicle;Origin;Manufacturer;LEO;GTO;Other;Orbital launches incl. failures;First;Latest
+Alpha;United States Ukraine;Firefly Aerospace;1,000;;630 to SSO;0;2020;
+Angara 1.2;Russia;Khrunichev;3,500;;2,400 to SSO;0;2021;
+Angara A5;Russia;Khrunichev;24,000;7,500 with KVTK 5,400 with Briz-M;;1;2014;2014
+Antares 230 / 230+;United States;Northrop Grumman;8,200;;3,000 to SSO;6;2016;2020
+Ariane 5 ECA;Europe;EADS Astrium;21,000;10,865;;73;2002;2019
+Ariane 6 A62;Europe;ArianeGroup;10,350;5,000;6,450 to SSO 3,000 to HEO 3,000 to TLI;0;2021;
+Ariane 6 A64;Europe;ArianeGroup;21,650;11,500+;14,900 to SSO 5,000 to GEO 8,400 to HEO 8,500 to TLI;0;2021–2022;
+Astra;United States;Astra Space;100;;150 to SSO;1;2020;2020
+Atlas V 401;United States;ULA;9,050;4,950;6,670 to SSO;38;2002;2018
+Atlas V 411;United States;ULA;9,050;6,075;8,495 to SSO;6;2006;2020
+Atlas V 421;United States;ULA;9,050;7,000;9,050 to SSO;7;2007;2017
+Atlas V 431;United States;ULA;9,050;7,800;9,050 to SSO;3;2005;2016
+Atlas V 501;United States;ULA;8,250;3,970;5,945 to SSO 1,500 to GEO;6;2010;2020
+Atlas V 511;United States;ULA;11,000;5,250;7,820 to SSO 1,750 to GEO;0;2020;
+Atlas V 521;United States;ULA;13,300;6,485;9,585 to SSO 2,760 to GEO;2;2003;2004
+Atlas V 531;United States;ULA;15,300;7,425;11,160 to SSO 3,250 to GEO;3;2010;2013
+Atlas V 541;United States;ULA;17,100;8,240;12,435 to SSO 3,730 to GEO;7;2011;2020
+Atlas V 551;United States;ULA;18,500;8,700;13,550 to SSO 3,960 to GEO;11;2006;2020
+Atlas V N22;United States;ULA;13,000;;;1;2019;2019
+Beta;United States Ukraine;Firefly Aerospace;4,000;TBA;3,000 to SSO;0;TBA;
+Bloostar;Spain;Zero 2 Infinity;140;;75 to SSO;0;TBA;
+Blue Whale 1;South Korea;Perigee Aerospace;63;;50 to SSO;0;2021;
+Ceres-1;China;Galactic Energy;350;;270 to SSO;0;2020;
+Cyclone-4M;Ukraine;Yuzhnoye Yuzhmash;5,000;1,000;3,350 to SSO;0;2021;
+Delta IV Heavy;United States;ULA;28,790;14,220;23,560 to polar 11,290 to TLI 8,000 to TMI;11;2004;2019
+Electron;United States New Zealand;Rocket Lab;300;;200 to SSO;12;2017;2020
+Epsilon;Japan;IHI;1,500;;590 to SSO;4;2013;2019
+Eris-S;Australia Singapore;Gilmour Space Technologies;200;;;0;2021–2022;
+Eris-L;Australia Singapore;Gilmour Space Technologies;450;;;0;TBA;
+Falcon 9 Full Thrust (partially reusable);United States;SpaceX;16,800+;5,500;9,600 to polar;58;2015;2020
+Falcon 9 Full Thrust (expended);United States;SpaceX;22,800;8,300;4,020 to TMI;15;2017;2020
+Falcon Heavy (partially reusable);United States;SpaceX;30,000–57,000;8,000–10,000;;3;2018;2019
+Falcon Heavy (expended);United States;SpaceX;63,800;26,700;16,800 to TMI;0;–;
+GSLV Mk II;India;ISRO;5,000;2,700;;7;2010;2018
+GSLV Mk III;India;ISRO;10,000;4,000;;3;2017;2019
+H-IIA 202;Japan;Mitsubishi;8,000;4,000;5,100 to SSO;26;2001;2020
+H-IIA 204;Japan;Mitsubishi;;5,950;;4;2006;2017
+H3;Japan;Mitsubishi;4,000;6,500;4,000 to SSO;0;2021;
+Hyperbola-1;China;i-Space;300;;;1;2019;2019
+Hyperbola-2;China;i-Space;2,000;;;0;2021;
+Jielong 1;China;CALT;;;200 (SSO);1;2019;2019
+Kaituozhe-2;China;CASC;800;;;1;2017;2017
+Kuaizhou 1/1A;China;ExPace;400;;;9;2013;2019
+Kuaizhou 11;China;ExPace;1,500;;1,000 to SSO;1;2020;2020
+Kuaizhou 21;China;ExPace;20,000;;;0;2025;
+LauncherOne;United States;Virgin Orbit;500;;300 to SSO;1;2020;2020
+Long March 2C;China;CALT;3,850;1,250 with CTS2;2,000 to SSO with YZ-1S;57;1982;2019
+Long March 2D;China;SAST;4,000;;1,150 to SSO;46;1992;2020
+Long March 2F;China;CALT;8,600;;;13;1999;2016
+Long March 3A;China;CALT;6,000;2,600;5,000 to SSO;27;1994;2018
+Long March 3B/E;China;CALT;11,500;5,500;6,900 to SSO;53;2007;2020
+Long March 3C;China;CALT;9,100;3,800;6,500 to SSO;17;2008;2019
+Long March 4B;China;SAST;4,200;1,500;2,800 to SSO;35;1999;2019
+Long March 4C;China;SAST;4,200;1,500;2,800 to SSO;28;2006;2019
+Long March 5;China;CALT;25,000;14,000;15,000 to SSO 9,400 to TLI 6,000 to TMI;4;2016;2020
+Long March 5B;China;CALT;25,000;;;1;2020;2020
+Long March 6;China;SAST;;;1,080 to SSO;3;2015;2019
+Long March 7;China;CALT;13,500;;5,500 to SSO;2;2016;2017
+Long March 7A;China;CALT;;5,500 to 7,000;;1;2020;2020
+Long March 8 (partially reusable);China;CALT;7,600;2,500;4,500 to SSO;0;2021;
+Long March 9;China;CALT;140,000;66,000;50,000 to TLI 44,000 to TMI;0;2028–2030;
+Long March 11;China;CALT;700;;350 to SSO;8;2015;2019
+Minotaur I;United States;Northrop Grumman;580;;;10;2000;2013
+Minotaur IV;United States;Northrop Grumman;1,735;;;4;2010;2017
+Minotaur V;United States;Northrop Grumman;;670;465 to HCO;1;2013;2013
+Minotaur-C (Taurus);United States;Northrop Grumman;1,458;;1,054 to SSO;10;1994;2017
+Miura 5;Spain;PLD Space;300;;;0;2024;
+New Glenn;United States;Blue Origin;45,000;13,000;;0;2021;
+New Line 1 (partially reusable);China;LinkSpace;;;200 to SSO;0;2021;
+Nuri (KSLV-2);South Korea;KARI;1,500 at 600–800 km;;;0;2021;
+OS-M1;China;OneSpace;205;;143 to SSO;1;2019;2019
+OS-M2;China;OneSpace;390;;292 to SSO;0;TBA;
+Pegasus;United States;Northrop Grumman;500;;;44;1990;2019
+Prime;United Kingdom;Orbex;220;;150 to SSO;0;2021;
+Proton-M / M+;Russia;Khrunichev;23,000 (M+) 21,600 (M);6,920 (M+) 6,150 (M);;108;2001;2019
+PSLV-CA;India;ISRO;2,100;;1,100 to SSO;14;2007;2019
+PSLV-DL;India;ISRO;;;;1;2019;2019
+PSLV-QL;India;ISRO;;;;2;2019;2019
+PSLV-XL;India;ISRO;3,800;1,300;1,750 to SSO 550 to TMI;21;2008;2019
+Qased;Iran;Operator: Iranian Revolutionary Guard Corps;;;;1;2020;2020
+RS1;United States;ABL Space Systems;1,350;400;1,000 to SSO 750 to MEO;0;2021;
+Safir;Iran;Iranian Space Agency;65;;;7;2008;2019
+Shavit;Israel;IAI;300;;;10;1988;2020
+Simorgh;Iran;Iranian Space Agency;350;;;2;2017;2019
+Soyuz-2.1a;Russia;TsSKB-Progress;7,020 from Baikonur;;;33;2006;2019
+Soyuz-2.1b;Russia;TsSKB-Progress;8,200 from Baikonur;2,400;;32;2006;2019
+Soyuz ST-A;Russia Europe;TsSKB-Progress Arianespace;7,800 from Kourou;2,810 with Fregat;;6;2011;2018
+Soyuz ST-B;Russia Europe;TsSKB-Progress Arianespace;9,000 from Kourou;3,250 with Fregat;4,400 to SSO;16;2011;2019
+Soyuz-2-1v;Russia;TsSKB-Progress;2,800;;1,400 to SSO;5;2013;2019
+Soyuz-5 / Irtysh;Russia;TsSKB-Progress RSC Energia;18,000;;2,500 to GEO;0;2022;
+Space Launch System Block 1;United States;NASA / Boeing (core) Northrop Grumman (SRBs);95,000;;26,000 to TLI;0;2021;
+SLS Block 1B;United States;NASA / Boeing Northrop Grumman;105,000;;37,000 to TLI;0;2025;
+SLS Block 2;United States;NASA / Boeing Northrop Grumman;130,000;;45,000 to HCO;0;late 2020s (TBD);
+SS-520;Japan;IHI Aerospace;4;;;2;2017;2018
+SSLV;India;ISRO;500;;300 to SSO;0;2020;
+Starship (Single launch);United States;SpaceX;100,000+;21,000;;0;2021 (orbital);
+Starship (Additional refuelling launches);United States;SpaceX;100,000+;100,000+;100,000+ to Mars surface 100,000+ to lunar surface;0;2021-2023 (TBD);
+Terran 1;United States;Relativity Space;1,250;;900 to SSO;0;2021;
+Unha;North Korea;KCST;100;;;4;2009;2016
+Vega;Europe;ESA / ASI;1,500;;1,330 to SSO;15;2012;2019
+Vega C;Europe;ESA / ASI;2,200;;;0;2021;
+Vega E;Europe;ESA / ASI;3,000;;;0;2025;
+Vikram l;India;Skyroot Aerospace;280;;200 to SSPO;0;2021;
+Vikram ll;India;Skyroot Aerospace;520;;410 to SSPO;0;TBA;
+Vikram lll;India;Skyroot Aerospace;720;;580 to SSPO;0;TBA;
+Vulcan / Centaur;United States;ULA;27,200;14,400;7,200 to GEO 12,100 to TLI;0;2021;
+Yun Feng;Taiwan;National Chung-Shan Institute of Science and Technology;200;;;0;TBA;
+Yenisei;Russia;TsSKB-Progress RSC Energia;88,000 – 115,000;;27,000 to TLI;0;2028;
+Zero;Japan;Interstellar Technologies;;;100 to SSO;0;2022–2023;
+Zhuque-1;China;LandSpace;300;;200 to SSO;1;2018;2018
+Zhuque-2;China;LandSpace;4,000;;2,000 to SSO;0;2021;

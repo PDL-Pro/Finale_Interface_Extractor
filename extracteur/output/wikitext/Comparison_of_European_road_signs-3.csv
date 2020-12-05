@@ -1,0 +1,34 @@
+ ; Austria ; Belgium ; Czechia ; Denmark ; Estonia ; Finland ; France ; Germany ; Greece ; Hungary ; Iceland ; Ireland ; Italy ; Luxembourg ; Netherlands ; Norway ; Poland ; Portugal ; Romania ; RussiaBelarus ; Slovakia ; Slovenia ; Spain ; Sweden ; SwitzerlandLiechtenstein ; Turkey ; Ukraine ; UK ; Åland 
+ No vehicles ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ No entry ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; no exceptions orwith exceptions ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ No motor vehicles ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ No motor vehicles except motorcycles ;  ;  ;  ; NOTUSED ;  ; NOTUSED ; NOTUSED ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ; NOTUSED ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  
+ No motorcycles ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ No bicycles ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; Always also implies mopeds with a maximum design speed of 25km/h ;  ;  ;  ;  
+ No pedestrians ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ No buses ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ; ;  ;  ;  ;  ; NOTUSED 
+ No heavy goods vehicles ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; or ;  ;  ;  ;  ;  ;  ; Prohibition of large goods vehicles (with total weight larger than 3.5 t, including any load). ;  ;  ;  ;  
+ No tractors ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; DEFUNCT ;  ;  ;  ;  
+ No trailers ;  ;  ;  ;  ;  ;  ;  ; or ;  ;  ;  ; ;  ;  ;  ;  ;  ; or ;  ;  ; DEFUNCT ; oror ;  ;  ;  ;  ;  ; (no caravans) ;  
+ ; Austria ; Belgium ; Czechia ; Denmark ; Estonia ; Finland ; France ; Germany ; Greece ; Hungary ; Iceland ; Ireland ; Italy ; Luxembourg ; Netherlands ; Norway ; Poland ; Portugal ; Romania ; RussiaBelarus ; Slovakia ; Slovenia ; Spain ; Sweden ; SwitzerlandLiechtenstein ; Turkey ; Ukraine ; UK ; Åland 
+ Maximum height ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Maximum width ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Maximum vehicle length ; or ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Maximum weight ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; or ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Maximum weight per axle ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; Applies also to axles being apart not more than 1 metre. ;  ;  ; DEFUNCT ;  
+ Maximum weight per tandem axle ; NOTUSED ; NOTUSED ; NOTUSED ;  ;  ;  ; NOTUSED ; NOTUSED ; NOTUSED ; NOTUSED ; NOTUSED ; NOTUSED ; NOTUSED ;  ; NOTUSED ;  ; NOTUSED ; NOTUSED ; or ; NOTUSED ; NOTUSED ; NOTUSED ; NOTUSED ;  ;  ; NOTUSED ; NOTUSED ; NOTUSED ;  
+ ; Austria ; Belgium ; Czechia ; Denmark ; Estonia ; Finland ; France ; Germany ; Greece ; Hungary ; Iceland ; Ireland ; Italy ; Luxembourg ; Netherlands ; Norway ; Poland ; Portugal ; Romania ; RussiaBelarus ; Slovakia ; Slovenia ; Spain ; Sweden ; SwitzerlandLiechtenstein ; Turkey ; Ukraine ; UK ; Åland 
+ No vehicles carrying dangerous goods ;  ; or ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ No vehicles carrying dangerous water pollutants ;  ;  ;  ; NOTUSED ; NOTUSED ; NOTUSED ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ; NOTUSED ; NOTUSED ;  ;  ;  ; NOTUSED ;  ;  ;  ; NOTUSED ;  ;  ;  ; NOTUSED ; NOTUSED 
+ No vehicles carrying explosives ; NOTUSED ;  ; NOTUSED ; NOTUSED ; NOTUSED ; NOTUSED ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ; NOTUSED ; NOTUSED ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ; NOTUSED 
+ Minimum safe following distance between vehicles ;  ; NOTUSED ;  ;  ;  ;  ;  ; (over 3.5 t) ;  ; or ;  ; NOTUSED ;  ;  ; NOTUSED ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  
+ No right turn ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ No left turn ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ No U-turns ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ No overtaking ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; or ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ No overtaking by heavy goods vehicles ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  
+ No parking or waiting ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; DEFUNCT(singular) ;  
+ No stopping ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ No parking zone ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; or ;  ;  ;  ;  
+ No horns or excessive motor noise ;  ; NOTUSED ;  ;  ;  ; NOTUSED ;  ;NOTUSED ;  ; NOTUSED ; NOTUSED ; NOTUSED ;  ;  ; NOTUSED ;  ;  ;  ;  ;  ; DEFUNCT ;  ;  ; NOTUSED ; REPLACEDby signno. 4.14This sign has been replaced by sign no. 4.14 "Hospital", since it was only used in this context! ;  ;  ; NOTUSED ; NOTUSED 
+ ; Austria ; Belgium ; Czechia ; Denmark ; Estonia ; Finland ; France ; Germany ; Greece ; Hungary ; Iceland ; Ireland ; Italy ; Luxembourg ; Netherlands ; Norway ; Poland ; Portugal ; Romania ; RussiaBelarus ; Slovakia ; Slovenia ; Spain ; Sweden ; SwitzerlandLiechtenstein ; Turkey ; Ukraine ; UK ; Åland 

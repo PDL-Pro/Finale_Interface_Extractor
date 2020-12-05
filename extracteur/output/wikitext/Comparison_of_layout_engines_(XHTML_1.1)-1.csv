@@ -1,0 +1,25 @@
+ ; Trident ; Tasman ; Gecko ; WebKit ; KHTML ; Presto ; iCab 
+ abbr ; Yesdate=May 2011 ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ acronym ; 4.0{{cite web ; url         =  ; title       = Document layout ; publisher   = webref.info ; accessdate  = 29 May 2011 }} ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ address ; 1.0 ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ blockquote ; 1.0 ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ br ; 1.0 ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ cite ; 1.0 ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ code ; 1.0 ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ dfn ; 1.0 ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ div ; 3.0{{cite web ; url         =  ; title       = Physical text formatting ; publisher   = webref.info ; accessdate  = 29 May 2011 }} ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ em ; 1.0 ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ h1 ; 1.0 ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ h2 ; 1.0 ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ h3 ; 1.0 ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ h4 ; 1.0 ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ h5 ; 1.0 ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ h6 ; 1.0 ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ kbd ; 1.0 ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ p ; 1.0 ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ pre ; 1.0 ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ q ; 4.0 ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ samp ; 1.0 ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ span ; 3.0 ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ strong ; 1.0 ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ var ; 1.0 ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 

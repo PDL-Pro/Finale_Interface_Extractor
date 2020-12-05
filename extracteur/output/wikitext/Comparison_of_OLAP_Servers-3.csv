@@ -1,0 +1,16 @@
+OLAP server ;Real Time ;Write-back ;Partitioning ;Usage Based Optimizations ;Load Balancing and Clustering 
+Apache Kylin ; Yes  ; No ; Yes ; Yes ; Yes 
+ClickHouse ; Yes ; Yes ; Yes ; Yes ; Yes 
+ Druid ; Yes ; dunno ; Yes ; Yes ; Yes 
+ Essbase ; Yes ; Yes ; Yes ; Yes ; Yes 
+ IBM Cognos BI ; Yes ; No ; Yes ; Yes ; dunno 
+ IBM Cognos TM1 ; Yes ; Yes ; Yes ; dunno ; dunno 
+ icCube ; Yes ; Yes ; Yes ; dunno ; dunno 
+ Jedox OLAP Server ; Yes ; Yes ; Yes ; dunno ; dunno 
+Kyvos ; Yes ; Yes ; Yes ; Yes ; Yes 
+ Microsoft Analysis Services ; Yes ; Yes ; Yes ; Yes ; Yes 
+ MicroStrategy Intelligence Server ; dunno ; Yes{{cite web|url= Extensions of the MicroStrategy Platform|access-date=2010-11-10|archive-url= ; Yes ; Yes ; Yes 
+ Mondrian OLAP server ; Yes ;  Planned ; Yes ; dunno ; dunno 
+ Oracle Database OLAP Option ; dunno ; Yes ; Yes ; No ; dunno 
+ SAP NetWeaver BW ; dunno ; Yes ; Yes ; dunno ; dunno 
+ SAS OLAP Server ; dunno ; Yes ; Yes ; dunno ; dunno 

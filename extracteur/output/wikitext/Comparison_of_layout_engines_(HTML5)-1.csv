@@ -1,0 +1,25 @@
+ ; Trident ; Gecko ; WebKit ; KHTML ; Presto 
+ rh| Phrase ; rh| Phrase ; rh| Phrase ; rh| Phrase ; rh| Phrase ; rh| Phrase 
+ em ; 4.0 ; 1.0 ; rowspan="10" yes ; rowspan="10" yes ; 1.0 
+ strong ; 4.0 ; 1.0 ; 1.0 
+ dfn ; 4.0 ; 1.0 ; 1.0 
+ code ; 4.0 ; 1.0 ; 1.0 
+ samp ; 4.0 ; 1.0 ; 1.0 
+ kbd ; 4.0 ; 1.0 ; 1.0 
+ var ; 4.0 ; 1.0 ; 1.0 
+ cite ; 4.0 ; 1.0 ; 1.0 
+ acronym ; 4.0 ; 1.0 ; 1.0 
+ abbr ; 3.1 ; 1.0 ; 1.0 
+ rh| Quotations ; rh| Quotations ; rh| Quotations ; rh| Quotations ; rh| Quotations ; rh| Quotations 
+ blockquote ; 4.0 ; 1.0 ; rowspan="2" yes ; rowspan="2" yes ; 1.0 
+ q ; 4.0 ; 1.8group=note ; 1.0 
+ rh| Subscripts and superscripts ; rh| Subscripts and superscripts ; rh| Subscripts and superscripts ; rh| Subscripts and superscripts ; rh| Subscripts and superscripts ; rh| Subscripts and superscripts 
+ sub ; 4.0 ; 1.0 ; rowspan="2" yes ; rowspan="2" yes ; 1.0 
+ sup ; 4.0 ; 1.0 ; 1.0 
+ rh| Lines and paragraphs ; rh| Lines and paragraphs ; rh| Lines and paragraphs ; rh| Lines and paragraphs ; rh| Lines and paragraphs ; rh| Lines and paragraphs 
+ p ; 4.0 ; 1.0 ; rowspan="3" yes ; rowspan="3" yes ; 1.0 
+ pre ; 4.0 ; 1.0 ; 1.0 
+ br ; 5.0 ; 1.0 ; 1.0 
+ rh| Marking document changes ; rh| Marking document changes ; rh| Marking document changes ; rh| Marking document changes ; rh| Marking document changes ; rh| Marking document changes 
+ ins ; 4.0 ; 1.0 ; rowspan="2" yes ; rowspan="2" yes ; 1.0 
+ del ; 4.0 ; 1.0 ; 1.0 

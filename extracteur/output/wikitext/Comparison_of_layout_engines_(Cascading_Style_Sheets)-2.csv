@@ -1,0 +1,403 @@
+ ; ; Trident ; EdgeHTML ; Gecko ; WebKit ; KHTML ; Presto 
+ Cascading and Inheritance ; Cascading and Inheritance ; Cascading and Inheritance ; Cascading and Inheritance ; Cascading and Inheritance ; Cascading and Inheritance ; Cascading and Inheritance ; Cascading and Inheritance 
+ dotted=no ; all ; no ; no ; 27.0publisher=Mozilla ; no ; no ; no 
+ Display ; Display ; Display ; Display ; Display ; Display ; Display ; Display 
+ CSS2 ; display ; 8.0 ; 12 ; 1.9 ; 85 ; yes ; 1.0 
+ Earlierdraft ofdotted=no ; display-inside ; rowspan="4" no ; rowspan="4" no ; rowspan="4" no ; rowspan="4" no ; rowspan="4" no ; rowspan="4" no 
+ Earlierdraft ofdotted=no ; display-outside 
+ Earlierdraft ofdotted=no ; display-list 
+ [https://www.w3.org/TR/css-display-3/ dotted=no] ; box-suppress 
+ Box Modelpublisher=W3C ; Box Modelpublisher=W3C ; Box Modelpublisher=W3C ; Box Modelpublisher=W3C ; Box Modelpublisher=W3C ; Box Modelpublisher=W3C ; Box Modelpublisher=W3C ; Box Modelpublisher=W3C 
+ CSS2 ; margin ; 9.0 ; 12 ; 1.0 ; 85 ; yes ; 1.0 
+ CSS2 ; padding ; 4.0 ; 12 ; 1.0 ; 85 ; yes ; 1.0 
+ CSS2 ; width ; 4.0 ; 12 ; 1.0 ; 85 ; yes ; 1.0 
+ CSS2 ; height ; 4.0 ; 12 ; 1.0 ; 85 ; yes ; 1.0 
+ CSS2 ; float ; 5.0 ; 12 ; 1.0 ; 85 ; yes ; 1.0 
+ CSS2 ; clear ; 5.0 ; 12 ; 1.0 ; 85 ; yes ; 1.0 
+ CSS2 ; min-width ; 7.0 ; 12 ; 1.0 ; Partial ; yes ; 1.0 
+ CSS2 ; max-width ; 7.0 ; 12 ; 1.0 ; Partial ; yes ; 1.0 
+ CSS2 ; min-height ; 7.0 ; 12 ; 1.7 ; Partial ; 3.3.2 ; 1.0 
+ CSS2 ; max-height ; 7.0 ; 12 ; 1.7 ; Partial ; 3.3.2 ; 1.0 
+ CSS2 ; visibility ; 9.0 ; 12 ; 1.8 ; Partial ; Partial ; 2.5 
+ Overflow  ; Overflow  ; Overflow  ; Overflow  ; Overflow  ; Overflow  ; Overflow  ; Overflow  
+ CSS2 ; overflow ; 9.0 ; 12 ; 1.0 ; 85 ; 3.2 ; 1.0 
+ dotted=no ; overflow-x ; 9.0 ; 12 ; 1.8 ; 525 ; 3.5.6 ; 2.1 
+ dotted=no ; overflow-y ; 9.0 ; 12 ; 1.8 ; 525 ; 3.5.6 ; 2.1 
+ dotted=no ; max-lines ; no ; no ; no ; no ; no ; no 
+ Borders ; Borders ; Borders ; Borders ; Borders ; Borders ; Borders ; Borders 
+ CSS2 ; border ; 4.0 ; 12 ; 1.0 ; 85 ; rowspan="8" yes ; 1.0 
+ CSS2 ; border-color ; 7.0 ; 12 ; 1.0 ; 85 ; 1.0 
+ CSS2 ; border-style ; 8.0 ; 12 ; 1.0 ; 85 ; 1.0 
+ CSS2 ; border-width ; 4.0 ; 12 ; 1.0 ; 85 ; 1.0 
+ CSS2 ; border-top ; 5.5 ; 12 ; 1.0 ; 85 ; 1.0 
+ CSS2 ; border-right ; 5.5 ; 12 ; 1.0 ; 85 ; 1.0 
+ CSS2 ; border-bottom ; 5.5 ; 12 ; 1.0 ; 85 ; 1.0 
+ CSS2 ; border-left ; 5.5 ; 12 ; 1.0 ; 85 ; 1.0 
+ dotted=no ; border-radius ; 9.0 ; 12 ; 2.0publisher=Mozilla ; 533publisher=Webkit ; Experimental ; 2.5 
+ dotted=no ; border-image ; 11.0 ; 12 ; 15.0publisher=Mozilla ; table-experimental ; rowspan="6" no ; 2.5 
+ dotted=no ; border-image-source ; 11.0 ; 12 ; 15.0publisher=Mozilla ; rowspan="5" no ; rowspan="5" no 
+ dotted=no ; border-image-slice ; 11.0 ; 12 ; 15.0publisher=Mozilla 
+ dotted=no ; border-image-width ; 11.0 ; 12 ; 15.0publisher=Mozilla 
+ dotted=no ; border-image-outset ; 11.0 ; 12 ; 15.0publisher=Mozilla 
+ dotted=no ; border-image-repeat ; 11.0 ; 12 ; 15.0publisher=Mozilla 
+ dotted=no ; box-shadow ; 9.0publisher=WEBFLUX ; 12 ; 2.0publisher=Mozilla publisher=Mozilla ; yespublisher=WebKit ; no ; 2.5 
+ dotted=no ; box-decoration-break ; no ; no ; 32.0publisher=Mozilla ; nopublisher=WebKit ; no ; 2.7{{Cite web |url= |title=First browser to 11 (unless Chrome gets there first) |first=David |last=Storey |date=2010-11-23 |accessdate=2010-11-23 |publisher=Opera|archiveurl= 
+ ; ; Trident ; EdgeHTML ; Gecko ; WebKit ; KHTML ; Presto 
+ Line Layoutpublisher=W3C ; Line Layoutpublisher=W3C ; Line Layoutpublisher=W3C ; Line Layoutpublisher=W3C ; Line Layoutpublisher=W3C ; Line Layoutpublisher=W3C ; Line Layoutpublisher=W3C ; Line Layoutpublisher=W3C 
+ CSS2 ; line-height ; 4.0 ; 12 ; 1.0 ; 85 ; yes ; 1.0 
+ CSS2 ; vertical-align ; 8.0 ; 12 ; 1.0 ; 85 ; yes ; 1.0 
+ Positioning ; Positioning ; Positioning ; Positioning ; Positioning ; Positioning ; Positioning ; Positioning 
+ CSS2 ; position ; 7.0 ; 12 ; 1.0 ; 85 ; yes ; 1.0 
+ CSS2 ; top ; 8.0 ; 12 ; 1.0 ; 85 ; yes ; 1.0 
+ CSS2 ; right ; 8.0 ; 12 ; 1.0 ; 85 ; yes ; 1.0 
+ CSS2 ; bottom ; 8.0 ; 12 ; 1.0 ; 85 ; yes ; 1.0 
+ CSS2 ; left ; 8.0 ; 12 ; 1.0 ; 85 ; yes ; 1.0 
+ CSS2 ; z-index ; 8.0 ; 12 ; 1.9 ; 85 ; yes ; 1.0 
+ Box Alignment Module ; Box Alignment Module ; Box Alignment Module ; Box Alignment Module ; Box Alignment Module ; Box Alignment Module ; Box Alignment Module ; Box Alignment Module 
+ dotted=no 
+ dotted=no ; align-content ; 11.0     ; 12     ; 28.0 ; rowspan="4" table-experimental ; rowspan="6" no ; rowspan="6" no 
+ dotted=no ;  align-items ; 11.0     ; 12     ; 20.0 
+ dotted=no ; align-self ; 11.0     ; 12     ; 20.0 
+ dotted=no ; justify-content ; 11.0     ; 12     ; 20.0 
+ dotted=no ; justify-items ; rowspan="2" no   ; 12     ; rowspan="2" no ; rowspan="2" no 
+ dotted=no ; justify-self ; 12     
+ Generated and Replaced Contentpublisher=W3C ; Generated and Replaced Contentpublisher=W3C ; Generated and Replaced Contentpublisher=W3C ; Generated and Replaced Contentpublisher=W3C ; Generated and Replaced Contentpublisher=W3C ; Generated and Replaced Contentpublisher=W3C ; Generated and Replaced Contentpublisher=W3C ; Generated and Replaced Contentpublisher=W3C 
+ CSS2 ; quotes ; 8.0 ; 12     ; yes ; 412publisher=Webkit ; 3.4 ; 1.0 
+ CSS2 ; content ; 9.0url-status=dead  ; 12     ; 1.9 ; Partial ; yes ; 2.7 
+ CSS2 ; counter-increment ; 8.0 ; 12     ; 1.8 ; 525 ; 3.4 ; 1.0 
+ CSS2 ; counter-reset ; 8.0 ; 12     ; 1.8 ; 525 ; 3.4 ; 1.0 
+ Listspublisher=W3C ; Listspublisher=W3C ; Listspublisher=W3C ; Listspublisher=W3C ; Listspublisher=W3C ; Listspublisher=W3C ; Listspublisher=W3C ; Listspublisher=W3C 
+ CSS2 ; list-style ; 4.0 ; 12 ; 1.0 ; 85 ; yes ; 1.0 
+ CSS2 ; list-style-image ; 4.0 ; 12 ; 1.0 ; 85 ; yes ; 1.0 
+ CSS2 ; list-style-position ; 4.0 ; 12 ; 1.0 ; 85 ; yes ; 1.0 
+ CSS2 ; list-style-type ; 8.0 ; 12 ; 1.0 ; 85 ; 3.4 ; 1.0 
+ Colors ; Colors ; Colors ; Colors ; Colors ; Colors ; Colors ; Colors 
+ CSS2 ; color ; 3.0 ; 12    ; 1.0 ; 85 ; yes ; 1.0 
+ dotted=no ; opacity ; 9.0 ;  12 ; 1.7 ; 125 ; 4.0 ; 2.0 
+ ; ; Trident ; EdgeHTML ; Gecko ; WebKit ; KHTML ; Presto 
+ Backgrounds ; Backgrounds ; Backgrounds ; Backgrounds ; Backgrounds ; Backgrounds ; Backgrounds ; Backgrounds 
+ CSS2 ; background ; 4.0 ; 12    ; 1.0 ; 85 ; rowspan="6" yes ; 1.0 
+ CSS2 ; background-attachment ; 7.0 ; 12    ; 1.0 ; 85 ; 1.0 
+ CSS2 ; background-color ; 4.0 ; 12    ; 1.0 ; 85 ; 1.0 
+ CSS2 ; background-image ; 8.0 ; 12    ; 1.0 ; 85 ; 1.0 
+ CSS2 ; background-position ; 8.0 ; 12    ; 1.0 ; 85 ; 1.0 
+ CSS2 ; background-repeat ; 4.0 ; 12    ; 1.0 ; 85 ; 1.0 
+ dotted=no ; background (multiple) ; 9.0 ; 12 ; 1.9.2 ; 312 ; 3.5 ; 2.5 
+ dotted=no ; background-clip ; 9.0 ; 12 ; 2.0publisher=Mozilla ; rowspan="2" yespublisher=WebKit ; Experimental ; 2.5 
+ dotted=no ; background-origin ; 9.0 ; 12 ; 2.0publisher=Mozilla ; Experimental ; 2.5 
+ dotted=no ; background-size ; 9.0 ; 12 ; 2.0publisher=Mozilla ; yespublisher=WebKit ; Experimental ; 2.5 
+ dotted=no ; background-position-x ; 8.0 ; 12 ; rowspan="2" no ; Experimental ; rowspan="2" no ; rowspan="2" no 
+ dotted=no ; background-position-y ; 8.0 ; 12 ; Experimental 
+ Fonts ; Fonts ; Fonts ; Fonts ; Fonts ; Fonts ; Fonts ; Fonts 
+ CSS2 ; font ; 4.0 ; 12 ; 1.0 ; 85 ; yes ; Incorrect 
+ CSS2 ; font-family ; 4.0 ; 12 ; 1.0 ; 85 ; yes ; 1.0 
+ CSS2 ; font-size ; 3.0 ; 12 ; 1.0 ; 85 ; yes ; 1.0 
+ CSS2 ; font-style ; 4.0 ; 12 ; 1.0 ; 85 ; yes ; 1.0 
+ CSS2 ; font-variant ; 4.0 ; 12 ; 1.0 ; 125 ; yes ; 1.0 
+ CSS2 ; font-weight ; 8.0 ; 12 ; Partial ; Partial ; yes ; Incorrect 
+ dotted=no ; font-size-adjust ; 10.0 ; 12 ; 1.9 ; nopublisher=Webkit ; no ; no 
+ dotted=no ; font-stretch ; 9.0 ; 12 ; 9.0publisher=Mozilla ; nopublisher=Webkit ; no ; no 
+ dotted=no ; font-feature-settings ; 10.0 ; 12 ; 34.0MDN: Web technology for developers: font kerningpublisher=Mozilla ; nopublisher=Webkit ; no ; no 
+ dotted=no ; font-kerning ; no ; rowspan="9" no    ; 34.0MDN: Web technology for developers: font kerningpublisher=Mozilla ; no ; no ; no 
+ dotted=no ; font-language-override ; no ; no ; 34.0MDN: Web technology for developers: font kerningpublisher=Mozilla ; no ; no 
+ dotted=no ; font-synthesis ; no ; no ; 34.0MDN: Web technology for developers: font kerningpublisher=Mozilla ; no ; no 
+ dotted=no ; font-variant-alternates  ; rowspan="6" no ; rowspan="6" no ; 34.0MDN: Web technology for developers: font kerningpublisher=Mozilla ; rowspan="6" no ; rowspan="6" no 
+ dotted=no ; font-variant-caps  ; 34.0MDN: Web technology for developers: font kerningpublisher=Mozilla 
+ dotted=no ; font-variant-east-asian  ; 34.0MDN: Web technology for developers: font kerningpublisher=Mozilla 
+ dotted=no ; font-variant-ligatures ; 34.0MDN: Web technology for developers: font kerningpublisher=Mozilla 
+ dotted=no ; font-variant-numeric ; 34.0MDN: Web technology for developers: font kerningpublisher=Mozilla 
+ dotted=no ; font-variant-position  ; 34.0MDN: Web technology for developers: font kerningpublisher=Mozilla 
+ dotted=no ; unicode-range ; 9.0 ; 12    ; 38.0publisher=Mozilla ; no ; no ; no 
+ Text-section Text ; Text-section Text ; Text-section Text ; Text-section Text ; Text-section Text ; Text-section Text ; Text-section Text ; Text-section Text 
+ CSS2 ; text-align ; 4.0 ; 12    ; 1.0 ; 85 ; yes ; 1.0 
+ CSS2 ; text-decoration ; yes ; 12    ; 1.0 ; 85 ; yes ; 1.0 
+ CSS2 ; text-indent ; 3.0 ; 12    ; 1.0 ; 85 ; yes ; 1.0 
+ CSS2 ; text-transform ; 4.0 ; 12    ; 1.0 ; 85 ; yes ; 1.0 
+ CSS2 ; letter-spacing ; 4.0 ; 12    ; 1.0 ; 85 ; yes ; 1.0 
+ CSS2 ; word-spacing ; 8.0 ; 12    ; 1.0 ; 85 ; yes ; 1.0 
+ CSS2 ; white-space ; 8.0 ; 12    ; 1.9.1 ; 522 ; yes ; 2.1 
+ dotted=no ; word-break ; Partial ; Partial ; 15.0publisher=Mozilla ; no ; no ; no 
+ dotted=no ; line-break ; 11.0 ; 12 ; no ; no ; no ; no 
+ dotted=no ; hyphens ; 10.0 ; 12 ; 6.0publisher=Mozilla (Only English) ; table-experimental ; no ; no 
+ dotted=no ; word-wrap ; 5.0 ; 12 ; 1.9.1 ; 85 ; 4.3 ; 2.5 
+ dotted=no ; overflow-wrap ; no ; no ; nopublisher=Mozilla ; no ; no ; no 
+ dotted=no ; text-align-last ; Partial ; Partial ; 12.0publisher=Mozilla ; nopublisher=Webkit ; no ; no 
+ dotted=no ; text-justify ; 5.5 ; 12 ; nopublisher=Mozilla ; no ; no ; no 
+ dotted=no ; text-emphasis ; no ; no ; no ; no ; no ; no 
+ dotted=no ; hanging-punctuation ; no ; no ; no ; nopublisher=Webkit ; no ; no 
+ dotted=no ; hyphenate-character ; no ; no ; rowspan="8" no ; rowspan="8" no ; rowspan="8" no ; rowspan="8" no 
+ dotted=no ; hyphenate-limit-zone ; 10.0 ; 12 
+ dotted=no ;hyphenate-limit-chars ; 10.0 ; 12 
+ dotted=no ; hyphenate-limit-lines ; 10.0 ; 12 
+ dotted=no ; hyphenate-limit-last ; rowspan="4" no ; rowspan="4" no 
+ dotted=no ; text-space-collapse 
+ dotted=no ; text-spacing 
+ dotted=no ; text-wrap 
+ Text Decoration ; Text Decoration ; Text Decoration ; Text Decoration ; Text Decoration ; Text Decoration ; Text Decoration ; Text Decoration 
+ dotted=no ; text-shadow ; 10.0 ; 12 ; 1.9.1 ; yes ; 3.4 ; 2.1 
+ dotted=no ; text-decoration-style ; no ; no ; 36.0publisher=Mozillapublisher=Mozilla ; rowspan="4" nopublisher=Webkit ; no ; no 
+ dotted=no ; text-decoration-color ; no ; no ; 36.0publisher=Mozillapublisher=Mozilla ; no ; no 
+ dotted=no ; text-decoration-line ; no ; no ; 36.0publisher=Mozillapublisher=Mozilla ; no ; no 
+ dotted=no ; text-decoration-skip ; no ; no ; no ; no ; no 
+ dotted=no ; text-underline-position ; 11.0 ; 12 ; no ; no ; no ; no 
+ dotted=no ; text-emphasis-style ; rowspan="4" no ; rowspan="4" no ; rowspan="4" no ; rowspan="4" no ; rowspan="4" no ; rowspan="4" no 
+ dotted=no ; text-emphasis-color 
+ dotted=no ; text-emphasis 
+ dotted=no ; text-emphasis-position 
+ ; ; Trident ; EdgeHTML ; Gecko ; WebKit ; KHTML ; Presto 
+ Writing Modes ; Writing Modes ; Writing Modes ; Writing Modes ; Writing Modes ; Writing Modes ; Writing Modes ; Writing Modes 
+ CSS2 ; direction ; 5.0 ; 12    ; 1.0 ; 85 ; yes ; 1.0 
+ CSS2 ; unicode-bidi ; 5.0 ; 12    ; 1.0 ; 525 ; yes ; 1.0 
+ dotted=no ; writing-mode ; 7.0title=CSS 3 Text: A Tale of writing-mode Woe ; 12 ; nopublisher=Mozilla ; Nightly Buildpublisher=WebKit ; no ; no 
+ dotted=no ; text-combine-horizontal ; 11.0 ; 12.0 ; no ; no ; no ; no 
+ dotted=no ; text-orientation ; no ; no ; no ; no ; no ; no 
+ Tables ; Tables ; Tables ; Tables ; Tables ; Tables ; Tables ; Tables 
+ CSS2 ; border-collapse ; 8.0 ; 12 ; 1.0 ; 125 ; yes ; 1.0 
+ CSS2 ; border-spacing ; 8.0 ; 12 ; 1.0 ; 125 ; yes ; 1.0 
+ CSS2 ; caption-side ; 8.0 ; 12 ; 1.4 ; 85 ; yes ; 1.0 
+ CSS2 ; empty-cells ; 8.0 ; 12 ; 1.0 ; 125 ; yes ; 1.0 
+ CSS2 ; table-layout ; 5.0 ; 12 ; 1.0 ; 85 ; yes ; 1.0 
+ User interface ; User interface ; User interface ; User interface ; User interface ; User interface ; User interface ; User interface 
+ CSS2 ; cursor ; 5.5 ; 12 ; 1.8 ; 125 ; yes ; Partial 
+ CSS2 ; outline ; 8.0 ; 12 ; 1.8 ; 125 ; yes ; 1.0 
+ CSS2 ; outline-color ; 8.0 ; 12 ; 1.8 ; 125 ; yes ; 1.0 
+ CSS2 ; outline-style ; 8.0 ; 12 ; 1.8 ; 125 ; yes ; 1.0 
+ CSS2 ; outline-width ; 8.0 ; 12 ; 1.8 ; 125 ; yes ; 1.0 
+ dotted=no ; outline-offset ; no ; no ; 1.8 ; 125 ; 3.5 ; 2.1 
+ dotted=no ; box-sizing ; 8.0 ; 12 ; 29.0publisher=Mozilla ; yespublisher=WebKit ; 3.3.2 ; 1.0 
+ dotted=no ; resize ; no ; no ; 2.0publisher=Mozilla ; 525 ; no ; no 
+ dotted=no ; appearance ; no ; 12 ; Experimental ; Experimental ; no ; no 
+ dotted=no ; icon ; no ; rowspan="6" no ; no ; no ; no ; no 
+ dotted=no ; nav-index ; no ; no ; no ; no ; 2.1 
+ dotted=no ; nav-up ; no ; no ; no ; no ; 2.1 
+ dotted=no ; nav-right ; no ; no ; no ; no ; 2.1 
+ dotted=no ; nav-down ; no ; no ; no ; no ; 2.1 
+ dotted=no ; nav-left ; no ; no ; no ; no ; 2.1 
+ dotted=no ; text-overflow ; Partial ; Partial ; 7.0publisher=Mozilla ; Partial ; 3.5.6 ; Experimental (Nightly){{citation |url= |title=New 10.70 snapshot with more Presto updates |date=2010-08-09 |publisher=Opera |author=Haavard|archiveurl= 
+ Paged media ; Paged media ; Paged media ; Paged media ; Paged media ; Paged media ; Paged media ; Paged media 
+ CSS2 
+ CSS2 ; page-break-before ; 4.0 ; 12 ; Partial ; Partial ; 3.5 ; 1.0 
+ CSS2 ; page-break-after ; 4.0 ; 12 ; Partial ; Partial ; 3.5 ; 1.0 
+ CSS2 ; page-break-inside ; 8.0 ; 12 ; 19.0publisher=Mozilla ; 312 ; 3.5 ; 1.0 
+ CSS2 ; orphans ; 8.0 ; 12 ; rowspan="2" nopublisher=Mozilla ; 312 ; 3.5 ; 1.0 
+ widows ; 8.0 ; 12 ; 312 ; 3.5 ; 1.0 
+ dotted=no ; page ; no ; rowspan="5" no ; no ; no ; no ; no 
+ dotted=no ; size ; no ; nopublisher=Mozilla ; nopublisher=Webkit ; no ; 1.0 
+ dotted=no ; image-orientation ; no ; 26.0publisher=Mozilla ; no ; no ; no 
+ dotted=no ; object-fit ; no ; 36.0publisher=Mozilla ; no ; no ; 2.7{{citation |url= |title=Presto update for Opera 10.70 |author=Haavard |date=2010-08-03 |publisher=Opera|archiveurl= 
+ dotted=no ; object-position ; no ; 36.0publisher=Mozilla ; no ; no ; 2.7{{citation |url= |title=Presto update for Opera 10.70 |author=Haavard |date=2010-08-03 |publisher=Opera|archiveurl= 
+ Speech ; Speech ; Speech ; Speech ; Speech ; Speech ; Speech ; Speech 
+ dotted=no ; cue ; rowspan="23" no ; rowspan="23" no ; rowspan="23" nopublisher=Mozilla ; rowspan="6" no ; rowspan="23" no ; 1.0 
+ dotted=no ; cue-after ; 1.0 
+ dotted=no ; cue-before ; 1.0 
+ dotted=no ; pause ; 1.0 
+ dotted=no ; pause-after ; 1.0 
+ dotted=no ; pause-before ; 1.0 
+ dotted=no ; speak ; nightlypublisher=WebKit ; 1.0 
+ dotted=no ; voice-family ; rowspan="16" no ; 1.0 
+ dotted=no ; voice-balance ; Experimental 
+ dotted=no ; voice-duration ; Experimental 
+ dotted=no ; voice-pitch ; Experimental 
+ dotted=no ; voice-pitch-range ; Experimental 
+ dotted=no ; voice-rate ; Experimental 
+ dotted=no ; voice-stress ; Experimental 
+ dotted=no ; voice-volume ; Experimental 
+ dotted=no ; interpret-as ; Experimental 
+ dotted=no ; phonemes ; Experimental 
+ dotted=no ; rest ; rowspan="6" no 
+ dotted=no ; rest-after 
+ dotted=no ; rest-before 
+ dotted=no ; mark 
+ dotted=no ; mark-after 
+ dotted=no ; mark-before 
+ ; ; Trident ; EdgeHTML ; Gecko ; WebKit ; KHTML ; Presto 
+ Media Queries ; Media Queries ; Media Queries ; Media Queries ; Media Queries ; Media Queries ; Media Queries ; Media Queries 
+ dotted=no ; width ; 9.0 ; 12 ; 1.9.1 ; 525 ; 4.1 ; 2.0 
+ dotted=no ; height ; 9.0 ; 12 ; 1.9.1 ; 525 ; 4.1 ; 2.0 
+ dotted=no ; device-width ; 9.0 ; 12 ; 1.9.1 ; 525 ; 4.1 ; 2.0 
+ dotted=no ; device-height ; 9.0 ; 12 ; 1.9.1 ; 525 ; 4.1 ; 2.0 
+ dotted=no ; device-aspect-ratio ; 9.0 ; 12 ; 1.9.1 ; 525 ; 4.1 ; 2.0 
+ dotted=no ; color ; 9.0 ; 12 ; 1.9.1 ; 525 ; 4.1 ; 2.5 
+ dotted=no ; color-index ; 9.0 ; 12 ; 1.9.1 ; 525 ; 4.1 ; 2.5 
+ dotted=no ; monochrome ; 9.0 ; 12 ; 1.9.1 ; 525 ; 4.1 ; 2.5 
+ dotted=no ; resolution ; 9.0 ; 12 ; 1.9.1 ; rowspan="5" no ; 4.1 ; 2.5 
+ dotted=no ; orientation ; 9.0 ; 12 ; 1.9.1 ; 4.2.1 ; no 
+ dotted=no ; aspect-ratio ; 9.0 ; 12 ; 1.9.1 ; 4.2.1 ; 2.1 
+ dotted=no ; grid ; 11.0 ; 12 ; rowspan="2" yes ; 4.1 ; 2.5 
+ dotted=no ; scan ; 11.0 ; 12 ; 4.1 ; 2.5 
+ Ruby characters ; Ruby characters ; Ruby characters ; Ruby characters ; Ruby characters ; Ruby characters ; Ruby characters ; Ruby characters 
+ dotted=no ; ruby-position ; rowspan="3" no ; rowspan="3" no ; 38.0publisher=Mozilla ; rowspan="3" no ; rowspan="3" no ; rowspan="3" no 
+ dotted=no ; ruby-align ; 38.0publisher=Mozilla 
+ dotted=no ; ruby-merge ;  no 
+ Multi-column Layout ; Multi-column Layout ; Multi-column Layout ; Multi-column Layout ; Multi-column Layout ; Multi-column Layout ; Multi-column Layout ; Multi-column Layout 
+ dotted=no ; column-count ; 10.0 ; 12 ; Experimentalpublisher=Mozilla ; Experimental ; rowspan="10" no ; 2.8 
+ dotted=no ; column-width ; 10.0 ; 12 ; Experimentalpublisher=Mozilla ; Experimental ; 2.8 
+ dotted=no ; column-gap ; 10.0 ; 12 ; Experimentalpublisher=Mozilla ; Experimental ; 2.8 
+ dotted=no ; column-rule ; 10.0 ; 12 ; Experimentalpublisher=Mozilla ; Experimental ; 2.8 
+ dotted=no ; columns ; 10.0 ; 12 ; 9.0publisher=Mozilla ; Experimental ; 2.8 
+ dotted=no ; break-before ; 10.0 ; 12 ; rowspan="3" nopublisher=Mozilla ; Experimentalpublisher=WebKit ; 2.8 
+ dotted=no ; break-after ; 10.0 ; 12 ; Experimentalpublisher=WebKit ; 2.8 
+ dotted=no ; break-inside ; 10.0 ; 12 ; rowspan="1" nopublisher=WebKit ; 2.8 
+ dotted=no ; column-fill ; 10.0 ; 12 ; 14.0publisher=Mozilla ; no ; 2.8 
+ dotted=no ; column-span ; 10.0 ; 12 ; nopublisher=Mozilla ; Experimentalpublisher=Webkit ; 2.8 
+ Grid layout ; Grid layout ; Grid layout ; Grid layout ; Grid layout ; Grid layout ; Grid layout ; Grid layout 
+ dotted=no ; grid ; rowspan="9" no ; rowspan="9" no ; rowspan="16" table-experimentalpublisher=Mozilla ; rowspan="16" table-experimentalpublisher=Webkit ; rowspan="16" no ; rowspan="16" no 
+ dotted=no ; grid-template 
+ dotted=no ; grid-template-columns 
+ dotted=no ; grid-template-rows 
+ dotted=no ; grid-template-areas 
+ dotted=no ; grid-auto-columns 
+ dotted=no ; grid-auto-rows 
+ dotted=no ; grid-auto-flow 
+ dotted=no ; grid-auto-position 
+ dotted=no ; grid-columns ; 10.0 ; 12 
+ dotted=no ; grid-columns-start ; rowspan="2" no ; rowspan="2" no 
+ dotted=no ; grid-columns-end 
+ dotted=no ; grid-row ; 10.0 ; 12 
+ dotted=no ; grid-row-start ; rowspan="3" no ; rowspan="3" no 
+ dotted=no ; grid-row-end 
+ dotted=no ; grid-area 
+ Animation ; Animation ; Animation ; Animation ; Animation ; Animation ; Animation ; Animation 
+ dotted=no 
+ dotted=no ; animation ; 10.0 ; 12 ; 16.0publisher=Mozilla ; Experimental ; rowspan="9" no ; 2.12 
+ dotted=no ; animation-delay ; 10.0 ; 12 ; 16.0publisher=Mozilla ; Experimental ; 2.12 
+ dotted=no ; animation-direction ; 10.0 ; 12 ; 16.0publisher=Mozilla ; Experimental ; 2.12 
+ dotted=no ; animation-duration ; 10.0 ; 12 ; 16.0publisher=Mozilla ; Experimental ; 2.12 
+ dotted=no ; animation-iteration-count ; 10.0 ; 12 ; 16.0publisher=Mozilla ; Experimental ; 2.12 
+ dotted=no ; animation-name ; 10.0 ; 12 ; 16.0publisher=Mozilla ; Experimental ; 2.12 
+ dotted=no ; animation-play-state ; 10.0 ; 12 ; 16.0publisher=Mozilla ; Experimental ; 2.12 
+ dotted=no ; animation-timing-function ; 10.0 ; 12 ; 16.0publisher=Mozilla ; Experimental ; 2.12 
+ dotted=no ; animation-fill-mode ; 10.0 ; 12 ; 16.0publisher=Mozilla ; Experimental ; 2.12 
+ Transforms ; Transforms ; Transforms ; Transforms ; Transforms ; Transforms ; Transforms ; Transforms 
+ dotted=no 
+ dotted=no ; transform ; 10.0 ; 12 ; 16.0 ; Experimental ; rowspan="6" no ; 2.12 
+ dotted=no ; transform-origin ; 10.0 ; 12 ; 16.0 ; Experimental ; 2.12 
+ dotted=no ; transform-style ; 10.0 ; 12 ; 16.0 ; Experimental ; rowspan="4" no 
+ dotted=no ; perspective ; 10.0 ; 12 ; 16.0 ; Experimental 
+ dotted=no ; perspective-origin ; 10.0 ; 12 ; 16.0 ; Experimental 
+ dotted=no ; backface-visibility ; 10.0 ; 12 ; 16.0 ; Experimental 
+ Transitions ; Transitions ; Transitions ; Transitions ; Transitions ; Transitions ; Transitions ; Transitions 
+ dotted=no 
+ dotted=no ; transition-property ; 10.0 ; 12 ; 16.0publisher=Mozilla ; Experimental ; rowspan="5" no ; rowspan="5" table-experimental 
+ dotted=no ; transition-duration ; 10.0 ; 12 ; 16.0publisher=Mozilla ; Experimental 
+ dotted=no ; transition-timing-function ; 10.0 ; 12 ; 16.0publisher=Mozilla ; Experimental 
+ dotted=no ; transition-delay ; 10.0 ; 12 ; 16.0publisher=Mozilla ; Experimental 
+ dotted=no ; transition ; 10.0 ; 12 ; 16.0publisher=Mozilla ; Experimental 
+ Flexible Box Layout ; Flexible Box Layout ; Flexible Box Layout ; Flexible Box Layout ; Flexible Box Layout ; Flexible Box Layout ; Flexible Box Layout ; Flexible Box Layout 
+ dotted=no 
+ dotted=no ; flex ; 11.0 ; 12 ; 22.0publisher=Mozilla ; 9.0publisher=MDN ; rowspan="8" no ; 2.12 
+ dotted=no ; flex-basis ; 11.0 ; 12 ; 22.0publisher=Mozilla ; 9.0publisher=MDN ; no 
+ dotted=no ; flex-direction ; 11.0 ; 12 ; 22.0publisher=Mozilla ; 9.0publisher=MDN ; 2.12 
+ dotted=no ; flex-flow ; 11.0 ; 12 ; 28.0 ; 9.0publisher=MDN ; no 
+ dotted=no ; flex-grow ; 11.0 ; 12 ; 22.0 ; 9.0publisher=MDN ; 2.12 
+ dotted=no ; flex-shrink ; 11.0 ; 12 ; 22.0 ; 9.0publisher=MDN ; no 
+ dotted=no ; flex-wrap ; 11.0 ; 12 ; 28.0 ; 9.0publisher=MDN ; no 
+ dotted=no ; order ; 11.0 ; 12 ; 22.0 ; 9.0publisher=MDN ; 2.12 
+ ; ; Trident ; EdgeHTML ; Gecko ; WebKit ; KHTML ; Presto 
+ Regions ; Regions ; Regions ; Regions ; Regions ; Regions ; Regions ; Regions 
+ dotted=no 
+ dotted=no ; flow-into ; 10.0 ; 12 ; rowspan="6" nopublisher=Mozilla ; rowspan="6" nightly ; rowspan="6" no ; rowspan="6" no 
+ dotted=no ; flow-from ; 10.0 ; 12 
+ dotted=no ; region-fragment ; no ; no 
+ dotted=no ; break-before ; No ; rowspan="3" no 
+ dotted=no ; break-after ; No 
+ dotted=no ; break-inside ; No 
+ Exclusions ; Exclusions ; Exclusions ; Exclusions ; Exclusions ; Exclusions ; Exclusions ; Exclusions 
+ dotted=no 
+ dotted=no ; wrap-flow ; 10.0 ; 12 ; rowspan="2" nopublisher=Mozilla ; rowspan="2" nightly ; rowspan="2" no ; rowspan="2" no 
+ dotted=no ; wrap-through ; 10.0 ; 12 
+ Shapes ; Shapes ; Shapes ; Shapes ; Shapes ; Shapes ; Shapes ; Shapes 
+ dotted=no 
+ dotted=no ; shape-margin ; rowspan="3" no ; rowspan="3" no ; rowspan="3" no ; nightly ; rowspan="3" no ; rowspan="3" no 
+ dotted=no ; shape-outside ; rowspan="2" no 
+ dotted=no ; shape-image-threshold 
+ Masking ; Masking ; Masking ; Masking ; Masking ; Masking ; Masking ; Masking 
+ CSS2 ; clip ; 8.0 ; 12 ; 1.0 ; 85 ; yes ; 1.0 
+ dotted=no 
+ dotted=no ; clip-path ; rowspan="2" no ; rowspan="2" no ; 1.9.1 ; rowspan="2" no ; rowspan="2" no ; rowspan="2" no 
+ dotted=no ; clip-rule ; no 
+ dotted=no ; mask ; no ; no ; partial ; partial ; partial ; partial 
+ dotted=no ; mask-box-image ; rowspan="6" no ; rowspan="6" no ; rowspan="6" no ; table-experimental ; rowspan="6" no ; rowspan="6" no 
+ dotted=no ; mask-box-image-outset ; rowspan="5" no 
+ dotted=no ; mask-box-image-repeat   
+ dotted=no ; mask-box-image-slice 
+ dotted=no ; mask-box-image-source 
+ dotted=no ; mask-box-image-width 
+ dotted=no ; mask-clip ; rowspan="7" no ; rowspan="7" no ; rowspan="6" no ; rowspan="6" table-experimental ; rowspan="7" no ; rowspan="7" no 
+ dotted=no ; mask-image 
+ dotted=no ; mask-origin 
+ dotted=no ; mask-position 
+ dotted=no ; mask-repeat 
+ dotted=no ; mask-size 
+ dotted=no ; mask-type ; 20.0 ; no 
+ Compositing and Blending ; Compositing and Blending ; Compositing and Blending ; Compositing and Blending ; Compositing and Blending ; Compositing and Blending ; Compositing and Blending ; Compositing and Blending 
+ dotted=no 
+ dotted=no ; mix-blend-mode ; rowspan="3" no  ; rowspan="3" no  ; 32.0 ; rowspan="3" no  ; rowspan="3" no ; rowspan="3" no 
+ dotted=no ; isolation ; 36.0 
+ dotted=no ; background-blend-mode ; 30.0 
+ Filter Effects ; Filter Effects ; Filter Effects ; Filter Effects ; Filter Effects ; Filter Effects ; Filter Effects ; Filter Effects 
+ dotted=no 
+ dotted=no ;  filter ; rowspan="5" no ; 13 ; 35.0publisher=Mozilla ; 18.0publisher=MDN ; rowspan="5" no ; rowspan="5" no 
+ dotted=no ; flood-color ; rowspan="4" no  ; rowspan="4" no  ; rowspan="4" no  
+ dotted=no ; flood-opacity 
+ dotted=no ; color-interpolation-filters 
+ dotted=no ; lighting-color 
+ Pointer events ; Pointer events ; Pointer events ; Pointer events ; Pointer events ; Pointer events ; Pointer events ; Pointer events 
+ [http://www.w3.org/TR/SVG11/interact.html#PointerEventsProperty dotted=no] andearlierdraft ofcss3-ui ;  pointer-events ; 11.0 ; 12.0 ; 1.9.2  ; 530  ; no  ; 2.0  
+ dotted=no ;  touch-action ; 11.0 ; 12.0 ; 29.0publisher=Mozilla ; no  ; no  ; no  
+ Line Grid ; Line Grid ; Line Grid ; Line Grid ; Line Grid ; Line Grid ; Line Grid ; Line Grid 
+ dotted=no 
+ dotted=no ;  box-snap ; rowspan="4" no ; rowspan="4" no ; rowspan="4" no  ; rowspan="4" no  ; rowspan="4" no ; rowspan="4" no 
+ dotted=no ;  line-grid 
+ dotted=no ;  line-slack 
+ dotted=no ;  line-snap 
+ ; ; Trident ; EdgeHTML ; Gecko ; WebKit ; KHTML ; Presto 
+ Logical Properties ; Logical Properties ; Logical Properties ; Logical Properties ; Logical Properties ; Logical Properties ; Logical Properties ; Logical Properties 
+ dotted=no 
+ dotted=no ;  block-size ; rowspan="36" no ; rowspan="36" no  ; 41.0publisher=Mozilla ; rowspan="36" no  ; rowspan="36" no ; rowspan="36" no 
+ dotted=no ;  inline-size ; 41.0publisher=Mozilla 
+ dotted=no ;  min-block-size ; 41.0publisher=Mozilla 
+ dotted=no ;  min-inline-size ; 41.0publisher=Mozilla 
+ dotted=no ;  max-block-size ; 41.0publisher=Mozilla 
+ dotted=no ;  max-inline-size ; 41.0publisher=Mozilla 
+ dotted=no ;  margin-block-start ; 41.0publisher=Mozilla 
+ dotted=no ;  margin-block-end ; 41.0publisher=Mozilla 
+ dotted=no ;  margin-inline-start ; 41.0publisher=Mozilla 
+ dotted=no ;  margin-inline-end ; 41.0publisher=Mozilla 
+ dotted=no ;  offset-block-start ; 41.0publisher=Mozilla 
+ dotted=no ;  offset-block-end ; 41.0publisher=Mozilla 
+ dotted=no ;  offset-inline-start ; 41.0publisher=Mozilla 
+ dotted=no ;  offset-inline-end ; 41.0publisher=Mozilla 
+ dotted=no ;  padding-block-start ; 41.0publisher=Mozilla 
+ dotted=no ;  padding-block-end ; 41.0publisher=Mozilla 
+ dotted=no ;  padding-inline-start ; 41.0publisher=Mozilla 
+ dotted=no ;  padding-inline-end ; 41.0publisher=Mozilla 
+ dotted=no ;  border-block-start-width ; 41.0publisher=Mozilla 
+ dotted=no ;  border-block-end-width ; 41.0publisher=Mozilla 
+ dotted=no ;  border-inline-start-width ; 41.0publisher=Mozilla 
+ dotted=no ;  border-inline-end-width ; 41.0publisher=Mozilla 
+ dotted=no ;  border-block-start-style ; 41.0publisher=Mozilla 
+ dotted=no ;  border-block-end-style ; 41.0publisher=Mozilla 
+ dotted=no ;  border-inline-start-style ; 41.0publisher=Mozilla 
+ dotted=no ;  border-inline-end-style ; 41.0publisher=Mozilla 
+ dotted=no ;  border-block-start-color ; 41.0publisher=Mozilla 
+ dotted=no ;  border-block-end-color ; 41.0publisher=Mozilla 
+ dotted=no ;  border-inline-start-color ; 41.0publisher=Mozilla 
+ dotted=no ;  border-inline-end-color ; 41.0publisher=Mozilla 
+ dotted=no ;  border-block-start ; 41.0publisher=Mozilla 
+ dotted=no ;  border-block-end ; 41.0publisher=Mozilla 
+ dotted=no ;  border-inline-start ; 41.0publisher=Mozilla 
+ dotted=no ;  border-inline-end ; 41.0publisher=Mozilla 
+ dotted=no ;  background-image-transform ; rowspan="2" no  
+ dotted=no ;  border-image-transform 
+ Will Change ; Will Change ; Will Change ; Will Change ; Will Change ; Will Change ; Will Change ; Will Change 
+ [https://www.w3.org/TR/css-will-change-1/ dotted=no] ; will-change ; no ; no ; 36.0 ; no ; no ; no 
+ CSSOM View ; CSSOM View ; CSSOM View ; CSSOM View ; CSSOM View ; CSSOM View ; CSSOM View ; CSSOM View 
+ [https://www.w3.org/TR/cssom-view/ dotted=no] ; scroll-behavior (optionalThe cssom-view specification of this property says that “[u]ser agents may ignore this property.”) ; no ; no ; 36.0 ; no ; no ; no 
+ Scroll Snap Points ; Scroll Snap Points ; Scroll Snap Points ; Scroll Snap Points ; Scroll Snap Points ; Scroll Snap Points ; Scroll Snap Points ; Scroll Snap Points 
+ dotted=no ; scroll-snap-type ; 10.0 ; 12 ; 39.0publisher=Mozilla ; rowspan="5" no ; rowspan="5" no ; rowspan="5" no 
+ dotted=no ; scroll-snap-points-x ; 10.0 ; 12 ; 39.0publisher=Mozilla 
+ dotted=no ; scroll-snap-points-y ; 10.0 ; 12 ; 39.0publisher=Mozilla 
+ dotted=no ; scroll-snap-destination	 ; 10.0 ; 12 ; 39.0publisher=Mozilla 
+ dotted=no ; scroll-snap-coordinate ; 10.0 ; 12 ; 39.0publisher=Mozilla 
+ ; ; Trident ; EdgeHTML ; Gecko ; WebKit ; KHTML ; Presto 

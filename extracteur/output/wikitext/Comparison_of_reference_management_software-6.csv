@@ -1,0 +1,30 @@
+Software ; Word for Windows ; Word for Mac ; Word Online ; Pages ; Apache OpenOffice / LibreOffice ; Kile/LyX ; Google Docs ; RTF scanCan reformat references in a properly saved RTF document, allowing limited use in OpenOffice.org Writer, StarOffice, FrameMaker, Microsoft Works, WordPad, WordPerfect, Google Docs and others. ; Other 
+ Bebop ; no ; no ; no ; no ; no ; no ; no ; no ; none 
+ BibBase ; no ; no ; no ; no ; no ; no ; no ; no ; none 
+ BibDesk ; no ; no ; no ; no ; no ; yes ; dunno ; dunno ; dunno 
+ Biblioscape ; yes ; no ; dunno ; no ; no ; no ; no ; dunno ; WordPerfect 
+ BibSonomy ; no ; no ; no ; no ; no ; no ; no ; no ; none 
+ Bibus ; yes ; dunno ; dunno ; dunno ; yes ; no ; no ; dunno ; none 
+ Bookends ; yes ; yes ; no ; yes ; yes ; no ; no ; yes ; Mellel, Nisus 
+ Citavi ; yes ; no ; no ; no ; Only versions prior to 6.0 ; yesDetailed setup guide "Citavi + LyX". Citavi. Retrieved 2014-07-10. ; no ; Only versions prior to 6.0 ; LaTeX editors LEd, Texmaker, TeXnicCenter, TeXstudio, TeXworks, WinEdt, WinShell 
+ CiteULike ; no ; no ; no ; no ; no ; no ; no ; no ; none 
+ colwiz ; yes ; dunno ; dunno ; dunno ; yes ; no ; no ; dunno ; NeoOffice, Star Office 
+ EndNote ; Yes ; yes ; no ; yes ; no ; no ; no ; yes ; no 
+ JabRef ; yesSee JabRef FAQ: Field Mapping between MS-Office and JabRef. ; dunno ; dunno ; dunno ; yesSee JabRef FAQ: OpenOffice/LibreOffice integration. ; yes ; no ; dunno ; Emacs, Texmaker, TeXstudio, Vim, WinEdt 
+ KBibTeX ; no ; dunno ; dunno ; dunno ; no ; yes ; no ; dunno ; none 
+ Mendeley ; yes ; partialRequires the Desktop App open to choose references. ; yesRequires the Mendeley Cite Add-in ; no ; yes ; no ; no ; dunno ; NeoOffice 
+ Paperpile ; in beta ; no ; no ; no ; no ; no ; yes ; no ; no 
+ Pybliographer ; no ; dunno ; dunno ; dunno ; yes ; yes ; no ; dunno ; none 
+ Qiqqa ; yes ; dunno ; dunno ; dunno ; no ; yes ; no ; no ; none 
+ ReadCube (now Papers) ; yes ; yes ; yesRequires the SmartCite for Papers Add-in ; yesCan be used with SmartCite for Citekeys ; yes ; no ; color= ; no| Manuscripts App, Ulysses, Scrivener 
+ refbase ; no ; dunno ; dunno ; dunno ; yesRefbase can create a spreadsheet for import into an OO.o database to use the native OO.o bibliography tool. Refbase's MySQL database can additionally be used directly by OO.o . ; no ; no ; yes ; PIRA, MediaWiki, SPIP 
+ RefDB ; no ; dunno ; dunno ; dunno ; no ; no ; no ; no ; none 
+ Reference Manager ; yes ; no ; dunno ; no ; no ; no ; no ; yes ; none 
+ Referencer ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ RefME ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ RefWorks ; yes ; yes ; no ; no ; no ; no ; yes ; yes ; none 
+ SciRef ; yes ; dunno ; dunno ; dunno ; no ; no ; no ; no ; none 
+ Sente ; yes ; dunno ; dunno ; Only versions prior to 5.0 ; no ; no ; no ; yes ; Mellel, Nisus, TextEdit, HTML and plain text scan 
+ Wikindx ; no ; dunno ; dunno ; dunno ; no ; no ; no ; yes ; Integrated WYSIWYG word processor (RTF output for Word/OpenOffice) 
+ WizFolio ; yes ; dunno ; dunno ; dunno ; yes ; no ; yes ; dunno ; Zoho Writer 
+ Zotero ; yes ; yes ; No ; No ; yes ; (with LyZ)The LyZ extension integrates Zotero with Lyx/Kile ; yes ; yes ; NeoOffice 

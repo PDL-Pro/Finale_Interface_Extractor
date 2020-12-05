@@ -1,0 +1,21 @@
+Format;Languages
+name[index] or name[index, index] etc.;ALGOL 58, ALGOL 60, ALGOL 68, AWK, Modula, Pascal, Object Pascal, C#, S-Lang
+name[index] or name[index, index] etc. or index⌷name or index index⌷name etc.;APL
+name[index];ActionScript, C, CFML, Ch, Cobra, C++, D, Go, Haxe, Java, JavaScript, Julia, Lingo, Lua, Nim, Objective-C (NSArray *), Perl, Python, R, Ruby, Rust, Swift
+$name[index];Perl, PHP, Windows PowerShell, XPath/XQuery
+@name[index];Raku
+name(index) or name(index, index) etc.;Ada, ALGOL W, BASIC, COBOL, Fortran, RPG, GNU Octave, MATLAB, PL/I, Scala, Visual Basic, Visual Basic .NET, Xojo
+$name(index);XPath/XQuery
+name.(index);OCaml
+name.[index];F#
+name/index;Red
+name ! index;Haskell
+$name ? index;XPath/XQuery
+(vector-ref name index);Scheme
+(aref name index);Common Lisp
+(elt name index);ISLISP
+name[[index]];Mathematica, Wolfram Language
+name at:index;Smalltalk
+[name objectAtIndex:index];Objective-C (NSArray * only)
+index{name;J
+name.item(index) or name @ index;Eiffel

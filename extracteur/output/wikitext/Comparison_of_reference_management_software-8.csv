@@ -1,0 +1,31 @@
+Software ;Passworded ;Networking ;Networking 
+Software ;Passworded ; User-specific permissionsMost databases allow one to create different user accounts to store records. Some further allow you to specify permissions (granting and denying some users the rights to edit or read some or all of your records). This column describes the latter. ; Simultaneous write access 
+ Bebop ; no ; n/a ; n/a 
+ BibBase ; n/a ; n/a ; n/a 
+ BibDesk ; yes ; no ; no 
+ Biblioscape ; yes ; yes ; yes 
+ BibSonomy ; yes ; yes ; yes 
+ Bibus ; dunno ; dunno ; dunno 
+ Bookends ; dunno ; dunno ; dunno 
+ Citavi ; yesStorage in Citavi cloud or, with special license, in Microsoft SQL Server in intranet. ; yes ; yes 
+ CiteULike ; yes ; no ; yes 
+ colwiz ; yes ; yes ; yes 
+ EndNote ; yes ; novia EndNote basic (cloud based) ; no 
+ JabRef ; no ; no ; partial 
+ KBibTeX ; no ; n/a ; n/a 
+ Mendeley ; yesvia Mendeley Web ; yes ; yes 
+ Paperpile ; yesuses Google Account  ; yes ; yes 
+ Pybliographer ; dunno ; dunno ; dunno 
+ Qiqqa ; yes ; yes ; yes 
+ ReadCube (now Papers) ; yes ; yes ; yesvia shared library 
+ refbase ; yes ; yes ; yes 
+ RefDB ; yes ; yes ; yes 
+ Reference Manager ; yes ; no ; yes 
+ Referencer ; dunno ; dunno ; dunno 
+ RefME ; dunno ; dunno ; dunno 
+ RefWorks ; yes ; dunno ; yes 
+ SciRef ; dunno ; dunno ; dunno 
+ Sente ; yes ; yes ; yes 
+ Wikindx ; yes ; yes ; yes 
+ WizFolio ; yes ; yes ; yes 
+ Zotero ; yesvia zotero.org ; yes ; yes 

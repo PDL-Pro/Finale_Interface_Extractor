@@ -1,0 +1,22 @@
+ Manager ; HTTP ; HTTPS ; FTP ; SFTP ; MMS ; RTSP ; Metalink ; Magnet link ; Podcast ; RTMP ; BitTorrent ; eDonkey 
+ rh|4K Video Downloader ; yes; yes; yes; yes; yes; yes; yes; yes; yes; yes; yes; yes 
+ rh|BitComet ; yes; yes; yes; dunno; dunno; dunno; dunno; yes; dunno; dunno; yes; yes 
+ rh|Download Accelerator Plus ; yes; yes; yes; dunno;dunno;dunno; dunno; dunno; dunno; dunno; dunno; dunno 
+ rh|DownloadStudio ; dunno; dunno; dunno; dunno;dunno;dunno; dunno; dunno; dunno; dunno; dunno; dunno 
+ rh|DownThemAll! ; yes; yes; yes; no; no; no; yes; no; no; no; no; no 
+ rh|FlashGet ; yes; no; yes; no; yes; yes; yes; yes; no; yes; yes; yes 
+ rh|Free Download Manager ; yes; yes; yes; no; yes; yes; no; yes; no; no; yes; no 
+ rh|Freemake Video Downloader ; yes; yes; no; no; no; no; no; no; no; no; no; no 
+ rh|Free Studio ; yes; yes; no; no; no; no; no; no; no; yes; no; no 
+ rh|GetRight ; yes; yes; yes; no; no; no; yes; dunno; yes; no; yes; no 
+ rh2|Go!Zilla ; dunno; dunno; dunno; dunno; dunno; dunno; dunno; dunno; dunno; dunno; dunno; dunno 
+ rh|Internet Download Accelerator ; yes; yes; yes; yes; no; no; yes; no; no; no; no; no 
+ rh|Internet Download Manager ; yes; yes; yes; no; yes; no; no; no; no; yes; no; no 
+ rh|JDownloader ; yes; yes; yes; no; no; no; yes; no; yes; no; no; no 
+ rh|Jigdo ;yes;yes;yes;no;no;no;no;no;no;no;no;no 
+ rh|KGet ; yes; yes; yes; yes; yes; no; yes; dunno; no; no; yes; no 
+ rh|Microsoft Download Manager ; yes; yes; dunno; dunno; dunno; dunno; dunno; dunno; dunno; dunno; dunno; dunno 
+ rh|MiniDM ; yes; yes; yes; no; no; no; no; no; no; no; no; no 
+ rh|MLDonkey ; yes; dunno; yes; dunno; no; no; no; dunno; no; no; yes; yes 
+ rh|Shareaza ; yes; yes; yes; yes; no; no; no; yes; no; no; yes; yes 
+ Manager ; HTTP ; HTTPS ; FTP ; SFTP ; MMS ; RTSP ; Metalink ; Magnet link ; Podcast ; RTMP ; BitTorrent ; eDonkey 

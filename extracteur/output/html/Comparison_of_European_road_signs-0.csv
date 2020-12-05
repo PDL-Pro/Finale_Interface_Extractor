@@ -1,0 +1,23 @@
+Country;Motorways;Expressways;Primary roads;Primary roads;Secondary roads;Regional destinations;Local destinations;Tourist signs;Temporary Detour
+Country;Motorways;Expressways;outside urban area;outside urban area;outside urban area;outside urban area;Local destinations;Tourist signs;Temporary Detour
+Austria;Salzburg;Wien;Villach;Villach;n/a;Salzkammergut;Salzkammergut;;Umleitung
+Czechia;BRNO;PRAHA;VYŠKOV;VYŠKOV;n/a;SLOVANY;Letiště;Hrad Bouzov;PRAHA
+Finland;HELSINKI HELSINGFORS;LAPPEENRANTA;PORVOO BORGÅ;PORVOO BORGÅ;n/a;KYMINLINNA;Kirjasto;Hiidenkivi;TURKU
+France;PARIS;MARSEILLE;BEAUVAIS;TOULON;LA CHAPPELLE;n/a;Gare S.N.C.F.;PARC NATUREL;Déviation
+Germany;Hamburg;Freiburg;Lübeck;Lübeck;n/a;;Bahnhof;Burg Eltz;Umleitung
+Greece;Θεσσαλονίκη Thessaloniki;Πάτρα Patra;ΑΘΗΝΑ ΑΤΗΙΝΑ;ΑΘΗΝΑ ΑΤΗΙΝΑ;n/a;;Κέντρο;Ακρόπολη Akropolis;
+Ireland;Áth Cliath DUBLIN;n/a;Tulach Mhór TULLAMORE;Tulach Mhór TULLAMORE;n/a;Guaire GOREY;Guaire GOREY;HEYWOOD;
+Italy;VENEZIA;UDINE;BERGOSOLE;BERGOSOLE;n/a;;aeroporto;Colfosco;deviazione
+Liechtenstein;(CH) St. Gallen;(CH) Chur;Schaan;Schaan;Vaduz;n/a;Bahnhof;Burg;Umleitung
+Lithuania;KLAIPĖDA;KAUNAS;VILNIUS;VILNIUS;n/a;;CENTRAS;;Apylanka
+Netherlands;Amsterdam;Den Haag;Woerden;Woerden;n/a;;Centrum;;OMLEIDING Volg A
+Norway;Nannestad;Lillestrøm;Trondheim;Trondheim;n/a;;Sentrum;[icon] Kvitsand;
+Poland;Wrocław;Poznań;Opole;Opole;n/a;;Stacja;Kraków;Objazd
+Portugal;Lisboa;n/a;Portalegre;Portalegre;Póvoa de Varzim;ALGARVE;centro;castelo;Desvio
+Romania;București;n/a;Pitești;Pitești;n/a;n/a;Centru;Castelul Bran;Ocolire
+Slovakia;Košice;Nitra;Bratislava;Bratislava;;;Centrum;Hrad;obchádzka
+Sweden;GÖTEBORG;STOCKHOLM;FALUN;FALUN;n/a;NORRMALM;Vårdcentral;Långe Erik;
+Switzerland;Basel;Chiasso;Moudon;Moudon;Ftan;n/a;Gare CFF;Castello;Umleitung Déviation Deviazione
+Spain;Villalba;Córdoba;Oviedo;PINTO;BADAJOZ;n/a;centro;Navacerrada;DESVÍO
+UK;Nottingham M1;n/a;Holyhead A55;Holyhead A55;Aylesbury;The NORTH;Village Hall;Thorpe Park;Diversion
+Åland;n/a;n/a;LÅNGNÄS;LÅNGNÄS;n/a;KLINTEN;Centralsjukhuset;Bomarsund;KATTBY

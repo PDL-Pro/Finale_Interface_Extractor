@@ -1,0 +1,50 @@
+ Client ; HTML email ; UTF-8 support ; Image blocking ; Junk filtering ; Junk filtering ; Phishing filtering ; Thread view ; Conversation view ; PGP support ; PGP support ; S/MIME support ; S/MIME support ; S/MIME support ; S/MIME support 
+ Client ; HTML email ; UTF-8 support ; Image blocking ; local ; server- side ; Phishing filtering ; Thread view ; Conversation view ; inline ; PGP/MIME or OpenPGP ; protocol ; OCSP ; CRL ; certificates on tokens, smartcards support 
+ rh| Alpine ; Read only ; yes ; yes ; dunno ; dunno ; dunno ; yes ; dunno ; yes ; dunno ; yes ; dunno ; dunno ; dunno 
+ rh| Apple Mail ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; no ; no ; yes ; yes ; yes ; no 
+ rh| Becky! Internet Mail ; yes ; yes ; yes ; no ; no ; no ; yes ; no ; yes ; dunno ; yes ; dunno ; dunno ; dunno 
+ rh| Citadel ; yes ; yes ; no ; yes CITADELspam ; dunno ; dunno ; no ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Claws Mail ; Read-only ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; dunno ; yes ; yes 
+ rh| Cone ; Read only ; yes ; yes ; yes ; no ; no ; yes ; dunno ; no ; yes ; no ; no ; no ; no 
+ rh2| Courier ; yes ; no ; no ; yes ; yes ; dunno ; no ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Elm ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| eM Client ; yes ; yes ; yes ; no ; yes ; yes ; no ; yes ; yes ; yes ; yes ; no ; yes ; yes 
+ rh| EmailTray ; yes ; yes ; yes ; no ; yes ; dunno ; no ; no ; no ; no ; no ; no ; no ; no 
+ rh2| Eudora ; yes ; no ; yes ; Pro only ; Pro only ; dunno ; yes ; No ; yes EUDORAPGP ; yes EUDORAPGP ; yes ; dunno ; dunno ; dunno 
+ rh| Evolution ; yes ; yes ; yes ; yes ; dunno ; no ; yes ; no ; yes ; yes ; yes ; dunno ; dunno ; dunno 
+ rh| Gnus ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; dunno ; yes ; yes ; yes ; dunno ; dunno ; yes 
+ rh| GroupWise ; yes ; yes ; yes ; yes ; dunno ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Hiri ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; no ; no ; no ; no ; no 
+ rh| i.Scribe / InScribe ; Read-only ; yes ; yes ; yes ; no ; dunno ; yes ; dunno ; yes ; no ; no ; no ; no ; no 
+ rh| HCL Notes ; yes ; yes ; yes ; yes ; yes ; yes ; yes NotesThread ; dunno ; yes ; yes (4.1.2+) ; yes ; yes ; yes ; yes 
+ rh| KMail ; yes ; yes ; yes ; yes ; dunno ; dunno ; yes ; yes ; yes (with GPG) ; yes (1.5+, with GPGME) ; yes ; yes ; yes ; dunno 
+ rh2| Mailbird ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; no ; no ; no ; no ; no 
+ rh| Mailpile ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; yes ; dunno ; dunno ; dunno ; dunno 
+ rh2| Microsoft Entourage ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; Yes ; yes ; dunno ; dunno ; Yes 
+ rh| Microsoft Office Outlook ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes (2010+)Sort Your Emails by Conversation in Outlook 2010 - How-To Geek ; no ; no ; yes ; dunno ; yes ; yes 
+ rh2| Mozilla Mail & Newsgroups ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Mozilla Thunderbird ; yes ; yes MTBUTF8 ; yes ; yes ; yes ; yes MTB15 ; yes ; yes ; yes MTBPGP ; yes ; yes ; yes ; dunno ; yes 
+ rh2| Mulberry ; yes ; yes ; yes ; no ; yes ; dunno ; yes ; dunno ; yes MulberryEncryption ; yes MulberryEncryption ; yes MulberryEncryption ; dunno ; dunno ; dunno 
+ rh| Mutt ; Read-only ; yes ; Yes(no support for images) ; yes ; dunno ; dunno ; yes ; yes ; yes ; yes ; yes ; dunno ; yes (with GPGME) ; dunno 
+ rh2| Netscape Messenger ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Netscape Messenger 9 ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| nmh / MH ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Opera Mail ; yes ; yes ; yes ; yes ; yes ; no ; yes ; no ; no ; no ; no ; no ; no ; no 
+ rh2| Outlook Express ; yes ; yes ; yes ; no ; dunno ; dunno ; yes ; dunno ; yes OEPGP ; no OEPGPMIME ; yes ; dunno ; dunno ; dunno 
+ rh| Pegasus Mail ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; Yes(sending is broken) ; dunno ; no ; no ; no 
+ rh2| Pine ; Read-only ; yes ; yes ; no ; dunno ; dunno ; yes ; dunno ; yes (with Pine Privacy Guard) ; no ; yes ; dunno ; dunno ; dunno 
+ rh2| Pocomail ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| RoundCube ; yes ; yes ; yes ; yes ; yes ; yes (depends on antivirus) ; yes ; dunno ; dunno ; yes ; yes ; dunno ; dunno ; dunno 
+ rh| SeaMonkey Mail & Newsgroups ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; dunno ; yes MTBPGP ; yes MTBPGP ; yes ; yes ; dunno ; yes 
+ rh2| Spicebird ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; dunno ; yes 
+ rh| SquirrelMail ; yes ; yes ; yes ; yes ; yes ; yes (depends on antivirus) ; yes ; dunno ; dunno ; yes ; yes ; dunno ; dunno ; dunno 
+ rh| Sylpheed ; no SYLHTML ; yes ; yes ; yes ; dunno ; dunno ; yes ; dunno ; no ; yes ; dunno ; dunno ; dunno ; dunno 
+ rh| The Bat! ; yes ; yes ; yes TBIMAGE ; yes ; yes ; dunno ; yes ; dunno ; yes ; yes ; yes ; partial TBCRL ; partial TBCRL ; yes TBCRL 
+ rh| Trojitá ; Read only ; yes ; yes ; no ; yes ; no ; yes ; yes ; no ; Read only ; Read only ; Read only ; Read only ; Read only 
+ rh2| Turnpike ; Read-only ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Windows Live Mail ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; dunno ; dunno ; dunno 
+ rh2| Windows Mail ; Yes ; yes ; dunno ; Yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| YAM ; dunno ; yes ; dunno ; yes ; dunno ; dunno ; no ; no ; yes ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Zimbra ; yes ; yes ; yes ; yes ; yes ; yes (depends on antivirus) ; yes ; dunno ; dunno ; No ; dunno ; dunno ; dunno 
+ Client ; HTML email ; UTF-8 support ; Image blocking ; Junk filtering ; Junk filtering ; Phishing filtering ; Thread view ; Conversation view ; PGP support ; PGP support ; S/MIME support ; S/MIME support ; S/MIME support ; S/MIME support 
+ Client ; HTML email ; UTF-8 support ; Image blocking ; local ; server- side ; Phishing filtering ; Thread view ; Conversation view ; inline ; PGP/MIME or OpenPGP ; protocol ; OCSP ; CRL ; certificates on tokens, smartcards support 

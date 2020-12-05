@@ -1,0 +1,46 @@
+ Client ; IMSP ; ACAP ; RSS 0.91 Feeds ; RSS 1.0 Feeds ; RSS 2.0 Feeds ; ATOM Feeds ; iCalendar ; MAPI/RPC ; CalDAV ; CardDAV 
+ rh| Alpine ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Apple Mail ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; yes ; yes 
+ rh| Becky! Internet Mail ; dunno ; dunno ; yes BECKY_rss ; yes BECKY_rss ; yes BECKY_rss ; yes BECKY_rss ; dunno ; dunno ; dunno ; dunno 
+ rh| Citadel ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Claws Mail ; dunno ; dunno ; no ; yes Claws ; yes Claws ; yes Claws ; yes Claws2 ; dunno ; dunno ; dunno 
+ rh| Cone ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno ; dunno 
+ rh2| Courier ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno ; dunno 
+ rh| Elm ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| eM Client ; no ; no ; yes ; yes ; yes ; no ; yes ; no ; yes ; yes 
+ rh| EmailTray ; no ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+ rh2| Eudora ; no ; yes ; no ; no ; no ; no ; no ; dunno ; dunno ; dunno 
+ rh| Evolution ; no ; no ; no Evolution-rss ; no Evolution-rss ; no Evolution-rss ; no ; yes ; yes ; yes ; yes 
+ rh| Gnus ; dunno ; dunno ; yes ; yes ; yes ; no ; dunno ; dunno ; dunno ; dunno 
+ rh| GroupWise ; dunno ; no ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; dunno ; dunno 
+ rh| Hiri ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+ rh| i.Scribe / InScribe ; no ; no ; no ; no ; no ; no ; no ; yes ; dunno ; dunno 
+ rh| IBM Lotus Notes ; no ; no ; yes NotesRSS ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno 
+ rh| KMail ; dunno ; dunno ; yes KDEFeeds ; yes KDEFeeds ; yes KDEFeeds ; yes KDEFeeds ; yes KDEiCal ; dunno ; yes ; yes 
+ rh| Mailpile ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Microsoft Entourage ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; dunno ; dunno 
+ rh| Microsoft Office Outlook ; dunno ; dunno ; yes OutlookFeeds ; yes OutlookFeeds ; yes OutlookFeeds ; yes OutlookFeeds ; Yes OutlookiCal ; yes ; no ; no 
+ rh2| Mozilla Mail & Newsgroups ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Mozilla Thunderbird ; no ; no ; yes ; yes ; yes ; yes ; yes MTB ; yes SimpleMAPI ; yes ; no 
+ rh2| Mulberry ; yes ; yes ; no ; no ; no ; no ; yes ; dunno ; yes ; dunno 
+ rh| Mutt ; dunno ; dunno ; no ; no ; no ; no ; no ; dunno ; dunno ; dunno 
+ rh2| Netscape Messenger ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Netscape Messenger 9 ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| nmh / MH ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Opera Mail ; dunno ; dunno ; yes ; yes ; yes ; yes ; no ; dunno ; no ; no 
+ rh2| Outlook Express ; dunno ; dunno ; no ; no ; no ; no ; no ; dunno ; no ; no 
+ rh| Pegasus Mail ; dunno ; dunno ; yes pegasusaddins ; yes pegasusaddins ; yes pegasusaddins ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Pine ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno ; dunno 
+ rh2| Pocomail ; no ; no ; yes ; yes ; yes ; no ; no ; dunno ; dunno ; dunno 
+ rh| SeaMonkey Mail & Newsgroups ; no ; no ; yes ; yes ; yes ; yes ; yes MTB ; dunno ; dunno ; dunno 
+ rh2| Spicebird ; no ; no ; yes ; yes ; yes ; yes ; yes MTB ; no ; dunno ; dunno 
+ rh| SquirrelMail ; dunno ; dunno ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno 
+ rh| Sylpheed ; no ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+ rh| The Bat! ; no ; no ; yes BAT_rss2pop3 ; yes BAT_rss2pop3 ; yes BAT_rss2pop3 ; yes BAT_rss2pop3 ; no ; yes ; dunno ; yes 
+ rh| Trojitá ; no ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+ rh2| Turnpike ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Windows Live Mail ; dunno ; dunno ; yes ; yes ; yes ; yes ; no ; dunno ; dunno ; dunno 
+ rh2| Windows Mail ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| YAM ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno ; dunno 
+ rh| Zimbra ; dunno ; dunno ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno 
+ Client ; IMSP ; ACAP ; RSS 0.91 Feeds ; RSS 1.0 Feeds ; RSS 2.0 Feeds ; ATOM Feeds ; iCalendar ; MAPI/RPC ; CalDAV ; CardDAV 

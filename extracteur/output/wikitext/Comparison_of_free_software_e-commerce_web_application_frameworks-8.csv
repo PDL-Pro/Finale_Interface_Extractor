@@ -1,0 +1,17 @@
+ ;Access control list ;Form CAPTCHA ;Staff action logging ;PA/DSS certified 
+ Apache OFBiz ; yes ; yes ; yes ; no 
+ Batavi ; yes ; no ; yes ; no 
+ Bigcommerce ; yes ; yes ; yes ; no 
+ Drupal Commerce ; yes ; add-on ; yes ; no 
+ KonaKart ; yes ; no ; yes ; no 
+ Magento ; yes ; yes ; enterprise ; no 
+ Miva Merchant ; no ; yes ; no ; yes 
+ nopCommerce ; yes ; yes ; yes ; no 
+ osCommerce ; yes ; no ; no ; no 
+ pimcore ; yes ; no ; no ; no 
+ PrestaShop ; yes ; yes ; no ; no 
+ Shopify ; yes ; yes ; yes ; no 
+ SupaDupa ; yes ; no ; no ; no 
+ WooCommerce ; no ; add-on ; no ; no 
+ Zen Cart ; yes ; add-on ; yes ; no 
+ ;Access control list ;Form CAPTCHA ;Staff action logging ;PA/DSS certified 

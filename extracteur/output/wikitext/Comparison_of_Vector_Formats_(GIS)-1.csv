@@ -1,0 +1,4 @@
+ ; Point ; Multipoint ; Line ; Polyline ; MultiPolyline ; Polygon ; Multipolygon 
+ GeoJSON ; yes ; yes ; Yes ; yes ; yes ; yes ; yes 
+ Personal Geodatabase ; yes ; no ; yes ; no ; no ; yes ; no 
+ Shapefile{{cite paper |author=ESRI |title=ESRI Shapefile technical description |date=July 1998 |url= |pages=4 ;accessdate=2010-01-25 }} ; yes ; yes ; Yes ; yes ; yes ; yes ; Yes (as Polygon with multiple outer rings or as MultiPatch) 

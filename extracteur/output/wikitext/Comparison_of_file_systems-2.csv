@@ -1,0 +1,62 @@
+ File system ; Stores file owner ; POSIX file permissions ; Creation timestamps ; Last access/ read timestamps ; Last metadata change timestamps ; Last archive timestamps ; Access control list ; Security/ MAC labels ; Extended attribute/ Alternate data streams/ forks ; Checksum/ ECC 
+rh| BeeGFS ;yes ;yes ;no ;yes ;yes ;no ;yes ;dunno ;yes ;yes 
+rh| CP/M file system ; no ; no ; yesImplemented in later versions as an extension ; no ; no ; no ; no ; no ; no ; no 
+rh| DECtape{{cite web ; url =  ; title = RT–11 Volume and File Formats Manual ; publisher = Digital Equipment Corporation ; date = August 1991 ; page = 1–26 .. 1–32 }} ; no ; no ; yes ; no ; no ; no ; no ; no ; no ; no 
+rh| Elektronika BK tape format ; no ; no ; no ; no ; no ; no ; no ; no ; no ; yes 
+rh| Level-D ; yes ; yes ; yes ; yes (date only) ; yes ; yes ; yes (FILDAE) ; no ; no ; no 
+rh| RT-11{{cite web ; url =  ; title = RT–11 Volume and File Formats Manual ; publisher = Digital Equipment Corporation ; date = August 1991 ; page = 1–4 .. 1–12 }} ; no ; no ; yes (date only) ; no ; no ; no ; no ; no ; no ; yes 
+rh| Version 6 Unix file system (V6FS){{cite web ; url= ; title=Format of the Unix 6 file system ; accessdate=2016-02-21  ; yes ; yes ; no ; yes ; no ; no ; no ; no ; no ; no 
+rh| Version 7 Unix file system (V7FS)See dinode structure on page 355 (FILESYS(5)) of {{cite web ; url= ; title= Unix Programmers Manual ; publisher=Bell Telephone Laboratories ; location=Murray Hill, New Jersey ; edition=Seventh ; date=January 1979 ; accessdate=2016-02-21  ; yes ; yes ; no ; yes ; no ; no ; no ; no ; no ; no 
+rh| exFAT ; no ; no ; yes ; yes ; no ; no ; no ; no ; no ; no 
+rh| FAT12/FAT16/FAT32 ; no ; no ; yes ; yes ; noSome FAT implementations, such as in Linux, show file modification timestamp (mtime) in the metadata change timestamp (ctime) field. This timestamp is however, not updated on file metadata change. ; no ; no ; no ; noParticular Installable File System drivers and operating system may not support extended attributes on FAT12 and FAT16. The OS/2 and Windows NT filesystem drivers for FAT12 and FAT16 support extended attributes (using a "EADATA.SF" pseudo-file to reserve the clusters allocated to them). Other filesystem drivers for other operating systems do not. ; no 
+rh| HPFS ; yesThe f-node contains a field for a user identifier. This is not used except by OS/2 Warp Server, however. ; no ; yes ; yes ; no ; no ; no ; dunno ; yes ; no 
+rh| NTFS ; yes ; yesNTFS access control list can express any access policy possible using simple POSIX file permissions (and far more), but use of a POSIX-like interface is not supported without an add-on such as Services for UNIX or Cygwin. ; yes ; yes ; yes ; no ; yes ; yesAs of Vista, NTFS has support for Mandatory Labels, which are used to enforce Mandatory Integrity Control. ; yes ; yesWindows can run the checksum to even restore data or fix a corrupt file on hdd and also repair any bad sectors if any. Windows Error Checking tool can do most of these tasks as on from Windows 7 onwards. 
+rh| ReFS ; yes ; yes ; yes ; yes ; yes ; no ; yes ; dunno ; yesInitially, ReFS lacked support for ADS, but Server 2012 R2 and up add support for ADS on ReFS ; yesData checksums not enabled by default 
+rh| HFS ; no ; no ; yes ; no ; no ; yes ; no ; no ; yes ; no 
+rh| HFS Plus ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; no 
+rh| FFS ; yes ; yes ; no ; yes ; yes ; no ; no ; no ; no ; no 
+rh| UFS1 ; yes ; yes ; no ; yes ; yes ; no ; yesAccess-control lists and MAC labels are layered on top of extended attributes. ; yesname=note-33 ; noSome operating systems implemented extended attributes as a layer over UFS1 with a parallel backing file (e.g., FreeBSD 4.x). ; no 
+rh| UFS2 ; yes ; yes ; yes ; yes ; yes ; no ; yesname=note-33 ; yesname=note-33 ; yes ; partial 
+rh| HAMMER ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; no ; yes 
+rh| LFS ; yes ; yes ; no ; yes ; yes ; no ; no ; no ; no ; no 
+rh| ext ; yes ; yes ; no ; no ; no ; no ; no ; no ; no ; no 
+rh| Xiafs ; yes ; yes ; no ; yes ; yes ; no ; no ; no ; no ; no 
+rh| ext2 ; yes ; yes ; no ; yes ; yes ; no ; yesSome Installable File System drivers and operating system may not support extended attributes, access control lists or security labels on these filesystems. Linux kernels prior to 2.6.x may either be missing support for these altogether or require a patch. ; yesname=note-23 ; yes ; no 
+rh| ext3 ; yes ; yes ; no ; yes ; yes ; no ; yesname=note-23 ; yesname=note-23 ; yes ; no 
+rh| ext4 ; yes ; yes ; yes ; yes ; yes ; no ; yesname=note-23 ; yesname=note-23 ; yes ; partial{{efn| Journal and metadata only 
+rh| NOVA ; yes ; yes ; yes ; yes ; yes ; no ; no ; no ; no ; yes 
+rh| Lustre ; yes ; yes ; no ; yes ; yes ; no ; yes ; yes ; yes ; no 
+rh| F2FS ; yes ; yes ; yes ; yes ; yes ; no ; yesname=note-23 ; yesname=note-23 ; yes ; no 
+rh| GPFS ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes ; yes ; yes 
+rh| GFS ; yes ; yes ; no ; yes ; yes ; no ; yesname=note-23 ; yesname=note-23 ; yes ; no 
+rh| NILFS ; yes ; yes ; yes ; no ; yes ; no ; no ; no ; no ; yes 
+rh| ReiserFS ; yes ; yes ; no ; yes ; yes ; no ; yesname=note-23 ; yesname=note-23 ; yes ; no 
+rh| Reiser4 ; yes ; yes ; no ; yes ; yes ; no ; no ; no ; no ; no 
+rh| OCFS ; no ; yes ; no ; no ; yes ; yes ; no ; no ; no ; no 
+rh| OCFS2 ; yes ; yes ; no ; yes ; yes ; no ; no ; no ; no ; no 
+rh| XFS ; yes ; yes ; partialCreation time stored since June 2015, xfsprogs version 3.2.3 ; yes ; yes ; no ; yes ; yesname=note-23 ; yes ; partialMetadata checksums stored since June 2015, xfsprogs version 3.2.3 
+rh| JFS ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes ; yes ; no 
+rh| QFS ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yes ; no 
+rh| BFS ; yes ; yes ; yes ; no ; no ; no ; no ; no ; yes ; no 
+rh| AdvFS ; yes ; yes ; no ; yes ; yes ; no ; yes ; no ; yes ; no 
+rh| NSS ; yes ; yes ; yesThe local time, time zone/UTC offset, and date are derived from the time settings of the reference/single timesync source in the NDS tree. ; yesname=note-31 ; yes ; yesname=note-31 ; yes ; dunno ; yesNovell calls this feature "multiple data streams". Published specifications say that NWFS allows for 16 attributes and 10 data streams, and NSS allows for unlimited quantities of both.Some file and directory metadata is stored on the NetWare server irrespective of whether Directory Services is installed or not, like date/time of creation, file size, purge status, etc, and some file and directory metadata is stored in NDS/eDirectory, like file/object permissions, ownership, etc. ; no 
+rh| NWFS ; yes ; dunno ; yesname=note-31 ; yesname=note-31 ; yes ; yesname=note-31 ; yes ; dunno ; yesname=note-19name=note-29 ; no 
+rh| ODS-5 ; yes ; yes ; yes ; dunno ; dunno ; yes ; yes ; dunno ; yesRecord Management Services (RMS) attributes include record type and size, among many others. ; no 
+rh| APFS ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; partial 
+rh| VxFS ; yes ; yes ; yes ; yes ; yes ; no ; yes ; dunno ; yesname=note-23 ; no 
+rh| UDF ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yes ; no 
+rh| Fossil ; yes ; yesFile permission in 9P are a variation of the traditional Unix permissions with some minor changes, e.g. the suid bit is replaced by a new 'exclusive access' bit. ; no ; yes ; yes ; no ; no ; no ; no ; no 
+rh| ZFS ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yesSupported on FreeBSD and Linux implementations, support may not be available on all operating systems. ; yesSolaris "extended attributes" are really full-blown alternate data streams, in both the Solaris UFS and ZFS. ; yes 
+rh| Btrfs ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes ; yes ; yes disabling copy-on-write (COW) to prevent fragmentation also disables checksumming 
+rh| Minix V1 ; yes ; yes ; no ; no ; no ; no ; no ; no ; no ; no 
+rh| Minix V2 ; yes ; yes ; no ; yes ; yes ; no ; no ; no ; no ; no 
+rh| Minix V3 ; yes ; yes ; no ; yes ; yes ; no ; no ; no ; no ; no 
+rh| VMFS2 ; yes ; yes ; no ; yes ; yes ; no ; no ; no ; no ; no 
+rh| VMFS3 ; yes ; yes ; no ; yes ; yes ; no ; no ; no ; no ; no 
+rh| ISO 9660:1988 ; no ; no ; yes ; no ; no ; no ; no ; no ; no ; no 
+rh| Rock Ridge ; yes ; yes ; no ; yesAccess times are preserved from the original file system at creation time, but Rock Ridge file systems themselves are read-only. ; yes ; no ; nolibburnia can back up and restore ACLs with file system creation and extraction programs, but no kernel support exists. ; nolibburnia can back up and restore extended attributes and MAC labels with file system creation and extraction programs, but no kernel support exists. ; noname=note-78 ; no 
+rh| Joliet ("CDFS") ; no ; no ; yes ; no ; no ; no ; no ; no ; no ; no 
+rh| ISO 9660:1999 ; no ; no ; yes ; no ; no ; no ; no ; no ; no ; no 
+rh| High Sierra ; no ; no ; yes ; no ; no ; no ; no ; no ; no ; no 
+rh| SquashFS ;yes ;yes ;no ;no ;yes ;no ;no ;yes ;yes ;no 
+ File system ; Stores file owner ; POSIX file permissions ; Creation timestamps ; Last access/read timestamps ; Last metadata change timestamps ; Last archive timestamps ; Access control list ; Security/ MAC labels ; Extended attribute/ Alternate data streams/ forks ; Checksum/ ECC 

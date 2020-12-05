@@ -1,0 +1,41 @@
+ ; ; ; Trident ; EdgeHTML ; Gecko ; WebKit ; KHTML ; Presto 
+ CSS2 ; !important ; Weight increasing ; 7.0 ; 12 ; 1.0 ; 85 ; yes ; 1.0 
+ CSS2 ; /*Comment*/ ; Comments ; 3.0 ; 12 ; 1.0 ; 85 ; yes ; 1.0 
+ CSS2 ; @import ; Import stylesheet ; 8.0 ; 12 ; 1.0 ; yes ; yes ; 1.0 
+ CSS2 ; @charset ; Character set ; 5.5 ; 12 ; 1.0 ; yes ; 4.2.3 ; 1.0 
+ CSS2 ; @media ; Media-specific rules ; 5.5 ; 12 ; 1.0 ; yes ; yes ; 1.0 
+ css-namespace-3 ; @namespace ; Namespace declaration ; 9.0publisher=Microsoft ; 12 ; 1.0 ; yes ; yes ; 1.0 
+ earlier draft of css3-conditional ; @document ; Restriction by URLs ; no ; no ; 6.0 ; no ; no ; no 
+ css-animations-1 ; @keyframes ; Animation key ; 10.0publisher=Microsoft ; 12 ; 16.0 ; table-experimental ; no ; 2.12 
+ css3-conditional ; @supports ; Conditional Rules ; no ; 12 ; 22.0publisher=MDN ; 28.0publisher=MDN ; no ; 2.12 
+ css-counter-styles-3 ; @counter-style ; Custom Counter Styles ; no ; no ; 33.0publisher=Mozilla ; no ; no ; no 
+ css-device-adapt-1 ; @viewport ; Viewport, Device Adaptation ; 10.0publisher=Microsoft ; 12.0 ; nopublisher=Mozilla ; no ; no ; 2.7.62publisher=dev.Opera 
+ filter-effects-1 ; @filter ; Filter ; no ; no ; 35.0 ; table-experimental ; no ; no 
+ Page ; Page ; Page ; Page ; Page ; Page ; Page ; Page ; Page ; Page ; Page ; Page 
+ CSS2 ; @page ; For paged media ; 8.0 ; 12 ; 19.0publisher=Mozilla ; Nightly Buildpublisher=WebKit ; no ; 1.0 
+ css-page-3 ; @top-left-corner ; Margin boxespublisher=W3C ; rowspan="16" no ; rowspan="16" no ; rowspan="16" no ; rowspan="16" nopublisher=WebKit ; rowspan="16" no ; rowspan="16" no 
+ css-page-3 ; @top-left ; Margin boxespublisher=W3C 
+ css-page-3 ; @top-center ; Margin boxespublisher=W3C 
+ css-page-3 ; @top-right ; Margin boxespublisher=W3C 
+ css-page-3 ; @top-right-corner ; Margin boxespublisher=W3C 
+ css-page-3 ; @bottom-left-corner ; Margin boxespublisher=W3C 
+ css-page-3 ; @bottom-left ; Margin boxespublisher=W3C 
+ css-page-3 ; @bottom-center ; Margin boxespublisher=W3C 
+ css-page-3 ; @bottom-right ; Margin boxespublisher=W3C 
+ css-page-3 ; @bottom-right-corner ; Margin boxespublisher=W3C 
+ css-page-3 ; @left-top ; Margin boxespublisher=W3C 
+ css-page-3 ; @left-middle ; Margin boxespublisher=W3C 
+ css-page-3 ; @left-bottom ; Margin boxespublisher=W3C 
+ css-page-3 ; @right-top ; Margin boxespublisher=W3C 
+ css-page-3 ; @right-middle ; Margin boxespublisher=W3C 
+ css-page-3 ; @right-bottom ; Margin boxespublisher=W3C 
+ Font ; Font ; Font ; Font ; Font ; Font ; Font ; Font ; Font ; Font ; Font ; Font 
+ css-fonts-3 ; @font-face ; Define font ; 9.0publisher=Microsoft ; 12 ; 1.9.1 ; 525 ; 4.3 ; 2.2 
+ css-fonts-3 ; @font-feature-values ; Define font features ; rowspan="2" no ; rowspan="2" no ; 34.0 ; rowspan="2" no ; rowspan="2" no ; rowspan="2" no 
+ css-fonts-3 ; @annotation ; Font feature value block ; 34.0 
+ css-fonts-3 ; @styleset ; Font feature value block ; no ; no ; 34.0 ; no ; no ; no 
+ css-fonts-3 ; @swash ; Font feature value block ; no ; no ; 34.0 ; no ; no ; no 
+ css-fonts-3 ; @ornaments ; Font feature value block ; no ; no ; 34.0 ; no ; no ; no 
+ css-fonts-3 ; @stylistic ; Font feature value block ; no ; no ; 34.0 ; no ; no ; no 
+ css-fonts-3 ; @character-variant ; Font feature value block ; no ; no ; 34.0 ; no ; no ; no 
+ ; ; ; Trident ; EdgeHTML ; Gecko ; WebKit ; KHTML ; Presto 

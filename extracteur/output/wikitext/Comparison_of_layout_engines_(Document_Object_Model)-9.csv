@@ -1,0 +1,27 @@
+ ; ; Trident ; Tasman ; Gecko ; WebKit ; KHTML ; Presto 
+ rh| Interface NodeIterator ; rh| Interface NodeIterator ; rh| Interface NodeIterator ; rh| Interface NodeIterator ; rh| Interface NodeIterator ; rh| Interface NodeIterator ; rh| Interface NodeIterator ; rh| Interface NodeIterator 
+ DOM2 ; root ; rowspan="4" no ; ? ; 1.9.1 ; ? ; ? ; 1.0 
+ DOM2 ; whatToShow ; ? ; ? ; 1.9.1 ; ? ; 1.0 
+ DOM2 ; filter ; ? ; ? ; 1.9.1 ; ? ; 1.0 
+ DOM2 ; expandEntityReferences ; ? ; ? ; 1.9.1 ; ? ; 1.0 
+ DOM2 ; nextNode() ; rowspan="2" yes ; ? ; 1.9.1 ; ? ; ? ; 2.0 
+ DOM2 ; previousNode() ; ? ; ? ; 1.9.1 ; ? ; 2.0 
+ DOM2 ; detach() ; no ; ? ; 1.9.1 ; ? ; ? ; 1.0 
+ rh| Interface NodeFilter ; rh| Interface NodeFilter ; rh| Interface NodeFilter ; rh| Interface NodeFilter ; rh| Interface NodeFilter ; rh| Interface NodeFilter ; rh| Interface NodeFilter ; rh| Interface NodeFilter 
+ DOM2 ; acceptNode() ; no ; ? ; 1.0 ; ? ; ? ; 1.0 
+ rh| Interface TreeWalker ; rh| Interface TreeWalker ; rh| Interface TreeWalker ; rh| Interface TreeWalker ; rh| Interface TreeWalker ; rh| Interface TreeWalker ; rh| Interface TreeWalker ; rh| Interface TreeWalker 
+ DOM2 ; root ; rowspan="12" no ; ? ; 1.0 ; ? ; ? ; 1.0 
+ DOM2 ; whatToShow ; ? ; ? ; 1.0 ; ? ; 1.0 
+ DOM2 ; filter ; ? ; ? ; 1.0 ; ? ; 1.0 
+ DOM2 ; expandEntityReferences ; ? ; ? ; 1.0 ; ? ; 1.0 
+ DOM2 ; currentNode ; ? ; ? ; 1.0 ; ? ; 1.0 
+ DOM2 ; parentNode() ; ? ; ? ; 1.0 ; ? ; 1.0 
+ DOM2 ; firstChild() ; ? ; ? ; 1.0 ; ? ; 1.0 
+ DOM2 ; lastChild() ; ? ; ? ; 1.0 ; ? ; 1.0 
+ DOM2 ; previousSibling() ; ? ; ? ; 1.0 ; ? ; 1.0 
+ DOM2 ; nextSibling() ; ? ; ? ; 1.0 ; ? ; 1.0 
+ DOM2 ; previousNode() ; ? ; ? ; 1.0 ; ? ; 1.0 
+ DOM2 ; nextNode() ; ? ; ? ; 1.0 ; ? ; 1.0 
+ rh| Interface DocumentTraversal ; rh| Interface DocumentTraversal ; rh| Interface DocumentTraversal ; rh| Interface DocumentTraversal ; rh| Interface DocumentTraversal ; rh| Interface DocumentTraversal ; rh| Interface DocumentTraversal ; rh| Interface DocumentTraversal 
+ DOM2 ; createNodeIterator() ; rowspan="2" no ; ? ; 1.9.1 ; ? ; ? ; 1.0 
+ DOM2 ; createTreeWalker() ; ? ; 1.0 ; ? ; ? ; 1.0 

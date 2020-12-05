@@ -1,0 +1,32 @@
+ Card ; Varieties ; Max storage capacity (nom. in GiB) ; Theoretical max. capacity (nom. in GiB) ; Max read speed (MB/s) ; Max write speed (MB/s) ; Read-write cycles ; Low-level access ; Operating voltage (V)Voltage table at All Memory Cards, note that some cards support both voltages (and), and some cards are available in distinct versions (or) ; Controller chip ; # of pins 
+ CompactFlash ; I ; 512 ; 128PiB(134,217,728GiB) ; 167CompactFlash Specification Rev. 6.0  ; 167 ; ; NOR/NAND ; 3.3 and 5 ; rowspan="2" yes ; 50 
+ CompactFlash ; II ; 12 ; 128PiB(134,217,728GiB) ; 167 ; 167 ; ; NOR/NAND ; 3.3 and 5 ; 50 
+ SmartMedia ; ; 128MiB(0.125GiB) ; ; 2 ; ; 1,000,000 ; NAND ; 3.3 or 5 ; no ; 22 
+ MMC ; MMC ; 8 ; 128 ; 2 ; 2 ; 1,000,000ACP-EP Specifications  ; NAND ; 3.3 ; rowspan="5" yes ; 7 
+ MMC ; RS-MMC ; 2 ; 128 ; 2ACP-EP RS-MMC card features list  ; 2 ; 1,000,000ACP-EP Specifications  ; NAND ; 3.3 ; 7 
+ MMC ; MMCmobile ; 2 ; 128 ; 15ACP-EP MMCmobile card features list  ; 8 ; 1,000,000ACP-EP Specifications  ; NAND ; 1.8 and 3.3 ; 13 
+ MMC ; MMCplus ; 4Transcend MMCplus 4GiB ; 128 ; 52MMC transferred at up to 52MiB/s  ; 52 ; 1,000,000ACP-EP Specifications  ; NAND ; 3.3 ; 13 
+ MMC ; MMCmicro ; 2 ; 128 ; ; ; 1,000,000ACP-EP Specifications  ; NAND ; 1.8 and 3.3 ; 10Transcend MMCmicro card (TS128MMCM) datasheet 
+ MMC ; eMMC ; ; 2TiB(2048GiB) ; 104 ; 104 ; ; NAND ; 1.8 and 3.3 ; rowspan="1" yes ; Varies 
+ Secure DigitalMaximum transfer speed is not defined by SD standards. Bus speeds are quoted. ; SD (SDSC) ;512 ; 4 ; 25 ; 25 ; ; NAND ; 3.3 ; rowspan="3" yes ; 9 
+ Secure DigitalMaximum transfer speed is not defined by SD standards. Bus speeds are quoted. ; miniSD ; 8 ; 4 ; 25 ; 25 ; ; NAND ; 3.3 ; 11 
+ Secure DigitalMaximum transfer speed is not defined by SD standards. Bus speeds are quoted. ; microSD ; 4 ; 4 ; 25 ; 25 ; ; NAND ; 3.3 ; 8 
+ Secure DigitalMaximum transfer speed is not defined by SD standards. Bus speeds are quoted. ; SDHC ; 32 ;32 ; 104 (UHS-I) ; 104 (UHS-I) ; ; NAND ; 1.8 and 3.3 ; rowspan="3" yes ; 9 
+ Secure DigitalMaximum transfer speed is not defined by SD standards. Bus speeds are quoted. ; miniSDHC ; 4New 4GiB miniSDHC card  ;32 ; 104 (UHS-I) ; 104 (UHS-I) ; ; NAND ; 1.8 and 3.3 ; 11 
+ Secure DigitalMaximum transfer speed is not defined by SD standards. Bus speeds are quoted. ; microSDHC ; 32 ;32 ; 104 (UHS-I) ; 104 (UHS-I) ; ; NAND ; 1.8 and 3.3 ; 8 
+ Secure DigitalMaximum transfer speed is not defined by SD standards. Bus speeds are quoted. ; SDXC ; 512 ; 2TiB(2048GiB) ; 104 (UHS-I) ; 104 ; ; NAND ; 2.7–3.6 ; rowspan="2" yes ; 9 
+ Secure DigitalMaximum transfer speed is not defined by SD standards. Bus speeds are quoted. ; microSDXC ;1 TiB  ; 2TiB(2048GiB) ; 104 (UHS-I) ; 104 (UHS-I) ; ; NAND ; 2.7–3.6 ; 8 
+ Memory Stick ; Standard ; 128MiB(0.125GiB) ; 128MiB(0.125GiB) ; 2.5 ; 1.8 ; ; NAND ; 3.3 ; rowspan="6" yes ; 10 
+ Memory Stick ; PRO ; 4 ; 2TiB(2048GiB) ; 20 ; 20 ; ; NAND ; 3.3 ; 10 
+ Memory Stick ; PRO Duo ; 32 ; 2TiB(2048GiB) ; 20 ; 20 ; ; NAND ; 3.3 ; 10 
+ Memory Stick ; PRO-HG Duo ; 32 ; 2TiB(2048GiB) ; 30 (actual,Sony Introduces Faster MS Pro HG Duo Card  theoretical: 60) ; 30 (actual, theoretical: 60) ; ; NAND ; 3.3 ; 10 
+ Memory Stick ; Micro (M2) ; 16 ; 32 ; 20 ; 20 ; ; NAND ; 1.8 and 3.3 ; 10 
+ Memory Stick ; xC ; ; 2TiB(2048GiB) ; 60 ; 60 ; ; NAND ; 3.3  ; 10 
+ xD ; ; 512MiB(0.5GiB) ; 512MiB(0.5GiB) ; 5 ; 3 ; ; NAND ; 3.3 ; rowspan="4" no ; 18 
+ xD ; Type M ; 2 ; 8 ; 4 ; 2.5 ; ; NAND ; 3.3 ; 18 
+ xD ; Type H ; 2 ; 8 ; 5 ; 4 ; ; NAND ; 3.3 ; 18 
+ xD ; Type M+ ; 2 ; 8 ; 6 ; 3.75 ; ; NAND ; 3.3 ; 18 
+ XQD ;  ; 64 ; 2+TiB(2+GiB) ; 168 ; 168 ; ; NAND ; 5 ; ; 
+ USB ; Full speed (USB 1) ; 2048(2TiB) ; No hardware limit ; 1 ; 1 ; ; NAND ; 5 ; rowspan="3" yes ; 4 
+ USB ; High speed (USB 2.0) ; 2048(2TiB) ; No hardware limit ; 40 ; 40 ; ; NAND ; 5 ; 4 
+ USB ; Super speed (USB 3.0) ; 2048(2TiB) ; No hardware limit ; 240 ; 160 ; ; NAND ; 5 ; 4 

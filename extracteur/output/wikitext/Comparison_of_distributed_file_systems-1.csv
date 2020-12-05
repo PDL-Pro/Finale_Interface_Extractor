@@ -1,0 +1,10 @@
+ Client ; Written in ; License ; Access API 
+ rh|BeeGFS ; C / C++ ; FRAUNHOFER FS (FhGFS) EULA,{{cite web ; url= ; title=FRAUNHOFER FS (FhGFS) END USER LICENSE AGREEMENT ; date=2012-02-22 ; publisher=Fraunhofer Society}} GPLv2 client ; POSIX 
+ rh|ObjectiveFS{{cite web ; url= ; title=ObjectiveFS official website}} ; C ; proprietary ; POSIX, FUSE 
+ rh|Spectrum Scale (GPFS)  ; C, C++ ; proprietary ; POSIX, NFS, SMB, Swift, S3, HDFS 
+ rh|MapR-FS ; C, C++ ; proprietary ; POSIX, NFS, FUSE, S3 
+ rh|PanFS ; C, C++ ; proprietary ; DirectFlow, POSIX, NFS, SMB/CIFS, HTTP, CLI 
+ rh|Infinit{{cite web ; url= ; title=The Infinit Storage Platform}} ; C++ ; proprietary (to be open sourced){{cite web ; url= ; title=Infinit's Open Source Projects}} ; FUSE, Installable File System, NFS/SMB, POSIX, CLI, SDK (libinfinit) 
+ rh|Isilon OneFS ; C/C++ ; Proprietary ; POSIX, NFS, SMB/CIFS, HDFS, HTTP, FTP, SWIFT Object, CLI, Rest API 
+ rh|Scality ; C ; proprietary ; FUSE, NFS, REST, AWS S3 
+ rh|Quobyte ; Java, C++ ; proprietary ; POSIX, FUSE, NFS, SMB/CIFS, HDFS, AWS S3,  TensorFlow Plugin, CLI, Rest API 

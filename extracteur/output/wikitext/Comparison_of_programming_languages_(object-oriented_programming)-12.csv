@@ -1,0 +1,25 @@
+  ; current object ; current object's parent object ; null reference ; Current Context of Execution 
+ Smalltalk ; self ; super ; nil ; thisContext 
+ ABAP Objects ; me ; super ; initial ; 
+ APL (Dyalog) ; ⎕THIS ; ⎕BASE ; ⎕NULL ; 
+ C++ (STL) ; *this ;C++ doesn't have a "super" keyword, because multiple inheritance is possible, and so it may be ambiguous which base class is referenced. Instead, the BaseClassName::member syntax can be used to access an overridden member in the specified base class. Microsoft Visual C++ provides a non-standard keyword "__super" for this purpose, but this is unsupported in other compilers. ; NULL, nullptr ; 
+ C# ; this ; baseThe keyword here is not a value, and it can only be used to access a method of the superclass. ; null ; 
+ Java ; this ; super ; null ; 
+ D ; this ; super ; null ;  
+ JavaScript ; this ; super (ECMAScript 6) ; null, undefinedBut be afraid, they have not the same value. ; 
+ eC ; this ;  ; null ; 
+ Objective-C ; self ; super ; nil ; 
+ Swift ; self ; super ; nilonly for Optional types ; 
+ Python ; selfIn this language, instance methods are passed the current object as the first parameter, which is conventionally named "self", but this is not required to be the case. ; super(current_class_name, self)super() (3.x only) ; None ; 
+ Visual Basic .NET ; Me ; MyBase ; Nothing ; 
+ Xojo ; Me / Self ; Parent ; Nil ;  
+ Eiffel ; Current ; Precursor «{superclass}» «(args)»"Precursor" in Eiffel is actually a call to the method of the same name in the superclass. So Precursor(args) is equivalent to "super.currentMethodName(args)" in Java. There is no way of calling a method of different name in the superclass. ; Void ; 
+ PHP ; $this ; parent ; null ; 
+ Perl ; $self ; $self->SUPER ; undef ; 
+ Raku ; self ; SUPER ; Nil ; 
+ Ruby ; self ; super«(args)»"super" in Ruby, unlike in other languages, is actually a call to the method of the same name in the superclass. So super(args) in Ruby is equivalent to "super.currentMethodName(args)" in Java. There is no way of calling a method of different name in the superclass. ; nil ; binding 
+ Windows PowerShell ; $this ; ; $NULL ; 
+ OCaml ; selfIn OCaml, an object declaration can optionally start with a parameter which will be associated with the current object. This parameter is conventionally named "self", but this is not required to be the case. It is good practice to put a parameter there so that one can call one's own methods. ; superIn OCaml, an inheritance declaration ("inherit") can optionally be associated with a value, with the syntax "inherit parent_class «parameters» as super". Here "super" is the name given to the variable associated with this parent object. It can be named differently. ; n/aHowever, if the ability to have an "optional" value in OCaml is needed, then wrap the value inside an option type, which values are None and Some x, which could be used to represent "null reference" and "non-null reference to an object" as in other languages. ; 
+ F# ; this ; base ; null ; 
+ COBOL ; SELF ; SUPER ; NULL ; 
+ Cobra ; this ; base ; nil ; 

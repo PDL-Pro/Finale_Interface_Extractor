@@ -1,0 +1,22 @@
+ Audio player ; HTTP ; RTSP (RTSPU, RTSPT) ; MMS (MMSU, MMST) ; Podcasting ; Other 
+ AIMP ; yes ; no ; yes ; no ; no 
+ Amarok ; yes ; yes ; yes ; yes ; UPNP 
+ Audacious ; yes ; no ; yes ; no ; dunno 
+ Audion ; yes ; no ; no ; no ; dunno 
+ cmus ; yes ; no ; no ; no ; dunno 
+ Cog ; no ; no ; no ; no ; dunno 
+ foobar2000 ; yes ; partialOnly WMA files are playable by foobar2000 through an RTSP connection. RealMedia, AAC, etc. are not supported. ; yes ; partial3rd party plugin for 0.9 allows reading RSS 2.0 feeds as playlists. No subscription/automatic update features. ; dunno 
+ JuK ; dunno ; dunno ; dunno ; dunno ; dunno 
+ JRiver Media Center ; yes ; yes ; yes ; yes ; dunno 
+ MediaMonkey ; yes ; no ; no ; yesPresent in version 3.0 currently going through Alpha Testing. ; dunno 
+ MusicBee ; yes ; dunno ; dunno ; yes ; dunno 
+ Musicmatch Jukebox ; yes ; dunno ; dunno ; dunno ; dunno 
+ musikCube ; yes ; no ; no ; dunno ; dunno 
+ Music Player Daemon ; yesProvided by the "curl" plugins ; yesProvided by the "ffmpeg" plugin ; yesProvided by the "mms" plugin ; yes ; Music Player Daemon 
+ Rhapsody ; yes ; yes ; yes ; yes ; dunno 
+ Rhythmbox ; yes ; yes ; no ; partialAs of 0.9.2 it allows reading RSS as podcast source. Issues if links in RSS do not point directly to playable media. Automatic update of podcasts available. ; UPNP 
+ Sayonara Player ; yes ; dunno ; dunno ; dunno ; dunno 
+ Sonique ; yes ; dunno ; dunno ; dunno ; dunno 
+ XMMS ; yes ; dunno ; dunno ; dunno ; dunno 
+ Zinf ; yes ; yes ; no ; no ; dunno 
+ Audio player ; HTTP ; RTSP (RTSPU, RTSPT) ; MMS (MMSU, MMST) ; Podcasting ; Other 

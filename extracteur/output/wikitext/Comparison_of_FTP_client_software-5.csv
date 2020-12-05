@@ -1,0 +1,49 @@
+ Client ; Windows ; macOS ; Linux ; BSD ; Unix ; AmigaOS ; ChromeOS 
+ rh|AbsoluteTelnet ; yes ; no ; no ; no ; no ; no ; no 
+ rh|ALFTP ; yes ; no ; no ; no ; no ; no ; no 
+ rh|Beyond Compare ; yes ; yes ; yes ; no ; no ; no ; no 
+ rh|Classic FTP ; yes ; yes ; no ; no ; no ; no ; no 
+ rh|Codeanywhere (webbased) ; yes ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh|Commander One ; no ; yes ; no ; no ; no ; no ; no 
+ rh|CoreFTP ; yes ; no ; no ; no ; no ; no ; no 
+ rh|CrossFTP ; yes ; yes ; yes ; yes ; yes ; yes ; no 
+ rh|cURL (CL) ; yes ; yes ; yes ; yes ; yes ; yes ; no 
+ rh|CuteFTP ; yes ; yes ; no ; no ; no ; no ; no 
+ rh|Cyberduck ; yes ; yes ; no ; no ; no ; no ; no 
+ rh|Directory Opus ; yes ; no ; no ; no ; no ; yes ; no 
+ rh|ExpanDrive ; yes ; yes ; no ; no ; no ; no ; no 
+ rh|FAR Manager ; yes ; no ; no ; no ; no ; no ; no 
+ rh|Fetch ; no ; yes ; no ; no ; no ; no ; no 
+ rh|FileZilla ; yes ; yes ; yes ; yes ; yes ; no ; no 
+ rh|FireFTP ; yes ; yes ; yes ; yes ; yes ; no ; no 
+ rh|FlashFXP ; yes ; no ; no ; no ; no ; no ; no 
+ rh|Fling FTP ; yes ; no ; no ; no ; no ; no ; no 
+ rh| ForkLift ; no ; yes ; no ; no ; no ; no ; no 
+ rh|FTP Client ; no ; yes ; no ; no ; no ; no ; no 
+ rh|FTP Commander ; yes ; no ; no ; no ; no ; no ; no 
+ rh|FTP Explorer ; yes ; no ; no ; no ; no ; no ; no 
+ rh| FTP Voyager ; yes ; no ; no ; no ; no ; no ; no 
+ rh|Fugu ; no ; yes ; no ; no ; no ; no ; no 
+ rh|gFTP ; no ; yes ; yes ; yes ; yes ; no ; no 
+ rh|Interarchy ; no ; yes ; no ; no ; no ; no ; no 
+ rh2|LeechFTP ; yes ; no ; no ; no ; no ; no ; no 
+ rh|lftp (CL) ; yes (cygwin) ; yes ; yes ; yes ; yes ; no ; no 
+ rh|Macfusion ; no ; yes ; no ; no ; no ; no ; no 
+ rh2|Mosaic ; yes ; yes ; no ; no ; yes ; yes ; no 
+ rh|NcFTP (CL) ; yes ; yes ; yes ; yes ; yes ; yes ; no 
+ rh|net2ftp (web-based) ; yes ; yes ; yes ; yes ; yes ; yes ; no 
+ rh|pbFtpClient ; yes ; no ; no ; no ; no ; yes ; no 
+ rh|PSFTP (PuTTY) (CL) ; yes ; no ; yes ; yes ; yes ; no ; no 
+ rh|Secure FTP ; yes ; yes ; yes ; yes ; yes ; yes ; no 
+ rh|SmartFTP ; yes ; no ; no ; no ; no ; no ; no 
+ rh|Steed ; yes ; no ; no ; no ; no ; no ; no 
+ rh|Sysax FTP Automation ; yes ; no ; no ; no ; no ; no ; no 
+ rh|Total Commander ; yes ; no ; no ; no ; no ; no ; no 
+ rh|tnftp (CL) ; yes (cygwin) ; yes ; yes ; yes ; yes ; no ; yes 
+ rh|Transmit ; no ; yes ; no ; no ; no ; no ; no 
+ rh|WebDrive ; yes ; yes ; no ; no ; no ; no ; no 
+ rh|WinSCP ; yes ; no ; no ; no ; no ; no ; no 
+ rh|WISE-FTP ; yes ; no ; no ; no ; no ; no ; no 
+ rh|WS_FTP ; yes ; no ; no ; no ; no ; no ; no 
+ rh|Yummy FTP ; no ; yes ; no ; no ; no ; no ; no 
+ Client ; Windows ; Mac OS X ; Linux ; BSD ; Unix ; AmigaOS ; ChromeOS 

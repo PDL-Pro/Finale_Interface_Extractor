@@ -1,0 +1,27 @@
+ Name ; Show in-line changes ; Directory comparison ; Binary comparison ; Moved lines ; 3-way comparison ; Merge ; Structured comparisonCompare logical sections (class, methods) ; Manual compare alignment ; Image compare 
+ rh| Beyond Compare ; Yes ; Yes ; Yes ; No ; Yes (Files and Folders) ; Yes (Pro only) ; ; Yes ; Yes 
+ rh| Compare++ ; Yes ; Yes ; ; ; Yes ; Yes ; Yes (C/C++,C#,Java,Javascript,CSS3) ; ; 
+ rh| diff ; No ; Yes ; partly ; No ; No ; No ; ; ; 
+ rh| diff3 ; No ; No ; ; ; Yes (non-optional) ; ; ; ; 
+ rh| Eclipse (compare) ; Yes ;  ; ; ; No (only ancestor) ; Yes ; ; No ; 
+ rh| Ediff ; Yes ; Yes ; Yes ; ; Yes ; Yes ; ; ; 
+ rh| ExamDiff Pro ; Yes ; Yes ; Yes ; YesExamdiff ; Yes (ExamDiff Pro Master only)Examdiff ; Yes ; ; manual synchronization ; 
+ rh| Far Manager (compare) ; Yes (Via plugin) Visual Compare ; Yes ; Yes ; Yes (Via plugin)  ; No ; No ; ; ; 
+ rh| fc ; No ; No ; Yes ; ; No ; No ; ; ; 
+ rh| FileMerge (aka opendiff) ; Yes ; Yes ; Yes ; ; Yes (optional ancestor) ; Yes ; ; ; 
+ rh| Guiffy SureMerge ; Yes ; Yes ; Yes ; ; Yes ; Yes ; ; Yes ; Yes 
+ rh| IntelliJ IDEA (compare) ; Yes ; Yes ; Yes ; No ; Yes ; Yes ; ; Yes ; Yes 
+ rh| jEdit JDiff plugin ; Yes ; ; ; ; No ; Yes ; ; ; 
+ rh| Kompare ; ; Yes ; No ; ; No ; Yes ; ; ; 
+ rh| Lazarus Diff ; ; ; ; ; ; ; ; ; 
+ rh| Meld ; Yes ; Yes ; No ; Yes ; Yes ; Yes ; ;  line alignment, unlink scroll ; 
+ rh| Notepad++ (compare) ; Yes ; No ; No ; Yes ; No ; No ; No ; 
+ rh| Perforce P4Merge ; Yes ; No ; No ; ; Yes ; Yes ; ; ; Yes 
+ rh| Pretty Diff ; Yes ; Yes ; No ; No ; No ; No ; Yes ; No ; 
+ rh| Tkdiff ; Yes ; No ; No ; No ; No ; No ; ; ; 
+ rh| Total Commander (compare) ; Yes ; Yes ; Yes ; No ; No ; Yes ; No ;  resync comparison ; No 
+ rh| vimdiff ; Yes ; Yes (via DirDiff plugin) ; ; ; Yes ; Yes ; ; ; 
+ rh| WinDiff ; Yes ; Yes ; Yes ; Yes ; No ; No ; ; ; 
+ rh| WinMerge ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; ; No ; Yes 
+ rh| UCC ; Yes ; Yes ; Yes ; Yes ; No ; Yes ; ; ; 
+ Name ; Show in-line changes ; Directory comparison ; Binary comparison ; Moved lines ; 3-way comparison ; Merge ; Structured comparison ; Manual compare alignment ; Image compare 

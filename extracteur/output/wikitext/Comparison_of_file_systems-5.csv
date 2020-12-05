@@ -1,0 +1,27 @@
+File system ;Host OS ;Offline grow ;Online grow ;Offline shrink ;Online shrink ;add and remove physical volumes 
+FAT16/ FAT16B/ FAT16X ;misc. ;yesWith software based on GNU Parted ;no ;yes ;no ;no 
+FAT32/ FAT32X ;misc. ;yes ;no ;yes ;no ;no 
+exFAT ;misc. ;no ;no ;no ;no ;no 
+NTFS ;Windows ;yes ;yes ;yes ;yes ;no 
+ReFS ;Windows ;dunno ;yes ;dunno ;no ;no 
+HFS+ ;macOS ;no ;yes ;no ;yes ;no 
+APFS ;macOS ;dunno ;dunno ;dunno ;dunno ;dunno 
+HFS+ ;Linux ;no ;no ;no ;no ;no 
+SquashFS ;Linux ;no ;no ;no ;no ;no 
+NOVA ;Linux ;no ;no ;no ;no ;no 
+JFS ;Linux ;yes ;no ;no ;no ;no 
+XFS ;Linux ;no ;yes ;no ;no ;no 
+Lustre ;Linux ;dunno ;yes ;no ;no ;yes 
+F2FS ;Linux ;yes ;no ;no ;no ;no 
+NTFS ;Linux ;yes ;no ;yes ;no ;no 
+ext2Linux ;Linux ;yes ;no ;yes ;no ;no 
+ext3 ;Linux ;yes ;yes ;yes ;no ;no 
+ReiserFS ;Linux ;yes ;yes ;yes ;no ;no 
+Reiser4 ;Linux ;yes ;yes ;yes ;no ;no 
+ext4 ;Linux ;yes ;yes ;yes ;no ;no 
+Btrfs ;Linux ;yes ;yes ;yes ;yes ;yes 
+NILFS ;Linux ;no ;yes ;no ;yes ;no 
+ZFS ;misc. ;no ;yes ;no ;partialMirror and single-disk vdevs can be wholly removed from a pool, but not RAID-Z vdevs. {{cite web|title=OpenZFS 7614 - zfs device evacuation/removal|url= ;yes 
+JFS2 ;AIX ;dunno ;yes ;dunno ;yes ;no 
+UFS2 ;FreeBSD ;yes ;yes (FreeBSD 10.0-RELEASE or later) ;no ;no ;no 
+HAMMER ;DragonflyBSD ;dunno ;dunno ;dunno ;dunno ;dunno 

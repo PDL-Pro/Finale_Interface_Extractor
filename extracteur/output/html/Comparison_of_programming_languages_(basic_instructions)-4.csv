@@ -1,0 +1,37 @@
+;fixed size array;fixed size array;dynamic size array;dynamic size array
+;one-dimensional array;multi-dimensional array;one-dimensional array;multi-dimensional array
+Ada;array (<first> .. <last>) of <type> or array (<discrete_type>) of <type>;array (<first> .. <last>, <first> .. <last>, ...) of <type> or array (<discrete_type>, <discrete_type>, ...) of <type>;array (<discrete_type> range <>) of <type>;array (<discrete_type> range <>, <discrete_type> range <>, ...) of <type>
+ALGOL 68;[first:last]«modename» or simply: [size]«modename»;[first:last, first:last]«modename» or [first:last][first:last]«modename» etc.;flex[first:last]«modename» or simply: flex[size]«modename»;flex[first:last, first:last]«modename» or flex[first:last]flex[first:last]«modename» etc.
+C (C99);type name[size];type name[size][size];type *name or within a block: int n = ..., type name[n];
+C++ (STL);«std::»array<type, size>(C++11);;«std::»vector<type>;«std::»vector<type>
+C#;type[];type[,,...];System.Collections.ArrayList or System.Collections.Generic.List<type>;
+Java;type[];type[][]...;ArrayList or ArrayList<type>;
+D;type[size];type[size][size];type[];
+Go;[size]type;[size][size]...type;[]type;[][]type;
+Rust;[type, size];[[type, size], size];Vec<type>;Vec<Vec<type>>;
+Swift;;;[type] or Array<type>;[[type]] or Array<Array<type>>;
+Objective-C;NSArray;;NSMutableArray;
+JavaScript;N/A;N/A;Array;Array
+Common Lisp;(simple-array type (dimension));(simple-array type (dimension dimension));(array type (dimension));(array type (dimension dimension))
+Scheme;;;;
+ISLISP;;;;
+Pascal;array[first..last] of type;array[first..last] of array[first..last] ... of type or array[first..last, first..last, ...] of type;N/A;N/A
+Object Pascal (Delphi);array[first..last] of type;array[first..last] of array[first..last] ... of type or array[first..last, first..last, ...] of type;array of type;array of array ... of type
+Visual Basic;;;;
+Visual Basic .NET;type();type(,,...);System.Collections.ArrayList or System.Collections.Generic.List(Of type);
+Python;;;list;
+S-Lang;;;;
+Fortran;type :: name(size);type :: name(size, size,...);type, ALLOCATABLE :: name(:);type, ALLOCATABLE :: name(:,:,...)
+PHP;;;array;
+Perl;;;;
+Raku;;;Array[type] or Array of type;
+Ruby;;;Array;
+Scala;Array[type];Array[...[Array[type]]...];ArrayBuffer[type];
+Seed7;array type or array [idxType] type;array array type or array [idxType] array [idxType] type;array type or array [idxType] type;array array type or array [idxType] array [idxType] type
+Smalltalk;Array;;OrderedCollection;
+Windows PowerShell;type[];type[,,...];;
+OCaml;type array;type array ... array;;
+F#;type [] or type array;type [,,...];System.Collections.ArrayList or System.Collections.Generic.List<type>;
+Standard ML;type vector or type array;;;
+Haskell (GHC);;;;
+COBOL;level-number type OCCURS size «TIMES».;one-dimensional array definition...;level-number type OCCURS min-size TO max-size «TIMES» DEPENDING «ON» size.;N/A

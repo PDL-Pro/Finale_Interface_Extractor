@@ -1,0 +1,38 @@
+ File manager ; SMB/CIFS ; WebDAV ; NFS ; AFP ; FTP ; FISH/SSH  
+ rh| Altap Salamander ; yes ; no ; yes ; no ; yes ; yes 
+ rh| Commander One ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| CRAX Commander ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| Directory Opus ; yes ; yes ; yes ; no ; yes ; yes (SFTP & SSLRequires an additional licence (purchased separately)) 
+ rh| Dired ; yes ; yes ; yes ; no ; yes ; yes 
+rh| Documents by Readdle ; ; ; ; ; ; 
+ rh| Dolphin ; yes ; yes ; yes ; dunno ; yes ; yes 
+ rh| Double Commander ; yes ; dunno ; dunno ; dunno ; yes ; dunno 
+ rh| emelFM2 ; dunno ; dunno ; dunno ; dunno ; no ; dunno 
+ rh| Far Manager ; yes ; partial ; partial ; no ; yes ; yes 
+ rh| File Commander ; yes ; partial ; partial ; no ; partial ; partial 
+ rh| File Manager ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+rh| Files (Apple) ; ; ; ; ; ; 
+rh| Files by Google ; ; ; ; ; ; 
+ rh| Finder ; yes ; yes ; yes ; yes ; partial ; no 
+ rh| ForkLift ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| GNOME Commander ; yes ; yes ; yes ; no ; yes ; yes 
+ rh| Konqueror ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| Krusader ; yes ; yes ; yes ; no ; yes ; yes 
+ rh| muCommander ; yes ; dunno ; yes ; dunno ; yes ; yes 
+ rh| Midnight Commander ; yes ; no ; yes ; no ; yes ; yes 
+ rh| GNOME Files (Nautilus) ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| Nemo ; yes ; ? ; ? ; ? ; yes ; yes 
+ rh| Nomad.NET ; yes ; no ; no ; no ; yes ; no 
+ rh| Path Finder ; yes ; yes ; yes ; yes ; yes (Read Access) ; no 
+ rh| PCManFM ; yes ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| ROX-Filer ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| Total Commander ; yes ; yes ; partial ; no ; yes ; yes 
+ rh| Thunar ; yes ; yes ; yes ; no ; yes ; yes 
+ rh| Windows Explorer ; yes ; yes ; yes ; no ; yes ; no 
+ rh| Xandros File Manager ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Xfe ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Xfm ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| xplorer² ; yes ; yes ; partial ; no ; yes ; no 
+ rh| XYplorer ; yes ; yes ; yes ; no ; yes ; no 
+ rh| ZTreeWin ; yes ; partial ; partial ; no ; partial ; partial 
+ File manager ; SMB/CIFS ; WebDAV ; NFS ; AFP ; FTP ; FISH/SSH  

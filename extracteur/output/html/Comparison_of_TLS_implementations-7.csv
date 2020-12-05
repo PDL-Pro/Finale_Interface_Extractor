@@ -1,0 +1,24 @@
+Implementation;Block cipher with mode of operation;Block cipher with mode of operation;Block cipher with mode of operation;Block cipher with mode of operation;Block cipher with mode of operation;Block cipher with mode of operation;Block cipher with mode of operation;Block cipher with mode of operation;Block cipher with mode of operation;Block cipher with mode of operation;Stream cipher;None
+Implementation;AES GCM;AES CCM;AES CBC;Camellia GCM;Camellia CBC;ARIA GCM;ARIA CBC;SEED CBC;3DES EDE CBC (insecure);GOST 28147-89 CNT (proposed);ChaCha20-Poly1305;Null (insecure)
+Botan;Yes;Yes;Yes;Yes;Yes;No;No;Disabled by default;Disabled by default;No;Yes;Not implemented
+BoringSSL;Yes;No;Yes;No;No;No;No;No;Yes;No;Yes;
+cryptlib;Yes;No;Yes;No;No;No;No;No;Yes;No;No;Not implemented
+GnuTLS;Yes;Yes;Yes;Yes;Yes;No;No;No;Disabled by default;No;Yes;Disabled by default
+JSSE;Yes;No;Yes;No;No;No;No;No;Disabled by default;No;Yes (JDK 12+);Disabled by default
+LibreSSL;Yes;No;Yes;No;Yes;No;No;No;Yes;Yes;Yes;Disabled by default
+MatrixSSL;Yes;No;Yes;No;No;No;No;Yes;Disabled by default;No;Yes;Disabled by default
+Mbed TLS;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;No;Yes;Disabled by default at compile time
+NSS;Yes;No;Yes;No;Yes;No;No;Yes;Yes;No;Yes;Disabled by default
+OpenSSL;Yes;Disabled by default;Yes;No;Disabled by default;Disabled by default;No;Disabled by default;Disabled by default;Yes;Yes;Disabled by default
+RSA BSAFE Micro-Edition Suite;Yes;Yes;Yes;No;No;No;Yes;Yes;Lowest priority;No;No;Disabled by default
+RSA BSAFE SSL-J;Yes;Yes;Yes;No;No;No;No;No;Disabled by default;No;No;Disabled by default
+SChannel XP/2003;No;No;2003 only;No;No;No;No;No;Yes;No;No;Disabled by default
+SChannel Vista/2008, 2008R2, 2012;No;No;Yes;No;No;No;No;No;Yes;No;No;Disabled by default
+SChannel 7, 8, 8.1/2012R2;Yes except ECDHE_RSA;No;Yes;No;No;No;No;No;Yes;No;No;Disabled by default
+Schannel 10;Yes;No;Yes;No;No;No;No;No;Yes;No;No;Disabled by default
+Secure Transport OS X 10.6 - 10.10;No;No;Yes;No;No;No;No;No;Yes;No;No;Disabled by default
+Secure Transport OS X 10.11;Yes;No;Yes;No;No;No;No;No;Yes;No;No;Disabled by default
+wolfSSL;Yes;Yes;Yes;No;Yes;No;No;No;Yes;No;Yes;Disabled by default
+Erlang/OTP SSL application;Yes;No;Yes;No;No;No;No;No;Disabled by default;No;Experimental;Disable by default
+Implementation;Block cipher with mode of operation;Block cipher with mode of operation;Block cipher with mode of operation;Block cipher with mode of operation;Block cipher with mode of operation;Block cipher with mode of operation;Block cipher with mode of operation;Block cipher with mode of operation;Block cipher with mode of operation;Block cipher with mode of operation;Stream cipher;None
+Implementation;AES GCM;AES CCM;AES CBC;Camellia GCM;Camellia CBC;ARIA GCM;ARIA CBC;SEED CBC;3DES EDE CBC (insecure);GOST 28147-89 CNT (proposed);ChaCha20-Poly1305;Null (insecure)

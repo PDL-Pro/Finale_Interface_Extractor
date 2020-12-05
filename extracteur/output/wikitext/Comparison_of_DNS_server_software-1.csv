@@ -1,0 +1,18 @@
+ Server ; BSD ; Solaris ; Linux ; Mac OS X ; Windows 
+ BIND ; yes ; yes ; yes ; yes ; yesntbind 
+ Microsoft DNS ; no ; no ; no ; no ; includedmsdns_included_functionality 
+ djbdns ; yes ; yes ; yes ; yes ; no 
+ Dnsmasq ; yes ; yes ; yes ; yes ; no 
+ Simple DNS Plus ; no ; no ; no ; no ; yes 
+ NSD ; yes ; yes ; yes ; yes ; no 
+ Knot DNS ; yes ; no ; yes ; yes ; no 
+ Knot Resolver ; partial ; no ; yes ; yes ; no 
+ PowerDNS ; yes ; yes  ; yes ; beta ; no 
+ MaraDNS ; yes ; yes  ; yes ; yes ; partial 
+ pdnsd ; yes  ; partial{{cite web ;url= ;title=pdnsd homepage ;accessdate=2013-03-29 }} "pdnsd was started on Linux, and has since been ported to FreeBSD (and Cygwin and Darwin). 90% of the source code should be easily portable to POSIX- and BSD-compatible systems, provided that those systems support the POSIX threads (pthreads). The rest might need OS-specific rewrites."  ; yes  ; yes  ; no  
+ Posadis ; yes ; yes ; yes ; yes ; yes  
+ Unbound ; yes ; yes ; yes ; yes ; yes 
+ Cisco Network Registrar ; no ; yes ; yes ; no ; yes 
+ YADIFA ; yes ; yes ; yes ; yes ; no 
+ Secure64 DNS Authority ; no ; no ; yes ; no ; no 
+ Secure64 DNS Cache ; no ; no ; yes ; no ; no 

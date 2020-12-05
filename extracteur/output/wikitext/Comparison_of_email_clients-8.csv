@@ -1,0 +1,48 @@
+ Client ; Label messages ; Label messages ; Label messages ; Label messages ; Reformat received messages ; Reformat received messages ; Bi-directional text support ; Composing messages ; Composing messages ; Composing messages ; Native images preview ; Native images preview ; Native images preview ; Native images preview ; Native images preview ; Postpone / scheduled message sending ; Native documents preview ; Native documents preview ; Native documents preview ; Native documents preview ; Native documents preview ; Native documents preview ; Native documents preview 
+ Client ; with colors ; with flag ; antidelete ; add note ; edit headers (e.g., Subject) ;forcedrecode recode ; Bi-directional text support ; Spell checking ; Signatures ; Bottom-posts replies ; jpeg ; gif ; bmp ; png ; others ; Postpone / scheduled message sending ; txt ; pdf ; doc ; xls ; odt ; ods ; others 
+ rh| Alpine ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Becky! Internet Mail ; yes ; yes ; dunno ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Citadel ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Claws Mail ; yes ; yes ; yes ; no ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; with a plugin ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Cone ; yes ; yes ; yes ; no ; dunno ; dunno ; dunno ; yes ; no ; dunno ; no ; no ; no ; no ; no ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Courier ; yes ; yes ; no ; no ; yes ; dunno ; dunno ; yes ; yes ; dunno ; no ; no ; no ; no ; no ; yes ; dunno ; no ; no ; no ; no ; no ; dunno 
+ rh| Elm ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| eM Client ; yes ; yes ; no ; no ; no ; no ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| EmailTray ; yes ; no ; no ; no ; no ; no ; dunno ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; no ; yes ; yes ; yes ; yes ; no ; no ; dunno 
+ rh2| Eudora ; yes ; yes ; no ; no ; Yes ; dunno ; dunno ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ;  QuickTime ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Evolution ; yes ; yes ; dunno ; dunno ; no ; dunno ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Gnus ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; XPM ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| GroupWise ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno 
+ rh| Hiri ; yes ; yes ; no ; yes ; no ; no ; no ; yes  ; no ; yes ; yes  ; yes ; yes ; yes  ; yes ; no ; no ; no ; no ; no ; no ; no ; no 
+ rh| i.Scribe / InScribe ; yes ; no ; no ; yes ; no ; no ; no ; yes SCRIBE_spell ; yes ; yes ; yes SCRIBE_jpeg ; yes ; yes ; yes SCRIBE_png ; ICO, TIFF ; yes ; no ; no ; no ; no ; no ; no ; no 
+ rh| HCL Notes ; yes ; yes ; dunno ; dunno ; yes ; dunno ; dunno ; yes ; yes ; dunno ; yes ; yes ; yes ; no ; CGM, Lotus PIC, PCX, TIFF ; dunno ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno 
+ rh| KMail ; yes ; yes ; no ; yes ; dunno ; dunno ; dunno ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Mailbird ; yes ; yes ; dunno ; Yes ; dunno ; dunno ; dunno ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; yes ; no ; no ; dunno 
+ rh| Mailpile ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Microsoft Entourage ; yes ; yes ; dunno ; Yeseragenotes ; dunno ; dunno ; dunno ; yes ; yes ; dunno ; Yes ; Yes ; dunno ; Yes ; dunno ; dunno ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Microsoft Office Outlook ; yes ; yes ; no ; yes ; yes ; dunno ; dunno ; yes ; yes ; no ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; with a plugin ; yes ; yes ; 2010 ; 2010 ; PowerPoint 
+ rh2| Mozilla Mail & Newsgroups ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Mozilla Thunderbird ; yes ; yes ; dunno ; dunno ; with a plugin ; dunno ; dunno ; yes ; yes ; yes Thunderbird_reply_format ; yes ; yes ; yes ; yes ; ICO ; yes TbirdSl8Tr ; yes ; yes ; no ; no ; no ; no ; no 
+ rh2| Mulberry ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; yes ; yes ; dunno ; no ; no ; no ; no ; no ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Mutt ; yes ; yes ; no ; no ; yes ; dunno ; dunno ; yes ; yes ; dunno ; no ; no ; no ; no ; no ; postpone ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Netscape Messenger ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Netscape Messenger 9 ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| nmh / MH ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Opera Mail ; yes ; yes ; no ; no ; dunno ; dunno ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; APNG, ICO, SVG, WBMP, XBM, WebP ; no ; no ; no ; no ; no ; no ; no ; no 
+ rh2| Outlook Express ; no ; yes ; no ; no ; dunno ; dunno ; dunno ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; ICO, art ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Pegasus Mail ; yes ; yes ; yes ; yes ; in index ; no ; no ; yes ; yes ; no Pegasus_reply_format ; yes ; yes ; yes ; Yes ; TIFF ; N/A ; yes ; no ; no ; no ; no ; no ; RTF, HTML 
+ rh2| Pine ; yes ; yes ; dunno ; dunno ; no ; with a patch PINE_recode ; dunno ; yes PINE_spell ; yes ; dunno ; no ; no ; no ; no ; no ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Pocomail ; yes ; yes ; dunno ; yes ; dunno ; dunno ; dunno ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| RoundCube ; yes ; yes ; yes ; yes ; dunno ; dunno ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; dunno ; dunno ; yes ; yes ; yes ; yes ; yes ; yes ; dunno 
+ rh| SeaMonkey Mail & Newsgroups ; yes ; yes ; no ; no ; dunno ; dunno ; dunno ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| SquirrelMail ; yes ; yes ; yes ; yes ; dunno ; dunno ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; dunno ; dunno ; yes ; yes ; yes ; yes ; yes ; yes ; dunno 
+ rh| Sylpheed ; yes ; yes ; no ; no ; dunno ; dunno ; dunno ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; dunno ; dunno ; yes ; no ; no ; no ; no ; no ; dunno 
+ rh| The Bat! ; yes ; yes ; yes ; yes ; no ; no ; no ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; ICO, emf ; yes ; yes ; no ; no ; no ; no ; no ; no 
+ rh| Trojitá ; no ; yes ; dunno ; dunno ; no ; no ; yes ; no ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; no ; no ; no ; yes 
+ rh2| Turnpike ; yes ; dunno ; dunno ; no ; dunno ; dunno ; dunno ; yes ; yes ; dunno ; yes ; yes ; yes ; no ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Windows Live Mail ; no ; yes ; no ; no ; dunno ; dunno ; dunno ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Windows Mail ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| YAM ; no ; no ; no ; no ; no ; no ; no ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| Zimbra ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ Client ; Label messages ; Label messages ; Label messages ; Label messages ; Reformat received messages ; Reformat received messages ; Bi-directional text support ; Composing messages ; Composing messages ; Composing messages ; Native images preview ; Native images preview ; Native images preview ; Native images preview ; Native images preview ; Postpone/?scheduled message sending ; Native documents preview ; Native documents preview ; Native documents preview ; Native documents preview ; Native documents preview ; Native documents preview ; Native documents preview 
+ Client ; with colors ; with flag ; antidelete ; add note ; edit headers (e.g., Subject) ;forcedrecode recode ; Bi-directional text support ; Spell checking ; Signatures ; Bottom-posts replies ; jpeg ; gif ; bmp ; png ; others ; Postpone/?scheduled message sending ; txt ; pdf ; doc ; xls ; odt ; ods ; others 

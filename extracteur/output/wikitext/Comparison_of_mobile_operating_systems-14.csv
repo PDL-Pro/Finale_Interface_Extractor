@@ -1,0 +1,15 @@
+ Feature ; Android ; iOS ; Tizen ; Sailfish OS ; Ubuntu Touch 
+Proxy server ;3.1+ but only global, not per connection and only works for the browser 3rd party apps available;Yes;Yes;YesCannot enable proxy ;No 
+On-device encryption ;3+Android Issue 3748: Add support for partition/block device encryption . Code.google.com (2009-09-01). Retrieved on 2012-07-03. but insecure on Qualcomm devicesAndroid's full-disk encryption just got much weaker—here's why | Ars Technica ;Yes (3rd party software may attempt brute-force attack on passwordRecover passwords protecting iPhone/iPod and BlackBerry backups . Elcomsoft.com. Retrieved on 2012-07-03.);No;3.3.0+;No 
+External storage encryption ;6+;External storage not available;No;Yes;No 
+Zero knowledge encryptionSnowden: Dropbox is hostile to privacy, unlike 'zero knowledge' Spideroak | Technology | theguardian.com  ;No, data is accessible by Google and shared with the American PRISM surveillance program.;No, data stored on iCloud is accessible by Apple and shared with the American PRISM surveillance program.;?;?;No 
+Privacy of synchronizationAre There Any Smartphones That Respect Privacy? – Slashdot . Yro.slashdot.org. Retrieved on 2012-07-03. ;No2 3rd party software like ownCloudBreak away from free cloud storage providers by using ownCloud – TechRepublic ;When synchronizing locally and not using iCloud;?;?;? 
+Sync to cloud communication encryption ;2.3.4+;Yes;?;?;? 
+Wireless anti-trackingIEEE group recommends random MAC addresses for Wi-Fi security | CSO Online  ;Developer Options (9+);8+iOS 8 to stymie trackers and marketers with MAC address randomization | Ars Technica ;No;?;No 
+Remote device location tracking ;Yes;Yes;?;?;No 
+Remote device locking and/or data wipe ;2.2+;Yes;?;?;No 
+End-to-end encrypted push notifications ;Possible, notifications are handled by the app that can decrypt it;Possible since iOS 7, where the app can handle the notification and decrypt it;?;?;Yes 
+SSH Client ;Yes;YesiSSH – Zingersoft . Zinger-soft.com. Retrieved on 2012-07-03.Instant Cocoa – pTerm . Instantcocoa.com (2011-03-31). Retrieved on 2012-07-03.;?;Yes;Yes 
+VPN ;YesWallen, Jack. (2011-01-21) Connect to a PPTP VPN from your Android phone . TechRepublic. Retrieved on 2012-07-03.;YesiOS: Setting up VPN . Support.apple.com (2011-10-26). Retrieved on 2012-07-03.;?;Yes;Yes 
+OpenVPN ;No2 No, but possible with 3rd party firmware;YesSetup a VPN on Your iPhone With OpenVPN and Linux . Retrieved on 2015-04-10.;?;Yes;Yes 
+WPA PEAP ;Yes;Yes;?;In developer modeWPA-802.1X (enterprise) +Others GUI wifi support needed + workaround – together.jolla.com ;Yes 

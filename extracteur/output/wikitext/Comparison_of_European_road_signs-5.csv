@@ -1,0 +1,8 @@
+ ; Austria ; Belgium ; Czechia ; Denmark ; Estonia ; Finland ; France ; Germany ; Greece ; Hungary ; Iceland ; Ireland ; Italy ; Luxembourg ; Netherlands ; Norway ; Poland ; Portugal ; Romania ; RussiaBelarus ; Slovakia ; Slovenia ; Spain ; Sweden ; SwitzerlandLiechtenstein ; Turkey ; Ukraine ; UK ; Åland 
+ Maximum speed limit ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ End of maximum speed limit ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; DISUSED ;  ;  ;  ; National Speed Limit applies. 70 mph on motorways and dual carriageways and 60 mph on single carriageway roads (other limits apply to different classes of vehicle). ;  
+ Speed limit zone ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ; or ;  ;  ;  ;  
+ End of speed limit zone ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ; or ;  ;  ;  ;  
+ Minimum speed limit ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ; NOTUSED ;  ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ; NOTUSED 
+ Minimum speed limit ends ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ; NOTUSED ;  ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ; NOTUSED 
+ Advisory speed ; NOTUSED ; NOTUSED ;  ;  ;  ;  ;  ;  (until 2022) ;  ;  ; NOTUSED ; NOTUSED ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ; DEFUNCT ;  ;  ;  ; NOTUSED ;  ;  ;  ;  

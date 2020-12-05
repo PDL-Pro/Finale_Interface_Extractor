@@ -1,0 +1,34 @@
+ Format ; Languages  
+ LCase(string)  ;VB 
+ lcase(string)  ;FreeBASIC 
+ lc(string) ;Perl, Raku 
+ string.lc ;Raku 
+tolower(char) ;Coperates on one character 
+ std.string.toLower(string)  ;D 
+ transform(string.begin(), string.end(), result.begin(), ::tolower)The transform function exists in the std:: namespace. You must include the  header file to use it. The tolower and toupper functions are in the global namespace, obtained by the  header file. The std::tolower and std::toupper names are overloaded and cannot be passed to std::transform without a cast to resolve a function overloading ambiguity, e.g. std::transform(string.begin(), string.end(), result.begin(), (int (*)(int))std::tolower), ; C++std::string only, result is stored in string result which is at least as long as string, and may or may not be string itself 
+ lowercase(string) ;Object Pascal (Delphi) 
+ strtolower(string) ;PHP 
+ lower(string) ;Seed7 
+echo "string" | tr 'A-Z' 'a-z' ;Unix 
+ string.lower() ;Python 
+ downcase(string) ;Pick Basic 
+ string.downcase ;Rubyonly ASCII characters as Ruby lacks Unicode support 
+ strings.ToLower(string) ;Go 
+ (string-downcase string) ;Scheme (R6RS), Common Lisp 
+ (lower-case string) ;Clojure 
+ String.lowercase string ;OCaml 
+ String.map Char.toLower string ;Standard ML 
+ map Char.toLower string ;Haskell 
+ string.toLowerCase() ;Java, JavaScript 
+ to_lower(string) ;Erlang 
+ string.ToLower() ;VB .NET, C#, Windows PowerShell, F# 
+ string.lowercaseString ;Objective-C (NSString * only), Swift (Foundation) 
+ string.lower(string)  (string):lower() ;Lua 
+ string asLowercase ;Smalltalk 
+ LOWER(string) ;SQL 
+ lowercase(string) ;PL/I 
+ ToLowerCase[string] ;Mathematica 
+ «FUNCTION» LOWER-CASE(string) ;COBOL 
+ string.toLower ;Cobra 
+ string tolower string ;Tcl 
+ string.to_lowercase() ; RustSee the str::to_lowercase method. 

@@ -1,0 +1,5 @@
+Feature;Android;iOS;Tizen;Sailfish OS;Ubuntu Touch
+Safe driving mode;3rd party software;11+;?;?;?
+Turn-by-turn navigation;2+;6+;?;Yes;3rd party software
+Offline maps;3rd party software Google Maps, Here WeGo;6+;?;3rd party software;3rd party software
+Alternative routes in maps;Yes;5+;?;3rd party software;3rd party software

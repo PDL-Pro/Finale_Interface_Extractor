@@ -1,0 +1,27 @@
+ Name ; Filename casing ; CRC ; Filedate ; Daylight saving ; Character casing 
+ rh| Beyond Compare ; Yes ; Yes ; Yes ; Yes ; Yes 
+ rh| Compare++ ; Yes ; Yes ; Yes ; ; Yes 
+ rh| diff ; Yes ; No ; No ; No ; optional 
+ rh| diff3 ; ; ; ; ; 
+ rh| Eclipse (compare) ; ; ; ; ; 
+ rh| Ediff ; ; ; ; ; 
+ rh| ExamDiff Pro ; No ; Yes ; Yes ; Yes ; Yes 
+ rh| Far Manager (compare) ; Yes ; No ; Yes ; No ; Yes 
+ rh| fc ; No ; ; ; ; optional 
+ rh| FileMerge (aka opendiff) ; No ; No ; No ; ; optional 
+ rh| Guiffy SureMerge ; filesystem dependent ; ; Yes ; ; Yes 
+ rh| IntelliJ IDEA (compare) ; ; ; ; ; 
+ rh| jEdit JDiff plugin ; ; ; ; ; 
+ rh| Kompare ; Yes ; ; ; ; 
+ rh| Lazarus Diff ; ; ; ; ; 
+ rh| Meld ; ; ; ; ; 
+ rh| Notepad++ (compare) ; No ; No ; No ; ; Yes 
+ rh| Perforce P4Merge ; n/a ; No ; No ; No ; Yes 
+ rh| Pretty Diff ; n/a ; No ; No ; No ; Optional 
+ rh| Tkdiff ; ; ; ; ; 
+ rh| Total Commander (compare) ; ; ; optional ;  yes (in synchronize only) ; optional 
+ rh| vimdiff ; No ; No ; No ; No ; Yes 
+ rh| WinDiff ; No ; No ; when different ; Yes ; optional 
+ rh| WinMerge ; No ; No ; optional ; ; optional 
+ rh| UCC ; No ; No ; Yes ; No ; 
+ Name ; Filename casing ; CRC ; Filedate ; Daylight saving ; Character casing 

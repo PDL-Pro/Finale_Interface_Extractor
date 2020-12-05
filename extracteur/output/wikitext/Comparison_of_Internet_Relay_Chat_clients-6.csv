@@ -1,0 +1,37 @@
+ Client ; Multi-server ; UTF-8 ; Proxy server ; irc:// URI scheme ; Automatic updates ; Scripting language 
+ rh| Bersirc ; yes ; no ; dunno ; dunno ; dunno ; n/a 
+ rh| BitchX ; yes ; no ; dunno ; dunno ; dunno ; Enhanced IrcII script 
+ rh| ChatZilla ; yes ; yes ; yes ; yes ; yes ; JavaScript 
+ rh| Colloquy ; yes ; yes ; dunno ; yes ; yesFeatures_Colloquy_(IRC_client)_A ; AppleScript, Cocoa, F-Script, JavaScript, Python 
+ rh| degesch ; yes ; yes ; yes ; n/a ; n/a ; Lua 
+ rh| DMDirc ; yes ; partial ; dunno ; yes ; yes ; Custom Actions system, Java plugins 
+ rh| ERC ; yes ; yes ; yesERC_Proxy_Support ; dunno ; yesERC_Auto_Updates ; Emacs Lisp 
+ rh| HexChat ; yes ; yes ; yes ; yes ; yes ;Perl, Python, Tcl, LuaFeatures_HexChat_A[Note 4][Note 4][./Comparison_of_Internet_Relay_Chat_clients#cite_note-Features_HexChat_A-88 [Note 4]], JavaScript, C, C++, and via D-Bus. 
+ rh| HydraIRC ; yes ; yes ; dunno ; dunno ; yes ; no 
+ rh| IceChat ; yes ; yes ; no ; yes ; yes ; VBScript 
+ rh| ircII ; yes ; yesFeatures_ircII_A ; dunno ; dunno ; dunno ; IrcII script 
+ rh| IRCjr ; no ; no ; no ; no ; no ; n/a 
+ rh| IRCCloud ; yes ; yes ; yes ; yes ; N/A ; JavaScript 
+ rh| Ircle ; yes ; no ; dunno ; dunno ; dunno ;AppleScript 
+ rh| Irssi ; yes ; yes ; yes ; no ; no ; Perl 
+ rh| jIRCii ; yes ; yes ; yes ; dunno ; no ; Sleep 
+ rh| KiwiIRC ; yes ; yes ; yes ; yes ; N/A ;JavaScript, Node.js 
+ rh| Konversation ; yes ; yes ; yes ; yes ; dunno ;Shell script, Ruby, Python, Perl, Java, C++, C#, JavaScriptFeatures_Konversation_A[Note 6][Note 6][./Comparison_of_Internet_Relay_Chat_clients#cite_note-Features_Konversation_A-90 [Note 6]] 
+ rh| KVIrc ; yes ; yes ; yes ; yes ; no ; KVS (custom), Perl, Python, C++ 
+ rh| LeafChat ; yes ; yes ; dunno ; n/a ; yes ; Java 
+ rh| LimeChat ; yes ; yes ; dunno ; dunno ; dunno ; n/a 
+ rh| Linkinus ; yes ; yes ; yes ; yes ; yes ;AppleScript, Cocoa 
+ rh| Mibbit ; yes ; yes ; dunno ; yes ; n/a ; n/a 
+ rh| mIRC ; yes ; yes ; yes ; yes ; yesmIRC_Updates ; mIRC script 
+ rh| Nettalk ; yes ; yes ; SOCKS ; yes ; yes ; VBScript, custom 
+ rh| Opera ; yes ; yes ; dunno ; yes ; yes ; n/a 
+ rh| PIRCH ; yes ; no ; dunno ; dunno ; no ; yes 
+ rh| PJIRC ; yes ; yes ; dunno ; dunno ; no ; Partial, JavaScript 
+ rh| Quassel ; yes ; yes ; yes ; dunno ; no ; no 
+ rh| qwebirc ; no ; yes ; no ; yes ; yes ; no 
+ rh| rcirc ; yes ; yes ; dunno ; dunno ; no ; Emacs Lisp 
+ rh| Smuxi ; yes ; yes ; yes ; dunno ; dunno ; yes (language agnostic) 
+ rh| Snak ; yes ; yes ; dunno ; dunno ; dunno ;AppleScript, IrcII script 
+ rh| Visual IRC ; yes ; no ; dunno ; dunno ; dunno ; Versus 
+ rh| WeeChat ; yes ; yes ; yes ; yes ; dunno ; C, Perl, Python, Ruby, Lua, Tcl, Scheme (Guile) 
+ Client ; Multi-server ; UTF-8 ; Proxy server ; irc:// URI scheme ; Automatic updates ; Scripting language 

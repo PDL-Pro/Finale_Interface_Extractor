@@ -1,0 +1,7 @@
+ ; Trident ; edgeHTML ; Gecko ; WebKit ; Presto 
+ Ogg Vorbis ; Manual install ; ; 1.9.1 ; depends ; 2.5 
+ WAV PCM ; Manual install ; ; 1.9.1 ; 525 ; 2.0 
+ MP3 ; 5.0url-status=dead   ; ; nopublisher=Mozilla ; 525 ; rowspan="2" depends 
+ AAC ; 5.0url-status=dead   ; ; no ; 525 
+ Speex ; Manual install ; ; nopublisher=Mozilla ; depends ; no 
+ Opus ; no ; yes ; 15.0publisher=Mozilla ; depends ; no 

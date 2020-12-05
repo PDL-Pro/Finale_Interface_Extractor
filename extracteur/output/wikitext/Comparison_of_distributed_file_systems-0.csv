@@ -1,0 +1,20 @@
+ Client ; Written in ; License ; Access API ; High availability ; Shards ; Efficient Resiliency ; Redundancy Granularity ; Initial release year ; Memory requirements (GB) 
+ rh|Alluxio (Virtual Distributed File System) ; Java ; Apache License 2.0 ; HDFS, FUSE, HTTP/REST, S3 ; hot standby ; no ; Replication ; File ; 2013 ; 
+ rh|Ceph ; C++ ; LGPL ; librados (C, C++, Python, Ruby), S3, Swift, FUSE ; yes ; yes ; Pluggable erasure codes ; Pool ; 2010 ; 1 per TB of storage 
+ rh|Coda ; C ; GPL ; C ; yes ; yes ; Replication ; Volume{{cite journal ;last1=Satyanarayanan ;J.|last2=Kistler ;last3=Kumar ;E.|last4=Okasaki ;H.|last5=Siegel ;C.|last6=Steere ;title=Coda: A Highly Available File System for a Distributed Workstation Environment ;url=  ; 1987 ;  
+ rh|GlusterFS ; C ; GPLv3 ; libglusterfs, FUSE, NFS, SMB, Swift, libgfapi ; yes ; yes ; Reed-Solomon ; Volume ; 2005 ; 
+ rh|MooseFS ; C ; GPLv2 ; POSIX, FUSE ; master ; no ; ReplicationOnly available in the proprietary version 4.x  ; File ; 2008 ; 
+ rh|Quantcast File System ; C ; Apache License 2.0 ; C++ client, FUSE (C++ server: MetaServer and ChunkServer are both in C++) ; master ; no ; Reed-Solomon ; File ; 2012 ; 
+ rh|IPFS ; Go ; Apache 2.0 or MIT ; HTTP gateway, FUSE, Go client, Javascript client, command line tool ; yes ; with IPFS Cluster ; ReplicationErasure coding plan: ,  ; Block ; 2015 ; 
+ rh|Kertish-DFS ; Go ; GPLv3 ;HTTP(REST), CLI, C# Client, Go Client ;yes ; ; Replication ; ;2020 ; 
+ rh|LizardFS ; C++ ; GPLv3 ; POSIX, FUSE, NFS-Ganesha, Ceph FSAL (via libcephfs) ; master ; no ; Reed-Solomon ; File ; 2013 ; 
+ rh|Lustre ; C ; GPLv2 ; POSIX, NFS-Ganesha, NFS, SMB ; yes ; yes ; No redundancy  Reed-Solomon in progress:  ; No redundancy  File-level redundancy plan:  ; 2003 ; 
+ rh|MinIO ; Go ; Apache Licence 2.0 ;AWS S3 API ; yes ; yes ; Reed-Solomon ; Object ; 2014 ; 
+ rh|OpenAFS ; C ; IBM Public License ; Virtual file system, Installable File System ;  ;  ; Replication ; Volume ; 2000  ; 
+ rh|OpenIO ; C ; AGPLv3 / LGPLv3 ; Native (Python, C, Java), HTTP/REST, S3, Swift, FUSE (POSIX, NFS, SMB, FTP) ; yes ; ; Pluggable erasure codes ; Object ; 2015 ; 0.5 
+ rh|RozoFS ; C, Python ; GPLv2 ; FUSE, SMB, NFS, key/value ; yes ; ; Mojette ; Volume ; 2011 ;  
+ rh|SeaweedFS ; Go, Java ; Apache License 2.0 ; HTTP (REST), POSIX, FUSE, S3, HDFS ; requires CockroachDB, undocumented config ; ; Reed-Solomon ; Volume ; 2015 ;  
+ rh|Tahoe-LAFS ; Python ; {{free|GNU GPL {{cite web ; url= ; title=About Tahoe-LAFS}}}} ; HTTP (browser or CLI), SFTP, FTP, FUSE via SSHFS, pyfilesystem ; ; ; Reed-Solomon ; File ; 2007 ; 
+ rh|HDFS ; Java ; Apache License 2.0 ; Java and C client, HTTP ; transparent master failover ; no ; Reed-Solomon ; File ; 2005 ; 
+ rh|XtreemFS ; Java, C++ ; BSD License ; libxtreemfs (Java, C++), FUSE ; ; ; Replication ; File ; 2009 ; 
+ rh|Ori{{cite web ; url= ; title=Ori: A Secure Distributed File System}} ; C, C++ ; MIT ; libori, FUSE ; ; ; Replication ; Filesystem{{cite journal ;Jose|last1=Mashtizadeh ;last2=Bittau ;Frank|last3=Huang ;last4=Mazières ;title=Replication, History, and Grafting in the Ori File System ;url=  ; 2012 ; 

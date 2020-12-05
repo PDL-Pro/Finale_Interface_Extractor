@@ -1,0 +1,11 @@
+ ; Trident ; Gecko ; WebKit ; KHTML ; Presto 
+ rh| Element identifiers ; rh| Element identifiers ; rh| Element identifiers ; rh| Element identifiers ; rh| Element identifiers ; rh| Element identifiers 
+ id ; 3.0 ; 1.0 ; rowspan="2" yes ; rowspan="2" yes ; 1.0 
+ class ; 3.0 ; 1.0 ; 1.0 
+ rh| Inline styles ; rh| Inline styles ; rh| Inline styles ; rh| Inline styles ; rh| Inline styles ; rh| Inline styles 
+ style ; 3.0 ; 1.0 ; yes ; yes ; 1.0 
+ rh| Advisory information ; rh| Advisory information ; rh| Advisory information ; rh| Advisory information ; rh| Advisory information ; rh| Advisory information 
+ title ; 4.0 ; 1.0 ; yes ; yes ; 1.0 
+ rh| Language information ; rh| Language information ; rh| Language information ; rh| Language information ; rh| Language information ; rh| Language information 
+ lang ; 4.0 ; 1.0 ; rowspan="2" yes ; rowspan="2" yes ; 1.0 
+ dir ; 5.0 ; 1.0 ; 1.0 

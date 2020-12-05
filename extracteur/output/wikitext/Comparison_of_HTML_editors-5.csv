@@ -1,0 +1,31 @@
+ Editor ; JPEG ; GIF ; PNG ; TIFF ; SVG 
+ rh2| Amaya ; yes ; yes ; yes ; yes ; yes 
+ rh| Aptana ; yes ; yes ; yes ; yes ; depends 
+ rh| Arachnophilia ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Bluefish ; Yes ; Yes ; Yes ; Yes ; Yes 
+ rh| BlueGriffon ; yes ; yes ; yes ; dunno ; yes 
+ rh| Brackets ; yes ; yes ; yes ; no ; yes(via extension) 
+ rh2| Claris Homepage ; yes ; yes ; no ; no ; no 
+ rh| Codelobster ; yes ; yes ; yes ; no ; no 
+ rh| CoffeeCup HTML Editor ; yes ; yes ; yes ; yes ; no 
+ rh| Dreamweaver ; yes ; yes ; yes ; Yes ; yes 
+ rh| Freeway ; yes ; yes ; yes ; yes ; yes 
+ rh2| GoLive ; yes ; yes ; yes ; no ; yes 
+ rh2| KompoZer ; yes ; yes ; yes ; no ; no 
+ rh| Maqetta ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Microsoft Expression Web ; yes ; yes ; yes ; yes ; no 
+ rh2| Microsoft FrontPageActual amount of supported formats depend on installed converter. FrontPage uses Microsoft Office converters. ; yes ; yes ; yes ; dunno ; depends 
+ rh2| Microsoft SharePoint Designer ; yes ; yes ; yes ; yes ; no 
+ rh| Microsoft Visual Web Developer ; yes ; yes ; yes ; yes ; no 
+ rh| Mobirise ; yes ; yes ; yes ; yes ; yes 
+ rh2| Nvu ; yes ; yes ; yes ; no ; no 
+ rh| openElement ; Yes ; Yes ; Yes ; no ; no 
+ rh| OpenOffice.org ; yes ; yes ; yes ; yes ; yes 
+ rh| oXygenXML Editor ; yes ; yes ; yes ; yes ; yes 
+ rh2| Quanta Plus ; yes ; yes ; yes ; yes ; yes 
+ rh| RocketCake ; yes ; yes ; yes ; no ; no 
+ rh| SeaMonkey Composer ; yes ; yes ; yes ; no ; yes 
+ rh| TOWeb ; yes ; yes ; yes ; no ; no 
+ rh2| Web Architect ; yes ; yes ; yes ; yes ; depends 
+ rh| WebStorm IDE ; yes ; yes ; yes ; no ; no 
+ Editor ; JPEG ; GIF ; PNG ; TIFF ; SVG 

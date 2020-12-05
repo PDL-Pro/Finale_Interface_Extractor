@@ -1,0 +1,9 @@
+ Name ; Type checker ; Determinacy checker ; Call-pattern checker 
+rh|Ciao ; yes ; yes ; yes 
+rh|GNU Prolog ; ; ; 
+rh|Jekejeke Prolog ;  ;  ;  
+rh|SICStus Prolog ; ; yes ; 
+rh|SWI-Prolog ; ; yes ; 
+rh|Visual Prolog ; yes ; yes ; yes 
+rh|XSB ; ; ; 
+rh|YAP-Prolog ; ; ; 

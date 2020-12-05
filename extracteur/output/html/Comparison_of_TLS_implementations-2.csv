@@ -1,0 +1,17 @@
+Implementation;TLS 1.2 Suite B
+Botan;Yes
+Bouncy Castle;Yes
+cryptlib;Yes
+GnuTLS;Yes
+JSSE;Yes
+LibreSSL;Yes
+MatrixSSL;Yes
+Mbed TLS;Yes
+NSS;No
+OpenSSL;Yes
+RSA BSAFE;Yes
+S2n;
+SChannel;Yes
+Secure Transport;No
+wolfSSL;Yes
+Implementation;TLS 1.2 Suite B

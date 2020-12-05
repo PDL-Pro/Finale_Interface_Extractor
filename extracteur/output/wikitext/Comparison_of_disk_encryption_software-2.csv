@@ -1,0 +1,62 @@
+ Name ; Hidden containers ; Pre-boot authentication ; Single sign-on ; Custom authentication ; Multiple keys ; Passphrase strengthening ; Hardware acceleration ; TPM ; Filesystems ; Two-factor authentication 
+ Aloaha Secure Stick ; yes ; no ; n/a ; yes ; yes ; no ; no ; no ; NTFS, FAT32 ; yes 
+ ArchiCrypt Live ; yesSecret-containers and Camouflage files ArchiCrypt Live Description ; no ; n/a ; no ; yesSupports "Guest" keys ; no ; no ; no ; dunno ; yesUsing "Archicrypt Card" 
+ BestCrypt ; yes ; yes ; dunno ; yes ; yesSupported by the BestCrypt container format, see BestCrypt SDK ; yes ; yes ; yes ; Any supported by OS ; yesSupported by the BestCrypt Volume Encryption software 
+ BitArmor DataControl ; no ; yes ; dunno ; no ; yes ; yes ; no ; no ; NTFS, FAT32 on non-system volumes ; no 
+ BitLocker ; no ; yesWith PIN or USB key ; no ; yesBitLocker Drive Encryption: Value Add Extensibility Options ; yes ; yesRecovery keys only. ; yes ; yes{{Cite web|url= Drive Encryption Technical Overview|publisher=Microsoft|access-date=2008-03-13|url-status=dead|archive-url= ; Chiefly NTFS BitLockerFS ; yes BitLocker2F 
+ Bloombase Keyparc ; no ; no ; n/a ; yes ; yes ; yes ; yes ; no ; dunno ; dunno 
+ CGD ; no ; no ; n/a ; yesaccessdate=2006-12-24  ; yes ; yes ; no ; no ; Any supported by OS ; yes 
+ CenterTools DriveLock ; no ; yes ; yes ; no ; no ; yes ; no ; no ; Any supported by OS ; yes 
+ Check Point Full Disk Encryption ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; NTFS, FAT32 ; yes 
+ CipherShed ; yes(limited to one per"outer" container) ; only on Windows ; dunno ; no ; yes with multiple keyfilesAlthough each volume encrypted with CipherShed can only have one active master key, it is possible to access its contents through more than one header. Each header can have a different password and/or keyfiles if any (cf. TrueCrypt FAQ: Is there a way for an administrator to reset a volume password or pre-boot authentication password when a user forgets it (or loses a keyfile)?) ; yes ; yes ; no ; Only Windows MBR volumes, no UEFI GPT drives, and dynamic drives discouragedfix-attempted=yes   ; yes 
+ CryFS ; no ; no ; n/a ; no ; no ; yes{{cite web|title=CryFS: How it works|url= ; no ; no ; Any supported by OS ; no 
+ CrossCrypt ; no ; no ; n/a ; no ; no ; no ; no ; no ; dunno ; no 
+ CryptArchiver ; no ; no ; n/a ; no ; no ; dunno ; no ; no ; dunno ; dunno 
+ Cryptic Disk ; yes ; no ; no ; no ; yes ; yes ; yes ; no ; Any supported by OS ; yes 
+Cryhod ; no ; yes ; yes ; no ; yes ; yes ; yes ; no ; Any supported by OS ; yes 
+ Cryptoloop ; no ; yesdm-crypt and cryptoloop volumes can be mounted from the initrd before the system is booted ; dunno ; yes ; no ; no ; yesdate=January 2008 ; no ; Any supported by OS ; dunno 
+ Cryptomator ; no ; no ; n/a ; no ; no ; yes ; yes ; no ; Any supported by OS ; no 
+ CryptoPro Secure Disk Enterprise ; Yes with add-on Secure Device ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; Any supported by OS ; yes 
+ CryptoPro Secure Disk for BitLocker ; Yes with add-on Secure Device ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; Any supported by OS ; yes 
+ Cryptsetup / Dmsetup ; no ; yes ; dunno ; yes ; no ; no ; yes ; no ; Any supported by OS ; yes 
+ DiskCryptor ; no ; yes ; dunno ; no ; no ; no ; yes ; no ; Only Windows MBR volumes, no UEFI GPT drives, ReFs ; yes 
+ DISK Protect ; no ; yes ; yes ; no ; yes ; no ; yes ; yes ; NTFS,FAT32 ; yes 
+ Dm-crypt / LUKS ; no ; yes ; dunno ; yes ; yes ; yes ; yes ; Partialdm-cryptTPM  ; Any supported by OS ; yes 
+ DriveCrypt ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; Any supported by OS ; yes 
+ DriveSentry GoAnywhere 2 ; no ; no ; n/a ; yes ; no ; yes ; no ; dunno ; Any supported by OS ; yes 
+ E4M ; No ; No ; n/a ; No ; No ; dunno ; No ; no ; dunno ; no 
+ e-Capsule Private Safe ; yes ; no ; n/a ; no ; yes ; no ; yes ; no ; dunno ; dunno 
+ eCryptfs ; no ; no ; n/a ; yes ; yes ; yes ; yes ; yes ; yesuses the lower filesystem (stacking) ; yes 
+ EgoSecure HDD Encryption ; no ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; NTFS, FAT32 ; yes 
+ EncryptUSB ; no ; no ; no ; no ; no ; yes ; no ; no ; NTFS, FAT32, exFAT ; no 
+ FileVault ; no ; no ; n/a ; no ; Two passwords ; yesaccessdate=2012-01-03  ; ? ; no ; HFS+, possibly others ; no 
+ FileVault 2 ; no ; yes ; yes ; no ; yes ; yes ; yes ; no ; HFS+, possibly others ; no 
+ FREE CompuSec ; no ; yes ; dunno ; no ; no ; no ; no ; no ; Any supported by OS ; no 
+ FreeOTFE ; yes ; no ; n/a ; yesFreeOTFE has a modular architecture and set of components to allow 3rd party integration ; yesFreeOTFE allows multiple keys to mount the same container file via encrypted keyfiles ; yes ; yes ; no ; Any supported by OS ; yes 
+ GBDE ; no ; no ; n/a ; yes ; yesauthor-link=Poul-Henning Kamp  ; no ; no ; no ; Any supported by OS ; yes 
+ GELI ; no ; yes ; dunno ; yes ; yes ; yes ; yes ; no ; Any supported by OS ; yes 
+ Loop-AES ; no ; yes ; dunno ; yes ; yes ; yes ; yes ; no ; Any supported by OS ; yesUsing customization 
+ McAfee Drive Encryption (SafeBoot) ; yes ; yes ; yes ; yes ; yes ; yes ; yes{{cite web|url= Endpoint Encryption|publisher=McAfee|access-date=2012-07-26|url-status=dead|archive-url= ; yes ; Any supported by OS ; yes 
+ n-Crypt Pro ; no ; no ; n/a ; no ; no ; n/an-Crypt Pro does not use password authentication— biometric/USB dongle authentication only ; no ; no ; dunno ; dunno 
+ PGPDisk ; no ; yes ; yes ; dunno ; yes ; yesPGP private keys are always protected by strengthened passphrases ; dunno ; yes ; dunno ; yes 
+ Private Disk ; no ; no ; n/a ; no ; yes ; yes ; no ; no ; Any supported by OS ; yes 
+ ProxyCrypt ; yes ; no ; no ; no ; no ; yes ; yes ; no ; Any supported by OS ; yes 
+ R-Crypto ; dunno ; no ; n/a ; dunno ; dunno ; dunno ; dunno ; dunno ; Any supported by OS ; dunno 
+ SafeGuard Easy ; no ; yes ; dunno ; no ; yes ; yes ; no ; yes{{cite web|url= Security: Trusted Platform Module Technology Comes of Age|publisher=Utimaco|access-date=2008-03-04|url-status=dead|archive-url= ; Any supported by OS ; yes 
+ SafeGuard Enterprise ; no ; yes ; yes ; no ; yes ; yes ; no ; yes ; Any supported by OS ; yes 
+ SafeGuard PrivateDisk ; no ; no ; n/a ; no ; yes ; yes ; no ; yes ; Any supported by OS ; yes 
+ SafeHouse Professional ; no ; no ; n/a ; yes ; yes ; yes ; no ; no ; Any supported by OS ; yes 
+ Scramdisk ; yes ; no ; n/a ; no ; no ; no ; no ; no ; dunno ; Last update to web site 2009-07-02 
+ Scramdisk 4 Linux ; yesFor TrueCrypt containers ; no ; n/a ; no ; no ; yes ; no ; no ; ext2, ext3, reiserfs, minix, ntfs, vfat/msdos ; no 
+ SecuBox ; no ; no ; n/a ; no ; no ; yes ; no ; no ; dunno ; no 
+ SecureDoc ; no ; yes ; dunno ; yes ; yes ; yes ; yes ; yes ; dunno ; yes 
+ Seqrite Encryption Manager ; no ; yes ; yes ; no ; yes ; yes ; yes ; no ; Any supported by OS ; no 
+ Sentry 2020 ; no ; no ; dunno ; no ; no ; no ; no ; no ; dunno ; no 
+ Softraid / RAID C ; no ; no ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; Any supported by OS ; dunno 
+ Svnd / Vnconfig ; no ; no ; n/a ; no ; no ; yesoptional by using -K OpenBSD Manual Pages: vnconfig(8) ; yes ; dunno ; Any supported by OS ; dunno 
+ Symantec Endpoint Encryption ; no ; yes ; yes ; yes ; yes ; yes ; no ; no ; NTFS, FAT32 ; yes 
+ Trend Micro Endpoint Encryption ; no ; yes ; yes ; yes ; yes ; yes ; yes{{cite web|url= for Solid-State Drives (SSD) - Endpoint Encryption|publisher=|access-date=2014-11-17|archive-url= ; no ; Any supported by OS ; yes 
+ TrueCrypt TrueCryptMystery ; yes(limited to one per"outer" container) ; only on Windows ; dunno ; no ; yes with multiple keyfilesAlthough each volume encrypted with TrueCrypt can only have one active master key, it is possible to access its contents through more than one header. Each header can have a different password and/or keyfiles if any (cf. TrueCrypt FAQ: Is there a way for an administrator to reset a volume password or pre-boot authentication password when a user forgets it (or loses a keyfile)?) ; yes ; yes ; no ; Only Windows MBR volumes, no UEFI GPT drives, and dynamic drives discouragedfix-attempted=yes   ; yes 
+ VeraCrypt ; yes(limited to one per"outer" container) ; only on Windows ; no ; no ; yes with multiple keyfiles ; yes ; yes ; no ; Windows on both MBR and UEFI GPT drives, dynamic drives discouraged ; yes 
+ CyberSafe Top Secret ; yes ; no ; no ; no ; yes ; yes ; yes ; no ; Only Windows MBR volumes, no UEFI GPT drives, and dynamic drives discouraged ; yes 
+ Name ; Hidden containers ; Pre-boot authentication ; Single sign-on ; Custom authentication ; Multiple keys ; Passphrase strengthening ; Hardware acceleration ; TPM ; Filesystems ; Two-factor authentication 

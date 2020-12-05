@@ -1,0 +1,171 @@
+ ; ; Trident ; Tasman ; Gecko ; WebKit ; KHTML ; Presto 
+ rh| Exception DOMException ; rh| Exception DOMException ; rh| Exception DOMException ; rh| Exception DOMException ; rh| Exception DOMException ; rh| Exception DOMException ; rh| Exception DOMException ; rh| Exception DOMException 
+ DOM1 ; code ; 5.0publisher=Microsoft ; ? ; 1.0 ; ? ; ? ; 1.0 
+ rh| Interface DOMStringList ; rh| Interface DOMStringList ; rh| Interface DOMStringList ; rh| Interface DOMStringList ; rh| Interface DOMStringList ; rh| Interface DOMStringList ; rh| Interface DOMStringList ; rh| Interface DOMStringList 
+ DOM3 ; length ; 6.0publisher=Microsoft ; rowspan="3" no ; 1.6 ; rowspan="3" no ; ? ; 2.0 
+ DOM3 ; contains() ; 6.0publisher=Microsoft ; ? ; 1.6 ; 2.0 
+ DOM3 ; item() ; 6.0publisher=Microsoft ; ? ; 1.6 ; 2.0 
+ rh| Interface NameList ; rh| Interface NameList ; rh| Interface NameList ; rh| Interface NameList ; rh| Interface NameList ; rh| Interface NameList ; rh| Interface NameList ; rh| Interface NameList 
+ DOM3 ; length ; rowspan="5" no ; rowspan="5" no ; 1.6 ; rowspan="5" no ; rowspan="5" no ; rowspan="5" no 
+ DOM3 ; getName() ; 1.6 
+ DOM3 ; getNamespaceURI() ; 1.6 
+ DOM3 ; contains() ; 1.6 
+ DOM3 ; containsNS() ; 1.6 
+ rh| Interface DOMImplementationList ; rh| Interface DOMImplementationList ; rh| Interface DOMImplementationList ; rh| Interface DOMImplementationList ; rh| Interface DOMImplementationList ; rh| Interface DOMImplementationList ; rh| Interface DOMImplementationList ; rh| Interface DOMImplementationList 
+ DOM3 ; length ; rowspan="2" no ; rowspan="2" no ; rowspan="2" no ; rowspan="2" no ; rowspan="2" no ; rowspan="2" no 
+ DOM3 ; item() 
+ rh| Interface DOMImplementationSource ; rh| Interface DOMImplementationSource ; rh| Interface DOMImplementationSource ; rh| Interface DOMImplementationSource ; rh| Interface DOMImplementationSource ; rh| Interface DOMImplementationSource ; rh| Interface DOMImplementationSource ; rh| Interface DOMImplementationSource 
+ DOM3 ; getDOMImplementation() ; rowspan="2" no ; rowspan="2" no ; rowspan="2" no ; rowspan="2" no ; rowspan="2" no ; rowspan="2" no 
+ DOM3 ; getDOMImplementationList() 
+ rh| Interface DOMImplementation ; rh| Interface DOMImplementation ; rh| Interface DOMImplementation ; rh| Interface DOMImplementation ; rh| Interface DOMImplementation ; rh| Interface DOMImplementation ; rh| Interface DOMImplementation ; rh| Interface DOMImplementation 
+ DOM1 ; hasFeature() ; 6.0 ; ? ; 1.0 ; rowspan="3" yes ; ? ; 1.0 
+ DOM2 ; createDocumentType() ; 9.0publisher=Microsoft ; rowspan="3" no ; 1.0 ; ? ; 1.0 
+ DOM2 ; createDocument() ; 9.0publisher=Microsoft ; ? ; 1.0 ; 1.0 
+ DOM3 ; getFeature() ; no ; no ; no ; ? ; 1.0 
+ rh| Interface DocumentFragment ; rh| Interface DocumentFragment ; rh| Interface DocumentFragment ; rh| Interface DocumentFragment ; rh| Interface DocumentFragment ; rh| Interface DocumentFragment ; rh| Interface DocumentFragment ; rh| Interface DocumentFragment 
+ DOM1 ; (no properties) ; 6.0 ; no ; 1.0 ; ? ; ? ; 1.0 
+ rh| Interface Document ; rh| Interface Document ; rh| Interface Document ; rh| Interface Document ; rh| Interface Document ; rh| Interface Document ; rh| Interface Document ; rh| Interface Document 
+ DOM1 ; doctype ; 9.0 ; rowspan="7" yes ; partial ; rowspan="12" yes ; ? ; 1.0 
+ DOM1 ; createElement() ; 4.0 ; 1.0 ; ? ; 1.0 
+ DOM1 ; createTextNode() ; 5.0 ; 1.0 ; ? ; 1.0 
+ DOM1 ; createAttribute() ; 6.0 ; 1.0 ; ? ; 1.0 
+ DOM1 ; documentElement ; 5.0 ; 1.0 ; ? ; 1.0 
+ DOM1 ; getElementsByTagName() ; 5.0 ; 1.0 ; ? ; 1.0 
+ DOM1 ; implementation ; 6.0 ; 1.0 ; ? ; 1.0 
+ DOM1 ; createDocumentFragment() ; 6.0 ; 1.0 ; rowspan="3" no ; ? ; 1.0 
+ DOM1 ; createComment() ; 6.0 ; 1.0 ; ? ; 1.0 
+ DOM1 ; createCDATASection() ; 9.0 ; 1.0 ; ? ; 1.0 
+ DOM1 ; createProcessingInstruction() ; 9.0 ; ? ; 1.7 ; ? ; 1.0 
+ DOM1 ; createEntityReference() ; no ; ? ; no  ; ? ; no 
+ DOM2 ; importNode() ; 9.0 ; rowspan="4" no ; 1.0 ; rowspan="5" yes ; ? ; 1.0 
+ DOM2 ; createElementNS() ; 9.0 ; ? ; 1.0 ; 1.0 
+ DOM2 ; createAttributeNS() ; 9.0 ; ? ; 1.0 ; 1.0 
+ DOM2 ; getElementsByTagNameNS() ; 9.0 ; ? ; 1.0 ; 1.0 
+ DOM2 ; getElementById() ; 8.0 ; yes ; 1.0 ; ? ; 2.1 
+ DOM3 ; adoptNode() ; 9.0 ; rowspan="10" no ; 1.7 ; yes ; ? ; 2.0 
+ DOM3 ; inputEncoding ; 9.0 ; rowspan="9" no ; 1.7 ; ? ; rowspan="9" no 
+ DOM3 ; xmlEncoding ; 9.0 ; ? ; 1.7 
+ DOM3 ; xmlStandalone ; 9.0 ; ? ; 1.7 
+ DOM3 ; xmlVersion ; 9.0 ; ? ; 1.7 
+ DOM3 ; domConfig ; rowspan="5" no ; no ; ? 
+ DOM3 ; strictErrorChecking ; 1.7 ; ? 
+ DOM3 ; documentURI ; 1.7 ; ? 
+ DOM3 ; normalizeDocument() ; 1.7 ; ? 
+ DOM3 ; renameNode() ; 1.7 ; ? 
+ rh| Interface Node ; rh| Interface Node ; rh| Interface Node ; rh| Interface Node ; rh| Interface Node ; rh| Interface Node ; rh| Interface Node ; rh| Interface Node 
+ DOM1 ; nodeName ; 5.0 ; rowspan="17" yes ; 1.0 ; rowspan="17" yes ; ? ; 1.0 
+ DOM1 ; nodeValue ; 5.0 ; ? ; 1.0 ; 1.0 
+ DOM1 ; nodeType ; 5.0 ; ? ; 1.0 ; 1.0 
+ DOM1 ; parentNode ; 5.0 ; ? ; 1.0 ; 1.0 
+ DOM1 ; childNodes ; 5.0 ; ? ; 1.0 ; 1.0 
+ DOM1 ; firstChild ; 5.0 ; ? ; 1.0 ; 1.0 
+ DOM1 ; lastChild ; 5.0 ; ? ; 1.0 ; 1.0 
+ DOM1 ; previousSibling ; 5.0 ; ? ; 1.0 ; 1.0 
+ DOM1 ; nextSibling ; 5.0 ; ? ; 1.0 ; 1.0 
+ DOM1 ; attributes ; 5.0 ; ? ; 1.0 ; 1.0 
+ DOM1 ; cloneNode() ; 5.0 ; ? ; 1.0 ; 1.0 
+ DOM1 ; insertBefore() ; 5.0 ; Partial ; ? ; 1.0 
+ DOM1 ; replaceChild() ; 5.0 ; Partial ; ? ; 1.0 
+ DOM1 ; removeChild() ; 5.0 ; Partial ; ? ; 1.0 
+ DOM1 ; appendChild() ; 5.0 ; Partial ; ? ; 1.0 
+ DOM1 ; ownerDocument ; 6.0 ; 1.9 ; ? ; 1.0 
+ DOM1 ; hasChildNodes() ; 6.0 ; 1.0 ; ? ; 1.0 
+ DOM2 ; namespaceURI ; 5.0 ; rowspan="5" yes ; 1.0 ; rowspan="5" yes ; ? ; 1.0 
+ DOM2 ; prefix ; 5.0 ; ? ; 1.0 ; 1.0 
+ DOM2 ; localName ; 5.0 ; ? ; 1.0 ; 1.0 
+ DOM2 ; isSupported() ; 9.0 ; ? ; 1.0 ; 1.0 
+ DOM2 ; hasAttributes() ; 9.0 ; ? ; 1.0 ; 1.0 
+ DOM3 ; isSameNode() ; 9.0 ; rowspan="11" no ; 1.8 ; rowspan="11" yes ; ? ; 2.1 
+ DOM3 ; compareDocumentPosition() ; 9.0 ; 1.7 ; 4.2.4 ; 2.1 
+ DOM3 ; baseURI ; no ; 1.7 ; ? ; yes 
+ DOM3 ; textContent ; 9.0 ; 1.7 ; ? ; 2.0 
+ DOM3 ; lookupPrefix() ; 9.0 ; 1.7 ; ? ; 2.0 
+ DOM3 ; isDefaultNamespace() ; 9.0 ; 1.7 ; ? ; 2.0 
+ DOM3 ; lookupNamespaceURI() ; 9.0 ; 1.7 ; ? ; 2.0 
+ DOM3 ; getFeature() ; rowspan="3" no ; 1.7 ; ? ; 2.0 
+ DOM3 ; setUserData() ; ? ; 1.7 ; rowspan="2" no 
+ DOM3 ; getUserData() ; ? ; 1.7 
+ DOM3 ; isEqualNode() ; 9.0 ; 1.9 ; ? ; 2.7 
+ rh| Interface NodeList ; rh| Interface NodeList ; rh| Interface NodeList ; rh| Interface NodeList ; rh| Interface NodeList ; rh| Interface NodeList ; rh| Interface NodeList ; rh| Interface NodeList 
+ DOM1 ; length ; 5.0 ; rowspan="2" yes ; 1.0 ; rowspan="2" yes ; ? ; 1.0 
+ DOM1 ; item() ; 5.0 ; ? ; 1.0 ; 1.0 
+ rh| Interface NamedNodeMap ; rh| Interface NamedNodeMap ; rh| Interface NamedNodeMap ; rh| Interface NamedNodeMap ; rh| Interface NamedNodeMap ; rh| Interface NamedNodeMap ; rh| Interface NamedNodeMap ; rh| Interface NamedNodeMap 
+ DOM1 ; length ; 5.0 ; rowspan="5" yes ; 1.0 ; rowspan="5" yes ; ? ; 1.0 
+ DOM1 ; getNamedItem() ; 5.0 ; ? ; 1.0 ; 1.0 
+ DOM1 ; setNamedItem() ; 5.0 ; ? ; 1.0 ; 1.0 
+ DOM1 ; removeNamedItem() ; 5.0 ; ? ; 1.0 ; 1.0 
+ DOM1 ; item() ; 5.0 ; ? ; 1.0 ; 1.0 
+ DOM2 ; getNamedItemNS() ; 9.0 ; rowspan="3" no ; 1.0 ; rowspan="3" yes ; ? ; 1.0 
+ DOM2 ; setNamedItemNS() ; 9.0 ; ? ; 1.0 ; 1.0 
+ DOM2 ; removeNamedItemNS() ; 9.0 ; ? ; 1.0 ; 1.0 
+ rh| Interface CharacterData ; rh| Interface CharacterData ; rh| Interface CharacterData ; rh| Interface CharacterData ; rh| Interface CharacterData ; rh| Interface CharacterData ; rh| Interface CharacterData ; rh| Interface CharacterData 
+ DOM1 ; data ; 4.0 ; rowspan="7" yes ; 1.0 ; rowspan="7" yes ; ? ; 1.0 
+ DOM1 ; length ; 4.0 ; ? ; 1.0 ; 1.0 
+ DOM1 ; substringData() ; 4.0 ; ? ; 1.0 ; 1.0 
+ DOM1 ; appendData() ; 4.0 ; ? ; 1.0 ; 1.0 
+ DOM1 ; insertData() ; 4.0 ; ? ; 1.0 ; 1.0 
+ DOM1 ; deleteData() ; 4.0 ; ? ; 1.0 ; 1.0 
+ DOM1 ; replaceData() ; 4.0 ; ? ; 1.0 ; 1.0 
+ rh| Interface Attr ; rh| Interface Attr ; rh| Interface Attr ; rh| Interface Attr ; rh| Interface Attr ; rh| Interface Attr ; rh| Interface Attr ; rh| Interface Attr 
+ DOM1 ; name ; 6.0 ; ? ; 1.0 ; rowspan="2" yes ; rowspan="2" yes ; 1.0 
+ DOM1 ; value ; 6.0 ; ? ; 1.0 ; 1.0 
+ DOM1 ; specified ; Incorrect ; Incorrect ; 1.9.1 ; Yes ; Yes ; 1.0 
+ DOM2 ; ownerElement ; 9.0 ; ? ; 1.0 ; yes ; yes ; 1.0 
+ DOM3 ; schemaTypeInfo ; rowspan="2" no ; rowspan="2" no ; no ; rowspan="2" no ; ? ; rowspan="2" no 
+ DOM3 ; isId ; 1.9 ; no 
+ rh| Interface Element ; rh| Interface Element ; rh| Interface Element ; rh| Interface Element ; rh| Interface Element ; rh| Interface Element ; rh| Interface Element ; rh| Interface Element 
+ DOM1 ; tagName ; 4.0 ; rowspan="9" yes ; 1.0 ; rowspan="8" yes ; rowspan="8" yes ; 1.0 
+ DOM1 ; getElementsByTagName() ; 4.0 ; 1.0 ; 1.0 
+ DOM1 ; getAttribute() ; 8.0 ; 1.0 ; 1.0 
+ DOM1 ; setAttribute() ; 8.0 ; 1.0 ; 1.0 
+ DOM1 ; removeAttribute() ; 8.0 ; 1.0 ; 1.0 
+ DOM1 ; getAttributeNode() ; 6.0 ; 1.0 ; 1.0 
+ DOM1 ; setAttributeNode() ; 9.0 ; 1.0 ; 1.0 
+ DOM1 ; removeAttributeNode() ; 9.0 ; 1.0 ; 1.0 
+ DOM1 ; normalize() ; 9.0 ; no ; 1.0 ; ? ; 1.0 
+ DOM2 ; getAttributeNS() ; 9.0 ; rowspan="5" yes ; 1.0 ; rowspan="8" yes ; ? ; 1.0 
+ DOM2 ; setAttributeNS() ; 9.0 ; ? ; 1.0 ; 1.0 
+ DOM2 ; removeAttributeNS() ; 9.0 ; ? ; 1.0 ; 1.0 
+ DOM2 ; getAttributeNodeNS() ; 9.0 ; ? ; 1.0 ; 1.0 
+ DOM2 ; setAttributeNodeNS() ; 9.0 ; ? ; 1.0 ; 1.0 
+ DOM2 ; getElementsByTagNameNS() ; 9.0 ; no ; 1.0 ; ? ; 1.0 
+ DOM2 ; hasAttribute() ; 9.0 ; rowspan="2" yes ; 1.0 ; ? ; 1.0 
+ DOM2 ; hasAttributeNS() ; 9.0 ; ? ; 1.0 ; 1.0 
+ DOM3 ; schemaTypeInfo ; rowspan="4" no ; rowspan="4" no ; rowspan="4" no ; rowspan="4" no ; ? ; rowspan="4" no 
+ DOM3 ; setIdAttribute() ; ? 
+ DOM3 ; setIdAttributeNS() ; ? 
+ DOM3 ; setIdAttributeNode() ; ? 
+ rh| Interface Text ; rh| Interface Text ; rh| Interface Text ; rh| Interface Text ; rh| Interface Text ; rh| Interface Text ; rh| Interface Text ; rh| Interface Text 
+ DOM1 ; splitText() ; 9.0 ; yes ; 1.0 ; yes ; ? ; 1.0 
+ DOM3 ; isElementContentWhitespace ; no ; rowspan="3" no ; 1.9.1 ; rowspan="3" no ; ? ; yes 
+ DOM3 ; wholeText ; 9.0 ; ? ; 1.9.1 ; 2.1 
+ DOM3 ; replaceWholeText() ; 9.0 ; ? ; 1.9.1 ; 2.1 
+ rh| Interface Comment ; rh| Interface Comment ; rh| Interface Comment ; rh| Interface Comment ; rh| Interface Comment ; rh| Interface Comment ; rh| Interface Comment ; rh| Interface Comment 
+ DOM1 ; (no properties) ; 6.0 ; no ; 1.0 ; yes ; ? ; 1.0 
+ rh| Interface TypeInfo ; rh| Interface TypeInfo ; rh| Interface TypeInfo ; rh| Interface TypeInfo ; rh| Interface TypeInfo ; rh| Interface TypeInfo ; rh| Interface TypeInfo ; rh| Interface TypeInfo 
+ DOM3 ; typeName ; rowspan="3" no ; rowspan="3" no ; rowspan="3" no ; rowspan="3" no ; rowspan="3" no ; rowspan="3" no 
+ DOM3 ; typeNamespace 
+ DOM3 ; isDerivedFrom() 
+ rh| Interface UserDataHandler ; rh| Interface UserDataHandler ; rh| Interface UserDataHandler ; rh| Interface UserDataHandler ; rh| Interface UserDataHandler ; rh| Interface UserDataHandler ; rh| Interface UserDataHandler ; rh| Interface UserDataHandler 
+ DOM3 ; handle() ; no ; no ; no ; no ; no ; no 
+ rh| Interface DOMError ; rh| Interface DOMError ; rh| Interface DOMError ; rh| Interface DOMError ; rh| Interface DOMError ; rh| Interface DOMError ; rh| Interface DOMError ; rh| Interface DOMError 
+ DOM3 ; severity ; rowspan="6" no ; rowspan="6" no ; rowspan="6" no ; rowspan="6" no ; rowspan="6" no ; 2.0 
+ DOM3 ; message ; 2.0 
+ DOM3 ; type ; 2.0 
+ DOM3 ; location ; 2.0 
+ DOM3 ; relatedData ; 2.0 
+ DOM3 ; relatedException ; no 
+ rh| Interface DOMErrorHandler ; rh| Interface DOMErrorHandler ; rh| Interface DOMErrorHandler ; rh| Interface DOMErrorHandler ; rh| Interface DOMErrorHandler ; rh| Interface DOMErrorHandler ; rh| Interface DOMErrorHandler ; rh| Interface DOMErrorHandler 
+ DOM3 ; handleError() ; no ; no ; no ; no ; no ; 2.0 
+ rh| Interface DOMLocator ; rh| Interface DOMLocator ; rh| Interface DOMLocator ; rh| Interface DOMLocator ; rh| Interface DOMLocator ; rh| Interface DOMLocator ; rh| Interface DOMLocator ; rh| Interface DOMLocator 
+ DOM3 ; lineNumber ; rowspan="6" no ; rowspan="6" no ; rowspan="6" no ; rowspan="6" no ; rowspan="6" no ; 2.0 
+ DOM3 ; columnNumber ; 2.0 
+ DOM3 ; byteOffset ; 2.0 
+ DOM3 ; utf16Offset ; 2.0 
+ DOM3 ; relatedNode ; 2.0 
+ DOM3 ; uri ; 2.0 
+ rh| Interface DOMConfiguration ; rh| Interface DOMConfiguration ; rh| Interface DOMConfiguration ; rh| Interface DOMConfiguration ; rh| Interface DOMConfiguration ; rh| Interface DOMConfiguration ; rh| Interface DOMConfiguration ; rh| Interface DOMConfiguration 
+ DOM3 ; parameterNames ; rowspan="4" no ; rowspan="4" no ; rowspan="4" no ; rowspan="4" no ; ? ; 2.0 
+ DOM3 ; setParameter() ; ? ; 2.0 
+ DOM3 ; getParameter() ; ? ; 2.0 
+ DOM3 ; canSetParameter() ; ? ; 2.0 

@@ -1,0 +1,19 @@
+ Desktop publishing software ; PDF ; EPS ; SVG ; TeX/LaTeX ; HTML ; Other 
+CorelDRAW ;yes ;yes ;yes ;no ;yes ;PSD, AI, SWF, WPD 
+Fatpaint ;no ;no ;no ;no ;no ;JPG, PNG 
+Flare ;yes ;no ;no ;no ;yes ;DOC, EPUB, HTML5 
+FrameMaker ;yes ;yes ;no ;no ;yes ;DOC, WPD 
+InDesign ;yes ;yes ;no ;no ;yes ;EPUB, SWF, XML, RTF 
+InPage ;no ;yes ;no ;no ;no ;GIF 
+iStudio Publisher ;yes ;no ;no ;no ;no ;EPUB, RTF 
+LyX ;yes ;no ;no ;yes ;yes ;PS, ODF 
+Microsoft Publisher ;yes ;no ;no ;no ;yes ;JPG, PNG, TIFF 
+OpenOffice.org ;yes ;yes ;yes ;no ;yes ;RTF 
+PageMaker* ;with Distiller ;yes ;no ;no ;no ;no 
+PagePlus ;yes ;yes ;no ;no ;yes ;no 
+Pages ;yes ;no ;no ;no ;yes ;EPUB, RTF 
+QuarkXPress ;yes ;yes ;no ;no ;yes ;EPUB, Kindle, iOS, HTML5 
+Scribus ;yes ;yes ;yes ;yes ;yes ;List 
+The Print Shop ;yes ;no ;no ;no ;no ;no 
+Ventura* ;yes ;yes ;no ;no ;no ;RTF, PSD, AI, WPD 
+ Desktop publishing software ; PDF ; EPS ; SVG ; TeX/LaTeX ; HTML ; Other 

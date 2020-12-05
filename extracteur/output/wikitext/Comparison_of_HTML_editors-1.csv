@@ -1,0 +1,39 @@
+ Editor ; Windows ; OS X ; Linux ; BSD ; Unix ; iOS ; Android 
+ rh2| Amaya ; terminated 2012 ; terminated 2012 ; terminated 2012 ; source only terminated 2012 ; source only terminated 2012 ; no ; no 
+ rh| Aptana ; yes ; yes ; yes ; yes ; no ; no ; no 
+ rh| Arachnophilia ; yes ; yes ; yes ; yes ; no ; no ; no 
+ rh| Atom ; yes ; yes ; yes ; no ; no ; no ; no  
+ rh| Bluefish ; yes ; yes ; yes ; yes ; yes ; no ; no 
+ rh| BlueGriffon ; yes ; yes ; yes ; no ; no ; no ; no 
+ rh| Brackets ; yes ; yes ; yes ; no ; no ; no ; no 
+ rh2| Claris Homepage ; terminated (3.0) ; no ; no ; no ; no ; no ; no 
+ rh| Codelobster ; yes ; no ; no ; no ; no ; no ; no 
+ rh| CoffeeCup HTML Editor ; yes ; yes ; no ; no ; no ; no ; no 
+ rh| CudaText ; yes ; yes ; yes ; yes ; yes ; no ; no 
+ rh| Contribute ; yes ; yes ; no ; no ; no ; no ; no 
+ rh| Dreamweaver ; yes ; yes ; no ; no ; no ; no ; no 
+ rh| EZGenerator ; yes ; no ; no ; no ; no ; no ; no 
+ rh| Freeway ; no ; yes ; no ; no ; no ; no ; no 
+ rh2| GoLive ; terminated (9.0) ; terminated (9.0) ; no ; no ; no ; no ; no 
+ rh| HTML-Kit ; yes ; no ; no ; no ; no ; no ; no 
+ rh2| KompoZer Nvu/Kompozer can be built successfully on any platform with the Netscape Portable Runtime. ; yes ; yes ; yes ; yes ; no ; no ; no 
+ rh| LibreOffice ; yes ; yes ; yes  ; source only ; source only ; no ; no 
+ rh| Maqetta ; yes ; yes ; Cloud[Google Chrome (current release), Mozilla Firefox 4 users can edit HTML if Maquetta is running in the cloud.] ; Cloud ; no ; no ; no 
+ rh2| Microsoft Expression Web ; yes ; no ; no ; no ; no ; no ; no 
+ rh2| Microsoft FrontPage ; terminated (2003) ; no ; no ; no ; no ; no ; no 
+ rh2| Microsoft SharePoint Designer ; yes ; no ; no ; no ; no ; no ; no 
+ rh| Microsoft Visual Web Developer ; yes ; no ; no ; no ; no ; no ; no 
+ rh| Web Architect ; yes ; no ; no ; no ; no ; no ; no 
+ rh| Mobirise ; yes ; yes ; no ; no ; no ; no ; yes 
+ rh2| Mozilla Composer ; terminated (1.7.13) ; terminated (1.7.13) ; terminated (1.7.13) ; terminated (1.7.13) ; terminated (1.7.13) ; no ; no 
+ rh2| Nvu Nvu can be built successfully on any platform with the Netscape Portable Runtime. ; terminated (1.0) ; terminated (1.0) ; terminated (1.0) ; terminated (1.0) ; no ; no ; no 
+ rh| openElement ; yes ; no ; no  ; no  ; no ; no ; no 
+ rh| OpenOffice.org ; yes ; yes ; yes  ; source only ; source only ; no ; no 
+ rh| oXygenXML Editor ; yes ; yes ; yes  ; yes  ; yes  ; no ; no 
+ rh| Quanta Gold (deprecated) ; yes ; yes ; yes  ; no ; no ; no ; no 
+ rh2| Quanta Plus ; no ; terminated 2009 ; terminated 2009  ; terminated 2009 ; terminated 2009 ; no ; no 
+ rh| RocketCake  ; yes ; yes ; no ; no ; no ; no ; no 
+ rh| SeaMonkey Composer ; yes ; yes ; yes ; yes ; yes ; no ; no 
+ rh| TOWeb ; yes ; no ; no ; no ; no ; no ; no 
+ rh| WebStorm IDE ; yes ; yes ; yes  ; yes ; yes ; no ; no 
+ Editor ; Windows ; OS X ; Linux ; BSD ; Unix ; iOS ; Android 

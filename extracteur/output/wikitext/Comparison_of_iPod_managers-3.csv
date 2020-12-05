@@ -1,0 +1,15 @@
+ Manager ; iPod touch/iPhone Firmware up to 1.1.4 ; iPod touch/ iPhone FW 2.x ; iPod touch/ iPhone FW 3.0 ; iPod touch/ iPhone FW 3.1 ; iPod touch/iPhone FW 4.0.2 ; iPod touch/iPhone FW 5.0.x 
+ rh|Amarok ; yes ; no ; yes ; yes ; yes, Read-only ; yes, Read-only 
+ rh|Banshee ; yes ; yes ; yes ; yes ; yes, Read-only ; yes, Read-only 
+ rh|Clementine ; yes, limited ; yes, limited ; yes, limited ; yes, limited ; no ; no 
+ rh|EphPod ; no ; no ; no ; no ; no ; no 
+ rh|gtkpod ; yes ; yes ; yes ; yes ; dunno ; dunno 
+ rh|iRip ; yes ; yes ; yes ; yes ; yes ; yes, Read-only 
+ rh|iTunes ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh|JRiver Media Center ; no ; no ; no ; no ; no ; no 
+ rh|MediaMonkey ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh|Rhythmbox ; yes ; yes ; yes ; yes ; yes ; no 
+ rh|Senuti ; yes ; yes ; no ; no ; no ; dunno 
+ rh|Winamp native ; no ; no ; no ; no ; no ; no 
+ rh|XPlay ; yes ; yes, Read only ; yes, Read only ; yes, Read only ; yes, Read only ; yes, Read only 
+ Manager ; iPod touch/iPhone Firmware up to 1.1.4 ; iPod touch/iPhone FW 2.x ; iPod touch/iPhone FW 3.0 ; iPod touch/iPhone FW 3.1 ; iPod touch/iPhone FW 4.0.2 ; iPod touch/iPhone FW 5.0.x 

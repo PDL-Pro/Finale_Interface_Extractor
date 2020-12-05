@@ -1,0 +1,5 @@
+ BitTorrent library ; CacheReduces disk usage, file fragmentation (in case it is not preallocated) and latencies due to larger written blocks and cached data for hash checking finished pieces. ; Web seeding Recently implemented (unofficial) web seeding feature, see HTTP-Based Seeding Specification ; WebTorrent ; Broadcatching (RSS) ; Prioritization ; Selective downloads ; SOCKS ; Remote control via web ; Engine ; Notes 
+ libtorrent (Rasterbar) ; yes ; yes ; yes ; no ; yes ; yes ; yes ; yes ; dunno ; 
+ MonoTorrent ; yes ; yes ; no ; yes ; yes ; yes ; no ; yes ; no ; 
+ rTorrent (libTorrent Rakshasa) ; partial ; no ; no ; no ; yes ; yes ; no ; yes ; no ; No built-in cache-disk cache but a delayed sync 
+ BitTorrent library ; Cache ; Web seeding ; WebTorrent ; Broadcatching (RSS) ; Prioritization ; Selective downloads ; SOCKS ; Remote control via web ; Engine ; Notes 

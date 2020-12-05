@@ -1,0 +1,9 @@
+Name;SSH1;SSH2;Port forwarding;SFTP;SCP;Supports IPv6;Supports OpenSSH authorized keys;Privilege separation;FIPS 140-2 support
+Apache MINA SSHD;No;Yes;Yes;Yes;Yes;Yes;Yes;No;?
+Bitvise SSH Server;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+CopSSH;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;?
+CrushFTP Server;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;?
+Dropbear;No;Yes;Yes;Partial;Yes;Yes;Yes;No;?
+Lsh;No;Yes;Yes;Yes;Yes;?;?;?;?
+OpenSSH (OpenBSD Secure Shell);No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes
+wolfSSH;No;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes

@@ -1,0 +1,9 @@
+ Name ; Mac OS X ; Mac OS classic ; Windows ; Cygwin ; BSD ; Linux ; Solaris ; Java ; OpenVMS ; z/OS ; AmigaOS ; AIX ; HPUX ; iOS: iPhone,iphone iPod Touch ; webOS ; Android 
+rh| Apache MINA SSHD ; yes ; no ; yes ; no ; yes ; yes ; yes ; yes ; no ; no ; no ; yes ; yes ; no ; no ; no 
+rh| Bitvise SSH Server ; no ; no ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+rh| CopSSH ; no ; no ; yes ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+rh| CrushFTP Server ; yes ; no ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; no ; yes ; yes ; no ; no ; no 
+rh| Dropbear ; yes ; no ; no ; yes ; yes ; yes ; yes ; no ; no ; no ; no ; yes ; yes ; no ; yessshwebos ; yes 
+rh| lsh ; yes ; no ; no ; no ; partialfreebsdonly ; yes ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; ?? 
+rh| OpenSSH (OpenBSD Secure Shell) ; included ; no ; optionalwin32-openssh ; included ; included ; includedopensshlinux ; yes ; no ; yes ; yes ; yes ; yesopensshaix ; included ; yesopensshiphone ; yessshwebos ; partial 
+rh| wolfSSH ; yes ; no ; yes ; yes ; yes ; yes ; yes ; no ; no ; no ; no ; ?? ; ?? ; no ; ?? ; no 

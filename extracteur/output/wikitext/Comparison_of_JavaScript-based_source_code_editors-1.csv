@@ -1,0 +1,25 @@
+ Feature ; Ace ; CodeMirror ; CodeJar ; Orion ; CodePress ; CodeTextArea ; EditArea ; Helene ; markItUp! ; MDK-Editor  
+ rh| Implementation ;  ;  nestable full parsers ;  ;  pattern-based parser ;  pattern-based parser ;  ;  ;  ;  ;  parsers 
+ rh| Syntax highlight ;  Over 110 languages ; 129 languages ; yes ;  mixed mode: HTML + JavaScript and CSS, PHP, EJS, single mode: JavaScript, Java, JSON, CSS, Python, Ruby, XML, YAML (pluggable) ;  limited mixed mode: HTML + JavaScript (no CSS), PHP + HTML (no JavaScript or CSS), Java, Perl, SQL ;  only keywords ;  only one language at a time: Perl, PHP, CSS, Javascript, Python, HTML, XML, VB, C, CPP, SQL, Pascal, Basic, Brainf*ck ; PHP ; no ;  mixed mode: PHP + HTML + JavaScript + CSS, single-mode: PHP, Javascript, CSS, XML, extensible 
+ rh| Syntax checking ;  HTML, CSS, JavaScript (using JSHint) ; some ; no ;  JavaScript (using JSLint) ; no ;  ;  ; no ;  ;  HTML, JavaScript (using JSLint) 
+ rh| Tab support ; yes ; yes ; yes ; yes ; some ;  ; yes ;  ;  ; yes 
+ rh| Indent, new line keeps level ;  optional setting that is on by default ; yes ; yes ; yes ;  very limited ; no ; yes ;  N/A (can't press Enter) ; no ; yes 
+ rh| Indent, syntax ; yes ; yes ; yes ; yes ;  ;  ; no ;  ;  ; no 
+ rh| Indent, selected block ;  yes, including Shift+Tab ; either automatically, or block-level indent/unindent ; yes ;  yes, including Shift+Tab ; no ;  ; yes, including Shift+Tab ;  ;  ;  yes, including Shift+Tab and using context menu 
+ rh| Bracket matching ; yes ; yes ; no ; yes ;  an implementation exists with mouse-hover bracket matching   ; Ctrl+B, no angle bracket matching ;  ;  ; no ; {{yes|matching bracket ([{<>}]) always highlighted}} 
+ rh| XML matching tag highlight ; yes ; yes ; no ; no ; no ;  ;  ;  ;  ; yes 
+ rh| Code folding ; yes ; yes ; no ; Some ; no ; no ; no ; no ; no ; no 
+ rh| Code snippets ; yes ;  through API/add-on ;  ; some ;  type 'for' or 'if' then Tab ; no ; yes ; no ; yes ;  JavaScript 
+ rh| Code suggestion ; yes ;  example ;  ; yes through esprima content assist plugin ; no ;  ;  yes ;  ; no ;  CSS, HTML, JavaScript) 
+ rh| Toggle syntax highlight on/off ; yes ; yes ;  ; no ;  ;  ; last example in demo ;  ; N/A ;  textmode 
+ rh| Keyboard shortcuts ;  All Common Shortcuts & Custom Keybindings ;  fully configurable ;  ; yes ;  ;  ;  some common used: Ctrl+f, Ctrl+g,Ctrl+z,Ctrl+y ;  ; yes ;  All key combos (except F1 in IE7) can be bound to shortcuts  
+ rh| Line numbers ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ;  supports mouse selection 
+ rh| Search & replace ;  regex supported ;  via API ; no ; yes ;  ; no ;  toolbar button ;  ;  ;  has API for the studio 
+ rh| Spell checking ;  addon for context menu ; no ; no ; no ; browser-based ; none ; browser-based ; none ; browser-based ; no 
+ rh| Toolbar ;  But command line console ; no ; no ; no ;  ; no ; yes ; no ; yes ; no 
+ rh| Visual styling ;  Fully theme-able ; CSS-based themes ; yes ; yes ;  ;  font-type and font-size ;  ;  ;  ;  5 styles to choose from, having 2 font-sizes 
+ rh| Undo/Redo ; yes ; yes ; yes ; yes ; yes ;  ; yes ;  ;  ;  Differential Undo 
+ rh| Multiple cursors / Block selection ;  Multiple cursors ; yes ; no ; yes ; no ; no ; no ; no ; no ; no 
+ rh| IndentGuides ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+ rh| Inline widgets ; yes ; yes ; no ; no ; no ; no ; no ; no ; no ; no 
+ rh| Non US charset support ; yes ; yes ; yes ; yes ;  ;  ;  ;  ;  ; no 

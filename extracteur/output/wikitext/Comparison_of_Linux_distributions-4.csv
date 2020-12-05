@@ -1,0 +1,56 @@
+ Distribution ; Size of media (MB) ; RAM use (MB) ; Boots from CD ; Boots from DVD ; Installable live CD/DVD ; Installable from USB 
+ Rh| Arch Linux ; 742 ; ; Yes ; Yes ; Yes ; Yes 
+ Rh| AUSTRUMI ; 301 ; ; Yes ; Yes ; Yes ; Yes 
+ Rh| BLAG Linux and GNU ; 696 ; dunno ; yes ; no ; dunno ; 
+ Rh| Bodhi Linux ; 1024 ; 80 ; Yes ; Yes ; Yes ; Yes 
+ Rh| CentOS ; 603 (Minimal) 4096 (DVD) ; ; Yes ; Yes ; Yes (installable since 6.0) ; Yes 
+ Rh| Chakra ; 2150 ; ; no ; yes ; yes ; yes 
+ Rh| Debian ; 958 ; ; Yes ; Yes ; Yes ; Yes 
+ Rh| Devuan ; 868 ; ; Yes ; Yes ; Yes ; Yes 
+ Rh| Dragora GNU/Linux-Libre ; 655 ; dunno ; yes ; dunno ; dunno ; dunno 
+ Rh| dyne:bolic ; 1650 ; dunno ; up to version 2.x ; Yes ; dunno ; dunno 
+ Rh| Fedora ; 1434 ; 256 to 1024 ; Yes ; Yes ; Yes ; Yes 
+ Rh| Gentoo ; 260 (Minimal) 2048 (Live DVD) ;upto 128 ; Yes ; Yes ; Yes ; Yes 
+ Rh| gNewSense{{cite web|title=Download gNewSense 4|url= December 2017|archive-url= ; 1200 ; 512 ; dunno ; dunno ; yes ; dunno 
+ Rh| Grml ; 460 ; 32 to 128 ; Yes ; No ; Yes ; Yes 
+ Rh| Guix System ; 562 ; 2084 ; no ; yes ; yes ; Yes 
+ rh| Hyperbola GNU/Linux-libre ; 660 and 688 ; dunno ; yes ; yes ; yes ; yes 
+ Rh| Knoppix CD ; 700 ; 128 to 320 ; Yes ; Yes ; Only DVD edition is maintained ; 
+ Rh| Knoppix DVD ; 4813 ; 128 to 500 ; No ; Yes ; ; 
+ Rh| LibreCMC ; dunno ; dunno ; no ; no ; no ; no 
+ Rh| Mandriva Linux One ; 700 ; 128 to 768 ; Yes ; Yes ; Yes ; Yes 
+ Rh| Manjaro Linux ; 473 to 2,200 ; 256 to 1024 ; Yes ; Yes ; Yes ; Yes 
+ Rh| MEPIS ; 700 to 4000 ; 128 to 512 ; Yes ; Yes ; Yes ; Yes 
+ Rh| Musix GNU+Linux ; 2000 ; dunno ; No ; Yes ; Yes ; Yes 
+ Rh| Nanolinux ; 18 ; prefix=≈ ; Yes ; Yes ; Yes ; Yes 
+ Rh| openGEU ; 700 ; 192 to 512 ; Yes ; ; Yes ; 
+ Rh| openSUSE (Not 42.1) ; 700 ; 128 to 768 ; Yes ; Yes ; Yes ; Yes 
+ Rh| OpenWrt ; prefix=min ; prefix=min ; No ; No ; No ; No 
+ Rh| Parabola GNU/Linux-libre ; 400 to 3300 ; dunno ; yes ; yes ; yes ; yes 
+ Rh| Pardus ; 1256 to 1276 ; 256 to 1024 ; Yes ; Yes ; Yes ; Yes 
+ Rh| PCLinuxOS ; 130 to 700 ; 96 to 512 ; Yes ; Yes ; Yes ; Yes 
+ Rh| Pentoo ; 666 and 700 ; 48 to 96 ; Yes ; Yes ; By handPentoo Development Website date=January 8, 2010  ; By hand 
+ Rh| Porteus ; 224 to 373 ; min 36 ; dunno ; dunno ; Yes ; Yes 
+ Rh| Puppy Linux (Slacko) ; 235 ; 32 to 192 ; Yes ; Yes ; Yes ; Yes 
+ Rh| Puredyne ; 542 ; ; Yes ; Yes ; Yes ; Yes 
+ Rh| Sabayon Linux Live CD ; 695 ; ; Yes ; Yes ; Yes ; Yes 
+ Rh| Sabayon Linux Live DVD ; 2400 ; ; no ; Yes ; Yes ; Yes 
+ Rh| Scientific Linux ; 431 to 2300 ; 640 ; Yes ; Yes ; Yes ; Yes 
+ Rh| Slackware ; 2600 ; 64 to 1024 ; Yes ; Yes ; Yes ; Yes 
+ Rh| Slax ; 200 ; 96 to 320 ; Yes ; Yes ; ; Yes 
+ Rh| Solus ; 1200 ; 1024 ; No ; Yes ; Yes ; Yes 
+ Rh| SystemRescueCD ; 459 ; ; Yes ; Yes ; Yes ; Yes 
+ Rh| SliTaz GNU/Linux ; 50 ; 48 to 256 ; Yes ; Yes ; Yes ; Yes 
+ Rh| Tails ; prefix=≈ ; prefix=≈ ; No ; Yes ; Yes ; Yes (when run from DVD) 
+ Rh| Tiny Core Linux ; 16 ; 46 ; Yes ; Yes ; Yes ; Yes 
+ Rh| Tiny SliTaz ; 1.44 ; 4 ; Yes ; Yes ; By SliTaz ; By SliTaz 
+ Rh| Trisquel ; 1,500 ; 384 ; Yes ; Yes ; Yes ; Yes 
+ Rh| TurnKey GNU/Linux Core (base) appliance ISO ; 212 ; prefix=~ ; Yes ; Yes ; Yes ; Yes 
+ Rh| Ubuntu ; 1,700 ; 384 ; Yes ; Yes ; Yes ; Yes 
+ Rh| Ututo ; 3500 ; dunno ; No ; Yes ; Yes ; dunno 
+ Rh| Edubuntu ; 2,900 ; ; Yes ; Yes ; Yes ; 
+ Rh| Kubuntu ; 1,400 ; 384 ; Yes ; Yes ; Yes ; Yes 
+ Rh| XBMC Live ; 700 ; 256 to 1024 ; Yes ; no ; Yes ; Yes 
+ Rh| Zentyal ; 600 ; 256 ; Yes ; Yes ; Yes ; Yes 
+ Rh| Xubuntu ; 1200 ; 256 ; Yes ; Yes ; Yes ; Yes 
+ Distribution ; Size of media (MB) ; RAM use (MB) ; Boots from CD ; Boots from DVD ; Installable live CD/DVD ; Installable from USB 

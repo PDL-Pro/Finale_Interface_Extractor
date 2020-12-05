@@ -1,0 +1,11 @@
+Can Target:;Changing default policy to accept/reject (by issuing a single rule); IP destination address(es);IP source address(es); TCP/UDP destination port(s);TCP/UDP source port(s);Ethernet MAC destination address;Ethernet MAC source address;Inbound firewall (ingress);Outbound firewall (egress) 
+rh|Trend Micro Internet Security ;yes;yes;yes;yes;yes;no;no;yes;yes 
+rh|Vyatta ;yes;yes;yes;yes;yes;yes;no;no;yes 
+rh|Windows XP Firewall ;no;no;yes;partialcan target only single destination TCP/UDP port per rule, not port ranges.;no;no;no;yes;no 
+rh|Windows Vista Firewall ;yes;yes;yes;yes;yes;no;no;yes;yes 
+rh|Windows 7 /Windows2008R2Firewall ;yes;yes;yes;yes;no;no;yes;yes;yes 
+rh|WinGate ;yes;yes;yes;yes;yes;no;no;no;yes 
+rh|Zeroshell ;yes;yes;yes;yes;yes;yes;yes;yes;yes 
+rh|Zorp ;yes;yes;yes;yes;yes;yes;no;no;no 
+rh|pfSense ;yes;yes;yes;yes;yes;no;no;yes;yes 
+rh|IPFire ;yes;yes;yes;yes;yes;yes;yes;yes;yes 

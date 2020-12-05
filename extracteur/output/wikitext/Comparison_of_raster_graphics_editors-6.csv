@@ -1,0 +1,76 @@
+ ; TGA ; RAW imports ; BMP ; GIF ; JPEG ; JPEG 2000 ; HD Photo ; PNG ; TIFF ; PSD ; PSP ; XCF ; PCX ; ORA ;HEIF 
+ Ability Photopaint ; dunno ; dunno ; yes ; yes ; yes ; no ; dunno ; yes ; yes ; yes ; no ; no ; dunno ; dunno ; dunno 
+ ACD Canvas ; dunno ; dunno ; yes ; yes ; yes ; no ; dunno ; yes ; yes ; yes ; yes ; no ; dunno ; dunno ; dunno 
+ ACDSee (Win) ; dunno ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno 
+ Acorn Image Editor ; dunno ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno 
+ Adobe Fireworks* ; dunno ; dunno ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; no ; no ; dunno ; dunno ; dunno 
+ Adobe Photoshop ; dunno ; yes ; yes ; yes ; yes ; Via plug-inPhotoshop requires an optional plug-in from the installation disc to support JPEG 2000. ; yes ; yes ; yes ; yes ; no ; no ; yes ; dunno ; dunno 
+ Adobe Photoshop Lightroom ; dunno ; yes ; no ; Via plug-inRequires the Any File plug-in ; yes ; Via plug-in ; no ; Via plug-in ; yes ; partialTo import and work with a multi-layered PSD file in Lightroom, the file must be saved in Photoshop with the Maximize PSD and PSB File Compatibility preference turned on. ; dunno ; dunno ; dunno ; dunno ; dunno 
+ Affinity Photo ; yes ; yes ; no ; yes ; yes ; no ; no ; yes ; yes ; yes ; no ; no ; no ; no ; yes 
+ Autodesk SketchBook Pro ; dunno ; dunno ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; no ; no ; no ; dunno ; dunno 
+ Artipic ; dunno ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; partial ; no ; no ; yes ; dunno ; dunno 
+ ArtRage ; dunno ; dunno ; yes ; yes ; yes ; no ; dunno ; yes ; yes ; yes ; no ; no ; dunno ; dunno ; dunno 
+ Artweaver ; dunno ; no ; yes ; yes ; yes ; partial ; dunno ; yes ; yes ; partial ; no ; no ; yes ; dunno ; dunno 
+ Bibble* ; dunno ; yes ; no ; no ; yes ; no ; no ; no ; yes ; no ; no ; no ; no ; dunno ; dunno 
+ Brush Strokes Image Editor ; dunno ; dunno ; yes ; yes ; yes ; no ; ; yes ; yes ; no ; no ; no ; dunno ; ; 
+ Capture One ; dunno ; yes ; yes ; yes ; yes ; yes ; ; yes ; yes ; yes ; dunno ; dunno ; dunno ; ; 
+ Chasys Draw IES ; dunno ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; 
+ CinePaint ; dunno ; yes ; yes ; yes ; yes ; no ; ; yes ; yes ; partial ; no ; yes ; dunno ; ; 
+ CodedColor PhotoStudio Pro ; dunno ; dunno ; yes ; yes ; yes ; yes ; ; yes ; yes ; yes ; no ; no ; yes ; ; 
+ Corel PaintShop Pro ; dunno ; yes ; yes ; yes ; yes ; yes ; ; yes ; yes ; partialNo layer modes support ; yes ; no ; yes ; ; 
+ Corel Painter ; dunno ; dunno ; yes ; yes ; yes ; no ; ; no ; yesCorel Painter does not support TIFF with LZW compression. ; yes ; yes ; no ; Import ; ; 
+ Corel Photo-Paint ; dunno ; yes ; yes ; yes ; yes ; yes ; ; yes ; yes ; yes ; yes ; no ; yes ; ; 
+ darktable ; dunno ; yes ; no ; no ; yes ; yes ; no ; yes ; yes ; no ; no ; no ; no ; ; 
+ Deluxe Paint*Deluxe Paint can load and save only IFF ILBM file format. ; no ; no ; no ; no ; no ; no ; ; no ; no ; no ; no ; no ; no ; ; 
+ DigiKam ; dunno ; yes ; yes ; yes ; yes ; yes ; ; yes ; yes ; no ; no ; yes ; dunno ; ; 
+ Erdas Imagine ; dunno ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes ; no ; no ; no ; Import ; ; 
+ Fatpaint ; dunno ; no ; no ; no ; yes ; no ; no ; yes ; no ; no ; no ; no ; no ; ; 
+ Fotografix ; dunno ; partial ; yes ; yes ; yes ; no ; no ; yes ; yes ; Import only ; no ; Import only ; Import only ; ; 
+ GIMP ; yesAvailable since at least 2.6.x ; yes ; yes ; yes ; yes ; yesNative support added in version 2.8 ; Via plug-inRequires the JPEG XR plug-in ; yes ; yesFull native support added in version 2.10.12. Previous versions only supported single pages ; yes ; yes ; yes ; yes ; yes ; yesAvailable since 2.10.2 
+ GIMPshop ; dunno ; dunno ; yes ; yes ; yes ; no ; no ; yes ; yes ; yes ; yes ; yes ; yes ; ; 
+ GrafX2 ; dunno ; no ; yes ; yes ; Import only ; no ; no ; yes ; yes ; no ; no ; no ; yes ; ; 
+ GraphicConverter ; dunno ; partialMany RAW images can be imported, but are reduced to 8 bits per color channel. ; yes ; yes ; yes ; yes ; no ; yes ; yes ; yes ; yes ; yesGraphicConverter requires macOS or later with installed Image Magick application of the Fink package or any other distribution in order to support XCF. ; yes ; ; 
+ HDR PhotoStudio ; dunno ; yes ; yes ; no ; yes ; no ; no ; no ; yes ; no ; no ; no ; no ; ; 
+ Helicon Filter ; dunno ; yes ; yes ; Import ; yes ; yes ; no ; yes ; yes ; yes ; no ; no ; no ; ; 
+ ImageMagick ; dunno ; yes ; yes ; yes ; yes  ; yes ; yes ; yes  ; yes  ; yes ; no ; yes ; yes ; ; 
+ iPhoto* ; dunno ; yes ; dunno ; dunno ; yes ; dunno ; no ; yes ; yes ; yes ; dunno ; dunno ; yes ; ; 
+ IrfanView ; dunno ; Via plug-in ; yes ; yes ; yes ; Via plug-in ; Via plug-in ; yes ; yes ; yes ; yes ; no ; yes ; ; 
+ Iridient Developer ; dunno ; yes ; yes ; yes ; yes ; yes ; ; yes ; yes ; yes ; dunno ; dunno ; dunno ; ; 
+ Kolourpaint ; dunno ; dunno ; yes ; yes ; yes ; yes ; no ; yes ; yes ; no ; no ; Import ; yes ; ; 
+ Krita ; dunno ; yes ; yes ; yes ; yes ; yes ; ; yes ; yes ; yes ; no ; yes ; Import ; yes ; 
+ LiveQuartz ; dunno ; partial ; yes ; yes ; yes ; yes ; no ; yes ; yes ; partial ; dunno ; dunno ; dunno ; dunno ; yes 
+ LazPaint ; dunno ;  ; yes ; yes ; yes ;  ;  ; yes ; ;  ;  ;  ; ; yes ; 
+ MacPaint* ; dunno ; no ; dunno ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; ; 
+ Microsoft Office Picture Manager* ; dunno ; dunno ; yes ; yes ; yes ; no ; ; yes ; First page onlyMicrosoft Office Picture Manager and Paint.NET only support TIFF for viewing and editing of the first page. ; no ; no ; no ; yes ; ; 
+ Microsoft Paint ; dunno ; no ; yes ; partialMS Paint doesn't support transparency in GIF or PNG ; yes ; no ; no ; partial ; yes ; no ; no ; no ; no ; ; 
+ Microsoft Photo Editor* ; dunno ; no ; yes ; yes ; yes ; no ; ; yes ; no ; no ; no ; no ; Import ; ; 
+ mtPaint ; yes ; no ; yes ; yes ; yes ; dunno ; no ; yes ; no ; no ; no ; no ; no ; no ; no 
+ OpenCanvas ; dunno ; dunno ; yes ; no ; yes ; no ; no ; yes ; no ; yesPSD is supported only in openCanvas 4 Plus, not regular openCanvas 4. ; no ; no ; dunno ; ; 
+ Paint.NET ; dunno ; yes ; yes ; yes ; yes ; yes ; yesPaint.NET 3.08 supports import/export of images in HD Photo lossy & lossless format via a file-type plug-in based on a Microsoft HD Photo specification, it expires on September 1, 2007 or if the Paint.NET version is 3.20 or higher. The developers hope tentatively plan to implement full HD Photo support by version 3.20. ; yes ; Via plug-insThe free plug-ins needed for JPEG 2000, PSD, and XCF support can be found on Paint.NET's website . ; partial ; no ; no ; yes ; ; 
+ Paint Tool SAI ; yes ; no ; yes ; no ; yes ; dunno ; no ; yes ; no ; yes ; no ; no ; no ; no ; no 
+PC Paintbrush* ; dunno ; dunno ; no ; yes ; no ; no ; ; no ; yes ; no ; no ; no ; yes ; ; 
+ Photogenics ; dunno ; dunno ; yes ; yes ; yes ; dunno ; ; yes ; yes ; yes ; dunno ; dunno ; yes ; ; 
+ PhotoLine ; dunno ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yes ; ; 
+PhotoPerfect* ; dunno ; yes ; yes ; no ; yes ; yes ; no ; yes ; yes ; No layer support ; yes ; no ; yes ; ; 
+Photos ; dunno ; yes ; dunno ; dunno ; yes ; dunno ; no ; yes ; yes ; yes ; dunno ; dunno ; yes ; ; 
+ Photo Raster ; dunno ; no ; Import ; Import ; yes ; no ; no ; yes ; Import ; no ; no ; no ; Import ; ; 
+ Picasa* ; dunno ; yes ; Import ; Import ; yes ; no ; ; Import ; no ; Import ; no ; no ; no ; ; 
+ PicMaster ; dunno ; no ; yes ; yes ; yes ; yes ; no ; yes ; yes ; no ; no ; no ; yes ; ; 
+ PixBuilder Photo Editor ; dunno ; dunno ; yes ; yes ; yes ; yes ; ; yes ; yes ; yes ; no ; no ; dunno ; ; 
+ Pixelmator ; dunno ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes ; yes ; no ; yes ; yes ; ; 
+ Pixia ; dunno ; dunno ; yes ; no ; yes ; no ; ; yes ; yes ; yes ; no ; no ; no ; ; 
+ PMview ; dunno ; no ; yes ; yes ; yes ; no ; no ; yes ; yes ; yes ; no ; no ; yes ; ; 
+ Project Dogwaffle ; dunno ; dunno ; yes ; no ; yes ; no ; ; no ; yes ; no ; no ; no ; no ; ; 
+ QFX ; dunno ; dunno ; yes ; yes ; yes ; no ; no ; dunno ; yes ; yes ; no ; no ; dunno ; ; 
+RawTherapee ; dunno ; yes ; yes ; no ; yes ; no ; no ; yes ; yes ; no ; no ; no ; no ; ; 
+Seashore ; dunno ; no ; partial ; partial ; yes ; partial ; ; yes ; yes ; no ; dunno ; yes ; dunno ; ; 
+ Serif PhotoPlus ; dunno ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yes ; ; 
+Tux PaintFor the BMP, JPEG and PNG formats, the user is sandboxed in an interface that does not permit file system interaction, including viewing of filenames and the choice of a file's name, type, or location. Files are selected by thumbnails, and may only be loaded from one predetermined directory. ; dunno ; no ; yes ; Import ; Import ; no ; no ; yes ; no ; no ; no ; no ; no ; ; 
+TVPaint ; dunno ; dunno ; yes ; yes ; yes ; no ; ; yes ; yes ; yes ; no ; no ; yes ; ; 
+ Ulead PhotoImpact* ; dunno ; yes ; yes ; yes ; yes ; yes ; ; yes ; yes ; partial ; Import ; no ; yes ; ; 
+ Ultimate Paint* ; dunno ; dunno ; yes ; yes ; yes ; no ; ; yes ; no ; no ; no ; no ; yes ; ; 
+ WinImages ; dunno ; dunno ; yes ; yes ; yes ; no ; ; yes ; yes ; yes ; no ; no ; dunno ; ; 
+ Xara Photo & Graphic Designer ; dunno ; yes ; yes ; yes ; yes ; yes ; Import only ; yes ; yes ; yes ; no ; no ; yes ; ; 
+ XnView ; dunno ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; Import ; yes ; ; 
+ XPaint ; dunno ; no ; yes ; yes ; yes ; no ; ; yes ; yes ; no ; no ; no ; no ; ; 
+Zoner Photo Studio ; dunno ; yes ; yes ; yes ; yes ; Import only ; yes ; yes ; yes ; Import only ; Import only ; no ; yes ; ; 

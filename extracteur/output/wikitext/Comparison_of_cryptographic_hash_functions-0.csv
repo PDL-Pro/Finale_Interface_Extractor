@@ -1,0 +1,21 @@
+ Function ; Year ; Designer ; Derived from ; Reference 
+ BLAKE ; 2008 ; Jean-Philippe AumassonLuca HenzenWilli MeierRaphael C.-W. Phan ; ChaCha20 ; WebsiteSpecification 
+ BLAKE2 ; 2012 ; Jean-Philippe AumassonSamuel NevesZooko Wilcox-O'HearnChristian Winnerlein ; BLAKE ; WebsiteSpecification7693 
+ BLAKE3 ; 2020 ; Jack O'ConnorJean-Philippe AumassonSamuel NevesZooko Wilcox-O'Hearn ; BLAKE2 ; WebsiteSpecification 
+ GOST R 34.11-94 ; 1994 ; FAPSI and VNIIstandart ; GOST 28147-89 ; 5831 
+ HAVAL ; 1992 ; Yuliang ZhengJosef PieprzykJennifer Seberry ; ; WebsiteSpecification 
+ KangarooTwelve ; 2016 ; Guido BertoniJoan DaemenMichaël PeetersGilles Van Assche ; Keccak ; WebsiteSpecification 
+ MD2 ; 1989 ; Ronald Rivest ; ; 1319 
+ MD4 ; 1990 ; Ronald Rivest ; ; 1320 
+ MD5 ; 1992 ; Ronald Rivest ; MD4 ; 1321 
+ MD6 ; 2008 ; Ronald Rivest ; ; WebsiteSpecification 
+ RIPEMD ; 1992 ; The RIPE Consortium{{cite conference|first1=Hans|last1=Dobbertin|author-link1=Hans Dobbertin|first2=Antoon|last2=Bosselaers|first3=Bart|last3=Preneel|author-link3=Bart Preneel|title=RIPEMD-160: A strengthened version of RIPEMD|conference=Fast Software Encryption. Third International Workshop|location=Cambridge, UK|date=21–23 February 1996|pages=71–82|url= ; MD4 ; 
+ RIPEMD-128RIPEMD-256RIPEMD-160RIPEMD-320 ; 1996 ; Hans DobbertinAntoon BosselaersBart Preneel ; RIPEMD ; WebsiteSpecification 
+ SHA-0 ; 1993 ;NSA ; ; SHA-0 
+ SHA-1 ; 1995 ;NSA ; SHA-0 ; Specification 
+ SHA-256SHA-384SHA-512 ; 2002 ;NSA ; ; Specification 
+ SHA-224 ; 2004 ;NSA ; ; Specification 
+ SHA-3 (Keccak) ; 2008 ; Guido BertoniJoan DaemenMichaël PeetersGilles Van Assche ; RadioGatún ; WebsiteSpecification 
+ Streebog ; 2012 ; FSB, InfoTeCS JSC ; ; 6986 
+ Tiger ; 1995 ; Ross AndersonEli Biham ; ; WebsiteSpecification 
+ Whirlpool ; 2004 ; Vincent RijmenPaulo Barreto ; ; Website 

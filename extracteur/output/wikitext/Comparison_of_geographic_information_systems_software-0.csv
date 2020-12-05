@@ -1,0 +1,41 @@
+ GIS software ; Free software ; Open source ; Windows ; Mac OS X ; Linux ; BSD ; Unix ; Web ; Other 
+ rh| ArcGIS ; Viewer(s) ; no ; yes ; yes ; no ; no ; yes ; yes ; Google Earth Plugin, KML, WMS 
+ rh| Autodesk ; Viewer(s) ; no ; yes ; no ; yes ; no ; no ; yes ; no 
+ rh| Cadcorp ; Viewer(s) ; no ; yes ; no ; no ; no ; no ; yes ; no 
+ rh| CAPAWARE ; yes ; yes  ; yes ; no ; no ; no ; no ; no ; no 
+ rh| Chameleon ; yes ; yes ; yes ; yes ; yes ; yes ; yes ;AMP ; no 
+ rh| Deegree ; yes ; yes ;Java ;Java ;Java ;Java ;Java ; yes ; no 
+ rh| Erdas Imagine ; Viewers & Plug-ins ; no ; yes ; no ; no ; no ; no ; yes ; no 
+ rh| GeoBase - Telogis ; Trial ; no ; yes ; no ; yes ; yes ; no ; yes ; Traffic, WMS, ADAS, Routing 
+ rh| GeoNetwork ; yes ; yes ;Java ;Java ;Java ;Java ;Java ; yes ; no 
+ rh| GeoServer ; yes ; yes ;Java ;Java ;Java ;Java ;Java ;Java ; no 
+ rh| GeoTools ; yes ; yes ;Java ;Java ;Java ;Java ;Java ; no ; no 
+ rh| GRASS ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; via pyWPS ; no 
+ rh| gvSIG ; yes ; yes ;Java ;Java ;Java ;Java ;Java ; no ; no 
+ rh| IDRISI ; no ; no ; yes ; no ; no ; no ; no ; no ; no 
+ rh| ILWIS ; yes ; yes ; yes ; no ; no ; no ; no ; no ; no 
+ rh| GeoMedia ; Viewer(s) ; no ; yes ; no ; no ; no ; CLIX ; yes ; KML 
+ rh| JUMP GIS ; yes ; yes ;Java ;Java ;Java ;Java ;Java ; no ; no 
+ rh| Kosmo ; yes ; yes ;Java ;Java ;Java ;Java ;Java ; no ; no 
+ rh| LandSerf ; no ; no ;Java ;Java ;Java ;Java ;Java ; no ; no 
+ rh| MapDotNet ; no ; no ; yes ; no ; no ; no ; no ; yes 
+ rh| Manifold System ; no ; no ; yes ; no ; no ; no ; no ; yes ; no 
+ rh| Microsoft MapPoint ; Discontinued ; no ; yes ; no ; no ; no ; no ; yes ; no 
+ rh| Pitney Bowes MapInfo Pro ; Viewer(s) ; no ; yes ; no ; no ; no ; yes ; yes ; no 
+ rh| MapServer ; yes ; yes ; yes ; yes ; yes ; yes ; yes ;AMP ; no 
+ rh| Maptitude Caliper software ; no ; no ; yes ; no ; no ; no ; no ; yes ; no 
+ rh| MapWindow GIS ; yes ; yes ; yes ; no ; no ; no ; no ; no ; no 
+ rh| Oracle Spatial ; no ; no ; yes ; yes ; yes ; no ; yes ; yes ; no 
+ rh| PostGIS ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no 
+ rh| QGIS ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; Google Earth Plugin, KML, WMS 
+ rh| RegioGraph ; no ; no ; yes ; no ; no ; no ; no ; no ; no 
+ rh| RemoteView ; no ; no ; yes ; no ; no ; no ; no ; no ; no 
+ rh| SAGA GIS ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ;KLM 
+ rh| SAP HANA ; Free Trial  ; no ; no ; no ; yes ; no ; no ; yes ; no 
+ rh| Smallworld ; no ; yes ; yes ; no ; yes ; no ; yes ; Read-only ; OLE, XML, Multiuser, Utility Data Model, Data Translator export/import 
+ rh| SPRING ; yes ; yes ; yes ; no ; yes ; no ;  Solaris ; no ; no 
+ rh| TerraLib TerraView ; yes ; yes ; yes ; no ; yes ; no ; no ; no ; no 
+ rh| TNTmips ; Viewer(s) ; no ; yes ; yes ; yes ; no ; yes ; no ; no 
+ rh| TransModeler Caliper Software ; no ; no ; yes ; no ; no ; no ; no ; no ; no 
+ rh| uDIG ; yes ; yes ;Java ;Java ;Java ;Java ;Java ; no ; no 
+ GIS software ; Free software ; Open source ; Windows ; Mac OS X ; Linux ; BSD ; Unix ; Web ; Other 

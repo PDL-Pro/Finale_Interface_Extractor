@@ -1,0 +1,33 @@
+ Audio player ; Lossy compression ; Lossy compression ; Lossy compression ; Lossy compression ; Lossy compression ; Lossy compression ; Lossy compression ; Lossy compression ; Lossy compression ; Lossless compression ; Lossless compression ; Lossless compression ; Lossless compression ; Lossless compression ; Lossless compression 
+ Audio player ; MP3 ; WMA ; RealAudio ; Vorbis ; Musepack ; AAC ; Dolby AC-3 ; VQF ; Opus ; APE ; FLAC ; ALAC ; SHN ; WV ; WMA L 
+ AIMP ; yes ; yes ; no ; yes ; yes ; yes ; yes ; yesAvailable through a Winamp plugin. ; yes ; yes ; yes ; yes ; no ; yes ; yes 
+ AmarokAmarok uses non-Amarok libraries to decode audio. It will play any file for which a codec is available on the system. The default libraries in Linux are from the GStreamer project, and in Windows from the VLC project. ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes ; yes ; yes ; yes 
+ Audacious ; yes ; yes ; no ; yes ; yes ; yes ; yes ; dunno ; yesname=through_ffmpeg ; yes ; yes ; yes ; no ; yes ; dunno 
+ Audion ; yes ; no ; no ; yes ; no ; no ; no ; dunno ; dunno ; no ; no ; no ; no ; no ; dunno 
+ Banshee ; yes ; dunno ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; no ; dunno ; dunno ; dunno ; dunno ; dunno 
+ cmus ; yes ; yesAvailable through a FFmpeg plugin. ; no ; yes ; yes ; yes ; yesname=through_ffmpeg ; dunno ; yesAvailable through the opusfile plugin. ; yesname=through_ffmpeg ; yes ; yesname=through_ffmpeg ; yesname=through_ffmpeg ; yes ; dunno 
+ Cog ; yes ; no ; no ; yes ; yes ; yes ; no ; dunno ; dunno ; yes ; yes ; yes ; yes ; yes ; dunno 
+ Exaile ; yesAvailable through a Gstreamer plugin. ; yesname=through_gstreamer ; yesname=through_gstreamer ; yesname=through_gstreamer ; yesname=through_gstreamer ; yesname=through_gstreamer ; yesname=through_gstreamer ; dunno ; yes ; yesname=through_gstreamer ; yesname=through_gstreamer ; yesname=through_gstreamer ; yesname=through_gstreamer ; yesname=through_gstreamer ; dunno 
+ foobar2000 ; yes ; yes ; no ; yes ; yes ; yes ; partialname=plugin ; no ; yes ; yes ; yes ; yes ; yes ; yes ; yes 
+ Groove Music ; Yes ; Yes ; No ; No ; dunno ; Yes ; Yes ; dunno ; dunno ; dunno ; Yes ; dunno ; dunno ; dunno ; dunno 
+ JRiver Media Center ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes 
+ JuK ; yes ; no ; no ; yes ; yes ; no ; no ; dunno ; dunno ; yes ; yes ; no ; yes ; no ; dunno 
+ Media Jukebox ; yesRequires External Encoding App ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; yes ; yes ; yes ; yes ; yes ; dunno 
+ MediaMonkey ; yes ; yes ; no ; yes ; yes ; partialAvailable via plugins that can be automatically downloaded during installation. ; partialname=autodl ; dunno ; no ; yes ; yes ; yes ; partialname=plugin ; partialname=plugin ; dunno 
+ MPXPLAY ; yes ; yes ; no ; yes ; yes ; yes ; yes ; dunno ; partialname=plugin ; yes ; yes ; no ; no ; yes ; dunno 
+ Music Player Daemon ; yes ; yesname=through_ffmpeg ; partialname=through_ffmpeg ; yes ; yes ; yes ; yesname=through_ffmpeg ; yesname=through_ffmpeg ; yes ; yesname=through_ffmpeg ; yes ; yes ; yesname=through_ffmpeg ; yes ; dunno 
+ MusicBee ; yes ; yes ; no ; yes ; yes ; yes ; yes ; yesname=through_winamp ; yes ; yes ; yes ; yes ; yesname=through_winamp ; yes ; yes 
+ Musicmatch Jukebox ; yes ; yes ; no ; no ; no ; no ; no ; dunno ; dunno ; no ; no ; no ; no ; no ; dunno 
+ musikCube ; yes ; partialname=autodl ; no ; yes ; partialname=autodl ; partialname=autodl ; partialname=autodl ; dunno ; dunno ; yes ; yes ; no ; no ; partialname=autodl ; dunno 
+ Quod Libet ; yesname=through_gstreamer ; yesname=through_gstreamer ; yesname=through_gstreamer ; yesname=through_gstreamer ; yesname=through_gstreamer ; yesname=through_gstreamer ; yesname=through_gstreamer ; dunno ; yes ; yesname=through_gstreamer ; yesname=through_gstreamer ; yesname=through_gstreamer ; yesname=through_gstreamer ; yesname=through_gstreamer ; dunno 
+ Rhapsody ; yes ; yes ; yes ; no ; no ; yes ; no ; dunno ; dunno ; no ; no ; no ; no ; no ; dunno 
+ Rhythmbox ; yesname=through_gstreamer ; yesname=through_gstreamer ; yesname=through_gstreamer ; yesname=through_gstreamer ; yesname=through_gstreamer ; yesname=through_gstreamer ; yesname=through_gstreamer ; dunno ; yesname=through_gstreamer ; yesname=through_gstreamer ; yesname=through_gstreamer ; yesname=through_gstreamer ; yesname=through_gstreamer ; yesname=through_gstreamer ; dunno 
+ Sayonara Player ; yes ; dunno ; dunno ; yes ; dunno ; dunno ; no ; dunno ; yes ; dunno ; yes ; dunno ; dunno ; dunno ; dunno 
+ Sonique ; yes ; yes ; no ; yes ; partialname=autodl ; partialname=autodl ; no ; dunno ; dunno ; no ; no ; no ; no ; no ; dunno 
+ SpotifyLocal files. Spotify.com. ; yes ; no ; no ; no ; no ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+ Style Jukebox ; yes ; yes ; no ; no ; no ; yes ; no ; no ; no ; no ; yes ; yes ; no ; no ; yes 
+Winamp ; yes ; yes ; yesname=plugin ; yes ; yesname=plugin ; yes ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; dunno ; yesname=plugin ; dunno 
+ XMMS ; yes ; partialname=autodl ; partialname=autodl ; partialname=autodl ; yes ; yes ; no ; yesname=plugin ; dunno ; partialname=autodl ; yes ; no ; partialname=autodl ; yes ; dunno 
+ XMPlay ; yes ; yesname=plugin ; yesname=plugin ; yes ; yesname=plugin ; yesname=plugin ; yesname=plugin ; dunno ; yesname=plugin ; yesname=plugin ; yesname=plugin ; yesname=plugin ; yesname=plugin ; yesname=plugin ; dunno 
+ Zinf ; yes ; no ; no ; yes ; no ; no ; no ; dunno ; dunno ; no ; no ; no ; no ; no ; dunno 
+ Audio player ; MP3 ; WMA ; RealAudio ; Vorbis ; Musepack ; AAC ; Dolby AC-3 ; VQF ; Opus ; APE ; FLAC ; ALAC ; SHN ; WV ; WMA L 

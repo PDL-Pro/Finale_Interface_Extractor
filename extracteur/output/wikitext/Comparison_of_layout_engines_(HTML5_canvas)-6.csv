@@ -1,0 +1,7 @@
+ ; Trident ; Gecko ; WebKit ; KHTML ; Presto 
+ rh| Frame layout ; rh| Frame layout ; rh| Frame layout ; rh| Frame layout ; rh| Frame layout ; rh| Frame layout 
+ frameset ; 4.0 ; 1.0 ; rowspan="3" yes ; rowspan="3" yes ; 1.0 
+ frame ; 4.0 ; 1.0 ; 1.0 
+ noframes ; 4.0 ; 1.0 ; 1.0 
+ rh| Inline frames ; rh| Inline frames ; rh| Inline frames ; rh| Inline frames ; rh| Inline frames ; rh| Inline frames 
+ iframe ; 4.0 ; 1.0 ; yes ; yes ; 1.0 

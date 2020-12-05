@@ -1,0 +1,16 @@
+ Feature ; Android ; iOS ; Tizen ; Sailfish OS ; Ubuntu Touch 
+Multitasking ;Yes;7+,4–6: Limited;2+;Yes;Yes 
+Quick app switching ;7+Android 7.0 Nougat: 11 tips and tricks | Technology | The Guardian ;9+: via 3D Touch,How to multitask more efficiently with 3D Touch on iPhone 6s 5+: only on iPad8 Navigation Tricks Every iPad User Needs to Know ;No;No;Yes 
+Document-centric multitasking ;5+Android "L" Feature Spotlight: The New "Document-Centric" Multitasking Interface Finally Makes Sense ;13+: can open different views of same app side by side;No;No;No 
+Split-screen app usage ;7+, some manufacturers earlierAndroid's split-screen multitasking mode needs some help from developers | Ars Technica ;9+: only on iPad with 2 GB RAM or more;Yes;No2No Split Screen Multitasking ;Tablet-only 
+Desktop interactive widgets ;Yes;10+: App icons via 3D Touch and/or dedicated widget screenWhat's new with widgets in iOS 10 – CNET ;No;Yes;No 
+Lock screen widgets ;Yes (Notifications and settings). Full Widgets on Android 4.2–4.4 only.Exploring Android L: Lockscreen widgets also bite the dust – Pocketables ;Media player, voicemail, camera,5+: Notifications,7+: Control Center8+: Interactive NotificationsGetting to know interactive notifications on iOS 8 10+: Full widgets;Media player, Notifications (SMS, call);Yes;No 
+Notification view widgets ;4.1+: Google Now and possible with 3rd party apps;8+;No;Yes;No 
+Quick settings toggles ;2+Widgets To Quickly Change Android Settings – SocialTimes ;7+;No;Via the Patchmanager appPatchmanager ;Yes 
+Search multiple internal apps at once ;Yes;Yes;Yes;NoSearch (global) ;Yes 
+Settings search ;5+ or 3rd party software like LineageOSAndroid L's global settings search make an appearance on CyanogenMod | ZDNet ;9+;No;No;Yes 
+Search all fields of internal objects ;Only search Contacts name field but not any other field;6+iOS 6: minor tweaks that you might like . Phonearena.com. Retrieved on 2012-07-03.;Only searches contacts by name;First name, last name, nickname, also the multiple field called "Details"Consider all fields in contact app search |? 
+Core apps missing search ;CalendarIssue 2518 . code.google.com (2009-04-27). (available since 3+ and HTC Sense);Bookmarks;?;?;? 
+Phone number links to dialer ;Available in stock Android, but not all devices enable it.;Yes;Yes, but not in browser;Yes;Yes 
+Addresses links to maps ;In Contacts, but not in Calendar nor in Gmail;Yes;?;Yes;? 
+Dates links to calendar ;No;Yes;Yes;Yes;? 

@@ -1,0 +1,43 @@
+ ; Trident ; Geckopublisher=Mozilla ; WebKitpublisher=WebKit ; Prestowork=Opera 
+ Attributes ; Attributes ; Attributes ; Attributes ; Attributes 
+ autocomplete ; 3.1 ; Yes ; Yes ; 2.0 
+ list ; 6.0 ; 2.0publisher=Mozilla ; yespublisher=WebKit  ; 2.0 
+ required ; 6.0 ; 2.0publisher=Mozilla ; 5281=Form validation disabled in Safari Can I use... Support tables for HTML5, CSS3, etc.publisher=WebKit ; 2.0 
+ multiple ; 6.0 ; 1.9.21=For file inputs only.publisher=Mozilla ; 526name="multiple-file"publisher=Ajaxian ; 2.7  
+ pattern ; 6.0 ; 2.0publisher=Mozilla ; 528name=validation-disabled-npublisher=WebKit ; 2.0 
+ min, max ; 6.0 ; 16.0publisher=Mozillapublisher=Mozilla ; Yespublisher=WebKit ; 2.0 
+ step ; 6.0 ; 16.0publisher=Mozilla ; 528publisher=WebKit ; 2.0 
+ placeholder ; 6.0 ; 2.0publisher=Mozilla ; Yes ; 2.7 
+ form ; no ; 2.0publisher=Mozilla ; Yespublisher=WebKit ; 2.0 
+ autofocus ; 6.0 ; 2.0publisher=Mozilla ; 528publisher=WebKit ; 2.0 
+ maxlength ; 6.0 ; 2.0publisher=Mozilla ; 528publisher=WebKit ; 2.0 
+ novalidate ; 6.0 ; 2.0publisher=Mozilla ; 528publisher=WebKit ; 2.8 
+ control ; no ; 2.0publisher=Mozilla ; No ; No 
+ accept ; no ; 2.0publisher=Mozilla,publisher=Mozilla ; Yespublisher=WebKit ; Yes 
+ formtarget ; 6.0 ; 2.0publisher=Mozilla ; Yespublisher=WebKit ; 2.8 
+ formaction ; 6.0 ; 2.0publisher=Mozilla ; Yes ; 2.8 
+ formmethod ; 6.0 ; 2.0publisher=Mozilla ; Yes ; 2.8 
+ formenctype ; 6.0 ; 2.0 ; Yes ; 2.8 
+ formnovalidate ; 6.0 ; 2.0publisher=Mozilla ; 528 ; 2.8 
+ disabled (fieldset element) ; <3.1 ; 2.0 ; No ; 2.7 
+ Elements ; Elements ; Elements ; Elements ; Elements 
+ datalist ; 6.0 ; 2.0publisher=Mozilla ; Yespublisher=WebKit ; 2.0 
+ keygenaccessdate=13 March 2010 ; Nopublisher=Microsoft ; 1.0publisher=Mozilla ; 125 ; 1.0 
+ output ; No ; 2.0publisher=Mozilla ; Yespublisher=WebKit ; 2.0 
+ progress ; 6.0 ; 6.0publisher=Mozilla ; yespublisher=WebKit ; 2.7 
+ meter ; no ; 16.0publisher=Mozilla ; yespublisher=WebKit ; 2.7 
+ Input types ; Input types ; Input types ; Input types ; Input types 
+ search ; 6.0 ; 2.0publisher=Mozilla ; 312archivedate=26 January 2010  ; 2.7 
+ tel ; 6.0 ; 2.0publisher=Mozilla ; 528publisher=WebKit ; 2.7 
+ url ; 6.0 ; 2.0publisher=Mozilla ; 528 ; 2.0 
+ email ; 6.0 ; 2.0publisher=Mozilla ; 528 ; 2.0 
+ datetime ; no ; rowspan="6" Nopublisher=Mozilla ; Nopublisher=WebKittitle=Bug 29359 – Add UIs for date and time types of input ; 2.0 
+ date ; no ; rowspan="5" Yes ; 2.0 
+ month ; no ; 2.0 
+ week ; no ; 2.0 
+ time ; no ; 2.0 
+ datetime-local ; no ; 2.0 
+ number ; 6.0 ; 29.0publisher=Mozilla ; 528 ; 2.0 
+ range ; 6.0 ; 23.0publisher=Mozilla ; Yes ; 2.0 
+ color ; no ; 29.0accessdate=18 February 2010 ; yespublisher=WebKit ; 2.7 
+ ; Trident ; Gecko ; WebKit ; Presto 

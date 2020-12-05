@@ -1,0 +1,25 @@
+ ; HTML ; CHM ; RTF ; PDF ; LaTeX ; PostScript ; man pages ; DocBook ; XML ; ePub 
+ COBOLDoc ; Yes ; No ; No ; No ; No ; No ; No ; No ; No 
+ Ddoc ; Yes ; Yesname=fn4 ; No ; Yesname=fn4 ; Yesname=fn4 ; Yesname=fn4 ; Yesname=fn4 ; No ; Yesname=fn4 
+ Document! X ; Yes ; Yes ; No ; No ; No ; No ; No ; No ; No 
+ Doxygen ; Yes ; Yes ; Yes ; IndirectlyGenerated from the LaTeX output only. ; Yes ; Indirectlyname=fn13 ; Yes ; Yes ; Yes ; No 
+ Epydoc ; Yes ; No ; No ; Yes ; Indirectlyname=fn5 ; Indirectlyname=fn5 ; No ; No ; No 
+ Haddock ; Yes ; Yes ; No ; No ; No ; No ; No ; Partial ; No 
+ HeaderDoc ; Yes ; No ; No ; No ; No ; No ; Yes ; No ; Yes 
+ Imagix 4D ; Yes ; No ; Yes ; No ; No ; No ; No ; No ; No 
+ Javadoc ; Yes ; Indirectlyname=fn6 ; Indirectlyname=fn6 ; Indirectlyname=fn6 ; Indirectlyname=fn6 ; Indirectlyname=fn6 ; Indirectlyname=fn6 ; Indirectlyname=fn6 ; Indirectlyname=fn6 
+ JSDoc ; Yes ; No ; No ; No ; No ; No ; No ; No ; No 
+ JsDoc Toolkit ; Yes ; No ; No ; No ; No ; No ; No ; No ; Yes+JSON 
+ Natural Docs ; Yes ; No ; No ; No ; No ; No ; No ; No ; No 
+ NDoc ; Yes ; Yes ; No ; No ; No ; No ; No ; No ; No 
+ pdoc3 ; Yes ; No ; No ; IndirectlyGenerated from Markdown or HTML output only. ; No ; No ; No ; No ; No ; No 
+ phpDocumentor ; Yes ; Yes ; No ; Yes ; No ; No ; No ; Yes ; Yes 
+ pydoc ; Yes ; No ; No ; No ; No ; No ; No ; No ; No ; No 
+ RDoc ; Yes ; Yesname=fn9 ; No ; No ; No ; No ; Indirectlyname=fn10 ; No ; Yesname=fn9 
+ ROBODoc ; Yes ; Indirectly ; Yes ; Indirectlyname=fn5 ; Yes ; Indirectlyname=fn5 ; Yes ; Yes ; No 
+ Sandcastle ; Yes ; Yes ; No ; No ; No ; No ; No ; No ; No 
+ Sphinx ; Yes ; Yes ; ; IndirectlyGenerated from the LaTeX output only ; Yes ; ; Yes ; ; ; Yes 
+ Visual Expert ; Yes ; No ; No ; No ; No ; No ; No ; No ; No 
+ VSdocman ; Yes ; Yes ; No ; Yes ; No ; No ; No ; No ; Yes 
+ YARD ; Yes ; No ; No ; No ; No ; No ; No ; No ; No 
+ ; HTML ; CHM ; RTF ; PDF ; LaTeX ; PostScript ; man pages ; DocBook ; XML ; ePub 

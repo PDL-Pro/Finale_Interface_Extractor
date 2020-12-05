@@ -1,0 +1,11 @@
+ Attribute ; Element ; Trident ; EdgeHTML ; Gecko ; WebKit ; Presto 
+ manifest ; html ; 6.0{{cite web|url= ; 12 ; 1.9 ; Yes ; 2.6archiveurl= June 2010archiveurl= July 2010 
+ sizes ; link ; No ; 13 ; 8.0 (only mobile)publisher=Mozillapublisher=Mozilla ; Yespublisher=WebKit ; No 
+ charset ; meta ; 4.0archivedate=2 March 2012  ; 12 ; 1.9.2 ; Yes ; 2.5.24 
+ scoped ; style ; No ; No ; 21.0publisher=Mozilla ; Nopublisher=WebKit ; rowspan="6" No 
+ async ; script ; 6.0 ; 12 ; 1.9.2publisher=Mozilla ; Yespublisher=WebKit 
+ reversed ; ol ; No ; No ; 18.0publisher=Mozilla ; Yespublisher=WebKit 
+ download ; a,area ; No ; 13 ; 20.0publisher=Mozilla ; yes 
+ sandbox ; iframe ; 6.0publisher=Microsoft ; 12 ; 17.0publisher=Mozilla ; 533publisher=WebKit 
+ seamless ; iframe ; no ; no ; nopublisher=Mozilla ; nopublisher=WebKit 
+ Attribute ; Element ; Trident ; EdgeHTML ; Gecko ; WebKit ; Presto 

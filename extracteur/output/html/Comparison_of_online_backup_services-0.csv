@@ -1,0 +1,41 @@
+Provider;Win.;Linux;Mac;Android;iOS;Encrypted storage;Zero knowledge;Secure Key Management;Limited MB plan;Unlimited MB plan;$/MB plan;Unlimited BW;Provider;Cloud hosted Net Drive;Sync;Autodetect changes;Public file hosting;physical media restore;Server location(s);Free online storage (non-trial);Maximum per-file size;External hard drive support;Hybrid Option;Green Hosting;OpenSaaS
+Acronis;Yes;Enterprise only, with limited data;Yes;Yes;Yes;Yes;Optional;Yes;Optional (Enterprise);Yes (Only win/mac);No;Yes;Acronis;No;Yes;;;;United States, Europe;No;No limit;Yes;;;
+Backblaze;Yes;Yes;Yes;Yes;Yes;Yes;No Company must be given passphrase (to private key) to restore any data.;No;No;Yes;No;No;Backblaze;;;Yes;Yes;Yes;United States, Europe;10 GB;No limit;Yes;No;;
+Barracuda Backup Service;Yes;Yes;Yes;;;Yes;No;?;No fee per computer;No;Yes;;Barracuda Backup Service;Yes;Yes;;No;Yes;United States, Canada, APAC, Europe;No;;;?;;
+Baidu Cloud;Yes;Yes;Yes;Yes;Yes;Yes;No;?;No;No;Yes;;Baidu;;Yes;Yes;Yes;;China;2 TB;4 GB (Non-member) 10 GB (Member) 20 GB (Super Member).;;?;;
+Box;Yes;Partial (no offline sync, access through DAV server);Yes;Yes;Yes;Yes;No;?;Yes;No;;;Box;Yes;Yes;Yes;;;United States;10 GB;250 MB (Free) 5 GB (Paid);;;;
+Carbonite;Yes;No;Yes;Yes;Yes;Yes;Partial, optional for Windows only;?;Yes (Business only);Yes (Home only);No;Yes;Carbonite;;Yes;Yes;Yes;;United States;No;4 GB;Yes;Yes;;
+CloudBerry Backup;Yes;Yes;Yes;No;No;Yes;Yes;Yes;;;;Yes;CloudBerry Backup;Yes;Yes;Yes;;Yes;Global;No;No limit;Yes;Yes;;
+CloudMe;Yes;Yes;Yes;Yes;Yes;No, but 3rd party apps available;;?;;No;;Yes;CloudMe;Yes;Yes;Yes;;;Sweden;3 GB;150 MB (Free Accounts) No limit (Premium Accounts);No Limit;No;;
+Comodo Backup;Yes;No;No;;;Yes;No;?;Yes;No;Yes (5);;Comodo Backup;No;No;;No;;United States;No;;;;;
+CrashPlan;Yes;Yes;Yes;Yes;Yes;Yes;Yes, except for web restore;Yes;Yes, 10TB;No;No;Yes;CrashPlan;No;No;Yes;No;No;United States, Australia;No;No Limit;Yes;No;;
+Dropbox;Yes;Does not work on filesystems other than ext4;Yes;Yes;Yes;Yes;No;?;;;Yes;;Dropbox;No;Yes;Yes;Yes;;;2 GB;No Limit;;;;No
+Dropmysite;Yes;Yes;Yes;;;Yes;No;?;Yes;No;No;Yes;Dropmysite;;Yes;Yes;Yes;;Global;2 GB;No limit;;?;;
+Egnyte;Yes;Yes;Yes;;;Optional;Optional;?;;;;;Egnyte;Yes;Yes;Yes;Yes;;United States;No;No limit;;?;;
+ElephantDrive;Yes;Yes;Yes;Yes;;Yes;Optional (off by default);?;Yes;No;;;ElephantDrive;Yes;Yes;Yes;Yes;;United States;2 GB;;Yes;?;No, Amazon AWS;
+Google Drive;Yes;No, no provider-sanctioned Linux support.;Yes;Yes;Yes;Yes;No;?;;Yes (Enterprise Only);Yes;Yes;Google Drive;No;Yes;Yes;Yes;;United States, Worldwide;15 GB;5 TB;;;Partial: 34%;No
+IASO Backup;Yes;Yes;Yes;;Yes;Yes;Yes;?;Yes;No;Yes;;IASO Backup;No;No;No;Yes;;United States, Worldwide;No;No limit;Yes;Yes;;
+iCloud;Yes;Yes, via Storage Made Easy client;Yes;Yes, via Storage Made Easy client;Yes;Yes;No;?;No;No;Yes;;iCloud;?;Yes;?;?;;China for mainland China accounts, unknown for others;1 GB (everyone) 5 GB (Apple users only);;;;Yes, 94%;No
+iDrive;Yes;Yes, but you have to manually run perl scripts.;Yes;Yes;Yes;Yes;No;;No;No;Yes;;iDrive;;Yes;Yes;Yes;Yes;unknown;5 GB;;Yes;;;
+Infrascale;Yes;Yes;Yes;Yes;Yes;Yes;Optional;Optional;Yes;Yes;No;Yes;Infrascale;No;Yes;Yes;Yes;Yes;United States, Canada, United Kingdom, South Africa, Australia, New Zealand, Jamaica;No;No limit;Yes;Optional;;
+Iperius Online Storage;Yes;No;No;;;Yes;Optional;?;50, 100, 200, 500 GB;No;No;Yes;Iperius Online Storage;;Yes;Yes;No;Iperius Online Storage;;;No limit;;;;
+Intronis;Yes;No;Yes;Yes;Yes;Yes;Yes;configurable;Yes;No;Yes;Yes;Intronis;Yes;Yes;Yes;No;Yes;United States, Canada;No;No limit;Yes;Optional;Yes;
+Jumpshare;Yes;No;Yes;No;Yes;Yes;;;Yes;No;No;Yes;Jumpshare;;Yes;Yes;Yes;No;United States, Europe;2 GB;250 MB on free, Unlimited on Jumpshare Plus;;;Yes;
+Jungle Disk;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;;;Yes;Yes;Jungle Disk;Yes;Yes;Yes;Yes;;United States, Europe;No;No limit in Backup Vault;Yes;;Partial, Amazon AWS or Rackspace Cloud Files.;
+KeepVault;Yes;No;No;;;Yes;Yes;?;Yes;No;Yes;;KeepVault;;;Yes;;;United States;;20 GB;;;;
+Livedrive;Yes;No;Yes;Yes;Yes;No;No;?;Yes;Online Backup only;No;Yes;Livedrive;Yes (paid-only);Yes;Yes;Yes;Yes;United Kingdom;No;No limit;Yes;;;
+MediaFire;Yes;Upload only [1];Yes;Yes;Yes;No;No;?;Yes;No;Yes;Yes;MediaFire;No;Yes;Yes;Yes;;United States;10 GB;No Limit;No;No;;
+Mega;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Mega Ltd.;No;Yes;Yes, using MEGAsync client;Yes;No;Europe, New Zealand;15 GB + 35 GB first 30 days;No limit;No;No;;
+MiMedia;Yes;No;No;;;Yes;No;?;Yes;No;Yes;Yes;MiMedia;No;No;Yes;No;No;United States;7 GB;3 GB;Yes;;;
+OneDrive;Yes;No, see note;Yes;Yes;Yes;Yes;No;?;Yes;No;;;OneDrive;No;Yes;;;;;5 GB for new users, 25 GB for older users;100 GB;;;Partial, 29%;No
+SpiderOak;Yes;Yes;Yes;Download Only;Download Only;Yes;Yes;?;Yes;Business only (min 10 users);Yes;Yes;SpiderOak;No;Yes;Yes;Yes;;;(2 GB free for 60 days only);No limit;Yes;Yes;;No
+SugarSync;Yes;No;Yes;Yes;Yes;Yes;No;?;Yes;No;No;;SugarSync;;Yes;Yes;Yes (SugarSync account needed for folders);;;No;100 MB (web) No limit (client app);;;;
+Syncplicity;Yes;No;Yes;Yes;Yes;Yes;No;?;;;Yes;;Syncplicity;;Yes;Yes;Yes;;United States;10 GB;;;;;
+Tarsnap;Yes via Cygwin;Yes;Yes;No;No;Yes;Yes;?;No;No;Yes;;Tarsnap;No;;;;;;No;;;;No, Amazon AWS;No
+Trend Micro SafeSync;Yes;Partial;Yes;Yes, via Storage Made Easy client;Yes, via Storage Made Easy client;;No;?;;;Yes;;Trend Micro SafeSync;Yes;Yes;;Yes;;United Kingdom;;;;;;
+Tresorit;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Tresorit;Yes;Yes;Yes;Yes;No;Ireland, Netherlands;3 GB;0.5 GB (free), 10 GB (paid);Yes;No;;
+Unitrends Vault2Cloud;Yes;Yes;Yes;;;Yes;No;?;No;Yes;Yes;;Unitrends Vault2Cloud;Yes;Yes;;No;Yes;United States;No;;;;;
+UpdateStar Online Backup;Yes;No;No;;;Yes;No;?;Yes;Yes;;;UpdateStar Online Backup;;;;;;Europe;;;;;;
+Yandex.Disk;Yes;Yes;Yes;Yes;Yes;No;No;?;Yes;;;;Yandex.Disk;Yes;Yes;Yes;Yes;;Russia;10 GB;50 GB;;;;
+Zetta.net;Yes;Yes;Yes;;;Yes;No;?;Yes;No;Yes;Yes;Zetta.net;Yes;Yes;Yes;No;Yes;United States;No;No limit;Yes;Yes;;
+Zmanda Cloud Backup;Yes;No;No;;;Optional;Optional;?;;;Yes;;Zmanda Cloud Backup;Yes;;;;Yes;United States, Europe, Singapore, Japan;;No limit;Yes;Yes;Partial, Amazon AWS or Google Cloud Storage

@@ -1,0 +1,30 @@
+ ; ; Trident ; Tasman ; Gecko ; WebKit ; KHTML ; Presto 
+ rh| Interface Range ; rh| Interface Range ; rh| Interface Range ; rh| Interface Range ; rh| Interface Range ; rh| Interface Range ; rh| Interface Range ; rh| Interface Range 
+ DOM2 ; startContainer ; rowspan="24" no ; ? ; 1.0 ; rowspan="24" yes ; ? ; 1.0 
+ DOM2 ; startOffset ; ? ; ? ; 1.0 ; 1.0 
+ DOM2 ; endContainer ; ? ; ? ; 1.0 ; 1.0 
+ DOM2 ; endOffset ; ? ; ? ; 1.0 ; 1.0 
+ DOM2 ; collapsed ; ? ; ? ; 1.0 ; 1.0 
+ DOM2 ; commonAncestorContainer ; ? ; ? ; 1.0 ; 1.0 
+ DOM2 ; setStart() ; ? ; ? ; 1.0 ; 1.0 
+ DOM2 ; setEnd() ; ? ; ? ; 1.0 ; 1.0 
+ DOM2 ; setStartBefore() ; ? ; ? ; 1.0 ; 1.0 
+ DOM2 ; setStartAfter() ; ? ; ? ; 1.0 ; 1.0 
+ DOM2 ; setEndBefore() ; ? ; ? ; 1.0 ; 1.0 
+ DOM2 ; setEndAfter() ; ? ; ? ; 1.0 ; 1.0 
+ DOM2 ; collapse() ; ? ; ? ; 1.0 ; 1.0 
+ DOM2 ; selectNode() ; ? ; ? ; 1.0 ; 1.0 
+ DOM2 ; selectNodeContents() ; ? ; ? ; 1.0 ; 1.0 
+ DOM2 ; compareBoundaryPoints() ; ? ; ? ; 1.0 ; 1.0 
+ DOM2 ; deleteContents() ; ? ; ? ; 1.0 ; 1.0 
+ DOM2 ; extractContents() ; ? ; ? ; 1.0 ; 1.0 
+ DOM2 ; cloneContents() ; ? ; ? ; 1.0 ; 1.0 
+ DOM2 ; insertNode() ; ? ; ? ; 1.0 ; 1.0 
+ DOM2 ; surroundContents() ; ? ; ? ; 1.0 ; 1.0 
+ DOM2 ; cloneRange() ; ? ; ? ; 1.0 ; 1.0 
+ DOM2 ; toString() ; ? ; ? ; 1.0 ; 1.0 
+ DOM2 ; detach() ; ? ; ? ; 1.0 ; 1.0 
+ rh| Interface DocumentRange ; rh| Interface DocumentRange ; rh| Interface DocumentRange ; rh| Interface DocumentRange ; rh| Interface DocumentRange ; rh| Interface DocumentRange ; rh| Interface DocumentRange ; rh| Interface DocumentRange 
+ DOM2 ; createRange() ; no ; ? ; 1.0 ; no ; ? ; 1.0 
+ rh| Exception RangeException ; rh| Exception RangeException ; rh| Exception RangeException ; rh| Exception RangeException ; rh| Exception RangeException ; rh| Exception RangeException ; rh| Exception RangeException ; rh| Exception RangeException 
+ DOM2 ; code ; no ; ? ; 1.0 ; yes ; ? ; 1.0 

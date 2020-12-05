@@ -1,0 +1,16 @@
+ ;HTML catalog ;Meta tagging ;RSS feeds ;SEO URLs ;Site map, XML ;GoodRelations RDFa 
+ Apache OFBiz ; yes ; yes ; no ; yes ; yes ; no 
+ Batavi ; yes ; yes ; no ; yes ; no ; no 
+ Bigcommerce ; yes ; yes ; yes ; yes ; yes ; no 
+ Drupal Commerce ; yes ; yes ; yes ; yes ; yes ; yes 
+ KonaKart ; yes ; yes ; yes ; yes ; no ; no 
+ Magento ; yes ; yes ; yes ; yes ; yes ; no 
+ nopCommerce ; yes ; yes ; yes ; yes ; yes ; no 
+ osCommerce ; no ; no ; add-on ; yes ; add-on ; yes 
+ pimcore ; yes ; yes ; yes ; yes ; yes ; yes 
+ PrestaShop ; yes ; yes ; yes ; yes ; yes ; yes 
+ Shopify ; yes ; yes ; yes ; yes ; yes ; no 
+ SupaDupa ; yes ; yes ; no ; yes ; yes ; no 
+ WooCommerce ; yes ; yes ; yes ; yes ; yes ; yes 
+ Zen Cart ; add-on ; yes ; add-on  ; add-on ; add-on ; no 
+ ;HTML catalog ;Meta tagging ;RSS feeds ;SEO URLs ;Site map, XML ;GoodRelations RDFa 

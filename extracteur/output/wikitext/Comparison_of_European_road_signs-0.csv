@@ -1,0 +1,23 @@
+ Country ; Motorways ; Expressways ; Primary roads ; Primary roads ; Secondary roads ; Regional destinations ; Local destinations ; Tourist signs ; Temporary Detour 
+ Country ; Motorways ; Expressways ; outside urban area ; outside urban area ; outside urban area ; outside urban area ; Local destinations ; Tourist signs ; Temporary Detour 
+ Austria ; Salzburg ; Wien ; Villach ; Villach ; n/a ; SalzkammergutUsed to indicate locations like regions, city centres and city districts ; SalzkammergutUsed to indicate locations like regions, city centres and city districts ;  ; Umleitung 
+ Czechia ; BRNO ; PRAHA ; VYŠKOV ; VYŠKOV ; n/a ; SLOVANY ; Letiště ; Hrad Bouzov ; PRAHA 
+ Finland ; HELSINKIHELSINGFORS ; LAPPEENRANTA ; PORVOOBORGÅ ; PORVOOBORGÅ ; n/a ; KYMINLINNA ; Kirjasto ; Hiidenkivi ; TURKU 
+ France ; PARIS ; MARSEILLE ; BEAUVAISUsed to indicate specific directions ; TOULON ; LA CHAPPELLE ; n/a ; Gare S.N.C.F. ; PARC NATUREL ; Déviation 
+ Germany ; Hamburg ; Freiburg ; Lübeck ; Lübeck ; n/a ;  ; Bahnhof ; Burg Eltz ; Umleitung 
+ Greece ; ΘεσσαλονίκηThessaloniki ; ΠάτραPatra ; ΑΘΗΝΑΑΤΗΙΝΑ ; ΑΘΗΝΑΑΤΗΙΝΑ ; n/a ;  ; Κέντρο ; ΑκρόποληAkropolis ;  
+ Ireland ; Áth CliathDUBLIN ; n/a ; Tulach MhórTULLAMORENational primary & secodary roads ; Tulach MhórTULLAMORENational primary & secodary roads ; n/a ; GuaireGOREYRegional & local roads ; GuaireGOREYRegional & local roads ; HEYWOOD ;  
+ Italy ; VENEZIA ; UDINE ; BERGOSOLE ; BERGOSOLE ; n/a ;  ; aeroporto ; Colfosco ; deviazione 
+ Liechtenstein ; (CH)St.Gallen ; (CH)Chur ; Schaan ; Schaan ; Vaduz ; n/a ; Bahnhof ; style="background:#712E1A, color:white, font-family:Georgia, serif, font-style:italic,font-weight:500| Burg ; Umleitung 
+ Lithuania ; KLAIPĖDA ; KAUNAS ; VILNIUS ; VILNIUS ; n/a ;  ; CENTRAS ;  ; Apylanka 
+ Netherlands ; Amsterdam ; Den Haag ; Woerden ; Woerden ; n/a ;  ; Centrum ;  ; OMLEIDINGVolg AOn non-motorways only 
+ Norway ; Nannestad ; Lillestrøm ; Trondheim ; Trondheim ; n/a ;  ; Sentrum ; [icon] Kvitsand ; 
+ Poland ; Wrocław ; Poznań ; Opole ; Opole ; n/a ;  ; style="background:white, color:#2E4994| Stacja ; Kraków ; Objazd 
+ Portugal ; Lisboa  ; n/a ; Portalegre ; Portalegre ; Póvoa de Varzim  ; ALGARVERegional destinations and cardinal directions are written fully in uppercase (e.g. "ALGARVE" or "NORTE"), with the text and background colors being accordingly with the type of road ; centro ; castelo ; Desvio 
+ Romania ; București ; n/a ; Pitești ; Pitești ; n/a ; n/a ; Centru ; Castelul Bran ; Ocolire 
+ Slovakia ; Košice ; Nitra ; Bratislava ; Bratislava ;  ; ; Centrum ; Hrad ; obchádzka 
+ Sweden ; GÖTEBORG ; STOCKHOLM ; FALUN ; FALUN ; n/a ; NORRMALM ; Vårdcentral ; Långe Erik ; 
+ Switzerland ; Basel ; Chiasso ; Moudon ; Moudon ; Ftan ; n/a ; Gare CFF ; style="background:#712E1A, color:white, font-family:Georgia, serif, font-style:italic,font-weight:500| Castello ; UmleitungDéviationDeviazione 
+ Spain ; VillalbaNext to AUTOPISTA also used for AUTOVÍA and AUTOBIA ; CórdobaVía reservada para automóviles ; Oviedovía rápida ; PINTOcarretera convencional ; BADAJOZ ; n/a ; centro ; Navacerrada ; DESVÍO 
+ UK ; Nottingham M1 ; n/a ; Holyhead A55 ; Holyhead A55 ; Aylesbury ; The NORTHRegional destinations consist of upper case cardinal destinations and regions (e.g. "The NORTH" or "The SOUTH WEST") and are only used on motorway and primary road signs ; Village Hall ; Thorpe Park ; Diversion 
+ Åland ; n/a ; n/a ; LÅNGNÄS ; LÅNGNÄS ; n/a ; KLINTEN ; Centralsjukhuset ; Bomarsund ; KATTBY 

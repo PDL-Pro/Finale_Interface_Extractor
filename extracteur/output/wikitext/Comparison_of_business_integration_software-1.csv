@@ -1,0 +1,26 @@
+ Software ; Microsoft Windows ; Microsoft Windows ; Microsoft Windows ; Microsoft Windows ; Microsoft Windows ; Microsoft Windows ; Microsoft Windows ; Microsoft Windows ; Microsoft Windows ; Darwin/OS X ; Linux ; Linux ; Linux ; Linux ; IBM ; IBM ; IBM ; IBM ; HP-UX ; illumos/Solaris <!-- rowspan="2" | Android ; iOS--> 
+ Software ; 2000 ; XP ; Vista ; 2003 Server ; 2008 R2 Server ; 2008 Server ; 2012 Server ; 7 – 64 bit ; 8 – 64 bit ; Darwin/OS X ; Red Hat ; SUSE ; Ubuntu ; CentOS ; AIX ; OS/390 ; i5/OS ; z/OS  ; HP-UX ; illumos/Solaris <!-- rowspan="2" | Android ; iOS--> 
+ AdroitLogic UltraESB ; yesDevelopment environment only. ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; no ; no ; yes 
+ Anypoint Platform ; No ; No ; No ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; yes ; yes ; Yes ; Yes ; yes ; No ; No ; No ; Yes ; yes 
+ Artix ESB ; with SP3, SP4 ; with SP1, SP2 ; ; yes ; ; ; ; ; ; no ; yes ; yes ; ; ; yes ; ; no ; yes ; yes ; yes 
+ Automation Anywhere Integration Pack ; yes ; yes ; yes ; yes ; ; ; ; ; ; no ; no ; no ; ; ; no ; no ; no ; no ; no ; no 
+ BizTalk Server ; yesversions prior to 2006 R2 only. SP4 required for 2004 and 2006. ; yes32-bit: versions prior to 2010, not including 2000. SP 1 required for 2004. SP2 required for 2006/2006 R2.  SP3 required for 2009. 64 bit: version between 2006 and 2009.  SP2 required for 2006 R2. SP3 required for 2009. ; yesVersions from 2006 R2 to 2010. SP1 required for 2009.  SP2 required for 2010. ; yesVersions from 2002 (x32) or 2006 R2 (x64) to 2009. SP1 required for 2006, 2006 R2 and 2009. ; yes2010 and later.  SP1 required for 2013. ; yes2009 and 2010. ; yes2013 and later. ; yes2010 and later.  SP1 required for 2013. ; yes2013 and later. ; no ; no ; no ; ; ; no ; ; no ; no ; no ; no 
+ Flow Software ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; ; no ; no ; no ; ; ; no ; no ; no ; no ; no ; no 
+ IBM Integration Bus Use IBM's Software Compatibility Reports  for details of IBM software compatibility. ; no ; no ; no ; no ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes ; yes ; no ; yes ; no ; no ; yes ; yes ; yes 
+ JBoss Enterprise Service Bus (ESB) ; yes ; yes ; yes ; yes ; ; ; ; ; ; yes ; yes ; yes ; ; ; yes ; ; ; ; yes ; yes 
+ JBoss Enterprise SOA Platform ; yes ; yes ; yes ; yes ; ; ; ; ; ; yes ; yes ; yes ; ; ; yes ; ; ; ; yes ; yes 
+ Informatica Power Center ; yes ; yes ; yes ; yes ; ; ; ; ; ; ; yes ; yes ; ; ; yes ; ; yes ; yes ; yes ; yes 
+ Openadaptor ; yes ; yes ; ; yes ; ; ; ; ; ; yes ; yes ; yes ; ; ; yes ; ; ; ; yes ; yes 
+ OpenESB ; yes ; yes ; ; yes ; ; ; ; ; ; yes ; yes ; yes ; ; ; yes ; no ; no ; no ; yes ; yes 
+ OpenLink Virtuoso ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; no ; yes ; yes 
+ Oracle BPEL Process Manager ; yes ; yes ; ; yes ; yes ; ; yes ; yes ; ; ; yes ; yes ; ; ; 5L ; ; no ; no ; yes ; yes 
+ Oracle Enterprise Service Bus ; yes ; yes ; ; yes ; yes ; ; yes ; yes ; ; ; yes ; yes ; ; ; yes ; ; no ; no ; yes ; yes 
+ PEtALS ESB ; yes ; yes ; ; yes ; ; ; ; ; ; yes ; yes ; yes ; ; ; yes ; no ; no ; no ; yes ; yes 
+ SAP Exchange Infrastructure ; yes ; yes ; yes ; yes ; ; ; ; ; ; yes ; yes ; yes ; ; ; yes ; no ; yesSee RedBook SAP NetWeaver Java on IBM i5/OS ; yes ; yes ; yes 
+ ServiceMix ; yes ; with SP2 ; yes ; yes ; ; ; ; ; ; yes ; yes ; yes ; ; ; yes ; no ; no ; no ; yes ; yes 
+ Sonic ESB ; yes ; yes ; yes ; yes ; ; ; ; ; ; ; yes ; yes ; ; ; yes ; no ; no ; no ; yes ; yesSee Sonic 8.5.1 Supported Platforms 
+ Spagic ; yes ; yes ; ; yes ; ; ; ; ; ; yes ; yes ; yes ; ; ; yes ; no ; no ; no ; yes ; yes 
+ Sun Java Composite Application Platform Suite ; yes ; yesFor development ; ; yes ; ; ; ; ; ; ; yes ; yes ; ; ; yes ; no ; no ; no ; yes ; yes 
+ TrackerSuite.Net ; no ; with SP2 ; yes ; yes ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; 
+ Unify NXJ ; with SP4 ; with SP1 ; ; yes ; ; ; ; ; ; no ; yes ; yes ; ; ; 5.3 ; ; no ; no ; yes ; yes 
+ WSO2 Enterprise Service Bus (ESB) ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; ; ; ; ; yes 

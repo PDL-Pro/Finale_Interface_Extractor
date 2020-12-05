@@ -1,0 +1,5 @@
+ ; ; Trident ; Tasman ; Gecko ; WebKit ; KHTML ; Presto 
+ rh| Interface AbstractView ; rh| Interface AbstractView ; rh| Interface AbstractView ; rh| Interface AbstractView ; rh| Interface AbstractView ; rh| Interface AbstractView ; rh| Interface AbstractView ; rh| Interface AbstractView 
+ DOM2 ; document ; 6.0 ; ? ; 1.0 ; ? ; ? ; 1.0 
+ rh| Interface DocumentView ; rh| Interface DocumentView ; rh| Interface DocumentView ; rh| Interface DocumentView ; rh| Interface DocumentView ; rh| Interface DocumentView ; rh| Interface DocumentView ; rh| Interface DocumentView 
+ DOM2 ; defaultView ; No ; ? ; 1.0 ; ? ; ? ; 1.0 

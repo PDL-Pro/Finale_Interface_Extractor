@@ -1,0 +1,39 @@
+ File manager ; Symbolic link ; Browse compressed folders ; Slideshows ; Shows combined Size of Selected Directories ; Branch Sizes ; Directory Compare ; Synchronizer ; Find as you type (Type-ahead find) ; Embedded/Integrated Terminal ; For Directories, size column shows: 
+ rh| Altap Salamander ; dunno ; yes ; no ; yes ; dunno ; yes ; partial (for remote folders) ; yes ; yes ; DIR 
+ rh| Commander One ; yes ; yes ; no ; yes ; dunno ; no ; no ; yes ; yes, in the PRO Pack ; DIR and Total size including subdirectories 
+ rh| CRAX Commander ; yes ; yes ; dunno ; yes ; yes ; yes ; no ; yes ; no ; DIR and Total size including subdirectories 
+ rh| Directory Opus ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; yes ; yes ; DIR and Total size including subdirectories 
+ rh| Dired ; dunno ; yes ; no ; no ; dunno ; dunno ; dunno ; yes ; yes ; Literal  
+rh| Documents by Readdle ; ; ; ; ; ; ; ; ; ; 
+ rh| DOS Navigator ; no ; yes ; no ; yes ; dunno ; yes ; dunno ; yesPress and release Alt ; yes ; Total size including subdirectories 
+ rh| Dolphin ; dunno ; yes ; no ; yes ; no ; no ; no ; yes ; yes ; Number of entries 
+ rh| Double Commander ; yes ; yes ; no ; yes ; yes ; yes ; yes ; yes ; yes ; DIR 
+ rh| emelFM2 ; dunno ; dunno ; no ; yes ; dunno ; yes ; dunno ; yes ; yes ; Literal  
+ rh| FAR Manager ; yes ; yes ; partial  ; yes ; yes ; yes ; partial Via plugins, or manual with helping of the embedded Advanced Compare. ; yes ; yes ; dunno 
+ rh| File Commander ; dunno ; yes ; no ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno 
+rh| Files (Apple) ; ; ; ; ; ; ; ; ; ; 
+rh| Files by Google ; ; ; ; ; ; ; ; ; ; 
+ rh| Finder ; dunno ; no ; yes ; yes ; dunno ; no ; no ; yes ; no ; yes 
+ rh| ForkLift ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; DIR and Total size including subdirectories 
+ rh| GNOME Commander ; dunno ; no ; no ; yes ; yes ; yes ; yes ; yes ; yes ; dunno 
+ rh| Konqueror ; yes ; yes ; Yes ; Yes (with konq-plugin) ; Yes ; yes (with kdiff3 plugin)  ; yes (with kdiff3 plugin)  ; yes ; yes ; Folder only size (default) selectable to file count/total size 
+ rh| Krusader ; dunno ; yes ; no ; yes ; yes ; yes ; yes ; yes ; yes ; dunno 
+ rh| Midnight Commander ; yes ; yesExtensible via compression plugins, supported formats list depends on distribution package maintainer ; dunno ; yes ; dunno ; yes ; yesCan be done in two steps ; yes ; yes ; dunno 
+ rh| muCommander ; no ; dunno ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; partial, command execution only ; dunno 
+ rh| GNOME Files (Nautilus) ; dunno ; no ; no ; yes ; no ; no ; no ; yes ; Yes, With Plugin ; Number of entries 
+ rh| Nemo ; ? ; ? ; ? ; ? ; ? ; ? ; ? ; ? ; Yes, with nemo-terminal extension 
+ rh| Nomad.NET ; yes ; yes ; no ; yes ; yes ; yes ; no ; yes ; Yes, via Plugin ; DIR and Total size including subdirectories 
+ rh| Path Finder ; dunno ; no ; yes ; partial ; dunno ; no ; no ; yes ; yes ; yes 
+ rh| PCManFM ; dunno ; yes ; no ; yes ; yes ; no ; dunno ; yes ; no, but there is a fork attempt ; Nothing 
+ rh| ROX-Filer ; dunno ; no ; no ; yes ; dunno ; no ; dunno ; yes, and browsing with tab completion ; no ; Nothing 
+ rh| Thunar ; dunno ; no ; dunno ; yes ; dunno ; no ; no ; yes ; no ; Literal* 
+ rh| Total Commander ; yes ; yes ; yes In plugin ; yes ; yes ; yes ; yes ; yes ; yes ; DIR and Total size including subdirectories 
+ rh| Windows Explorer ; partialCopying directory junctions across drives creates an empty directory in the target ; yes ; yes ; yes (in folder tooltips) ; partial ; no ; yes ; yes ; no ; dunno 
+ rh| Xandros File Manager ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; no ; dunno 
+ rh| Xfe ; yes ; no ; no ; yes ; dunno ; yes ; dunno ; no ; no ; dunno 
+ rh| Xfile ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; no ; dunno 
+ rh| Xfm ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; no ; dunno 
+ rh| xplorer² ; dunno ; yes ; no ; yes ; yes ; yes ; yes ; yes ; yes ; dunno 
+ rh| XYplorer ; yes ; yes ; yesvia XYplorer script- SlideShow ; yes ; yes ; yes ; partial ; yes ; yes ; Contents including subs 
+ rh| ZTreeWin ; dunno ; yes ; no ; yes ; yes ; yes ; no ; yes ; dunno ; Selectable: Number of entries or Size (Optional: Including subs) 
+ File manager ; Symbolic link ; Browse compressed folders ; Slideshows ; Shows combined Size of Selected Directories ; Branch Sizes ; Directory Compare ; Synchronizer ; Find as you type (Type-ahead find) ; Embedded/Integrated Terminal ; For Directories, size column shows: 

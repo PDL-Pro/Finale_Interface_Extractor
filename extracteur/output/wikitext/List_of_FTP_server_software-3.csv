@@ -1,0 +1,26 @@
+ ; ;Cerberus ;Complete ;CrushFTP Server ;FileZilla ;IIS ;Multi Server 
+ ;License type ;proprietary ;proprietary ;proprietary ;FLOSS/GPL2 ;proprietary ;proprietary 
+ OS ;Linux ;no ;no ;yes ;no ;no ;No 
+ OS ;Mac OS X ;no ;no ;yes ;no ;no ;no 
+ OS ;Unix ;no ;? ;yes ;no ;no ;no 
+ OS ;Windows ;yes ;yes ;yes ;yes ;yes ;yes 
+ User Interface ;CLI ;? ;? ;yes ;? ;yes, via PowerShell{{cite web|author1=Microsoft TechNet|title=Web Server (IIS) Administration Cmdlets in Windows PowerShell|url= ;? 
+ User Interface ;GUI integrated ;yes ;? ;yes ;yes ;yes ;? 
+ User Interface ;GUI(s) separately ;yes ;? ;? ;? ;? ;? 
+ User Interface ;Web-based GUI ;yes ;yes ;yes ;no ;no ;? 
+ Services ;FTP ;yes ;yes ;yes ;yes ;yes ;yes 
+ Services ;SFTP ;yes ;yes ;yes ;no ;no ;yes 
+ Services ;FTPS ;yes ;yes ;yes ;yes ;yes ;yes 
+ Services ;SCP ;yes ;yes ;yes ;no ;no ;yes 
+ Services ;WebDAV ;no ;no ;yes ;no ;yes ;no 
+ Services ;HTTP/HTTPS ;yes ;yes ;yes ;no ;yes ;yes 
+ Services ;AS2 ;no ;no ;yes ;no ;no ;no 
+ Authentication ;LDAP ;yes ;yes ;yes ;no ;no ;no 
+ Authentication ;Active Directory ;yes ;yes ;yes ;no ;yes ;yes 
+ Authentication ;Local ;yes ;yes ;yes ;yes ;yes ;yes 
+ Authentication ;Database ;no ;yes ;yes ;no ;no ;yes 
+ High Availability ;Failover Cluster(active/passive) ;yes ;no ;yes ;no ;yes ;no 
+ High Availability ;Load Balancing(active/active) ;yes ;? ;yes ;no ;yes ;? 
+ Automation ;Event-handling ;yes ;yes ;yes ;no ;no ;? 
+ Automation ;Scripting ;no ;yes ;yes ;no ;no ;? 
+  ;  ; Cerberus ; Complete ; CrushFTP Server ; FileZilla ; IIS ; Multi Server 

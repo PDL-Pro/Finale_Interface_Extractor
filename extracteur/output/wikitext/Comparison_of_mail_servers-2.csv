@@ -1,0 +1,37 @@
+ Mail Server ; DNSBL ; SURBL ; Spamtrap ; Greylisting ; SPF ; DKIM ; DMARC ; Tarpit ; Bayesian filters ; Regular expression ; Embedded Antivirus ; Embedded Antispam 
+rh| agorum core ; no ; no ; no ; no ; no ; no ; no ; no ; no ; yes ; no ; no 
+rh| Apache James ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; yes ClamAV ; optional (Apache SpamAssassin) 
+rh| Axigen ; yes ; yesvia Kaspersky anti-spam add-on ; yes ; yes ; yes ; yes ; dunno ; no ; yes, in SpamAssassin  ; yes ; yes CYREN ; yes CYREN 
+rh| Citadel ; yes ; yes ; no ; no ; optional (via SpamAssassin) ; dunno ; dunno ; no ; optional (via SpamAssassin) ; no ; optional (ClamAV) ; optional (SpamAssassin) 
+rh| Courier Mail Server ; yes ; dunno ; yes ; yes ; yes ; yesTwo DKIM filters can be found in Courier-MTA's links page ; yesWith zdkimfilter ; yes ; yes ; yes ; yes Clamav ; yes 
+rh| Dovecot ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+rh| Eudora Internet Mail Server ; yes ; dunno ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+rh| Exim ; yes ; yes ; yes ; yes ; optional at build time ; yes ; optional at build time ; yes ; optional with spamassassin etc. ; yes ; optional any ; optional any 
+rh| FirstClass ; yes ; yes ; no ; dunno ; yes ; dunno ; dunno ; yes ; yes ; yes ; yes Symantec ; dunno 
+rh| Gordano Messaging Suite ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; yes ; yes ; yes ; yes CYREN, Authentium ; yes CYREN 
+rh| GroupWise ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+rh| Halon ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; optional (via SpamAssassin) ; yes ; optional (Sophos, ClamAV) ; optional (CYREN, SpamAssassin) 
+rh| Haraka ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; optional with spamassassin etc. ; yes ; optional ClamAV, AVG, any via plugins ; optional SpamAssassin, MessageSniffer 
+rh| hMailServer ; yes ; yes ; no ; yes ; yes ; yes ; dunno ; no ; no ; yes ; yes ClamAV ; yes SpamAssassin  
+rh|IBM Notes ; yes ; dunno ; dunno ; dunno ; no ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+rh| IceWarp Mail Server ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; yes ; yes ; yes ; yes ; yes 
+rh| Ipswitch IMail Server ; yes ; yes ; no ; no ; yes ; yes ; yes ; no ; yes ; yes ; yes Symantec, BitDefender ; yes CYREN 
+rh| Kolab ; yes ; dunno ; dunno ; yes ; yes ; dunno ; dunno ; dunno ; optional with spamassassin etc. ; yes ; optional (via content filter interface) ; optional (via content filter interface) 
+rh| Mailsite ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; no ; yes ; yes ; yes ; yes 
+rh| Mailtraq ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+rh| MDaemon ; yes ; yes (via SpamAssassin) ; yes ; yes ; yes ; yes ; yes ; yes ; yes (via SpamAssassin) ; yes (via Content Filter) ; optional Cyren, ClamAV ; yes SpamAssassin 
+rh| Mercury Mail Transport System ; yes ; dunno ; dunno ; yes (GreyWall extension) ; dunno ; dunno ; dunno ; dunno ; yes (SpamHalter extension) ; dunno ; yes (ClamWall extension) ; dunno 
+rh| Microsoft Exchange Server ; yes (2003 & later) ; dunno ; dunno ; yes ; yes ; optional (Signing only via 3rd Party Extensions) ; dunno ; yes (2003 & later) ; dunno ; dunno ; dunno ; dunno 
+rh| NetMail ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+rh| OpenSMTPD ; dunno ; dunno ; dunno ; dunno ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+rh| Oracle Communications Messaging Server ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; yes ; optional with spamassassin etc. ; yes ; optional any ; optional any 
+rh| Postfix ; yes ; dunno ; dunno ; yes ; yes ; optional{{cite web|url= ; optional ; dunno ; optional with spamassassin etc. ; yes ; optional (via content filter interface) ; optional (via content filter interface) 
+rh| qmail ; dunno ; dunno ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; no ; dunno ; no ; no 
+rh| Scalix ; yes ; yes (via Scalix AntiSpam powered by Cyren or SpamAssassin) ; yes (via Scalix AntiSpam powered by Cyren or SpamAssassin) ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes (via Scalix ZeroHour AntiVirus powered by Cyren or ClamAV) ; yes 
+rh| Sendmail ; yes ; yes (via milter/SA) ; dunno ; yes ; optional ; optional ; optional ; dunno ; optional with spamassassin etc. ; dunno ; yes ClamAV ; yes SpamAssassin 
+rh| SparkEngine ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+rh| UW IMAP ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+rh|WinGate ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+rh| Zarafa ; External ; External ; External ; External ; External ; External ; External ; External ; External ; External ; External ; External 
+rh| Zimbra ; yes ; yes (via SpamAssassin) ; dunno ; yes (via Cluebringer Policy Daemon) ; yes ; yes ; dunno ; yes ; yes ; yes (partially) ; yes (via ClamAV, optionally any via Amavisd) ; yes (via SpamAssassin) 
+ Mail Server ; DNSBL ; SURBL ; Spamtrap ; Greylisting ; SPF ; DKIM ; DMARC ; Tarpit ; Bayesian filters ; Regular expression ; Embedded Antivirus ; Embedded Antispam 

@@ -1,0 +1,27 @@
+ Name ; ZIP support ; FTP support ; SFTP support ; Version control browsing ; Patch creation ; Patch application ; Patch preview ; Unicode support ; XML-aware 
+ rh| Beyond Compare ; Yes ; Yes ; Yes ; SVN ; Yes ; Yes ; Yes ; Yes ; 
+ rh| Compare++ ; ; ; ; SVN, CVS, Git, Microsoft TFS, Perforce, VSS using command line ; ; ; ; Yes ; 
+ rh| diff ; No ; No ;  ; No ; Yes ; Yes with patch ; Yes with patch ; No ; No 
+ rh| diff3 ; No ; No ; ; ; ; ; ; ; No 
+ rh| Eclipse (compare) ; ; ; ; Yes CVS, Subversion, Git, Mercurial, Baazar ; ; ; ; Yes ; 
+ rh| Ediff ; Yes ; Yes ;  ; RCS, CVS, SVN, Mercurial, git (anything supported by Emacs' VC-mode)gnu.org Support-for-Version-Control ; Yes ; Yes ; Yes ; ; 
+ rh| ExamDiff Pro ; Yesthrough a plug-in ; Yesthrough a plug-in ; ; ; normal diff only ; ; ; Yes ; 
+ rh| Far Manager (compare) ; No ; No ;  ; No ; No ; No ; No ; Yes ; No 
+ rh| fc ; No ; No ; ; ; No ; ; ; ; 
+ rh| FileMerge (aka opendiff) ; No ; supported by OS ; ; ; No ; ; ; No ; No 
+ rh| Guiffy SureMerge ; Yes ; ; ; ; Yes ; Yes ; Yes ; YesUTF8, UTF16, MBCS, SJIS, over 150 file encoding and character set formats ; 
+ rh| IntelliJ IDEA (compare) ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; 
+ rh| jEdit JDiff plugin ; Yes ; Yes ;  ; Yes ; Yes ; Yes ; Yes ; Yes ; 
+ rh| Kompare ; ; ; ; ; Yes ; ; ; ; 
+ rh| Lazarus Diff ; ; ; ; ; ; ; ; ; 
+ rh| Meld ; ; ; ; CVS, Subversion, Git, Mercurial, Baazar ; Yes ; ; ; Yes ; 
+ rh| Notepad++ (compare) ; No ; YesNotepad++ FTP plugin ;  ; Git, Subversion (compare against base) ; No ; No ; No ; Yes ; No 
+ rh| Perforce P4Merge ; ; ; ; No ; ; ; ; Yes ; 
+ rh| Pretty Diff ; No ; No ; No ; No ; No ; No ; No ; Yes ; Yes 
+ rh| Tkdiff ; No ; No ;  ; CVS, RCS, Subversion ; No ; No ; No ; No ; No 
+ rh| Total Commander (compare) ; Yes ; Yes ; Yes ; No ; No ; No ; No ; Yes ; No 
+ rh| vimdiff ; Yes ; Yes ; ; ; Yes ; ; ; Yes ; 
+ rh| WinDiff ; No ; No ; ; ; No ; ; ; No ; 
+ rh| WinMerge ; Yes ; No ;  ;  Mercurial, Subversion,  Visual Source Safe, Rational ClearCase ; Yes ; ; ; Yes ; 
+ rh| UCC ; Yes ; No ; ; ; ; ; ; Yes ; 
+ Name ; ZIP support ; FTP support ; SFTP support ; Version control browsing ; Patch creation ; Patch application ; Patch preview ; Unicode support ; XML-aware 

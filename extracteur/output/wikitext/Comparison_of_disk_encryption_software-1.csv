@@ -1,0 +1,74 @@
+ Name ; Windows NT ; Windows Mobile (incl.Pocket PC) ; FreeBSD ; Linux ; Mac OS X ; NetBSD ; OpenBSD ; DragonFly BSD ; Android ; iOS 
+Rh| Aloaha Crypt Disk ; yes ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+Rh| BestCrypt Volume Encryption ; yes ; no ; no ; no ; yes ; no ; no ; no ; dunno ; dunno 
+Rh| BitArmor DataControl ; yes ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+Rh| BitLocker ; yes ; no ; no ; Partial FUSE driver to read/write Windows BitLocker-ed volumes under Linux / Mac OSX ; Partial ; no ; no ; no ; no ; dunno 
+Rh| Bloombase Keyparc ; yes ; no ; no ; yes ; yes ; no ; no ; no ; dunno ; dunno 
+Rh| Boxcryptor ; yes ; no ; no ; yes ; yes ; no ; no ; no ; yes ; yes 
+Rh| CenterTools DriveLock ; yes ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+Rh| CGD ; no ; no ; no ; no ; no ; yes ; no ; no ; dunno ; dunno 
+Rh| Check Point Full Disk Encryption ; yes ; yes ; no ; yes ; yes ; no ; no ; no ; dunno ; dunno 
+Rh| CipherShed ; yes ; no ; no Although CipherShed can be built under FreeBSD, it is not recommended to run it because of bugs and instabilities when CipherShed is attempted to be used ; yes ; yes ; no ; no ; no ; yes Third party app allows to open containers encryptes with AES-256, SHA-512 hash and FAT file system ; dunno 
+Rh| CrossCrypt ; yesCrossCrypt - Only for the Microsoft Windows XP/2000 operating systems ; no ; no ; no ; no ; no ; no ; no ; no ; dunno 
+Rh| CryFS ; yes ; no ; yes ; yes ; yes ; yes ; no ; yes ; no ; dunno 
+Rh| Cryhod ; yes ; no ; no ; yes ; no ; no ; no ; no ; dunno ; dunno 
+Rh| Cryptainer ; yes ; Yes PocketPC freeware release- SmartPhone beta available ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+Rh| CryptArchiver ; yes ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+Rh| Cryptic Disk ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+Rh| Cryptoloop ; yes FreeOTFE supports cryptoloop, dm-crypt/cryptsetup/dmsetup, and dm-crypt/LUKS volumes ; no ; no ; yes ; no ; no ; no ; no ; dunno ; dunno 
+Rh| Cryptomator ; yes ; no ; no ; yes ; yes ; no ; no ; no ; yes ; yes 
+Rh| CryptoPro Secure Disk Enterprise ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; dunno 
+Rh| CryptoPro Secure Disk for BitLocker ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; dunno 
+Rh| Cryptsetup / Dmsetup ; yes ; no ; no ; yes ; no ; no ; no ; yes ; dunno ; dunno 
+Rh| CryptSync ; yes ; no ; no ; yes ; yes ; no ; no ; no ; no ; dunno 
+Rh| Discryptor ; no ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+Rh| DiskCryptor ; yes ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+Rh| DISK Protect ; yes ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+Rh| Dm-crypt / LUKS ; yes ; yes FreeOTFE4PDA supports dm-crypt/LUKS volumes ; no ; yes ; no ; no ; no ; yes ; dunno ; dunno 
+Rh| DriveCrypt ; yes ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+Rh| DriveSentry GoAnywhere 2 ; yes ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+Rh| E4M ; yes ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+Rh| e-Capsule Private Safe ; yes ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+Rh| eCryptfs ; no ; no ; no ; yes ; no ; no ; no ; no ; dunno ; dunno 
+Rh| EgoSecure HDD Encryption ; yes ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+Rh| EncFS ; yes{{cite web|url= - Protect Your Files|publisher=|access-date=2016-03-29|archive-url= ; yes ; yes (FUSE) ; yes (FUSE) ; yes ; yes (FUSE) ; yes (FUSE) ; yes (FUSE) ; yes ; dunno 
+Rh| EncryptStick ; Yes ; no ; no ; yes ; Yes ; no ; no ; no ; dunno ; dunno 
+Rh| EncryptUSB ; Yes ; no ; no ; no ; Yes ; no ; no ; no ; dunno ; dunno 
+Rh| FileVault ; no ; no ; no ; no ; yes ; no ; no ; no ; dunno ; dunno 
+Rh| FileVault 2 ; no ; no ; no ; partial libfvde supports reading FileVault2 Drive Encryption (FVDE) encrypted volumes ; yes ; no ; no ; no ; dunno ; dunno 
+Rh| FREE CompuSec ; yes ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+Rh| FreeOTFE ; yes ; Yes ; no ; partial Supports Linux volumes ; no ; no ; no ; no ; no ; dunno 
+Rh| GBDE ; no ; no ; yes ; no ; no ; no ; no ; no ; dunno ; dunno 
+Rh| GELI ; no ; no ; yes ; no ; no ; no ; no ; no ; dunno ; dunno 
+Rh| Knox ; no ; no ; no ; no ; yes ; no ; no ; no ; dunno ; dunno 
+Rh| LibreCrypt ; yes ; no ; no ; partial Supports Linux volumes ; no ; no ; no ; no ; yes Third party app allows a user to open LibreCrypt compatible LUKS containers ; dunno 
+Rh| Loop-AES ; no ; no ; no ; yes ; no ; no ; no ; no ; dunno ; dunno 
+Rh| McAfee Drive Encryption (SafeBoot) ; yes ; yes ; no ; no ; yes ; no ; no ; no ; dunno ; dunno 
+Rh| n-Crypt Pro ; yes ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+Rh|NetLib Encryptionizer (directory encryption) ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+Rh| PGPDisk ; yes ; no ; no ; no ; yes ; no ; no ; no ; dunno ; dunno 
+Rh| PGP Whole Disk Encryption ; yes ; yes ; no ; yes ; yes ; no ; no ; no ; dunno ; dunno 
+Rh| Private Disk ; yes ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+Rh| ProxyCrypt ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; dunno 
+Rh| R-Crypto ; yes ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+Rh| SafeGuard Easy ; yes ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+Rh| SafeGuard Enterprise ; yes ; no ; no ; no ; yes ; no ; no ; no ; dunno ; dunno 
+Rh| SafeGuard PrivateDisk ; yes ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+Rh| SafeHouse Professional ; yes ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+Rh| Scramdisk ; yes ; no ; no ; yes ; no ; no ; no ; no ; dunno ; dunno 
+Rh| Scramdisk 4 Linux ; no ; no ; no ; yes ; no ; no ; no ; no ; dunno ; dunno 
+Rh| SecuBox ; no ; yes ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+Rh| SecureDoc ; yes ; no ; no ; yes ; yes ; no ; no ; no ; dunno ; dunno 
+Rh| Sentry 2020 ; yes ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+Rh| Seqrite Volume Encryption ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+Rh| Softraid / RAID C ; no ; no ; no ; no ; no ; no ; yes ; no ; dunno ; dunno 
+Rh| SpyProof! ; yes ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+Rh| Svnd / Vnconfig ; no ; no ; no ; no ; no ; no ; yes ; no ; dunno ; dunno 
+Rh| Symantec Endpoint Encryption ; yes ; no ; no ; no ; yes ; no ; no ; no ; dunno ; dunno 
+Rh| Tcplay ; no ; no ; no ; yes ; no ; no ; no ; yes ; no ; dunno 
+Rh| Trend Micro Endpoint Encryption ; yes ; no ; no ; no ; yes ; no ; no ; no ; no ; dunno 
+Rh| TrueCrypt ; yes ; no ; no Although TrueCrypt can be built under FreeBSD, it is not recommended to run it because of bugs and instabilities when TrueCrypt is attempted to be used ; yes ; yes ; no ; no ; no ; yes ; dunno 
+Rh| USBCrypt ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; dunno 
+Rh| VeraCrypt ; yes ; no ; yes ; yes ; yes ; no ; no ; no ; yes Third party app allows to encrypt and decrypt VeraCrypt containers (only available in the paid version) ; dunno 
+Rh| CyberSafe Top Secret ; yes ; no ; no ; no ; no ; no ; no ; no ; yes ; dunno 
+ Name ; Windows NT ; Windows Mobile (incl. Pocket PC) ; FreeBSD ; Linux ; Mac OS X ; NetBSD ; OpenBSD ; DragonFly BSD ; Android ; iOS 

@@ -1,0 +1,49 @@
+ Client ; Secure POP3 ; Secure POP3 ; Secure IMAP4 ; Secure IMAP4 ; Secure SMTP ; Secure SMTP ; Secure NNTP ; Secure NNTP ; Secure LDAP ; Secure LDAP ; SNI ; OCSPOCSP ; CRLCRL 
+ Client ; SSL ; TLS&nbsp,IMAPPOP ; SSL ; TLS&nbsp,IMAPPOP ; SSL ; TLS&nbsp,SMTPTLS ; SSL ; TLS ; SSL ; TLS ; SNI ; OCSPOCSP ; CRLCRL 
+ rh| Alpine ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; dunno ; dunno ; dunno 
+ rh| Apple Mail ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Becky! Internet Mail ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Citadel ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Claws Mail ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; yes 
+ rh| Cone ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; yes ; yes ; dunno ; no ; no 
+ rh2| Courier ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+ rh| Elm ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| eM Client ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; no ; no ; dunno ; no ; yes 
+ rh| EmailTray ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; no ; no ; dunno ; no ; no 
+ rh2| Eudora ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; yes ; yes ; dunno ; dunno ; dunno 
+ rh| Evolution ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; no ; no 
+ rh| Gnus ; dunno ; dunno ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| GroupWise ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Hiri ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+ rh| i.Scribe / InScribe ; yes ; yes ; yes ; no ; yes ; yes ; no ; no ; no ; no ; dunno ; no ; no 
+ rh| IBM Lotus Notes ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; dunno ; yes ; dunno ; dunno ; yes ; yes 
+ rh| KMail ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Mailpile ; dunno ; yes ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Microsoft Entourage ; yes ; dunno ; yes ; dunno ; yes ; dunno ; Yes ; dunno ; Yes ; dunno ; dunno ; dunno ; dunno 
+ rh| Microsoft Office Outlook ; yes ; no ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Mozilla Mail & Newsgroups ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Mozilla Thunderbird ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes ; yes 
+ rh2| Mulberry ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; yes ; yes ; dunno ; dunno ; dunno 
+ rh| Mutt ; yes ; yes ; yes ; yes ; 1.5.15 ; 1.5.15 ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Netscape Messenger ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Netscape Messenger 9 ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| nmh / MH ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Opera Mail ; yes ; partial M2STLS ; yes ; partial M2STLS ; yes ; partial M2STLS ; yes ; no ; n/a ; n/a ; dunno ; yes ; yes 
+ rh2| Outlook Express ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Pegasus Mail ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; yes ; dunno ; dunno ; dunno ; dunno 
+ rh2| Pine ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; dunno ; dunno ; dunno 
+ rh2| Pocomail ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| RoundCube ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; yes ; yes ; dunno ; dunno ; dunno 
+ rh| SeaMonkey Mail & Newsgroups ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh2| Spicebird ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| SquirrelMail ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; yes ; yes ; dunno ; dunno ; dunno 
+ rh| Sylpheed ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| The Bat! ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; no ; no ; yes ; yes TBCSP ; yes TBCSP 
+ rh| Trojitá ; dunno ; dunno ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; yes (system) ; yes (system) 
+ rh2| Turnpike ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Windows Live Mail ; yes ; no ; yes ; no ; yes ; no ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Windows Mail ; yes ; no ; yes ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| YAM ; yes ; yes ; no ; no ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Zimbra ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno 
+ Client ; Secure POP3 ; Secure POP3 ; Secure IMAP4 ; Secure IMAP4 ; Secure SMTP ; Secure SMTP ; Secure NNTP ; Secure NNTP ; Secure LDAP ; Secure LDAP ; SNI ; OCSPOCSP ; CRLCRL 
+ Client ; SSL ; TLS&nbsp,IMAPPOP ; SSL ; TLS&nbsp,IMAPPOP ; SSL ; TLS&nbsp,SMTPTLS ; SSL ; TLS ; SSL ; TLS ; SNI ; OCSPOCSP ; CRLCRL 

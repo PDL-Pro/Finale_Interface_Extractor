@@ -1,0 +1,8 @@
+ ; Trident ; Gecko ; WebKit ; Blink ; Presto ; KSVG ; Amaya 
+ img ; 5.0 ; 2.0publisher = Mozilla  ; yespublisher = WebKit  ; rowspan="5" dunno ; 2.1 ; no ; 5.1 
+ embed ; 5.0 ; 1.8 ; rowspan="2" yespublisher = WebKit  ; partialgroup=note ; partialgroup=note ; 5.2 
+ object ; 5.0 ; 1.8 ; yes ; 5.1 ; partialgroup=note 
+ CSS background-image ; 5.0 ; 2.0publisher = Mozilla  ; no ; 2.1 ; rowspan="3" no ; dunno 
+ CSS list-style-image ; 5.0 ; 2.0publisher = Mozilla  ; partialgroup=note ; 2.1 ; dunno 
+ as Favicon ; no ; 41publisher = Mozilla  ; no ; 80publisher = Google  ; 2.1.1 ; dunno 
+ in data URIs ; 5.0 ; yes ; yes ; dunno ; no ; dunno ; dunno 

@@ -1,0 +1,140 @@
+ XEP ; Description ; Status ; ejabberd ; iChat Server ; jabberd14 ; jabberd2 ; Metronome ; Isode M-Link ; MongooseIM ; Openfire ; Prosody ; Tigase 
+ 0004 ; Data forms ; Final ; Yes ; unk ; unk ; No ; YesServer-side Extensions Supported in Metronome. Retrieved on 2018-03-06. ; Yes ; Yes ; Yes ; YesXMPP Extensions (XEPs) supported in Prosody. Prosody.im (2013-05-29). Retrieved on 2013-07-17. ; YesExists as API on the server side 
+ 0009 ; Jabber RPC ; Final ; Yes ; unk ; unk ; No ; unk ; No ; No ; unk ; Yes ; Yes 
+ 0012 ; Last Activity ; Final ; YesProtocols Implementation | ejabberd Community Site. Ejabberd.im (2010-08-03). Retrieved on 2013-07-17. ; unk ; Yes ; Yes. Jabber2 README.protocol. Retrieved on 2014-02-27. ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ 0013 ; Flexible offline message retrieval ; Draft ; No ; unk ; Yes ; No ; No ; No ; No ; Yes ; No ; Yes 
+ 0016 ; Privacy Lists ; Deprecated ; Yes ; unk ; Yes ; Yes ; Yes ; No ; Yes ; unk ; Yes ; Yes 
+ 0018 ; Invisible Presence ; Rejected ; Yes ; unk ; Yes ; No ; No ; No ; Yes ; unk ; unk ; No 
+ 0020 ; Feature negotiation ; Deprecated ; Yes ; unk ; unk ; No ; unk ; No ; No ; No ; Yes ; Yes 
+ 0022 ; Message Events ; Obsolete ; Yes ; unk ; Yes ; Yes ; unk ; No ; Yes ; unk ; Yes ; Yes 
+ 0023 ; Message Expiration ; Obsolete ; Yes ; unk ; Yes ; Yes ; unk ; No ; Yes ; unk ; unk ; No 
+ 0025 ; HTTP Polling ; Obsolete ; Yes ; unk ; unk ; No ; No ; No ; No ; unk ; No ; No 
+ 0030 ; Service Discovery ; Final ; Yes ; unk ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ 0033 ; Extended Stanza Addressing ; Draft ; Yes[#EJAB-265 Service for XEP-0033: Extended Stanza Addressing - ProcessOne - Support. Support.process-one.net. Retrieved on 2013-07-17. ; unk ; unk ; No ; No ; No ; No ; Yes ; PartialContrib. ; No 
+ 0039 ; Statistics Gathering (deferred) ; Deferred ; Yes ; unk ; unk ; No ; No ; No ; No ; unk ; unk ; Yes 
+ 0045 ; Multi User Chat ; Draft ; Yes ; unk ; Contrib.date=2011-08-09  MU-Conference - Summary [Gna!. Gna.org. Retrieved on 2013-07-17. ; No ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ 0047 ; In-Band Bytestreams ; Final ; Yes ; unk ; unk ; No ; unk ; No ; Yes ; Yes ; Yes ; Yes 
+ 0049 ; Private XML Storage ; Historical Use ; Yes ; unk ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ 0050 ; Ad-Hoc Commands ; Draft ; Yes ; unk ; unk ; No ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ 0054 ; vcard-temp ; Historical Use ; Yes ; unk ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ XEP ; Description ; Status ; ejabberd ; iChat Server ; jabberd14 ; jabberd2 ; Metronome ; Isode M-Link ; MongooseIM ; Openfire ; Prosody ; Tigase 
+ 0055 ; Jabber Search ; Historical Use ; Yes ; unk ; unk ; No ; Yes ; Yes ; Yes ; YesProvided by search plugin ; No ; unk 
+ 0059 ; Result set management ; Draft ; Yes ; unk ; unk ; No ; Partial ; No ; Yes ; Yes ; No ; Yes 
+ 0060 ; Publish-Subscribe ; Draft ; Yes ; unk ; Contrib.Idavoll . Idavoll (2011-02-13). Retrieved on 2013-07-17. ; No ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ 0065 ; SOCKS5 Bytestreams ; Draft ; Yes ; unk ; Contrib.proxy65 - A SOCKS5 Bytestreams proxy for use in Jabber/XMPP file transfer. - Google Project Hosting. Code.google.com. Retrieved on 2013-07-17. ; No ; Yes ; No ; No ; Yes ; Yes ; Yes 
+ 0066 ; Out of Band Data ; Draft ; Yes ; unk ; unk ; No ; unk ; No ; Yes ; unk ; Yes ; Yes 
+ 0068 ; Field Standardization for Data Forms ; Approved ; Yes ; unk ; unk ; No ; unk ; Yes ; Yes ; unk ; Yes ; Yes 
+ 0070 ; Verifying HTTP Requests via XMPP ; Draft ; No ; unk ; unk ; No ; No ; No ; No ; unk ; No ; No 
+ 0073 ; Basic IM Protocol Suite ; Obsolete ; unk ; unk ; Yes ; Yes ; Yes ; No ; Yes ; Yes ; Yes ; Yes 
+ 0077 ; In-Band Registration ; Final ; Yes ; unk ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ 0078 ; Non-SASL Authentication ; Obsolete ; Yes ; unk ; Yes ; Yes ; No ; Yes ; Yes ; Yes ; Yes ; Yes 
+ 0079 ; Advanced Message Processing ; Draft ; Contrib.[#EJAB-449 Support for XEP-0079: Advanced Message Processing - ProcessOne - Support. Support.process-one.net. Retrieved on 2013-07-17. ; Contrib. ; unk ; yes ; No ; No ; Yes, partial ; unk ; No ; Yes 
+ 0080 ; User Location ; Draft ; unk ; unk ; unk ; no ; Yes ; No ; Yes ; unk ; Yes ; Yes 
+ 0082 ; XMPP Date and Time Profiles ; Approved ; Yes ; unk ; unk ; No ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ 0083 ; Nested Roster Groups ; Approved ; Yes ; unk ; Yes ; Yes ; Yes ; No ; Yes ; unk ; Yes ; Yes 
+ 0084 ; User Avatar ; Draft ; unk ; unk ; unk ; No ; Yes ; No ; No ; unk ; Yes ; Yes 
+ 0085 ; Chat State Notifications ; Final ; Yes ; unk ; unk ; No ; Yes ; No ; Yes ; unk ; Yes ; Yes 
+ 0086 ; Error Condition Mappings ; Deprecated ; Yes ; unk ; Yes ; Yes ; No ; No ; Yes ; Yes ; No ; Yes 
+ 0090 ; Legacy Entity Time ; Obsolete ; Yes[#EJAB-849 Remove support of the deprecated XEP-0090: Entity Time and XEP-0091: Delayed Delivery - ProcessOne - Support. Support.process-one.net. Retrieved on 2013-07-17. ; unk ; Yes ; Yes ; No ; No ; No ; Yes ; Yes ; Yes 
+ XEP ; Description ; Status ; ejabberd ; iChat Server ; jabberd14 ; jabberd2 ; Metronome ; Isode M-Link ; MongooseIM ; Openfire ; Prosody ; Tigase 
+ 0091 ; Legacy Delayed Delivery ; Obsolete ; Yes ; unk ; Yes ; Yes ; Yes ; Yes ; No ; Yes ; Yes ; Yes 
+ 0092 ; Software Version ; Draft ; Yes ; unk ; Yes ; Yes ; Yes ; Yes ; No ; Yes ; Yes ; Yes 
+ 0093 ; Roster Item Exchange ; Deprecated ; unk ; unk ; Yes ; Yes ; unk ; No ; Yes ; unk ; No ; No 
+ 0095 ; Stream Initiation  ; Deprecated ; unk ; unk ; unk ; No ; unk ; No ; Yes ; unk ; No ; No 
+ 0096 ; SI File Transfer ; Deprecated ; unk ; unk ; unk ; No ; unk ; No ; Yes ; Yes ; Yes ; Yes 
+ 0106 ; JID escaping ; Draft ; Yes ; unk ; unk ; No ; Yes ; No ; Yes ; Yes ; Yes ; Yes 
+ 0107 ; User Mood ; Draft ; unk ; unk ; unk ; No ; Yes ; No ; No ; unk ; Yes ; Yes 
+ 0108 ; User Activity ; Draft ; unk ; unk ; unk ; No ; Yes ; No ; No ; unk ; Yes ; Yes 
+ 0114 ; Jabber Component Protocol ; Historical Use ; Yes ; unk ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ 0115 ; Entity Capabilities ; Draft ; Yes ; unk ; unk ; No ; Yes ; No ; Yes ; Yes ; Yes ; Yes 
+ 0118 ; User Tune ; Draft ; unk ; unk ; unk ; No ; Yes ; No ; No ; unk ; Yes ; Yes 
+ 0122 ; Data Forms Validation ; Draft ; unk ; unk ; unk ; No ; No ; No ; Yes ; No ; Yes ; No 
+ 0124 ; Bidirectional-streams Over Synchronous HTTP (BOSH) ; Draft ; Yes ; unk ; Contrib. ; No ; Yes ; No ; Yes ; Yes ; Yes ; Yes 
+ 0126 ; Invisibility ; Approved ; unk ; unk ; unk ; No ; Yes ; No ; Yes ; Yes ; Yes ; No 
+ 0128 ; Service Discovery Extensions ; Approved ; No ; unk ; unk ; Yes ; Yes ; Yes ; No ; Yes ; Yes ; Yes 
+ 0130 ; Waiting Lists ; Deprecated ; No ; unk ; unk ; No ; No ; No ; No ; unk ; No ; No 
+ 0131 ; Stanza Headers and Internet Metadata ; Draft ; No ; unk ; unk ; No ; unk ; Yes ; No ; unk ; Yes ; Yes 
+ 0133 ; Service Administration ; Approved ; Yes ; unk ; unk ; No ; Yes ; Yes ; No ; unk ; Yes ; Yes 
+ 0136 ; Message archiving ; Deprecated ; Contrib.mod_archive - Message Archiving (XEP-0136) | ejabberd Community Site. Ejabberd.im. Retrieved on 2013-07-17. ; unk ; Contrib. ; No ; No ; No ; No ; Yes/Plugin ; Contrib. ; Yes 
+ 0137 ; Publishing SI Requests ; Deprecated ; No ; unk ; unk ; No ; Yes ; No ; No ; unk ; No ; No 
+ XEP ; Description ; Status ; ejabberd ; iChat Server ; jabberd14 ; jabberd2 ; Metronome ; Isode M-Link ; MongooseIM ; Openfire ; Prosody ; Tigase 
+ 0138 ; Stream Compression ; Final ; Yes ; unk ; unk ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ 0148 ; Instant Messaging Intelligence Quotient ; Humorous ; unk ; unk ; unk ; No ; unfinished ; No ; No ; unk ; experimental ; Yes 
+ 0153 ; vCard-Based Avatars ; Historical Use ; Yes ; unk ; Yes ; Yes ; Yes ; No ; Yes ; unk ; Yes ; Yes 
+ 0154 ; User profile ; Deferred ; Contrib. ; unk ; unk ; No ; Yes ; No ; No ; unk ; No ; No 
+ 0157 ; Contact Addresses for XMPP Services ; Approved ; Yes ; unk ; Yes ; Yes ; Yes ; No ; Yes ; unk ; Contrib. ; Yes 
+ 0158 ; CAPTCHA Forms ; Draft ; Yes ; unk ; unk ; No ; No ; No ; No ; unk ; No ; No 
+ 0159 ; Spim-Blocking Control ; Deferred ; unk ; unk ; unk ; No ; Yes ; No ; No ; unk ; No ; No 
+ 0160 ; Best Practices for Handling Offline Messages ; Approved ; Yes ; unk ; Yes ; Yes ; Yes ; No ; Yes ; unk ; Yes ; Yes 
+ 0161 ; Abuse Reporting ; Deferred ; unk ; unk ; unk ; No ; No ; No ; No ; unk ; No ; No 
+ 0163 ; Personal Eventing Protocol ; Draft ; Yes ; unk ; unk ; No ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ 0168 ; Resource Application Priority ; Deferred ; unk ; unk ; unk ; No ; No ; No ; No ; unk ; No ; No 
+ 0170 ; Recommended Order of Stream Feature Negotiation ; Approved ; Yes ; Yes ; Yes ; Yes ; Yes ; No ; Yes ; unk ; Yes ; Yes 
+ 0171 ; Language Translation ; Draft ; unk ; unk ; unk ; No ; No ; No ; No ; unk ; Yes ; No 
+ 0172 ; User Nickname ; Draft ; No ; unk ; unk ; No ; Yes ; No ; No ; unk ; Yes ; Yes 
+ 0175 ; Best Practices for Use of SASL ANONYMOUS ; Approved ; Yes ; unk ; unk ; Yes ; Yes ; No ; Yes ; Yes ; Yes ; Yes 
+ 0176 ; Jingle ICE-UDP Transport Method ; Draft ; Yes ; unk ; unk ; No ; unk ; No ; No ; unk ; Yes ; Yes 
+ 0178 ; Best Practices for Use of SASL EXTERNAL with Certificates ; Approved ; No ; unk ; Yes ; Yes ; Yes ; No ; No ; unk ; Yes ; Yes 
+ 0182 ; Application-Specific Error Conditions ; Approved ; unk ; unk ; unk ; No ; Yes ; No ; unk ; unk ; Yes ; No 
+ XEP ; Description ; Status ; ejabberd ; iChat Server ; jabberd14 ; jabberd2 ; Metronome ; Isode M-Link ; MongooseIM ; Openfire ; Prosody ; Tigase 
+ 0184 ; Message Delivery Receipts ; Draft ; No ; unk ; unk ; unk ; unk ; No ; Yes ; unk ; Yes ; Yes 
+ 0185 ; Dialback Key Generation and Validation ; Approved ; unk ; unk ; Yes ; Yes ; Yes ; No ; Yes ; unk ; Yes ; Yes 
+ 0189 ; Public Key Publishing ; Deferred ; unk ; unk ; unk ; No ; No ; No ; No ; unk ; Yes ; Yes 
+ 0190 ; Best Practice for Closing Idle Streams ; Obsolete ; Yes ; unk ; unk ; Yes ; Yes ; No ; unk ; unk ; No ; Yes 
+ 0191 ; Blocking Command ; Draft ; Yes ; unk ; unk ; Yes ; Yes ; No ; Yes ; unk ; Yes ; Yes 
+ 0192 ; Proposed Stream Feature Improvements ; Obsolete ; unk ; unk ; unk ; Yes ; No ; No ; unk ; unk ; unk ; unk 
+ 0193 ; Proposed Resource Binding Improvements ; Obsolete ; Contrib. ; Contrib. ; unk ; Yes ; No ; No ; unk ; unk ; unk ; unk 
+ 0194 ; User Chatting ; Deferred ; unk ; unk ; unk ; No ; Yes ; No ; No ; unk ; Yes ; unk 
+ 0195 ; User Browsing ; Deferred ; unk ; unk ; unk ; No ; Yes ; No ; No ; unk ; Yes ; unk 
+ 0198 ; Stream Management ; Draft ; Yes ; No ; No ; Yes ; Yes ; Yes ; Yes ; Partial ; Yes ; Yes 
+ 0199 ; XMPP Ping ; Final ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; unk ; Yes ; Yes 
+ 0202 ; Entity Time ; Final ; Yes ; unk ; unk ; Yes ; Yes ; No ; Yes ; unk ; Yes ; No 
+ 0203 ; Delayed Delivery ; Final ; Yes ; unk ; unk ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ 0205 ; Best Practices to Discourage Denial of Service Attacks ; Approved ; Partial ; Yes ; unk ; Yes ; Yes ; No ; Partial ; unk ; No ; Yes 
+ 0206 ; XMPP over BOSH ; Draft ; Yes ; unk ; unk ; No ; Yes ; No ; Yes ; unk ; Yes ; Yes 
+ 0209 ; Metacontacts ; Deferred ; unk ; unk ; unk ; Yes ; Yes ; No ; Yes ; unk ; Yes ; Yes 
+ 0212 ; XMPP Basic Server 2008 ; Obsolete ; Yes ; unk ; unk ; Yes ; unk ; Yes ; Yes ; unk ; Yes ; Yes 
+ 0214 ; File Repository and Sharing ; Deferred ; unk ; unk ; unk ; No ; No ; No ; No ; unk ; No ; unk 
+ 0215 ; External Service Discovery ; Deferred ; No ; No ; unk ; No ; Yes ; No ; No ; unk ; No ; No 
+ 0216 ; XMPP Intermediate IM Server 2008 ; Obsolete ; Yes ; unk ; unk ; Yes ; unk ; No ; Yes ; unk ; Yes ; Yes 
+ 0220 ; Server Dialback ; Draft ; unk ; unk ; unk ; Yes ; Yes ; Yes ; unk ; unk ; Yes ; Yes 
+ XEP ; Description ; Status ; ejabberd ; iChat Server ; jabberd14 ; jabberd2 ; Metronome ; Isode M-Link ; MongooseIM ; Openfire ; Prosody ; Tigase 
+ 0221 ; Data Forms Media Element ; Draft ; unk ; unk ; unk ; No ; No ; No ; unk ; unk ; Yes ; No 
+ 0223 ; Persistent Storage of Private Data via PubSub ; Approved ; Yes ; Yes ; unk ; No ; Yes ; No ; No ; unk ; Yes ; Yes 
+ 0225 ; Component Connections ; Deferred ; No ; unk ; unk ; Yes ; No ; No ; No ; unk ; No ; Yes 
+ 0227 ; Portable Import/Export Format for XMPP-IM Servers (proposed) ; Draft ; Yes ; unk ; unk ; No ; No ; Yes ; No ; unk ; Yes ; No 
+ 0230 ; Service Discovery Notifications ; Deferred ; unk ; unk ; unk ; No ; No ; No ; No ; unk ; No ; No 
+ 0232 ; Software Information ; Deferred ; unk ; unk ; unk ; Yes ; No ; No ; No ; unk ; No ; No 
+ 0233 ; Use of Domain-Based Service Names in XMPP SASL Negotiation ; Draft ; unk ; unk ; unk ; No ; No ; No ; No ; unk ; No ; No 
+ 0235 ; OAuth Over XMPP ; Deferred ; unk ; unk ; unk ; No ; No ; No ; No ; unk ; No ; No 
+ 0236 ; Abuse Reporting ; Retracted ; unk ; unk ; unk ; No ; No ; No ; No ; unk ; No ; No 
+ 0237 ; Roster Versioning ; Obsolete ; Yes ; unk ; unk ; Yes ; Yes ; Yes ; Yes ; unk ; Yes ; Yes 
+ 0238 ; XMPP Protocol Flows for Inter-Domain Federation ; Deferred ; unk ; unk ; unk ; Yes ; unk ; No ; unk ; unk ; unk ; unk 
+ 0241 ; Encryption of Archived Messages ; Deferred ; unk ; unk ; unk ; No ; No ; No ; No ; unk ; No ; No 
+ 0243 ; XMPP Server Compliance 2009 ; Obsolete ; Yes ; unk ; unk ; Yes ; Yes ; Yes ; Yes ; unk ; Yes ; Yes 
+ 0248 ; PubSub Collection Nodes ; Deferred ; Yes ; unk ; unk ; No ; No ; No ; No ; unk ; No ; Partial 
+ 0252 ; BOSH Script Syntax ; Deferred ; unk ; unk ; unk ; No ; Yes ; No ; No ; unk ; No ; No 
+ 0253 ; PubSub Chaining ; Deferred ; unk ; unk ; unk ; No ; No ; No ; No ; unk ; No ; Partial 
+ 0254 ; PubSub Queueing ; Deferred ; unk ; unk ; unk ; No ; No ; No ; No ; unk ; No ; unk 
+ 0255 ; Location Query ; Deferred ; unk ; unk ; unk ; No ; No ; No ; No ; unk ; No ; No 
+ 0256 ; Last Activity in Presence ; Draft ; unk ; unk ; unk ; No ; No ; No ; unk ; unk ; No ; No 
+ 0257 ; Client Certificate Management for SASL EXTERNAL ; Deferred ; unk ; unk ; unk ; No ; No ; No ; No ; unk ; Contrib. ; unk 
+ 0258 ; Security Labels in XMPP ; Draft ; unk ; unk ; unk ; unk ; Yes ; Yes ; No ; unk ; Contrib. ; unk 
+ 0259 ; Message Mine-ing ; Deferred ; unk ; unk ; unk ; No ; No ; No ; No ; unk ; No ; unk 
+ 0268 ; Incident Handling ; Deferred ; unk ; unk ; unk ; unk ; Yes ; No ; No ; unk ; Contrib. ; No 
+ 0270 ; XMPP Compliance Suites 2010 ; Obsolete ; Yes ; unk ; unk ; No ; Yes ; Yes ; Yes ; unk ; unk ; unk 
+ 0273 ; Stanza Interception and Filtering Technology (SIFT) ; Deferred ; unk ; unk ; unk ; unk ; Partial ; No ; No ; unk ; Contrib. ; No 
+ 0278 ; Jingle Relay Nodes ; Experimental ; Yes ; unk ; unk ; No ; Yes ; No ; No ; unk ; unk ; No 
+ 0279 ; Server IP Check ; Deferred ; Yes ; unk ; unk ; No ; Yes ; No ; Yes ; unk ; Contrib. ; No 
+ 0280 ; Message Carbons ; Experimental ; Yes ; unk ; unk ; unk ; Yes ; No ; Yes ; Yes ; Yes ; Yes. Tigase XMPP Server 5.2.0 final release (2014-02-13). Retrieved on 2014-02-27. 
+ 0288 ; Bidirectional Server-to-Server Connections  ; Draft ; unk ; unk ; unk ; unk ; Yes ; Yes ; No ; unk ; unk ; unk 
+ 0289 ; Federated MUC for Constrained Environments  ; Deferred ; unk ; unk ; unk ; unk ; No ; Yes ; No ; unk ; unk ; unk 
+ 0302 ; XMPP Compliance Suites 2012 ; Obsolete ; Yes ; unk ; unk ; unk ; Yes ; No ; Yes ; unk ; unk ; Yes 
+ 0309 ; Service Directories ; Deferred ; unk ; unk ; unk ; unk ; Yes ; unk ; No ; unk ; Contrib. ; unk 
+ 0313 ; Message Archive Management ; Experimental ; Yes ; unk ; unk ; unk ; Yes ; No ; Yes ; Yes ; Yes ; Yes 
+ 0321 ; Remote Roster Management ; Deferred ; Yes ; unk ; unk ; unk ; unk ; unk ; No ; unk ; unk ; unk 
+ 0357 ; Push Notifications ; Experimental ; Contrib ; unk ; No ; No ; Yes ; No ; Yes ; No ; Contrib. ; Yes 
+ 0363 ; HTTP File Upload ; Experimental ; Contrib ; unk ; No ; No ; Yes ; No ; Yes ; Yes/Plugin ; Yes ; Yes 
+ 0375 ; XMPP Compliance Suites 2016 ; Retracted ; Contrib ; unk ; unk ; unk ; Yes ; unk ; unk ; unk ; unk ; unk 
+ 0376 ; Pubsub Account Management ; Deferred ; Contrib ; unk ; unk ; unk ; unk ; unk ; unk ; unk ; unk ; unk 
+ XEP ; Description ; Status ; ejabberd ; iChat Server ; jabberd14 ; jabberd2 ; Metronome ; Isode M-Link ; MongooseIM ; Openfire ; Prosody ; Tigase 

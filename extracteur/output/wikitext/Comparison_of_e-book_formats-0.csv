@@ -1,0 +1,22 @@
+ Format ; Filename extension ; DRM support ; Image support ; Table support ; Sound support ; Interactivity support ; Word wrap support ; Open standard ; Embedded annotation support ; Book- marking ; Video support 
+ Comic Book Archive ; .cbr, .cbz, .cb7, .cbt, .cba ; ? ; yes ; no ; no ; no ; no ; yes ; no ; no ; no 
+ DjVu ; .djvu ; ? ; yes ; yes ; no ; no ; no ; yes ; yes ; yes ; no 
+ DOC ; .doc ; ? ; yes ; yes ; yes ; ? ; yes ; no ; ? ; ? ; yes 
+ DOCX ; .docx ; ? ; yes ; yes ; yes ; ? ; yes ; yes ; yes ; ? ; yes 
+ EPUB (IDPF) ; .epub ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes-noDepends on the eReader application ; yes-noDepends on the eReader application ; yesWith ePub 3 
+ FictionBook ; .fb2 ; no ; yes ; yes-noTable support added in FictionBook V2.1. Not supported in V2.0 ; no ; no ; yes ; yes ; yes ; ? ; ? 
+ HTML ; .html ; no ; yes ; yes ; yesWith HTML 5 ; no ; yes ; yes ; no ; no ; yes 
+ iBooks ; .ibook ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes ; yes 
+ INF ; .inf ; no ; yes ; yes ; no ; ? ; yes ; yes ; yes-noDepends on the eReader application ; yes-noDepends on the eReader application ; no 
+ Kindle ; .azw ; yes ; yes ; yesSupported in all except 1st Generation Kindle. (Support level is as it is in mobipocket) ; yesSupported only in kindle for iPhone, iPod, iPad. ; yes ; yes ; no ; yes ; yes ; yes 
+ Microsoft Reader ; .lit ; yes ; yes ; ? ; no ; no ; yes ; no ; ? ; yes ; ? 
+ Mobipocket ; .prc, .mobi ; yes ; yes ; yes ; no ; yes ; yes ; no ; yes ; yes ; ? 
+ Multimedia EBook ; .exe ; yes ; yes ; ? ; yes ; yes ; no ; yes ; yes ; yes ; ? 
+ Newton Book ; .pkg ; no ; yes ; yes ; no ; yes ; yes ; yes ; yes ; yes ; no 
+ eReader ; .pdb ; yes ; yes ; ? ; no ; no ; yes ; no ; yes ; yes ; ? 
+ Plain text ; .txt ; no ; no ; no ; no ; no ; yes ; yes ; no ; no ; no 
+ Plucker ; .pdb ; yes ; yes ; yes ; no ; yes ; yes ; yes ; no ; yes ; ? 
+ Portable Document Format ; .pdf ; yes ; yes ; yes ; yes ; yes ; yes-no"Reflow" is implemented by some readers. ; yes ; yes ; yes ; yesWith Flash Embedded 
+ PostScript ; .ps ; no ; yes ; ? ; no ; no ; yes-noPostScript programs may implement word wrap, this depends on if the writer of the .ps file implemented it. Word wrap is not a built-in feature of PostScript. ; yes ; ? ; ? ; no 
+ Tome Raider ; .tr2, .tr3 ; yes ; yes ; ? ; no ; no ; yes ; no ; ? ; ? ; ? 
+ OpenXPS ; .oxps, .xps ; ? ; yes ; yes ; ? ; no ; no ; yes ; ? ; ? ; ? 

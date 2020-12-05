@@ -1,0 +1,9 @@
+ Distribution ; Approximate number of packages ; Package format/tools ; Default installer ; Graphical installation procedure 
+ Rh| BeleniX ; dunno ; RPM ; dunno ; dunno 
+ Rh| Nexenta OS ; dunno ; APT ; dunno ; dunno 
+ Rh| NexentaStor ; dunno ; dunno ; dunno ; dunno 
+ Rh| OmniOS ; 1032 ; IPS ; Kayak ; No 
+ Rh| OpenIndiana ; 4600 ; IPS ; Caiman ; Yes 
+ Rh| SmartOS ; dunno ; pkgsrc/pkgin ; N/A (live system) ; N/A 
+ Rh| v9os ; dunno ; IPS ; dunno ; No 
+ Distribution ; Approximate number of packages ; Package format/tools ; Default installer ; Graphical installation procedure 

@@ -1,0 +1,37 @@
+ Client ; CTCP ; DCC ; IPv6 ; SSL ; TLS ; DANE ; OCSP ; CRL ; SASL ; OTR 
+ rh| Bersirc ; dunno ; partial ; no ; no ; dunno ; dunno ; dunno ; dunno ; dunno ; no 
+ rh| BitchX ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; no 
+ rh| ChatZilla ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; script ; no 
+ rh| Colloquy ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; yes ; no{{cite web ; url= ; title=Ticket 3915 requesting OTR support }} 
+ rh| degesch ; yes ; yes ; yes ; no ; yes ; dunno ; dunno ; dunno ; dunno ; no 
+ rh| DMDirc ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; no 
+ rh| ERC ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; yespatch ; no 
+ rh| HexChat ; yes ; yes ; yes ; yes ; yes ; no ; no ; no ; yes ; yesplugin 
+ rh| HydraIRC ; yes ; yes ; dunno ; no ; no ; dunno ; no ; no ; dunno ; no 
+ rh| IceChat ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; yes ; no 
+ rh| IRCCloud ; yes ; no ; yes ; yes ; yes ; no ; no ; no ; yes ; no 
+ rh| ircII ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; no 
+ rh| IRCjr ; yes ; no ; no ; no ; no ; dunno ; no ; no ; no ; no 
+ rh| Ircle ; yes ; yes ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; no 
+ rh| Irssi ; yes ; yes ; yes ; yes ; yes ; yes ; no ; dunno ; yes ; yes {{cite web ; url= ; title=Irssi 1.2.0 OTR Migration Path ; accessdate=2020-06-22 }} 
+ rh| jIRCii ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; no 
+ rh| KiwiIRC ; yes ; no ; yes ; yes ; yes ; dunno ; no ; no ; yes ; no 
+ rh| Konversation ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; yes ; no 
+ rh| KVIrc ; yes ; yes ; yes ; yes ; yes ; dunno ; no ; no ; yes ; no 
+ rh| LimeChat ; dunno ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; yes ; no 
+ rh| Linkinus ; yes ; yes ; no ; yes ; dunno ; dunno ; dunno ; dunno ; no ; no 
+ rh| Mibbit ; dunno ; partialProtocol_support_Mibbit_Ansuccess ; no ; yes ; dunno ; dunno ; dunno ; dunno ; yes ; no 
+ rh| mIRC ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; yes ; no 
+ rh| Nettalk ; yes ; yes ; no ; no ; dunno ; dunno ; dunno ; dunno ; dunno ; no 
+ rh| Opera ; yes{{cite web ; url= ; title=Changelog for Opera 9.0 for Windows ; accessdate=2009-07-14 ; archive-url= ; archive-date=2006-08-31 ; url-status=dead }} ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; no 
+ rh| PIRCH ; yes ; yes ; no ; no ; dunno ; dunno ; dunno ; dunno ; dunno ; no 
+ rh| PJIRC ; dunno ; yes ; no ; no ; dunno ; dunno ; dunno ; dunno ; dunno ; no 
+ rh| Quassel ; yes ; no ; yes ; yes ; yes ; dunno ; no ; no ; yes ; no{{cite web ; url= ; title=Issue 1418 requesting OTR support }} 
+ rh| qwebirc ; yes ; no ; no ; yes ; no ; dunno ; no ; no ; no ; no 
+ rh| rcirc ; partial ; no ; no ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; no 
+ rh| Scrollback ; partial ; no ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; no ; no 
+ rh| Smuxi ; yes ; no ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; no ; no{{cite web ; url= ; title=Issue 651 requesting OTR support }} 
+ rh| Snak ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; no 
+ rh| Visual IRC ; yes ; yes ; no ; no ; dunno ; dunno ; dunno ; dunno ; dunno ; no 
+ rh| WeeChat ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; yes ; yes {{cite web ; url= ; title=Cypherpunks - OTR-Enabled Software ; accessdate=2014-03-16 }}{{cite web ; url= ; title=GitHub - weechat-otr - WeeChat script for Off-the-Record messaging ; accessdate=2014-03-16 }}plugin 
+ Client ; CTCP ; DCC ; IPv6 ; SSL ; TLS ; DANE ; OCSP ; CRL ; SASL ; OTR 

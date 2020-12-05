@@ -1,0 +1,34 @@
+Driver ;802.11 ;802.11 ;802.11 ;802.11 ;802.11 ;802.11 ;802.11 ;Businterface ;WirelessSecurity ;WirelessSecurity ;WirelessSecurity ;Monitormode ;Master(AP)mode ;Ad-Hocmode 
+Driver ; a ; b ; g ; n ; ac ; ad ; ax ;Businterface ; WEP ; WPA ; WPA2 ;Monitormode ;Master(AP)mode ;Ad-Hocmode 
+ acx1xx ; No ; Yes ; Yes ; No ; No ; dunno ; dunno ; dunno| PCI, Mini PCI, PC card, USB ; Yes ; No ; No ; Yes ; Yes ; dunno 
+ adm8211 ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; PCI ; dunno ; dunno ; dunno ; dunno ; No ; dunno 
+ carl9170 ; Yes ; Yes ; Yes ; Yes ; No ; dunno ; dunno ; USB ; yes ; yes ; yes ; yes ; yes ; yes 
+ ath5k ; Yes ; Yes ; Yes ; No ; No ; dunno ; dunno ; PCI, Mini PCI, PC card, AHB ; yes ; yes ; yes ; yes ; yes (2.6.31) ; yes 
+ ath9k ; Yes ; Yes ; Yes ; Yes ; No ; dunno ; dunno ; PCI, Mini PCI, Mini PCIe, AHB ; yes ; yes ; yes ; yes ; yes ; yes 
+ ath9k_htc ; Yes ; Yes ; Yes ; Yes ; No ; dunno ; dunno ; USB ; yes ; yes ; yes ; yes ; yes ; yes 
+ ath10k ; No ; No ; No ; No ; Yes ; dunno ; dunno ; PCI, Mini PCI, AHB, Mini PCIe ; yes ; yes ; yes ; yes ; yes ; yes 
+ b43 ; No ; Yes ; Yes ; No ; No ; dunno ; dunno ; PCI, Mini PCI, SDIO ? ; Yes ; Yes ; Yes ; Yes ; yes ; Yes 
+ bcm43xx ; No ; Yes ; Yes ; No ; No ; dunno ; dunno ; PCI, Mini PCI,Cardbus, PC card ; Yes ; Yes ; Yes ; Yes ; No ; dunno 
+ brcmfmac ; Yes ; Yes ; Yes ; Yes ; No ; dunno ; dunno ; USB, SDIO,PCI Express ; Yes ; Yes ; Yes ; Exp.  ; Yes  ; No 
+ brcmsmac ; Yes ; Yes ; Yes ; Yes ; No ; dunno ; dunno ; PCI, Mini PCI,Mini PCIe ; Yes ; Yes ; Yes ; Yes ; Yes  2013-03-27 brcmsmac: activate AP support ; Yes  
+ hostap ; No ; Yes ; No ; No ; No ; dunno ; dunno ; PCI, Mini PCI,PC card ; Yes ; Yes Requires station firmware 1.7.4 or later. ; Yes  ; Yes ; Yes ; Yes 
+ ipw2100 ; No ; Yes ; No ; No ; No ; dunno ; dunno ; Mini PCI ; Yes ; Yes ; Yes ; Yes ; dunno ; dunno 
+ ipw2200 ; Yes ; Yes ; Yes ; No ; No ; dunno ; dunno ; Mini PCI ; Yes ; Yes ; Yes ; Yes ; No ; Yes 
+ ipw2200-ap ; No ; Yes ; Yes ; No ; No ; dunno ; dunno ; Mini PCI ; dunno ; dunno ; dunno ; Yes ; Yes ; dunno 
+ ipw3945 ; Yes ; Yes ; Yes ; No ; No ; dunno ; dunno ; Mini PCI,Mini PCIe ; Yes ; Yes ; Yes ; Yes ; No ; Yes 
+ islsm ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; PCI, USB ; No ; No ; No ; dunno ; No ; dunno 
+ iwlwifi ; Yes ; Yes ; Yes ; Yes ; Yes ; dunno ; dunno ; Mini PCI, Mini PCIe, M.2 ; Yes ; Yes ; Yes ; Yes ; 2.4 GHz onlyExp.   ; Yes 
+ libertas ; No ; Yes ; Yes ; No ; No ; dunno ; dunno ; USB, CF, SDIO ; dunno ; dunno ; dunno ; dunno ; No ; dunno 
+ madwifi ; Yes ; Yes ; Yes ; No ; No ; dunno ; dunno ; PCI, PC card,Mini PCI ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes  
+ mt76 ; Yes ; Yes ; Yes ; Yes ; Yes ; dunno ; dunno ; PCIe, USB ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ mt7601u ; No ; Yes ; Yes ; Yes ; No ; dunno ; dunno ; USB ; Yes ; Yes ; Yes ; Yes ; dunno ; dunno 
+ orinoco ; No ; Yes ; No ; No ; No ; dunno ; dunno ; Mini PCI,PC card ; Yes ; Yes WPA+TKIP with Hermes (Lucent/Agere Systems) chipsets only. Requires 2.6.28-rc1 or later kernel and v9.42 or later firmware from userspace. ; No ; Yes ; no ; Yes 
+ p54 ; No ; Yes ; Yes ; No ; No ; dunno ; dunno ; Mini PCI, USB,Cardbus ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ prism54 ; No ; Yes ; Yes ; No ; No ; dunno ; dunno ; PCI ; Yes ; No ; dunno ; Yes ; Yes ; dunno 
+ rndis_wlan ; No ; Yes ; Yes ; No ; No ; dunno ; dunno ; USB ; Yes ; Yes ; Yes ; No ; No ; Yes 
+ rt2x00 ; No ; Yes ; Yes ; No ; No ; dunno ; dunno ; PCI, USB,Mini PCI ; Yes ; Yes except for the rt2400 chipset, only the rt2500 chipset and the rt2570 chipset are supported ; Yes  ; Yes ; Yes  date=2007-10-26  and also at least two users reported success with master mode  date=2014-12-05   ; Yes 
+ rtl8180 ; Yes ; Yes ; Yes ; No ; No ; dunno ; dunno ; PCI, PC card,Mini PCI ; dunno ; dunno ; dunno ; dunno ; Yes ; dunno 
+ rtl8187 ; Yes ; Yes ; Yes ; No ; No ; dunno ; dunno ; USB ; Yes ; Yes ; Yes ; Yes ; dunno ; dunno 
+ zd1201 ; No ; Yes ; No ; No ; No ; dunno ; dunno ; USB ; Yes ; No  ; No  ; Yes ; Yes ; dunno 
+ zd1211 ; Yes ; Yes ; Yes ; No ; No ; dunno ; dunno ; USB ; Yes ; Yes ; Yes ; Yes ; Yes ; dunno 
+ zd1211rw ; No ; Yes ; Yes ; No ; No ; dunno ; dunno ; USB ; Yes ; Yes ; yes ; Yes ; Yes  ; Yes 

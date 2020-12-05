@@ -1,0 +1,36 @@
+ Specification ; HTML 3.2 ; HTML 4.01 ; HTML 4.01 ; HTML 4.01 ; HTML 5 ; XHTML 1.0 ; XHTML 1.0 ; XHTML 1.0 ; XHTML 1.1 ; Validating 
+ Variant ;  ; strict ; trans. ; f.set ;  ; strict ; trans. ; f.set ;   ;  
+ rh2| Amaya ; no ; no ; yes ; no ; no ; yes ; yes ; no ; yes ; yes 
+ rh| Aptana ; dunno ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; yes ; dunno 
+ rh| Arachnophilia ; dunno ; dunno ; dunno ; dunno ; no ; yes ; dunno ; dunno ; dunno ; yes 
+ rh| Bluefish ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; YesExternal tools such as weblint and tidy are integrated 
+ rh| BlueGriffon ; No ; yes ; yes ; dunno ; yes ; yes ; yes ; dunno ; dunno ; dunno 
+ rh| Brackets ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Claris Homepage ; dunno ; dunno ; dunno ; dunno ; no ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Codelobster ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| CoffeeCup HTML Editor ; no ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| Contribute ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Dreamweaver ; yes ; yes ; yes ; yes ; yes Available with CS5 using the Adobe Dreamweaver Add-on pack available at  ; yes ; yes ; yes ; yes ; yes 
+ rh| Freeway ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; yes 
+ rh2| GoLive ; yes ; yes ; yes ; no ; no ; yes ; yes ; yes ; yes ; dunno 
+ rh| HTML-Kit ; dunno ; dunno ; yes ; dunno ; no ; dunno ; yes ; dunno ; dunno ; yes 
+ rh| LibreOffice ; dunno ; yes ; yes ; dunno ; yes ; yes ; yes ; dunno ; yes ; dunno 
+ rh2| KompoZer ; no ; yes ; yes ; no ; no ; yes ; yes ; no ; no ; yes 
+ rh| Maqetta ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Microsoft Expression Web ; no ; yes ; yes ; yes ; yesFor error checking on markup and intellisense on tags and attributes an add-in is needed. This is available at  date=2011-01-03  . ; yes ; yes ; yes ; yes ; yes 
+ rh| Microsoft FrontPage ; dunno ; dunno ; dunno ; dunno ; no ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Microsoft SharePoint Designer ; dunno ; dunno ; dunno ; dunno ; no ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Microsoft Visual Web Developer ; dunno ; dunno ; dunno ; dunno ; no ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Mozilla Composer ; dunno ; dunno ; dunno ; dunno ; no ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| openElement ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; yes 
+ rh| OpenOffice.org ; dunno ; yes ; yes ; dunno ; yes ; yes ; yes ; dunno ; yes ; dunno 
+ rh| oXygenXML Editor ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| Quanta Gold ; dunno ; dunno ; dunno ; dunno ; no ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Quanta Plus ; dunno ; dunno ; dunno ; dunno ; no ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| RocketCake ; dunno ; dunno ; yes ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| SeaMonkey Composer ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| TOWeb ; no ; no ; no ; no ; yes ; no ; no ; no ; no ; yes 
+ rh| Web Architect  ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; YesExternal tools such as W3C validator services and tidy are integrated 
+ rh| WebStorm IDE ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno 
+ Variant ;  ; strict ; trans. ; f.set ;  ; strict ; trans. ; f.set ;   ;  
+ Specification ; HTML 3.2 ; HTML 4.01 ; HTML 4.01 ; HTML 4.01 ; HTML 5 ; XHTML 1.0 ; XHTML 1.0 ; XHTML 1.0 ; XHTML 1.1 ; Validating 

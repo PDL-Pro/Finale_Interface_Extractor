@@ -1,0 +1,34 @@
+ File manager ; File Name  ; File Contents  ; Basic metadata search  ; All metadata search  ; RegExp for Contents ; Boolean (nesting levels) ;Fuzzy logic  ; Save searches  ; Refined searches  
+ rh| Altap Salamander ; yes ; dunno ; yes ; dunno ; yesAltap Salamander Search offers RegExp for defining the file content. ; yes ; dunno ; yes ; yes 
+ rh| Commander One ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; no ; no 
+ rh| CRAX Commander ; yes ; yes ; yes ; dunno ; yes ; yes ; dunno ; no ; no 
+ rh| Directory Opus ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| Dired ; yes ; dunno ; no ; no ; yes ; yes ; yes ; no ; no 
+rh| Documents by Readdle ; ; ; ; ; ; ; ; ; 
+ rh| Dolphin ; yes ; dunno ; yes ; yes ; yes ; yes ; dunno ; dunno ; yes 
+ rh| Double Commander ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno 
+ rh| emelFM2 ; yes ; dunno ; yes ; yes ; dunno ; dunno ; dunno ; partial ; dunno 
+ rh| FAR Manager ; yes ; dunno ; yes ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| File Commander ; yes ; no ; yes ; no ; no ; yes ; no ; yes ; no 
+rh| Files (Apple) ; ; ; ; ; ; ; ; ; 
+rh| Files by Google ; ; ; ; ; ; ; ; ; 
+ rh| Finder ; yes ; dunno ; yes ; yes ; no ; dunno ; dunno ; yes ; dunno 
+ rh| ForkLift ; yes ; partial ; yes ; yes ; yes ; yes ; dunno ; no ; no 
+ rh| Konqueror ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes 
+ rh| Krusader ; yes ; dunno ; yes ; yes ; yes{{cite web|url= - Twin panel file management for your desktop|work=krusader.org|access-date=2008-07-22|archive-url= ; no ; no ; yes ; yes 
+ rh| GNOME Files (Nautilus) ; yes ; dunno ; partial  ; partial  ; dunno ; dunno ; dunno ; yes ; dunno 
+ rh| Nemo ; ? ; ? ; ? ; ? ; ? ; ? ; ? ; ? ; ? 
+ rh| Nomad.NET ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes 
+ rh| Path Finder ; yes ; dunno ; yes ; yes ; no ; no ; dunno ; no ; no 
+ rh| PCManFM ; yes ; dunno ; yes ; no ; yes ; no ; no ; no ; no 
+ rh| ROX-Filer ; yes ; dunno ; yes ; yes ; yes ; yes ; dunno ; no ; dunno 
+ rh| Total Commander ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yes ; partial  
+ rh| Windows Explorer ; yes ; no ; yes ; no ; no ; dunno ; dunno ; yes ; yes 
+ rh| Xandros File Manager ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Xfe ; yes ; yes ; yes ; no ; no ; no ; no ; no ; no 
+ rh| Xfile ; yes ; no ; yes ; no ; yes ; yes ; no ; yes ; yes 
+ rh| Xfm ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| xplorer² ; yes ; dunno ; yes ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| XYplorer ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yesAfter searching results, user can apply advanced visual filters to narrow down results. 
+ rh| ZTreeWin ; yes ; yes ; yes ; partial ; partial ZTreeWin provides several context specific search syntaxes that are not pure regex ; yes ; yes ; yes ; yes 
+ File manager ; File Name  ; File Contents  ; Basic metadata search  ; All metadata search  ; RegExp for Contents ; Boolean (nesting levels) ; Fuzzy logic  ; Save searches  ; Refined searches   

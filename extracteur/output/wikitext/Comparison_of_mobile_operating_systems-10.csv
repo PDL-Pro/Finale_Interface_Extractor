@@ -1,0 +1,4 @@
+ Feature ; Android ; iOS ; Tizen ; Sailfish OS ; Ubuntu Touch 
+Bluetooth keyboard ;2.3+, previous versions via 3rd party softwareKeyPro – Bluetooth keyboard manager , 12/09/09;Yes;No;YesTablet needs a working Bluetooth keyboard Bluetooth keyboard does not work in Android applications ;Yes 
+USB keyboard ;3.1+;With Camera Connection Kit;No;?;Yes 
+Interchangeable external memory cards ;Yes;Only for photo/video import with an optional accessory;Yes;Yes;Yes 

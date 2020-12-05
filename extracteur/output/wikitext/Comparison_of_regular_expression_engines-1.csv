@@ -1,0 +1,27 @@
+ Language ; Official website ; Software license ; Remarks 
+ Rh| ActionScript 3 ; ActionScript Technology Center ; free ; 
+ Rh| APL (APLX, Dyalog, GNU) ; APL Wiki ; Licensed by the respective implementation ; ⎕SS (PCRE), ⎕R/⎕S (PCRE), ⎕SS (PCRE2), respectively 
+ Rh| C++11 (C++) ; C++ standards website ; Licensed by the respective implementation ; Since ISO14822:2011(e), similar to ECMAScript on default (Grammar Description) 
+ Rh| D ; D ; Boost Software Licenseboost_mars ;  
+ Rh| Go ; Golang.org ; BSD-style ;  
+ Rh| Haskell ; Haskell.org ; BSD3 ; Omitted in the language report, and in GHC's Hierarchical Libraries 
+ Rh| Java ; Java ; GNU General Public License ; REs are written as strings in source code: all backslashes must be doubled, harming readability. 
+ Rh| JavaScript (ECMAScript) ; ECMA-262 ; BSD3 ; Limited but REs are first-class citizens of the language with a specific /.../mod syntax. 
+ Rh| Julia ; JuliaLang.org ; MIT License ; REs are part of the language core library using PCRE built-in and an optional wrapper for (C code) ICU is available. 
+ Rh| Lua ; Lua.org ; MIT License ; Uses simplified, limited dialect, can be bound to more powerful library, like PCRE or an alternative parser like LPeg. 
+ Rh| Mathematica ; Wolfram ; Proprietary ; 
+ Rh| .NET ; MSDN ; MIT Licensedotnet_regex_licensedotnet_license ;  
+ Rh| Nim ; nim-lang.org ; MIT License ; Standard library includes PCRE-based re and nre modules, as well as various alternatives (ex. strutils, pegs (Parsing Expression Grammar matching), strscans, parseutils, etc.). 
+ Rh| Free Pascal (Object Pascal) ; www.freepascal.org ; LGPL with static linking exception ; Free Pascal 2.6+ ships with TRegExpr from Sorokin and two other regular expression libraries, See wiki.lazarus.freepascal.org/Regexpr. 
+ Rh| OCaml ; Caml ; LGPL ; 2010, the standard module is generally regarded as deprecated, often recommended libraries are pcre (with full support for PCRE) and re (which is not as complete but claims better performance and provides frontends to popular syntaxes: PCRE, Perl, Posix, Emacs, shell globbing). 
+ Rh| Perl ; Perl.com ; Artistic License, or GNU General Public License ; Full, central part of the language 
+ Rh| PHP ; PHP.net ; PHP License ; Has two implementations, with PCRE being the more efficient in speed, functions 
+ Rh| POSIX C (C) ; POSIX.1 web publication ; Licensed by the respective implementation ; Supports POSIX BRE and ERE syntax 
+ Rh| Python ; python.org ; Python Software Foundation License ; Python has two major implementations, the built in re and the regex library. 
+ Rh| Ruby ; ruby-doc.org ; GNU Library General Public License ; Ruby 1.8, Ruby 1.9, and Ruby 2.0 and later versions use different engines, Ruby 1.9 integrates Oniguruma, Ruby 2.0 and later integrate Onigmo, a fork from Oniguruma. 
+ Rh| Rust ; docs.rs ; MIT License ; The primary regex crate does not allow look-around expressions.  There is an Oniguruma binding called onig that does. 
+ Rh| SAP ABAP ; SAP.com ; proprietary ;  
+ Rh| Tcl ; tcl.tk ; Tcl/Tk License(BSD-style) ; Tcl library doubles as a regular expression library.  
+ Rh| Wolfram Language ; Wolfram Research ; Proprietary: usable for free on a limited scale on the Wolfram Development platform ;Clear 
+ Rh| XML Schema ; W3C ; Licensed by the respective implementation 
+ Rh| XPath 3/XQuery ; W3C ; Licensed by the respective implementation 

@@ -1,0 +1,14 @@
+ ; Trident ; Gecko ; WebKit ; KHTML ; Presto 
+ rh| Basic table elements ; rh| Basic table elements ; rh| Basic table elements ; rh| Basic table elements ; rh| Basic table elements ; rh| Basic table elements 
+ table ; 4.0 ; 1.0 ; rowspan="5" yes ; rowspan="5" yes ; 1.0 
+ caption ; 4.0 ; 1.0 ; 1.0 
+ tr ; 4.0 ; 1.0 ; 1.0 
+ th ; 4.0 ; 1.0 ; 1.0 
+ td ; 4.0 ; 1.0 ; 1.0 
+ rh| Row groups ; rh| Row groups ; rh| Row groups ; rh| Row groups ; rh| Row groups ; rh| Row groups 
+ thead ; 4.0 ; 1.0 ; rowspan="3" yes ; rowspan="3" yes ; 1.0 
+ tbody ; 4.0 ; 1.0 ; 1.0 
+ tfoot ; 4.0 ; 1.0 ; 1.0 
+ rh| Column groups ; rh| Column groups ; rh| Column groups ; rh| Column groups ; rh| Column groups ; rh| Column groups 
+ colgroup ; 4.0 ; 1.0 ; rowspan="2" yes ; rowspan="2" yes ; 1.0 
+ col ; 4.0 ; 1.0 ; 1.0 

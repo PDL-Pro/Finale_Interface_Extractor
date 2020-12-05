@@ -1,0 +1,9 @@
+ ; Trident ; Gecko ; WebKit ; KHTML ; Presto 
+ rh| Unordered and ordered lists ; rh| Unordered and ordered lists ; rh| Unordered and ordered lists ; rh| Unordered and ordered lists ; rh| Unordered and ordered lists ; rh| Unordered and ordered lists 
+ ul ; 4.0 ; 1.0 ; rowspan="3" yes ; rowspan="3" yes ; 1.0 
+ ol ; 4.0 ; 1.0 ; 1.0 
+ li ; 4.0 ; 1.0 ; 1.0 
+ rh| Definition lists ; rh| Definition lists ; rh| Definition lists ; rh| Definition lists ; rh| Definition lists ; rh| Definition lists 
+ dl ; 4.0 ; 1.0 ; rowspan="3" yes ; rowspan="3" yes ; 1.0 
+ dt ; 4.0 ; 1.0 ; 1.0 
+ dd ; 4.0 ; 1.0 ; 1.0 

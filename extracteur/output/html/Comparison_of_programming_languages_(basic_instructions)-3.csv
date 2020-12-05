@@ -1,0 +1,39 @@
+;Text;Text;Boolean;Enumeration;Object/Universal
+;Character;String;Boolean;Enumeration;Object/Universal
+Ada;Character;String & Bounded_String & Unbounded_String;Boolean;(item, item, ... );tagged null record
+ALGOL 68;char;string & bytes;bool & bits;N/A - User defined;N/A
+C (C99);char wchar_t;N/A;bool;enum «name» {item, item, ... },;void *
+C++ (STL);char wchar_t;«std::»string;bool;enum «name» {item, item, ... },;void *
+Objective-C;unichar;NSString *;BOOL;enum «name» {item, item, ... },;id
+C#;char;string;bool;enum name { item« = value», item« = value», ... };object
+Java;char;String;boolean;enum name {item, item, ... };Object
+Go;byte rune;string;bool;const ( item = iota item ... );interface{}
+Rust;char;String;bool;enum name { item, item, ...};N/A
+Swift;Character;String;Bool;enum name { case item, item, ... };Any
+D;char;string;bool;enum name {item, item, ... };std.variant.Variant
+Common Lisp;character;string;boolean;(member item item ...);t
+Scheme;;;;;
+ISLISP;;;;;
+Pascal (ISO);char;N/A;boolean;(item, item, ...);N/A
+Object Pascal (Delphi);char;string;boolean;(item, item, ...);variant
+Visual Basic;N/A;String;Boolean;Enum name item«= value» item« = value» ... End Enum;Variant
+Visual Basic .NET;Char;String;Boolean;Enum name item«= value» item« = value» ... End Enum;Object
+Xojo;N/A;String;Boolean;Enum name item«= value» item« = value» ... End Enum;Object or Variant
+Python;N/A;str;bool;from enum import Enum class Name(Enum): item = value item = value ... # Python 3.4+;object
+JavaScript;N/A;String;Boolean;;Object
+S-Lang;;;;;
+Fortran;CHARACTER(LEN = *);CHARACTER(LEN = :), allocatable;LOGICAL(KIND = n);;CLASS(*)
+PHP;N/A;string;bool;;(type declaration omitted)
+Perl;N/A;;;;UNIVERSAL
+Raku;Char;Str;Bool;enum name<item item ...> enum name <<:item(value) :item(value) ..>>;Mu
+Ruby;N/A;String;Object;;Object
+Scala;Char;String;Boolean;object name extends Enumeration { val item, item, ... = Value};Any
+Seed7;char;string;boolean;const type: name is new enum item, item, ... end enum,;
+Windows PowerShell;;;;;
+OCaml;char;string;bool;N/A;N/A
+F#;char;string;bool;type name = item = value |item = value | ...;obj
+Standard ML;char;string;bool;N/A;N/A
+Haskell (GHC);Char;String;Bool;N/A;N/A
+Eiffel;CHARACTER;STRING;BOOLEAN;N/A;ANY
+COBOL;PIC X;PIC X(string length) or PIC X«X...»;PIC 1«(number of digits)» or PIC 1«1...»;N/A;OBJECT REFERENCE
+Mathematica;N/A;String;;;N/A

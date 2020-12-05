@@ -1,0 +1,42 @@
+ File manager ; Family ; UI ; Icon view ; List view ; Column view ; Thumbnails ; Details + Thumbs ; Grouping ; Content dependent Content Dependent (System) refers to a system which attempts to detect the dominant type of files in that folder and then select the most appropriate view mode for you automatically. ; Twin panel ; Favorites / Bookmark ; Panel tabs 
+ rh| Altap Salamander ; Orthodox ; GUI ; yes ; yes ; yes ; yes ; no ; no ; no ; yes ; partial ; no 
+ rh| Commander One ; Orthodox ; GUI ; yes ; yes ; yes ; yes ; dunno ; dunno ; no ; dunno ; yes ; yes 
+ rh| CRAX Commander ; Orthodox ; GUI ; yes ; yes ; no ; yes ; dunno ; dunno ; no ; yes ; yes ; yes 
+ rh| Demos Commander ; Orthodox ; Text ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; dunno 
+ rh| Directory Opus ; Orthodox ; GUI ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| Dired ; Orthodox ; Text ; dunno ; yes ; dunno ; yes, on GUI ; yes, on GUI ; dunno ; dunno ; yes, one or more ; partial (bookmarks) ; yes (show tab-bar optional) Tab-bar mode can be activated to show the tab-bar (else it will be hidden).  
+rh| Documents by Readdle ; ;GUI ; yes ; ; ; yes ; ; ; ; ; ; 
+ rh| Dolphin ; Navigational ; GUI ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes ; yes 
+ rh| Double Commander ; Orthodox ; GUI ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| DOS Navigator ; Orthodox ; Text ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; dunno 
+ rh| emelFM2 ; Orthodox ; GUI ; no ; yes ; no ; yesOptional image thumbnailer plugin since v0.3.4 (24/5/2007) ; dunno ; no ; no ; yes ; dunno ; no 
+ rh| FAR Manager ; Orthodox ; Text The text interface, which can be partially graphical with some plugins, such as embedded image/video viewers, for example. But the text interface is only emulated with the ConEmu mod - it is graphical and TrueColor in reality. ; partialWith the ConEmu mod or plugins ; yes ; yes ; yesWith ConEmu Far Manager plugin conemu-maximus5 ; partial ; yes ; yes ; yes ; yes ; partial  
+ rh| File Commander ; Orthodox ; Text ; no ; yes ; yes ; no ; partial ; yes ; no ; yes ; no ; no 
+ rh| File Manager ; Orthodox ; GUI ; yes ; yes ; no ; dunno ; dunno ; dunno ; dunno ; yes ; no ; no 
+rh| Files (Apple) ; ;GUI ; yes ; ; ; yes ; yes ; ; ; ; ; 
+rh| Files by Google ; ; GUI ;  ; ; ;  ;  ; ; ; ; ; 
+ rh| Finder ; Spatial / Miller Columns ; GUI ; yes ; yes ; yes ; yes ; yes, with Cover Flow ; yes ; no ; no ; yes ; yes 
+ rh| ForkLift ; Orthodox ; GUI ; yes ; yes ; yes ; yes ; partial ; yes ; no ; yes ; yes ; yes 
+ rh| gentoo ; Orthodox ; GUI ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; dunno 
+ rh| GNOME Commander ; Orthodox ; GUI ; no ; yes ; no ; no ; dunno ; no ; no ; yes ; dunno ; yes 
+ rh| Konqueror ; Navigational / Orthodox ; GUI ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| Krusader ; Orthodox ; GUI ; yes ; yes ; yes ; yes ; dunno ; no ; yes ; yes ; yes ; yes 
+ rh| Midnight Commander ; Orthodox ; Text ; no ; yes ; yes ; dunno ; dunno ; dunno ; yes ; yes ; yes ; dunno 
+ rh| GNOME Files (Nautilus) ;  Navigational / Spatial ; GUI ; yes ; no ; yes ; yes ; yes ; no ; no ; no ; yes ; yes 
+ rh| Nemo ;  Navigational / Spatial ; GUI ; yes ; yes ; yes ; yes ; yes ; no ; no ; yes,press[F3] ; yes ; yes 
+ rh| Nomad.NET ; Orthodox ; GUI ; yes ; yes ; yes ; yes ; dunno ; yes ; partial, Manual ; yes ; yes ; yes, Shared 
+ rh| Path Finder ; Navigational ; GUI ; yes ; yes ; yes ; yes ; no ; yes ; no ; yes ; yes ; yes 
+ rh| PCManFM ; Navigational ; GUI ; yes ; yes ; yes ; yes ; yes ; dunno ; no ; yes ; yes ; yes 
+ rh| ROX-Filer ; Spatial ; GUI ; yes ; yes ; no ; yes ; yes ; no ; no ; no ; yes ; no 
+ rh| STDU Explorer ; Navigational ; GUI ; yes ; yes ; yes ; yes ; no ; no ; no ; no ; no ; no 
+ rh| Total Commander ; Orthodox ; GUI ; yes ; yes ; yes ; yes ; yes ; yes ; yes In viewing ; yes ; yes ; yes 
+ rh| Thunar ; Navigational ; GUI ; yes ; yes ; yes ; yes ; yes ; no ; dunno ; no ; yes ; yes 
+ rh| Volkov Commander ; Orthodox ; Text ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; dunno 
+ rh| Windows Explorer ; Navigational / Spatial ; GUI ; yes ; yes ; yes  ; yes ; partial  ; yes ; yes ; no ; yes ; no 
+ rh| Xandros File Manager ; Navigational ; GUI ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Xfe ; Hybrid Navigational ; GUI ; yes ; yes ; yes ; yes ; yes ; no ; no ; yes ; yes ; no 
+ rh| Xfm ; Spatial ; GUI ; yes ; no ; no ; no ; no ; dunno ; dunno ; no ; dunno ; no 
+ rh| xplorer² ; Hybrid Navigational / Orthodox ; GUI ; yes ; yes ; yes ; yes ; yesVia "Mirrored Browsing" feature ; yes ; yes ; yes ; yes ; yes 
+ rh| XYplorer ; Hybrid Navigational / Orthodox ; GUI ; yes ; yes ; yes ; yes ; yes ; no ; no ; yes ; yes ; yes 
+ rh| ZTreeWin ; Orthodox ; Text ; no ; yes ; yes ; no ; partial ; yes ; no ; yes ; yes ; no 
+ File manager ; Family ; UI ; Icon view ; List view ; Column view ; Thumbnails ; Details + Thumbs ; Grouping ; Content dependent ; Twin panel ; Favorites / Bookmark ; Panel tabs 

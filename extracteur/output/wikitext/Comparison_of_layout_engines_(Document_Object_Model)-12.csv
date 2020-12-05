@@ -1,0 +1,41 @@
+ ; ; Trident ; Tasman ; Gecko ; WebKit ; KHTML ; Presto 
+ rh| Exception ExceptionVAL ; rh| Exception ExceptionVAL ; rh| Exception ExceptionVAL ; rh| Exception ExceptionVAL ; rh| Exception ExceptionVAL ; rh| Exception ExceptionVAL ; rh| Exception ExceptionVAL ; rh| Exception ExceptionVAL 
+ DOM3 ; code ; no ; no ; no ; no ; no ; no 
+ rh| Interface DocumentEditVAL ; rh| Interface DocumentEditVAL ; rh| Interface DocumentEditVAL ; rh| Interface DocumentEditVAL ; rh| Interface DocumentEditVAL ; rh| Interface DocumentEditVAL ; rh| Interface DocumentEditVAL ; rh| Interface DocumentEditVAL 
+ DOM3 ; continuousValidityChecking ; rowspan="4" no ; rowspan="4" no ; rowspan="4" no ; rowspan="4" no ; rowspan="4" no ; rowspan="4" no 
+ DOM3 ; domConfig 
+ DOM3 ; getDefinedElements() 
+ DOM3 ; validateDocument() 
+ rh| Interface NodeEditVAL ; rh| Interface NodeEditVAL ; rh| Interface NodeEditVAL ; rh| Interface NodeEditVAL ; rh| Interface NodeEditVAL ; rh| Interface NodeEditVAL ; rh| Interface NodeEditVAL ; rh| Interface NodeEditVAL 
+ DOM3 ; defaultValue ; rowspan="7" no ; rowspan="7" no ; rowspan="7" no ; rowspan="7" no ; rowspan="7" no ; rowspan="7" no 
+ DOM3 ; enumeratedValues 
+ DOM3 ; canInsertBefore() 
+ DOM3 ; canRemoveChild() 
+ DOM3 ; canReplaceChild() 
+ DOM3 ; canAppendChild() 
+ DOM3 ; nodeValidity() 
+ rh| Interface ElementEditVAL ; rh| Interface ElementEditVAL ; rh| Interface ElementEditVAL ; rh| Interface ElementEditVAL ; rh| Interface ElementEditVAL ; rh| Interface ElementEditVAL ; rh| Interface ElementEditVAL ; rh| Interface ElementEditVAL 
+ DOM3 ; allowedChildren ; rowspan="17" no ; rowspan="17" no ; rowspan="17" no ; rowspan="17" no ; rowspan="17" no ; rowspan="17" no 
+ DOM3 ; allowedFirstChildren 
+ DOM3 ; allowedParents 
+ DOM3 ; allowedNextSiblings 
+ DOM3 ; allowedPreviousSiblings 
+ DOM3 ; allowedAttributes 
+ DOM3 ; requiredAttributes 
+ DOM3 ; contentType 
+ DOM3 ; canSetTextContent 
+ DOM3 ; canSetAttribute 
+ DOM3 ; canSetAttributeNode 
+ DOM3 ; canSetAttributeNS 
+ DOM3 ; canRemoveAttribute 
+ DOM3 ; canRemoveAttributeNS 
+ DOM3 ; canRemoveAttributeNode 
+ DOM3 ; isElementDefined 
+ DOM3 ; isElementDefinedNS 
+ rh| Interface CharacterDataEditVAL ; rh| Interface CharacterDataEditVAL ; rh| Interface CharacterDataEditVAL ; rh| Interface CharacterDataEditVAL ; rh| Interface CharacterDataEditVAL ; rh| Interface CharacterDataEditVAL ; rh| Interface CharacterDataEditVAL ; rh| Interface CharacterDataEditVAL 
+ DOM3 ; isWhitespaceOnly() ; rowspan="6" no ; rowspan="6" no ; rowspan="6" no ; rowspan="6" no ; rowspan="6" no ; rowspan="6" no 
+ DOM3 ; canSetData() 
+ DOM3 ; canAppendData() 
+ DOM3 ; canReplaceData() 
+ DOM3 ; canInsertData() 
+ DOM3 ; canDeleteData() 

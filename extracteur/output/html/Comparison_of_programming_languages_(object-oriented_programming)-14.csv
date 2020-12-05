@@ -1,0 +1,25 @@
+;Get object type;Is instance of (includes subtypes);Upcasting;Downcasting;Downcasting
+;Get object type;Is instance of (includes subtypes);Upcasting;Runtime check;No check
+ABAP Objects;N/A;N/A;=;?=
+C++ (STL);typeid(x);dynamic_cast<type *>(&x) != nullptr;N/A;dynamic_cast<type*>(ptr);(type*) ptr or static_cast<type*>(ptr)
+C#;x.GetType();x is type;N/A;(type) x or x as type;
+D;typeid(x);;N/A;cast(type) x;
+Delphi;;x is type;N/A;x as type;
+eC;x._class;eClass_IsDerived(x._class, type);N/A;;(type) x
+Java;x.getClass();x instanceof class;N/A;(type) x;
+Objective-C (Cocoa);[x class];[x isKindOfClass:[class class]];N/A;;(type*) x
+Swift;x.dynamicType;x is type;N/A;x as! type x as? type
+JavaScript;x.constructor (If not rewritten.);x instanceof class;N/A;N/A;N/A
+Visual Basic .NET;x.GetType();TypeOf x Is type;N/A;CType(x, type) or TryCast(x, type);
+Xojo;Introspection.GetType(x);x IsA type;N/A;CType(x, type);N/A
+Eiffel;x.generating_type;attached {TYPE} x;attached {TYPE} x as down_x;
+Python;type(x);isinstance(x, type);N/A;N/A;N/A
+PHP;get_class(x);x instanceof class;N/A;N/A;N/A
+Perl;ref(x);x->isa("class");N/A;N/A;N/A
+Raku;x.WHAT;x.isa(class);N/A;type(x) or x.type;
+Ruby;x.class;x.instance_of?(type) or x.kind_of?(type);N/A;N/A;N/A
+Smalltalk;x class;x isKindOf: class;N/A;N/A;N/A
+Windows PowerShell;x.GetType();x -is [type];N/A;[type]x or x -as [type];
+OCaml;N/A;N/A;(x :> type);N/A;N/A
+F#;x.GetType();x :? type;(x :> type);(x :?> type);
+COBOL;N/A;N/A;x AS type;N/A;N/A

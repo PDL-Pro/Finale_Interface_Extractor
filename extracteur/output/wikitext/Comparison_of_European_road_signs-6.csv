@@ -1,0 +1,14 @@
+ ; Austria ; Belgium ; Czechia ; Denmark ; Estonia ; Finland ; France ; Germany ; Greece ; Hungary ; Iceland ; Ireland ; Italy ; Luxembourg ; Netherlands ; Norway ; Poland ; Portugal ; Romania ; RussiaBelarus ; Slovakia ; Slovenia ; Spain ; Sweden ; SwitzerlandLiechtenstein ; Turkey ; Ukraine ; UK ; Åland 
+ Straight ahead only ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Proceed right only ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  
+ Turn right ahead only ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Proceed straight or turn right only ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  
+ Pass on this side ;  ;  ;  ;  ;  ;  ; or ;  ;  ; or ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Pass on either side ;  ;  ;  ;  ;  ;  ;  ;NOTUSED ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ;  ; DEFUNCT ;  ;  ;  ;  ;  ;  ;  ;  
+ Roundabout ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; (mini-roundabout) ;  
+ Route for vehicles carrying dangerous goods ;  ;  ; NOTUSED ; NOTUSED ;  ; NOTUSED ;  ; NOTUSED ; NOTUSED ;  ; NOTUSED ; NOTUSED ;  ;  ; NOTUSED ; NOTUSED ;  ; NOTUSED ;  ;  ; DEFUNCT ;  ;  ;  ;  ;  ;  ; NOTUSED ; NOTUSED 
+ Bicycles only ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Pedestrians only ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  
+ Bicycles and pedestrians only ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+ Equestrians only ;  ;  ;  ;  ;  ;  ;  ;  ;  ; NOTUSED ;  ; NOTUSED ;  ;  ;  ; NOTUSED ; NOTUSED ;  ;  ; (Belarus) ; DEFUNCT ;  ;  ;  ;  ;  ;  ; NOTUSED ;  
+ ; Austria ; Belgium ; Czechia ; Denmark ; Estonia ; Finland ; France ; Germany ; Greece ; Hungary ; Iceland ; Ireland ; Italy ; Luxembourg ; Netherlands ; Norway ; Poland ; Portugal ; Romania ; RussiaBelarus ; Slovakia ; Slovenia ; Spain ; Sweden ; SwitzerlandLiechtenstein ; Turkey ; Ukraine ; UK ; Åland 

@@ -1,0 +1,11 @@
+ Feature ; Android ; iOS ; Tizen ; Sailfish OS ; Ubuntu Touch 
+Non-English languages support ;PartialAndroid Issue 3732: Search Improve contact search  Android Issue 9199: SQLite3 Unicode Case not working (only ASCII case works) (include ICU support) ;Yes;Limited (Search is not diacritical mark-insensitive);Yes;Yes 
+Underlining spell checker ;2.3+;Yes;No;?;No 
+Built-in system-wide dictionary ;Built into keyboard app. Available on every device.;5+;No;Yes;Yes 
+Autoexpanding text replacements ;Yes;5+;?;?;? 
+Keyboard next word prediction ;No2 No,Android Issue 8011: Next word predictive text  3rd party softwareHow to Enable Predictive Text on Galaxy S3 | AndroidWidgetCenter.com ;8+Apple brings predictive text to iOS 8 – CNET ;No;Yes;Yes 
+Keyboard cursor controller ;Google Keyboard,,;12+,9-11: Only on devices with 3D Touch,;No;No;Yes 
+Optical character recognition input method ;NoAndroid Issue 56579: Input method via camera OCR ;11+: Notes app,iOS 11: All the Cool New Features Coming to Your iPhone and iPad 8+: Only for inputting credit card detailsSafari in iOS 8 uses camera to scan and enter credit card info ;No;No;No 
+Third party input method ;Yes;8+;?;?;? 
+Gesture text input ;4+;13+,8+: 3rd party software like SwiftKey;?;NoSwype-like virtual keyboard ;No 
+Emoji support ;4.4+Android Issue 8375: Add emoji support to android . Code.google.com (2010-05-17). Retrieved on 2012-07-03.;Yes;?;2.2.0+ 3rd party software;Yes 

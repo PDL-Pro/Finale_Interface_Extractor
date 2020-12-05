@@ -1,0 +1,103 @@
+ File system ; Creator ; Year of introduction ; Original operating system 
+rh| DECtape ; DEC ; 1964 ; PDP-6 Monitor 
+rh| OS/3x0 FS ; IBM ; 1964 ; OS/360 
+rh| Level-D ; DEC ; 1968 ; TOPS-10 
+rh| George 3 ; ICT (later ICL) ; 1968 ; George 3 
+rh| Version 6 Unix file system (V6FS) ; Bell Labs ; 1972 ; Version 6 Unix 
+rh| RT-11 file system ; DEC ; 1973 ; RT-11 
+rh| Disk Operating System (GEC DOS) ; GEC ; 1973 ; Core Operating System 
+rh| CP/M file system ; Digital Research (Gary Kildall) ; 1974 ; CP/M{{cite paper|orig-year=1993|date=2016-08-02|title=Computer Connections: People, Places, and Events in the Evolution of the Personal Computer Industry|author-first=Gary Arlen|author-last=Kildall|author-link=Gary Kildall|editor-first1=Scott|editor-last1=Kildall|editor-link=Scott Kildall|editor-first2=Kristin|editor-last2=Kildall|publisher=Kildall Family|type=Manuscript, part 1|url=  
+rh| ODS-1 ; DEC ; 1975 ; RSX-11 
+rh| GEC DOS filing system extended ; GEC ; 1977 ; OS4000 
+rh| FAT (8-bit) ; Microsoft (Marc McDonald) for NCR ; 1977 ; Microsoft Standalone Disk BASIC-80 (later Microsoft Standalone Disk BASIC-86) 
+rh| DOS 3.x ; Apple ; 1978 ; Apple DOS 
+rh| UCSD p-System ; UCSD ; 1978 ; UCSD p-System 
+rh| CBM DOS ; Commodore ; 1978 ; Commodore BASIC 
+rh| Atari DOS ; Atari ; 1979 ; Atari 8-bit 
+rh| Version 7 Unix file system (V7FS) ; Bell Labs ; 1979 ; Version 7 Unix 
+rh| ODS-2 ; DEC ; 1979 ; OpenVMS 
+rh| FAT12 ; Seattle Computer Products (Tim Paterson) ; 1980 ; QDOS/86-DOS (later IBM PC DOS 1.0) 
+rh| ProDOS  ; Apple ; 1980 ; Apple SOS (later ProDOS 8) 
+rh| DFS ; Acorn Computers Ltd ; 1982 ; Acorn BBC Micro MOS 
+rh| ADFS ; Acorn Computers Ltd ; 1983 ; Acorn Electron (later Arthur/RISC OS) 
+rh| FFS ; Kirk McKusick ; 1983 ; 4.2BSD 
+rh| FAT16 ; IBM, Microsoft ; 1984 ; PC DOS 3.0, MS-DOS 3.0 
+rh| MFS ; Apple ; 1984 ; System 1 
+rh| Elektronika BK tape format ; NPO "Scientific centre" (now Sitronics) ; 1985 ; Vilnius Basic, BK monitor program 
+rh| HFS ; Apple ; 1985 ; System 2.1 
+rh| Amiga OFS ; Metacomco for Commodore ; 1985 ; Amiga OS 
+rh| GEMDOS ; Digital Research ; 1985 ; Atari TOS 
+rh| NWFS ; Novell ; 1985 ; NetWare 286 
+rh| High Sierra ; Ecma International ; 1986 ; MSCDEX for MS-DOS 3.1/3.2access-date=2016-11-09 
+rh| FAT16B ; Compaq ; 1987  ; Compaq MS-DOS 3.31 
+rh| Minix V1 FS ; Andrew S. Tanenbaum ; 1987 ; MINIX 1.0 
+rh| Amiga FFS ; Commodore ; 1988 ; Amiga OS 1.3 
+rh| ISO 9660:1988 ; Ecma International, ISO ; 1988 ; MS-DOS, "classic" Mac OS, and AmigaOS 
+rh| HPFS ; IBM & Microsoft ; 1989  ; OS/2 1.2 
+rh| Rock Ridge ; IEEE ; sortable=yes ; Unix 
+rh| JFS1 ; IBM ; 1990 ; AIXIBM introduced JFS with the initial release of AIX Version 3.1 in 1990. This file system now called JFS1. The new JFS, on which the Linux port was based, was first shipped in OS/2 Warp Server for e-Business in 1999. The same sourcebase was also used for release JFS2 on AIX 5L. 
+rh| VxFS ; VERITAS ; 1991 ; SVR4.0 
+rh| ext ; Rémy Card ; 1992 ; Linux 
+rh| AdvFS ; DEC ; 1993 ; Digital Unix 
+rh| NTFS ; Microsoft (Gary Kimura, Tom Miller) ; 1993 ; Windows NT 3.1 
+rh| LFS ; Margo Seltzer ; 1993 ; Berkeley Sprite 
+rh| ext2 ; Rémy Card ; 1993 ; Linux, Hurd 
+rh| Xiafs ; Q. Frank Xia ; 1993 ; Linux 
+rh| UFS1 ; Kirk McKusick ; 1994 ; 4.4BSD 
+rh| XFS ; SGI ; 1994 ; IRIX 
+rh| HFS ; IBM ; 1994 ; MVS/ESA (now z/OS) 
+rh| FAT16X ; Microsoft ; 1995 ; MS-DOS 7.0 / Windows 95 
+rh| Joliet ("CDFS") ; Microsoft ; 1995 ; Microsoft Windows, Linux, "classic" Mac OS, and FreeBSD 
+rh| UDF ; ISO/ECMA/OSTA ; 1995 ; n/a 
+rh| FAT32, FAT32X ; Microsoft ; 1996 ; MS-DOS 7.10 / Windows 95 OSR2Microsoft first introduced FAT32 in MS-DOS 7.1 / Windows 95 OSR2 (OEM Service Release 2) and then later in Windows 98. NT-based Windows did not have any support for FAT32 up to Windows NT4, Windows 2000 was the first NT-based Windows OS that received the ability to work with it. 
+rh| QFS ; Sun Microsystems ; 1996 ; Solaris 
+rh| GPFS ; IBM ; 1996 ; AIX, Linux 
+rh| Be File System ; Be Inc. (D. Giampaolo, Cyril Meurillon) ; 1996 ; BeOS 
+rh| Minix V2 FS ; Andrew S. Tanenbaum ; 1997 ; MINIX 2.0 
+rh| HFS Plus ; Apple ; 1998 ; Mac OS 8.1 
+rh| NSS ; Novell ; 1998 ; NetWare 5 
+rh| PolyServe File System (PSFS) ; PolyServe ; 1998 ; Windows, Linux 
+rh| ODS-5 ; DEC ; 1998 ; OpenVMS 7.2 
+rh| WAFL ; NetApp ; 1998 ; Data ONTAP 
+rh| ext3 ; Stephen Tweedie ; 1999 ; Linux 
+rh| ISO 9660:1999 ; Ecma International, ISO ; 1999 ; Microsoft Windows, Linux, "classic" Mac OS, FreeBSD, and AmigaOS 
+rh| JFS ; IBM ; 1999 ; OS/2 Warp Server for e-business 
+rh| GFS ; Sistina (Red Hat) ; 2000 ; Linux 
+rh| ReiserFS ; Namesys ; 2001 ; Linux 
+rh| zFS ; IBM ; 2001 ; z/OS (backported to OS/390) 
+rh| FATX ; Microsoft ; 2002 ; Xbox 
+rh| UFS2 ; Kirk McKusick ; 2002 ; FreeBSD 5.0 
+rh| OCFS ; Oracle Corporation ; 2002 ; Linux 
+rh| SquashFS ; Phillip Lougher, Robert Lougher ; 2002 ; Linux 
+rh| VMFS2 ; VMware ; 2002 ; VMware ESX Server 2.0 
+rh| Lustre ; Cluster File Systemsarchivedate=2 October 2007 ; 2002 ; Linux 
+rh| Fossil ; Bell Labs ; 2003 ; Plan 9 version 4 
+rh| Google File System ; Google ; 2003 ; Linux 
+rh| ZFS ; Sun Microsystems ; 2004 ; Solaris 
+rh| Reiser4 ; Namesys ; 2004 ; Linux 
+rh| Non-Volatile File System ; Palm, Inc. ; 2004 ; Palm OS Garnet 
+rh| BeeGFS ;Fraunhofer/ ThinkParQ ;2005 ;Linux 
+rh| GlusterFS ; Gluster Inc. ; 2005 ; Linux 
+rh| Minix V3 FS ; Andrew S. Tanenbaum ; 2005 ; MINIX 3 
+rh| OCFS2 ; Oracle Corporation ; 2005 ; Linux 
+rh| NILFS ; NTT ; 2005 ; Linux 
+rh| VMFS3 ; VMware ; 2005 ; VMware ESX Server 3.0 
+rh| GFS2 ; Red Hat ; 2006 ; Linux 
+rh| ext4 ; various  ; 2006 ; Linux 
+rh| exFAT ; Microsoft ; 2006 ; Windows CE 6.0 
+rh| Btrfs ; Oracle Corporation ; 2007 ; Linux 
+rh| JXFS ; Hyperion Entertainment ; 2008 ; AmigaOS 4.1 
+rh| HAMMER ; Matthew Dillon ; 2008 ; DragonFly BSD 2.0 
+rh| LSFS ; StarWind Software ; 2009 ; Linux, FreeBSD, Windows 
+rh| UniFS ; Nasuni ; 2009 ; Cloud 
+rh| CASL ; Nimble Storage ; 2010 ; Linux 
+rh| OrangeFS ;Omnibond and others ;2011 ; Linux 
+rh| VMFS5 ; VMware ; 2011 ; vSphere 5.0+ 
+rh| CHFS ; University of Szeged ; 2011 ; NetBSD 6.0+ 
+rh| ReFS ; Microsoft ; 2012 ; Windows Server 2012 
+rh| F2FS ; Samsung Electronics ; 2012 ; Linux 
+rh| bcachefs ; Kent Overstreet ; 2015 ; Linux 
+rh| APFS ; Apple ; 2016 ; macOS High Sierra, iOS 10.3 
+rh| NOVA ; UC, San Diego ; 2017 ; Linux 
+rh| HAMMER2 ; Matthew Dillon ; 2017 ; DragonFly BSD 5.0 
+rh| EROFS ;Huaweiaccess-date= ;2018 ;Android 

@@ -1,0 +1,14 @@
+ Client ; CTCP ; DCC ; IPv6 ; SSL ; TLS ; OCSP ; CRL 
+ rh| AndroidChat ; no ; no ; no ; no ; no ; no ; no 
+ rh| Mobile Colloquy ; yesdate=August 2010 ; nodate=August 2010 ; yesdate=August 2010 ; yesdate=August 2010 ; yesdate=August 2010 ; nodate=August 2010 ; nodate=August 2010 
+ rh| fIRC ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| jmIrc ; yes ; no ; no ; no ; no ; no ; no 
+ rh2| k-IRC ; yes ; no ; no ; no ; no ; no ; no 
+ rh2| Revolution IRC ; no ; yes ; dunno ; yes ; yes ; dunno ; dunno 
+ rh2| Virca ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh|  wIRC ; yes ; yes ; no ; yes ; yes ; dunno ; dunno 
+ rh| WLIrc ; yes ; yes ; dunno ; no ; no ; no ; dunno 
+ rh| Yaaic ; noDoes not reply to any CTCP message as of version 1.1. ; dunno ; dunno ; yes ; yes ; dunno ; dunno 
+ rh| Simple IRC ; yes ; yes ; dunno ; yes ; yes ; dunno ; dunno 
+ rh| zsIRC ; yes ; no ; no ; yes ; yes ; no ; no 
+ Client ; CTCP ; DCC ; IPv6 ; SSL ; TLS ; OCSP ; CRL 

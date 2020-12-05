@@ -1,0 +1,44 @@
+ ; R-/R+ tree ; Hash ; Expression ; Partial ; Reverse ; Bitmap ; GiST ; GIN ; Full-text ; Spatial ; FOT ; Duplicate index prevention 
+ 4th Dimension ; dunno ; Cluster ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; dunno ; no 
+ ADABAS ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; no 
+ Adaptive Server Enterprise ; no ; no ; yes ; no ; yes ; no ; no ; no ; yes ; dunno ; dunno ; no 
+ Advantage Database Server ; no ; no ; yes ; no ; yes ; yes ; no ; no ; yes ; dunno ; dunno ; no 
+ Apache Derby ; no ; no ; no ; no ; no ; no ; no ; no ; no{{Citation ; chapter-url       =  ; chapter   = Derby ; title     = Full Text Indexing, Search ; publisher = Apache ; series    = Issues  ; dunno ; dunno ; no 
+ ClustrixDB ; no ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; dunno ; no 
+ CUBRID ; no ; no ; yes{{cite web ; url   =  ; title = CUBRID 9.0 release  ; yes ; yes ; no ; no ; no ; no ; no ; no ; no 
+ DB2 ; Yes ; Yes ; yes ; no ; yes ; yes ; no ; no ; yes{{Citation ; url       =  ; publisher = IBM ; series    = Developer Works ; title     = Full-text search with DB2 Text Search  ; dunno ; dunno ; no 
+ Empress Embedded Database ; yes ; no ; no ; yes ; no ; yes ; no ; no ; no ; dunno ; dunno ; no 
+ EXASolution ; no ; yes ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno ; no 
+ Firebird ; no ; no ; yes ; no ; yes ; no ; no ; no ; no{{Citation ; url       =  ; publisher = Firebird FAQ ; title     = Does Firebird support full-text search?  ; dunno ; dunno ; no 
+ HSQLDB ; no ; no ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno ; no 
+ H2 ; no ; yes ; no ; no ; no ; no ; no ; no ; yes{{Citation ; url       =  ; publisher = H2 Database ; title     = Fulltext Search ; series    = Tutorial  ; yes{{Citation ; url       =  ; publisher = H2 Database ; title     = Create Spatial Index ; series    = Grammar  ; dunno ; no 
+ Informix Dynamic Server ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes{{Citation ; url       =  ; publisher = IBM ; title     = Forest of Trees Index ; series    = Informix Infocenter  ; yes 
+ Ingres ; yes ; yes ; Ingres v10 ; no ; no ; Ingres v10 ; no ; no ; no ; dunno ; dunno ; no 
+ InterBase ; no ; no ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno ; no 
+ Linter SQL RDBMS10 ; no ; yes temporary indexes for equality joins ; yes for some scalar functions like LOWER and UPPER ; no ; no ; no ; no ; no ; yes {{Citation ; url     =  ; publisher     = Linter ; place     = RU ; series     = Documentation ; title     = Full Text Search Functions ; access-date     = 2010-06-06 ; archive-url     =  ; archive-date     = 2011-08-20 ; url-status     = dead   ; no ; no ; yes 
+ LucidDB ; no ; no ; no ; no ; no ; yes ; no ; no ; no ; dunno ; dunno ; no 
+ MariaDB ; Aria and MyISAM tables and, since v10.2.2, InnoDB tables only{{Citation ; publisher = mariadb.com ; series    = MariaDB ; url       =  ; title     = SPATIAL INDEX ; accessdate = 24 September 2017  ; MEMORY,{{cite web ; url        =  ; title      = Storage Engine Index Types ; publisher  = mariadb.com ; accessdate = 25 April 2016 }} InnoDB,5 tables only ; PERSISTENT virtual columns only{{Citation ; url   =  ; title = Virtual Columns - MariaDB Knowledge Base  ; no ; no ; no ; no ; no ; yes{{cite web ; url        =  ; title      = Fulltext Index Overview ; publisher  = mariadb.com ; accessdate = 25 April 2016  ; Aria and MyISAM tables and, since v10.2.2, InnoDB tables only ; dunno ; no 
+ MaxDB ; no ; no ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno ; no 
+ Microsoft Access (JET) ; no ; no ; no ; no ; no ; no ; no ; no ; no{{Citation ; url       =  ; publisher = Stack Overflow ; series    = Questions ; title     = Does Microsoft Access have Full Text Search?  ; dunno ; dunno ; no 
+ Microsoft Visual Foxpro ; no ; no ; yes ; yes ; yes2 ; yes ; no ; no ; no ; dunno ; dunno ; no 
+ Microsoft SQL Server ; Spatial Indexes ; yes4 ; yes3 ; yes ;on Computed columns3 ;Bitmap filter index for Star Join Query ; no ; no ; yes{{Citation ; publisher = Microsoft ; series    = MSDN ; chapter-url       =  ; title     = Library ; chapter   = Microsoft SQL Server Full-Text Search  ; yes{{Citation ; publisher = Microsoft ; series    = Tech Net ; chapter-url       =  ; title     = Library ; chapter   = Spatial Indexing Overview  ; dunno ; no 
+ Microsoft SQL Server Compact (Embedded Database) ; no ; no ; no ; no ; no ; no ; no ; no ; no{{Citation ; publisher = Microsoft ; series    = MSDN ; chapter-url       =  ; title     = Forums ; chapter   = Microsoft SQL Server Compact Full-text search is not available  ; dunno ; dunno ; no 
+ Mimer SQL ; no ; no ; no ; no ; yes ; no ; no ; no ; yes ; yes ; no ; no 
+ MonetDB ; no ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+ MySQL ; Spatial Indexes{{Citation ; publisher   = Oracle ; series      = MySQL ; url         =  ; title       = Index Types Per Storage Engine ; access-date = 24 September 2017   ; MEMORY, Cluster (NDB), InnoDB,5 tables only ; no{{Citation ; publisher = Oracle ; series    = MySQL ; chapter-url       =  ; title     = Bugs ; chapter   = Feature request #4990: Functional Indexes  ; no ; no ; no ; no ; no ; MyISAM tables{{Citation ; publisher = Oracle ; series    = MySQL ; chapter-url       =  ; title     = Bugs ; chapter   = Feature request #13979: InnoDB engine doesn't support FULLTEXT  ; MyISAM tables{{Citation ; publisher = Oracle ; series    = MySQL ; url       =  ; title     = Creating Spatial Indexes  ; dunno ; no 
+ OpenLink Virtuoso ; yes ; Cluster ; yes ; yes ; no ; yes ; no ; no ; yes ; yes (Commercial only) ; no ; no 
+ Oracle ; yes11 ; Cluster Tables ; yes ; yes6 ; yes ; yes ; no ; no ; yes{{Citation ; url       =  ; publisher = Stack Overflow ; series    = Questions ; title     = Does Oracle support full text search?  ; yes{{Citation ; publisher = Oracle ; series    = Tech Network ; chapter-url       =  ; title     = Spatial & Locator ; chapter   = Location Features for Database 11g  ; dunno ; yesOracle / PLSQL: ORA-01408 Error Message 
+ Oracle Rdb ; No ; Yes ; dunno ; No ; No ; dunno ; No ; No ; dunno ; dunno ; dunno ; no 
+ Pervasive PSQL ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+ Polyhedra DBMS ; no ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; dunno ; no 
+ PostgreSQL ; yes ; yes ; yes ; yes ; yes7 ; yes ; yes ; yes ; yes{{Citation ; publisher = PostgreSQL community ; series    = Documentation ; url       =  ; title     = Full Text Search  ; PostGIS{{Citation ; publisher = PostGIS PSC ; series    = PostGIS ; chapter-url       =  ; title     = Manual ; chapter   = 4  ; dunno ; no 
+ Raima Database Manager ; yes ; yes ; no ; yes ; yes ; no ; no ; no ; no ; yes ; no ; no 
+ RDM Server ; no ; no ; no ; yes ; yes ; no ; no ; no ; no ; no ; no ; no 
+ SAP HANA ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; no 
+ solidDB ; no ; no ; no ; no ; yes ; no ; no ; no ; no ; no ; no ; no 
+ SQL Anywhere ; no ; no ; yes ; no ; no ; no ; no ; no ; yes ; yes ; dunno ; yes 
+ SQLite ; yesThe SQLite R*Tree Module ; no ; yesSQLite Expression Indexes ; yes ; no ; no ; no ; no ; yesSQLite FTS3 Extension ; SpatiaLite{{Citation ; url       =  ; publisher = Gaia GIS 2.3.1 ; place     = IT ; title     = SpatiaLite  ; dunno ; no 
+ SQream DB ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; no 
+ Teradata ; no ; yes ; yes ; yes ; no ; yes ; no ; no ; dunno{{Citation ; url       =  ; publisher = Teradata ; series    = Online Publications ; title     = Full-Text Search  ; dunno ; dunno ; no 
+ UniVerse ; yes ; yes ; yes3 ; yes3 ; yes3 ; no ; no ; no ; dunno ; yesgeospatial ; dunno ; no 
+ ; R-/R+ tree ; Hash ; Expression ; Partial ; Reverse ; Bitmap ; GiST ; GIN ; Full-text ; Spatial ; FOT ; Duplicate index prevention 

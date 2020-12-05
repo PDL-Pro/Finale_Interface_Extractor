@@ -1,0 +1,26 @@
+  ; public ; private ; protected ; friend 
+ ABAP Objects ; public section.Scope identifier must appear once in the file declaration, all variable declarations after this scope identifier have his scope, until another scope identifier or the end of class declaration is reached data field type type. ; private section. data field type type. ; protected section. data field type type. ;In ABAP, specific fields or methods are not declared as accessible by outside things. Rather, outside classes are declared as friends to have access to the class's fields or methods. 
+ APL (Dyalog) ; :Field Public field «← value» ; :Field «Private» field «← value» ; ; 
+ C++ (STL) ; public: type field, ; private: type field, ; protected: type field, ;In C++, specific fields are not declared as accessible by outside things. Rather, outside functions and classes are declared as friends to have access to the class's fields. See friend function and friend class for more details. 
+ C# ; public type field «= value», ; private type field «= value», ; protected type field «= value», ; internal type field «= value», 
+ D ; public type field «= value», ; private type field «= value», ;  ; package type field «= value», 
+ Java ; public type field «= value», ; private type field «= value», ; protected type field «= value», ; type field «= value», 
+ eC ; public type field, ; private type field, 
+ Eiffel ; feature field: TYPE ; feature {NONE} field: TYPE ; feature {current_class}  field: TYPE ; feature {FRIEND}  field: TYPE 
+ Objective-C ; @public type field, ; @private type field, ; @protected type field, ; @package type field, 
+ Swift ; colspan=4 n/a 
+ Smalltalk ; colspan=2 n/a  ;Just send a message to the class  class addInstVarName: field. class removeInstVarName: field.  ; n/a  
+ Python ; self.field = valueJust assign a value to it in a method ; n/aPython doesn't have private fields - all fields are publicly accessible at all times. A community convention exists to prefix implementation details with one underscore, but this is unenforced by the language. ; colspan=2 n/a 
+ Visual Basic .NET ; Public field As type «= value» ; Private field As type «= value» ; Protected field As type «= value» ; Friend field As type «= value» 
+ Xojo ; Public field As type «= value» ; Private field As type «= value» ; Protected field As type «= value» ; n/a  
+ PHP ; public $field «= value», ; private $field «= value», ; protected $field «= value», ;  
+ Perl ; $self->{field} = value, ; colspan=3 n/a 
+ Raku ; has« type »$.field« is rw» ; has« type »$!field ; colspan=2 n/a 
+ Ruby ; colspan=2 n/a ; @field = value ;  
+ Windows PowerShell ; Add-Member «-MemberType »NoteProperty «-Name »Bar «-Value »value-InputObject variable ; colspan=3 n/a 
+ OCaml ; colspan=2 n/a ; val «mutable» field = value ; rowspan=2 n/a 
+ F# ; n/a ; let «mutable» field = value ; n/a 
+ JavaScript ; this.field = value  this["field"] = value ; ; ; 
+ COBOL ; n/a ; level-number field clauses.All class data is 'private' because the COBOL standard does not specify any way to access it. ; n/a ; n/a 
+ Cobra ; var field «as type» «= value» ; var __field «as type» «= value» ; var _field «as type» «= value» ; 
+ ISLISP ; (field :initform value :accessor accessor-name :initarg keyword) ; ; ; 

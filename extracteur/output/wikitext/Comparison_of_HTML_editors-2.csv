@@ -1,0 +1,33 @@
+ Editor ; WYSIWYG ; FTP Upload ; WebDAV Upload ; Server-side scripting ; Shared editing ; Spell checking ; Templates ; Templates Update Sync ; Page Preview ; Form Handler 
+ rh2| Amaya ; yes ; no ; yes ; no ; no ; yes ; partial{{Cite web|url= ; no ; yes ; dunno 
+ rh| Aptana ; no ; yes ; dunno ; yes (via plugins) ; yes ; no ; some (i.e. Snippets) ; dunno ; yes ; dunno 
+ rh| Arachnophilia ; no ; dunno ; dunno ; dunno ; dunno ; yes ; yes ; dunno ; yes ; dunno 
+ rh| Bluefish ; No ; Yes ; Yes ; Yes ; No ; Yes ; Yes ; Yes ; Yes ; dunno 
+ rh| BlueGriffon ; yes ; no(add-on)Bluegriffon's FireFTP ads shortcut to FTP client ; no ; dunno ; no ; yes ; yes(via commercial proprietary add-on){{Cite web|url= ; no ; yes ; dunno 
+ rh| Brackets ; "Live Preview" in-browser ; yes (via extension) ; no ; yes ; no ; yes (via extension) ; yes (via extension) ; no ; yes ; dunno 
+ rh2| Claris Homepage ; yes ; yes ; no ; no ; no ; yes ; yes ; no ; yes ; dunno 
+ rh| Codelobster ; no ; yes ; no ; Yes ; no ; no ; yes ; dunno ; yes ; dunno 
+ rh| CoffeeCup HTML Editor ; no ; yes ; dunno ; no ; no ; yes ; yes ; dunno ; yes ; dunno 
+ rh| Dreamweaver ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| EZGenerator ; yes ; yes ; dunno ; dunno ; dunno ; yes ; yes ; dunno ; yes ; dunno 
+ rh| Freeway ; yes ; yes ; no ; yes ; no ; yes ; yes ; dunno ; yes ; yes 
+ rh2| GoLive ; yes ; yes ; yes ; yes ; no ; yes ; yes ; dunno ; yes ; dunno 
+ rh| HTML-Kit ; no ; yes ; dunno ; yes ; no ; yes ; yes ; dunno ; yes ; dunno 
+ rh2| KompoZer ; yes ; yes ; no ; no ; no ; yes ; yes ; no ; yes ; dunno 
+ rh| LibreOffice ; yes ; yes ; dunno ; dunno ; yes ; yes ; yes ; dunno ; yes ; dunno 
+ rh| Maqetta ; yes ; ? ; ? ; ? ; ? ; ? ; ? ; ? ; yes ; ? 
+ rh2| Microsoft Expression Web ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno 
+ rh2| Microsoft FrontPage ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; dunno 
+ rh2| Microsoft SharePoint Designer ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; dunno 
+ rh| Microsoft Visual Web Developer ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; dunno 
+ rh| Mobirise ; yes ; yes ; no ; yes ; no ; no ; yes ; dunno ; yes ; yes 
+ rh| Web Architect ; no ; yes ; dunno ; yes ; no ; yes ; yes ; dunno ; yes ; dunno 
+ rh2| Nvu ; yes ; yes ; yes ; no ; no ; yes ; yes ; no ; yes ; dunno 
+ rh| openElement ; yes ; yes ; no ; yes ; no ; yes ; yes ; dunno ; yes ; yes 
+ rh| OpenOffice.org ; yes ; yes ; dunno ; dunno ; yes ; yes ; yes ; dunno ; yes ; dunno 
+ rh| oXygenXML Editor ; partial (more like WYSIWYM) ; yes and SFTP ; yes  ; yes  ; yes  ; yes ; yes ; yes  ; partial (via XSLT to browser) ; maybe, depends on type. 
+ rh2| Quanta Plus ; yes ; yes ; no (cvs instead) ; yes ; yes ; yes ; yes ; yes ; yes ; dunno 
+ rh| RocketCake ; yes ; yes ; no  ; yes ; no ; no ; yes ; yes ; yes ; yes 
+ rh| SeaMonkey Composer ; yes ; yes ; yes ; no ; no ; yes ; no ; no ; yes ; dunno 
+ rh| TOWeb ; yes ; yes ; no ; yes ; no ; yes ; yes ; dunno ; yes ; yes 
+ Editor ; WYSIWYG ; FTP Upload ; WebDAV Upload ; Server-side scripting ; Shared editing ; Spell checking ; Templates ; Templates Update Sync ; Page Preview ; Form Handler 

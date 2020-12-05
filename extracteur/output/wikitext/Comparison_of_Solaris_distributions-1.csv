@@ -1,0 +1,9 @@
+ Distribution ; Supported architectures ; Install-time desktop environment selection 
+ Rh| BeleniX ; x86, x86-64 ; KDE, Xfce 
+ Rh| Nexenta OS ; x86, x86-64 ; GNOME 
+ Rh| NexentaStor ; x86(-64?) ; dunno 
+ Rh| OmniOS ; x86, x86-64 ; none 
+ Rh| OpenIndiana ; x86, x86-64 ; MATE 
+ Rh| SmartOS ; x86-64 ; none 
+ Rh| v9os ; SPARC ; none 
+ Distribution ; Supported architectures ; Install-time desktop environment selection 

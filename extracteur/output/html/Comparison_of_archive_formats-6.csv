@@ -1,0 +1,20 @@
+Archive format;Built-in compression;Self-extracting;Directory structure;POSIX attributes;ACLs;Alternate data streams
+cpio;No;No;Yes;Yes;No;?
+tar;No;No;Yes;Yes;Some;(in Solaris implementation)
+dar;Yes;No;Yes;Yes;Yes;Yes
+ar;No;No;No;Yes;No;?
+pax;No;No;Yes;Yes;Yes;?
+dump;No;No;Yes;Yes;Yes;?
+shar;No;Yes;Yes;Yes;No;?
+makeself;Yes;Yes;Yes;Yes;Yes;?
+zip;Yes;Yes;Yes;No;?;?
+rar;Yes;Yes;Yes;No;?;Yes
+ace;Yes;?;Yes;No;?;?
+arj;Yes;Yes;Yes;No;No;?
+zoo;Yes;?;Yes;No;?;?
+ISO 9660 (CD-ROM);No;No;Yes;(with Rock Ridge extension);No;?
+cab;Yes;Yes;?;No;?;?
+rpm;Yes;No;Yes;Yes;?;?
+deb;Yes;No;Yes;Yes;?;?
+7z;Yes;Yes;Yes;Yes;?;?
+Archive format;Built-in compression;Self-extracting;Directory Structure;POSIX attributes;ACLs;Alternate data streams

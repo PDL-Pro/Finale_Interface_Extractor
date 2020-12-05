@@ -1,0 +1,16 @@
+ Feature ; Android ; iOS ; Tizen ; Sailfish OS ; Ubuntu Touch ; Plasma Mobile ; PureOS ; PostmarketOS ; KaiOS 
+Developed by ;Google, Open Handset Alliance;Apple Inc.;Linux Foundation, Tizen Association, Samsung, Intel;Sailfish Alliance, Mer, Jolla and Sailfish community contributors;UBports and Ubuntu community contributors (previously Canonical Ltd.);KDE and Blue Systems;Purism;PostmarketOS community;KaiOS Technologies Inc., Google 
+Market share{{cite web|url= Says Worldwide Sales of Smartphones Grew 9 Percent in First Quarter of 2017|publisher=Gartner, Inc|accessdate=2017-05-26|url-status=live|archiveurl= ;86.1%;13.7%;Unknown;Unknown;Unknown;Unknown;Unknown;N/A;? 
+Current version ;11;14.0;4.0.0.7;3.3.0.16;16.04 OTA-11;5.16.4;9.0;alpha;2.6.0 
+Development version ;12 ;N/A ;5.5 M1 ;Unknown ;Unknown ;Unknown ;Unknown ;N/A ; 
+Current version release dates ;08;16;16;28;13;30;df=yes;|| 
+License ;partialBase system is Free and open-source, but usually bundled with proprietary apps and drivers, which provide an increasing amount of the functionality. ;Proprietary ;Partial, both proprietary and open-source components, assorted licenses ;partialFree and open-source, but the UI and the SDK are proprietary and closed source ;freeFree and open-source, mainly the GPL ;freeFree and open-source, mainly the GPL ;freeFree and open-source, mainly the GPL ;freeFree and open-source, GPL ;Proprietary except for open source kernel patches (formerly the MPL 2.0 B2G OS) 
+OS family ;Modified Linux kernel based;Darwin;Linux (based on Combination of Linux MeeGo and Samsung Bada);Linux;Linux (based on Ubuntu);Linux;Linux (based on Debian);Linux (based on Alpine Linux);Firefox OS / Open Web (based on Linux kernel) 
+Supported CPU architecture ;ARM (32-bit ARMv7-A and 64-bit ARMv8-A only), x86, x86-64;64-bit ARMv8-A only;ARM, x86, x86-64;ARM, x86-64;ARM, x86-64;ARM, ?;Convergence operating system;ARM, ARM64, x86, x86-64;ARM 
+Programmed in ;C, C++, Java, Kotlin;C, C++, Objective-C, Swift;C++, Xamarin.Forms (.NET C#, F#, VB);C++, QML, Python;Apps: HTML5, QML, Go, JavaScript, C++System: C, C++, QML;C++, QML;||Python install tool and shell script packages|| 
+Public issues list ;Yes;No2 3rd party;Yes;Yestogether.jolla.com ;Yes[UBports issues on Github.com] ;Yes;Yes;Yes;Nodate=August 2019  
+DRM-freeWe oppose DRM. | Defective by Design  ;Noandroid.drm | Android Developers  since Android 4.1MediaCrypto | Android Developers  and Android 4.3MediaDrm | Android Developers  and more restrictions on Android 4.4SurfaceView.setSecure(boolean) | Android Developers ;No – FairPlay;Yes;Yes;Yes;Yesdate=August 2019;Yesdate=August 2019;Yes;? 
+Device independent system updates ;Partial system updates since Oreo 3rd party software like LineageOSGoogle patches Stagefright 2.0 in Nexus, fixes land in 'nightly' CyanogenMod builds | ZDNet ;YesiOS 7: what you need to know before updating ;No;Yes;Yes;||||Yes. Intended for use on old mobile devices||For feature phones, not smart phones 
+Wireless system updates ;Yes;5+;No;Yes;Yes;|||||| 
+GPU accelerated GUI ;3+Stewart Mitchell, "Android lets developers work closer to the metal" , PC Pro, 11/02/11;Yes;?;Yes;Yes;|||||| 
+ Feature ; Android ; iOS ; Tizen ; Sailfish OS ; Ubuntu Touch ; Plasma Mobile ; PureOS ; PostmarketOS ; KaiOS 

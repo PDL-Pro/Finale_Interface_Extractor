@@ -1,0 +1,5 @@
+ Kernel name ; Intel ; NVIDIA ; AMD ; ARM ; Qualcomm ; Imagination Technologies ; Broadcom  ; VeriSilicon  
+ Kernel name ; Intel HD/Iris Graphics ; GeForce/Quadro/Tesla ; Radeon ; Mali ; Adreno ; PowerVR ; VideoCore4 ; Vivante 
+ Linux kernel ; yes ; yes ; yes ; yes ; yes ; 2D onlyThe GMA500 GPU has a PowerVR in it. The GMA500 Kconfig, mention that it is a 2D KMS driver.There is also a driver for the dreamcast PowerVR but it is only a Framebuffer driver as explained in the fbdev Kconfig ; yes ; Etnaviv 
+ Windows NT kernel ; yes ; yes ; yes ; ? ; Windows RT, Windows Phone 8.x, Windows 10 Mobile ; ? ; ? ; ? 
+ XNU ; via I/O Kit (macOS only) ; via I/O Kit (macOS only) ; via I/O Kit (macOS only) ; no ; no ; via I/O Kit (iOS only) ; no ; no 

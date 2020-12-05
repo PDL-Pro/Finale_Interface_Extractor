@@ -1,0 +1,22 @@
+ Manager ; Web browser integration ; Resuming ; Download acceleration ; URL per file ; Mirror search ; Auto dial/hangup ; Categorized downloads ; Cookies import ; Speed limit ; File browser ; ZIP preview ; Add-on support ; Scheduler ; Checksum verification ; Remote Access/Control ; Modified Time-stamp preserved 
+ rh|4K Video Downloader ; no; yes; yes; dunno; no; no; no; no; no; yes; no; no; no; no; no; dunno 
+ rh|BitComet ; yes;yes; yes;dunno;yes;dunno;yes;dunno;yes;dunno; yes;yes;yes;yes;yes; yes 
+ rh|Download Accelerator Plus ; yes;yes; yes;dunno;dunno;dunno;dunno;dunno;dunno;dunno; dunno;dunno;dunno;dunno;dunno; dunno 
+ rh|DownloadStudio ; yes; yes; yes; 1; no; yes; yes; yes; yes; yes; yes; yes; dunno; no; dunno; dunno 
+ rh|DownThemAll! ; Requires Firefox; yes; yes; 10; beta; no; yes; no; beta; no; no; no; no; yes; no; yes 
+ rh|FlashGet ; yes; yes; yes; unknown limit; yes; yes; yes; yes; All downloads; yes; no; yes; N/A; no; no; dunno 
+ rh|Free Download Manager ; yes; yes; yes; 10; yes; yes; yes; no; yes; yes; yes; yes; yes; yes; yes; yes 
+ rh|Free Studio ; yes; yes; yes; unlimited; no; no; no; no; no; no; no; no; no; no; no; dunno 
+ rh|Freemake Video Downloader ; no; yes; yes; unlimited; no; no; no; no; yes; yes; no; no; no; no; no; dunno 
+ rh|GetRight ; yes; yes; 10 streams, needs mirrors for >4 streams ; unlimited; yes; yes; yes; yes; yes; yes; yes; Scripting; yes; yes; yes; yes 
+ rh2|Go!Zilla ; dunno;dunno; dunno;dunno;dunno;dunno;dunno;dunno;dunno;dunno; dunno;dunno;dunno;dunno;dunno; dunno 
+ rh|Internet Download Accelerator ; yes; yes; yes; dunno; yes; yes; yes; yes; yes; yes; yes; yes; yes; yes; yes; dunno 
+ rh|Internet Download Manager ; yes; yes; yes; 1 refreshable; no; yes; yes; yes; yes; yes; no; no; yes; yes; no; yes 
+ rh|JDownloader ; yes; yes; yes; 1; no; yes; no; no; yes; no; no; yes; Yes; yes; yes; dunno 
+ rh|Jigdo ;no;yes;dunno;unlimited;dunno;no;no;no;no;no;no;dunno;no;yes;no;no 
+ rh|KGet ; Konqueror, Fx (via Flashgot plugin); yes; yes; unlimited; yes; yes; yes; yes; BitTorrent Only; yes; no; yes; dunno; yes; yes; dunno 
+ rh|Microsoft Download Manager ; yes; yes; yes; dunno; no; no; no; no; no; no; no; no; no; no; no; dunno 
+ rh|MiniDM ; yes; yes; yes; unlimited; no; no; no; no; no; yes; no; yes; dunno; yes; yes; dunno 
+ rh|MLDonkey ; partial; yes; no; unlimited; no; no; yes; no; yes; no; no; yes; dunno; yes; yes; dunno 
+ rh|Shareaza ; IE, Fx and similar: ext. plugin; yes; yes; unlimited; yes; via Scheduler; yes; no; yes; yes; yes; yes; dunno; yes; yes; dunno 
+ Manager ; Web browser integration ; Resuming ; Download acceleration ; URL per file ; Mirror search ; Auto dial/hangup ; Categorized downloads ; Cookies import ; Speed limit ; File browser ; ZIP preview ; Add-on support ; Scheduler ; Checksum verification ; Remote Access/Control ; Modified Time-stamp preserved 

@@ -1,0 +1,19 @@
+ Name ; macOS ; Windows ; Cygwin ; BSD ; Linux ; Solaris ; Java ; OpenVMS ; z/OS ; AIX ; HP-UX ; iOS ; Android ; Maemo ; Windows Phone 
+rh| AbsoluteTelnet ; no ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; dunno 
+rh| Bitvise SSH Client ; no ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+rh| ConnectBot ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; yes ; no ; no 
+rh| CRAX Commander ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no 
+rh| Dropbear ; yes ; no ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; yes ; yes ; yesiosjailbreak ; no ; yes ; dunno 
+rh| eSSH Client ; yes ; yes ; dunno ; yes ; yes ; yes ; dunno ; dunno ; dunno ; no ; no ; no ; no ; no ; dunno 
+rh| lsh ; yes ; no ; no ; partialfreebsdonly ; yes ; yes ; dunno ; dunno ; dunno ; no ; no ; no ; no ; no ; dunno 
+rh| OpenSSH (OpenBSD Secure Shell) ; included ; includedwin32openssh ; included ; included ; includedopensshlinux ; yes ; dunno ; yes ; yes ; yes ; yes ; yesiosjailbreak ; yes ; yes ; dunno 
+rh| PuTTY ; partial ; yes ; dunno ; yes ; yes ; yes ; no ; dunno ; dunno ; no ; no ; no ; no ; no ; beta 
+rh| SecureCRT ; yes ; yes ; no ; no ; yes ; no ; no ; no ; no ; no ; no ; yes ; no ; no ; dunno 
+rh| SmartFTP ; no ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; dunno 
+rh| Tera Term ; no ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; dunno 
+rh| TN3270 Plus ; no ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; dunno 
+rh| TtyEmulator ; no ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; dunno 
+rh| WinSCP ; no ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; no ; yesiosjailbreak ; no ; no ; dunno 
+rh| wolfSSH ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; dunno ; dunno ; no ; no ; no ; no ; no 
+rh| ZOC ; yes ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; dunno 
+ Name ; OS X ; Windows ; Cygwin ; BSD ; Linux ; Solaris ; Java ; OpenVMS ; z/OS ; AIX ; HP-UX ; iOS ; Android ; Maemo ; Windows Phone 

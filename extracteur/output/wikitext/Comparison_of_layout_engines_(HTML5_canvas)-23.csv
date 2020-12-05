@@ -1,0 +1,3 @@
+ ; Trident ; EdgeHTML ; Gecko ; WebKit ; Presto 
+ track ; 6.0 ; 12 
+ a ping ; no ; no ; dependspublisher=Mozilla1=The ping attribute is disabled by default, due to privacy concerns.publisher=Mozillapublisher=Mozilla ; dependspublisher=WebKit1=The ping attribute is disabled by default, thus needs to be manually enabled by each port  

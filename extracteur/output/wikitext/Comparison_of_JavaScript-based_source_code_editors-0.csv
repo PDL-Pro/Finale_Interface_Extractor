@@ -1,0 +1,20 @@
+ Editor ; Site ; Latest version ; Style, clone of ; Cost (US$) ; Software license ;Open source ; Browser support ; Activity 
+ rh| Ace ; Home, demo ; v1.4.12, 2020-7 ; Sublime Text / Microsoft Visual Studio ; free ; New BSD License ;  Yes ; Firefox 3.5+, Safari 4+, Chrome, IE 8+, Opera 11.5+ ; yes 
+ rh| Atom ; Home ; v1.50.0-beta0, 2020-07-14 ;  Emacs, Vim and others ; Free ; Dual ; Yes ; Chrome ; yes 
+ rh| CodeMirror ; Home, demo ; 5.56.0, 2020-07-20 ; plain textarea ; free ; MIT-like ;  Yes ; Firefox 3+, Chrome, Safari 3+, Internet Explorer 8+, Opera 9+CodeMirror supported browsers ; yes 
+ rh| CodeJar ; Home, demo ; 1.0.2, 2020-04-05 ; plain textarea ; free ; MIT ;  Yes ; Firefox 3+, Chrome, Safari 3+, Internet Explorer 8+, Opera 9+ ; yes 
+ rh| Codeanywhere  ; Home ; 6.0 ; SublimeText ; - ; Public Cloud ; no ; Firefox 3+, Chrome, Safari 3+, Internet Explorer 8+, Opera 9+ ; yes 
+ rh| Codenvy Editor ; Home ; 2.10.17, 2014-01-17 ; Eclipse ; - ; Public Cloud ; yes ; Firefox 3+, Chrome, Safari 3+, Internet Explorer 8+, Opera 9+ ; yes 
+ rh| Orion ; Home ;22.0, 2020-04-03. ; Eclipse SWT StyledText, regular textarea ; free ; dual-licensed: BSD3-clause and EPL ;  Yes ; Firefox 37+, Chrome 40+, Safari7+, Internet Explorer 11+Orion supported browsers ; yes 
+ rh| Monaco Editor ; Home, demo ; 0.20.0, 2020-02-11 ; Visual Studio Code ; free ; MIT ;  Yes ; IE8+, Firefox 4+, Chrome ; yes 
+ rh| Markitup ; Home, demo ; 1.1.14, 2013-02-04 ; Markup editor, no syntax highlight ; free ; MIT, GPL ; yes ; IE 6 & 7, Firefox 2 & 3, Safari 3.1, Opera 9+ ; some 
+ rh| LDT ; Home ; 2012-02-19 ; regular textarea ; free ; MIT, GPL ;  Yes ; Firefox 3.6+, IE8, Chromium 16, Midori 4.1, Opera 11, Epiphany ; some 
+ rh| Ymacs ; Home, demo ; 0.5, 2012-03-28 ; Emacs ; free ; BSD ;  Yes ; Firefox, Chrome, Safari ; some 
+ rh| CodePress ; Home ; 0.9.6, 2007-09-26 ; Microsoft Visual Studio ; free ; LGPL ; yes ; dunno ; no 
+ rh| CodeTextArea ; Home, demo ; 2009-06 ; Microsoft Visual Studio ; free ; BSD ; yes ; Dojo widget ; no 
+ rh| EditArea ; Home, demo ; 0.8.2, 2010-01-14 ; Microsoft Visual Studio ; free ; LGPL ; yes ; IE 6+, Firefox 1.5+, Safari 3+, Opera 9+, ChromeEditArea compatibility chart ; no 
+ rh| Helene ; Home, demo ; 0.9, unknown release date ; Microsoft Visual Studio ; free ; GPL ; yes ; ; no 
+ rh| 9ne ; Home ; dunno ; Emacs ; free ; GPL ; yes ; ; no 
+ rh| jsvi ; Home ; dunno ; vi ; free ; GPL ; yes ; ; no 
+ rh| MDK-Editor ; Home ; 2.10, 2008 ; Microsoft Visual Studio ;  Depends on use ; Dual ;  Code is readable ; tested to work on: IE 6, 7 - Firefox 2, 3 - Chrome ; Yes 
+ rh| Micro ; Home ; 2013 ; nano ; free ; GPL ; yes ; ; some 

@@ -1,0 +1,45 @@
+;Server OS support;Server OS support;Server OS support;Features;Features;Features;Features;Features;Features;Features;Features;Features;Features;Features;Features;Storage;Storage;Users
+Mail server;Linux/ Unix;Windows;Mac OS;SMTP;POP3;IMAP;JMAP;IMAP IDLE;SMTP over TLS;POP over TLS;IPv6;SSL;DANE;Webmail;ActiveSync;Sieve;Database;Filesystem;Other;IDN/UTF8;License
+agorum core;Yes;Yes;No;Yes;No;Yes;?;No;No;No;No;Yes;No;Yes;No;No;Yes;No;No;?;GPLv2
+Apache James;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;?;Yes;?;No;No;Yes;Yes;Yes;No;?;ASLv2
+Axigen;Yes;Yes;No;Yes;Yes;Yes;?;Yes;Yes;Yes;Yes;Yes;?;Ajax, Basic & Mobile;Yes;Yes;Proprietary, Embedded, Optimized for Email & Groupware;Yes;Yes;Yes;Proprietary (free version: 5 domains, 5 users, 5 groups)
+Citadel;Yes;No;Yes;Yes;Yes;Yes;?;No;Yes;Yes;Yes;Yes;?;Yes;No;Yes;Yes;No;No;?;GPLv3
+CommuniGate Pro;Yes;Yes;Yes;Yes;Yes;Yes;?;Yes;Yes;Yes;Yes;Yes;?;Yes;Yes;?;Yes;Yes;Yes;Yes;Proprietary (Free for up to 5 users)
+Courier Mail Server;Yes;No;Yes;Yes;Yes;Yes;?;Yes;Yes;Yes;Yes;Yes;No;Yes;No;maildrop;No;maildir;No;Yes;GPLv3
+Cyrus IMAP;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;?;No;No;Yes;Yes (indexes);Yes;Yes;?;4-clause BSD
+Dovecot;Yes;No;Yes;Yes;Yes;Yes;?;Yes;Yes;Yes;Yes;Yes;?;No;No;Yes;Yes;maildir, mbox, dbox;No;No;Mixed: MIT and LGPL 2.1
+Eudora Internet Mail Server;No;No;Yes;Yes;Yes;Yes;?;?;No;No;?;No;?;No;No;?;No;No;Yes;?;Proprietary
+Exim;Yes;Yes (via Cygwin);Yes;Yes;Dovecot, UW IMAP;Dovecot, UW IMAP;?;Dovecot, UW IMAP;Yes;No;Yes;Yes;Yes;No;No;Yes;Yes;Yes;No;Yes;GPLv2+
+FirstClass;Yes;Yes;Yes;Yes;Yes;Yes;?;?;Yes;Yes;?;Yes;?;Yes;Yes;?;Yes;Yes;Yes;?;Proprietary
+Gordano Messaging Suite;Yes;Yes;No;Yes;Yes;Yes;?;Yes;Yes;Yes;?;Yes;?;Yes;Yes;No;Yes;Yes;Yes;?;Proprietary
+GroupWise;Yes;Yes;No;Yes;Yes;Yes;?;?;Yes;Yes;?;Yes;?;Yes;Yes;?;Yes;No;No;?;Proprietary
+Halon;Yes;No;No;Yes;No;No;?;No;Yes;No;Yes;Yes;Yes;No;No;?;Yes;Yes;Yes;Yes;Proprietary
+Haraka;Yes;Yes;Yes;Yes;No;No;?;No;Yes;No;Yes;Yes;?;No;No;?;Yes;Yes;Yes;Yes;MIT
+hMailServer;No;Yes;No;Yes;Yes;Yes;?;Yes;Yes;Yes;Yes;Yes;?;Yes;No;?;Yes;Yes;No;No;GNU AGPL
+IBM Lotus Domino;Yes;Yes;No;Yes;Yes;Yes;?;No;Yes;Yes;Yes;Yes;No;Yes;No;?;Yes;No;No;No;Proprietary
+IceWarp Mail Server;Yes;Yes;Yes;Yes;Yes;Yes;?;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;No;Yes;Yes;No;?;Proprietary
+Ipswitch IMail Server;No;Yes;No;Yes;Yes;Yes;?;Yes (since v12.2);Yes;Yes;?;Yes;?;Yes;Yes;?;No;Yes;No;?;Proprietary
+Kerio Connect;Yes;Yes;Yes;Yes;Yes;Yes;?;Yes;Yes;Yes;Yes;Yes;?;Yes;Yes;Yes;No;Yes;No;?;Proprietary
+Kolab;Yes;No;No;Yes;Yes;Yes;?;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;?;GPLv3
+Kopano;Yes;Yes;Yes;External;Yes;Yes;?;Yes;External;Yes;Yes;Yes;No;Yes;Yes;No;Yes;Yes;Amazon S3;?;AGPLv3, paid
+Mailsite;No;Yes;No;Yes;Yes;Yes;?;?;Yes;Yes;?;Yes;?;Yes;Yes;Yes;Yes;Yes;Yes;?;Proprietary
+Mailtraq;No;Yes;No;Yes;Yes;Yes;?;Yes;Yes;Yes;?;Yes;?;Yes;No;?;Yes;Yes;Yes;?;Proprietary
+MDaemon;No;Yes;No;Yes;Yes;Yes;?;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;No;No;Yes;Yes;Not IMAP;Proprietary
+Mercury Mail Transport System;No;Yes;No;Yes;Yes;Yes;?;Yes;Yes;Yes;No;Yes;No;Yes;No;No;No;Yes;No;No;Proprietary donationware
+Microsoft Exchange Server;No;Yes;No;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;3rd Party support;Yes;Yes;Yes;Not IMAP;Proprietary
+NetMail;Yes;Yes;No;Yes;Yes;Yes;?;?;Yes;Yes;?;Yes;?;Yes;No;?;Yes;No;No;?;Proprietary
+OpenSMTPD;Yes;No;Yes;Yes;No;No;?;No;Yes;No;Yes;Yes;No;No;No;?;possible through custom backends;Yes;No;No;ISC
+Open-Xchange;Yes;No;No;Yes;Yes;Yes;?;?;Yes;Yes;?;Yes;?;Yes;Yes;?;Yes;No;No;?;Proprietary/SaaS, with open-source parts
+Oracle Communications Messaging Server;Yes;No;No;Yes;Yes;Yes;?;?;Yes;Yes;?;Yes;?;Yes;No;?;Yes;Yes;No;Yes;Proprietary
+Postfix;Yes;No;Yes;Yes;Dovecot, UW IMAP;Dovecot, UW IMAP;?;Dovecot, UW IMAP;Yes;No;Yes;Yes;Yes;No;No;No;Yes;Yes;Yes;Yes;IBM Public License
+qmail;Yes;No;Yes;Yes;Yes;Dovecot, UW IMAP;?;Dovecot, UW IMAP;No;Dovecot, UW IMAP;via Qsmtp;No;No;No;No;?;(cdb);Yes;No;?;Public domain
+Qpopper;Yes;Yes (via Cygwin);Yes;No;Yes;No;?;No;No;Yes;?;Yes;?;No;No;?;No;Yes;Yes;?;BSD-style, GPL-incompatible
+Scalix;Yes;?;?;Yes;Yes;Yes;?;Yes;Yes (via Stunnel);Yes (via Stunnel);?;Yes (via Stunnel);?;Yes;Yes;?;Yes;Yes;No;?;Proprietary with OSS parts, a community (Freeware) and 3 paid editions (SMB, Enterprise, Hosting)
+Sendmail;Yes;No;Yes;Yes;Dovecot, UW IMAP;Dovecot, UW IMAP;?;Dovecot, UW IMAP;Yes;No;Yes;Yes;?;No;No;No;?;Yes;?;Yes;Sendmail License
+SparkEngine;Yes;Yes;Yes;Yes;No;No;?;No;Yes;No;?;Yes;?;No;No;?;Yes;Yes;Yes;?;Proprietary
+UW IMAP;Yes;Yes;Yes;No;Yes;Yes;?;Yes;No;Yes;Yes;Yes;No;WebPine;No;No;Yes (Indexes);Yes;No;?;Apache License 2.0
+WinGate;No;Yes;No;Yes;Yes;Yes;?;Yes;Yes;Yes;No;Yes;?;Yes;No;?;No;Yes;No;?;Proprietary
+Zarafa;Yes;No;No;External;Yes;Yes;?;Yes;External;Yes;Yes;Yes;No;Yes;Yes;No;Yes;Yes;No;?;AGPLv3, paid
+Zentyal;Yes;No;No;Yes;Yes;Yes;?;Yes;Yes;Yes;No;Yes;?;Yes;Yes;?;Yes;Yes;No;?;GPLv2
+Zimbra;Yes;No;Yes;Yes;Yes;Yes;?;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;No;ZPL and proprietary editions
+Mail server;Linux/ Unix;Windows;Mac OS;SMTP;POP3;IMAP;JMAP;IMAP IDLE;SMTP over TLS;POP over TLS;IPv6;SSL;DANE;Webmail;ActiveSync;Sieve;Database;Filesystem;Other;IDN/UTF8;License

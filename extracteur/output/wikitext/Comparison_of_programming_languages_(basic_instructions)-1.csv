@@ -1,0 +1,38 @@
+ ; Single precision ; Double precision ; Other precision ; Processor dependent 
+ Ada ; Float ; Long_Float ; n/a 
+ ALGOL 68 ; real ; long real ; short real, long long real, etc. 
+ C ; float ; double ; long double 
+ C++ (STL) ; float ; double ; long double 
+ Objective-C (Cocoa) ; float ; double ; long double ; CGFloat 
+ C# ; float ; double ; rowspan=4 n/a 
+ Java ; float ; double 
+ Go ; float32 ; float64 
+ Rust ; f32 ; f64 
+ Swift ; FloatFloat32 ; DoubleFloat64 ; Float80 ; CGFloat 
+ D ; float ; double ; ; real 
+ Common Lisp ; single-float ; double-float ; float, short-float, long-float 
+ Scheme ; ; ; 
+ ISLISP ; ; ;  
+ Pascal (Free Pascal) ; single ; double ; ; real 
+ Visual Basic ; Single ; Double ; rowspan=3 n/a 
+ Visual Basic .NET ; Single ; Double 
+ Xojo ; Single ; Double 
+ Python ; rowspan=2 n/a ; float ;  
+ JavaScript ; Number8.5 The Number Type ; n/a 
+ S-Lang ;  ;  ;  
+ Fortran ;REAL(KIND = n) ;REAL(KIND = n) ;  
+ PHP ;  ; float ;  
+ Perl ;  ;  ;  
+ Raku ; num32 ; num64 ; ; Num 
+ Ruby ; n/a ; Float ; rowspan=4 n/a 
+ Scala ; Float ; Double 
+ Seed7 ; n/a ; float 
+ Smalltalk ; Float ; Double 
+ Windows PowerShell ;  ;  
+ OCaml ; n/a ; float ; rowspan=3 n/a 
+ F# ; float32 ; float 
+ Standard ML ; n/a ; ; real 
+ Haskell (GHC) ; Float ; Double ;  
+ Eiffel ; REAL_32 ; REAL_64 ;  
+ COBOL ; FLOAT-BINARY-7 ; FLOAT-BINARY-34 ; FLOAT-SHORT, FLOAT-LONG, FLOAT-EXTENDED 
+ Mathematica ; n/a ; n/a ; ; Real 

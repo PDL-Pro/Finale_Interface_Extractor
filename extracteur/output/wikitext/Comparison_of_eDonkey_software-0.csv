@@ -1,0 +1,9 @@
+ Client ; Fork from ; FLOSS ; Runs on ; Runs on ; Runs on ; Kad ; Unicode ; Languages supp ; Development Status 
+ Client ; Fork from ; FLOSS ; Linux ; Windows ; Mac OS X ; Kad ; Unicode ; Languages supp ; Development Status 
+ rh2| eDonkey2000 ; - ; no ; yes ; yes ; yes ; no ; no ; 1 ; Discontinued 
+ rh| aMule ; xMule ; GPL ; yes ; yesWindows support is incomplete and does not include all the features of the Linux version, such as UPnP support. Most of the documentation presumes the user using the Linux version and may be give incorrect information for the Windows version. ; yes ; yes ; yes ; 28 ; Active 
+ rh| eMule and its Mods ; - ; GPL ; no ; yes ; no ; yes ; yes ; 43eMule 0.50a Source: /srchybrid/lang/ ; Active 
+ rh| eMule Plus ; eMule ; GPL ; noClient can work on Linux via Wine (ref.), yet it is not officially supported. ; yes ; no ; no ; yessince 1.2d  ; 31 ; Abandoned 
+ rh| MLDonkey ; - ; GPL ; yes ; yes ; yes ; yes ; yes ; 3 ; Discontinued 
+ rh| Shareaza ; - ; GPL ; noShareaza can work on Linux via Wine (ref.), yet it is not officially supported ; yes ; no ; no ; yes ; 31 ; Active 
+ rh2| xMule ; lMule ; GPL ; yes ; no ; no ; no ; no ; dunno ; Abandoned 

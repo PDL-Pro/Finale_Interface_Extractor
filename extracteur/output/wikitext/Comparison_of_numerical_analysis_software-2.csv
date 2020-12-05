@@ -1,0 +1,19 @@
+ ; Standalone executable creation support ; Symbolic computation support ; OOP support ; GUI creation support ; Multi-dimensional arrays as primitive data type ; Centralized extension library website ; Can call code in other languages ; Can be called from other languages 
+ Analytica ; no ; no ; yes ; yes ; yes ; yes ;yesCOM, Excel ;yesExcel, COM, .NET 
+ Dyalog APL ; yes ; yes ; yes ; yesWin32, .NET, WPF, HTML/JS ; yes ; yes ; yesCOM, .NET, WebServices, Shared Libraries, DLL, NAG, R, JavaScript ; yesCOM, .NET, WebServices 
+ GNU Data Language ; no ; no ; yes ; Depends GUI Widgets since v.0.9 but still incomplete ; yes ; no ;yesC, Python ;yesPython 
+ GNU MCSim ; yes ; no ; no ; Depends XMCSim with TCL/TK and wish ; no ; no ;yesC ;yesR 
+ GNU Octave ; Yes with mkoctfile ; No GiNaC extension, wrappers to SymPy ; yes ; yes ; Yes ; Yes ; DependsC++, Fortran, Perl, Tcl ; DependsJava, Perl, C++ 
+ J ; no ; yes ; yes ; yes ; yes ; yes ;yesJavaScript ;yesJavaScript 
+ Julia ; yes ; no Wrappers to SymPy, SymEngine and others ; yes ; yes ; yes ; yes ;  ; yesC, C++, Python, R 
+ LabVIEW ;  ; No ;  ; Yes ; Yes ; Yes ;  ;Yes 
+ Maple ; no ; yes ; yes ; yes ; yes ; yes ;yesC, C#, Fortran ;Depends MATLAB, Excel, VisualBasic, Java, and C 
+ Mathematica ;yes ; yes ; yes ; yes ; yes ; yeslibrary.wolfram.com ;yesJava, .NET, C++, Fortran, CUDA, OpenCL, R, Python, SQL, SPARQL, NodeJS ;  
+ MATLAB ; with extension ; Dependswith extension library ; yes ; yes ; yes ; yes ;   ; Depends.NET, Java, Excel 
+ MLAB ; no ; yes ; no ; yes ; yes ; no ; no ; no  
+ PDL ;yes ;no ;yes ;yes ;yes ;yes ;yesC via perlXS, C, Python, F77, etc. via Inline ;yesPerl, C 
+ Python ;   Py2exe, Py2App, PyInstaller, cxFreeze, etc. ;   SymPy & others ; Yes Inherently Object Oriented ;  ; depends Numpy ; yes PyPI ; yesC, C++, Fortran, many others ; yesC, C++, Fortran, many others 
+ R ; No ;  Yes and extended via Ryacas package ; yesurl= May 2011 ; depends Via the tcltk library ; yes ; yes ;  ;  
+ SageMath ; no ; yes ; yes ; no ; yes ; yes ; yes Many languages ; yes (any language that can call Python) 
+ SAS ; no ; no ; DependsDS2 and SCL ; yes ; no ; no ;   ; no 
+ TK Solver ; with extension ; no ; yes ; with extension ; yes ; yes ; Depends.NET Excel ; DependsUnknown 

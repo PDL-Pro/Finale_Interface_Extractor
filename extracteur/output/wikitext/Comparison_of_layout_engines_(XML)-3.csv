@@ -1,0 +1,6 @@
+ ; Trident ; Gecko ; WebKit ; KHTML ; Presto ; Prince XML ; Antenna House 
+ XPath 1.0publisher=W3C ; yes ; 1.8 ; yes ; 4.8 ; 2.0 ; Dunno ; depends 
+ XPath 2.0publisher=W3C ; no ; nopublisher=Mozilla ; Dunno ; Dunno ; Dunno ; Dunno ; depends 
+ XPath 3.0publisher=W3C ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno 
+ XPath 3.1publisher=W3C ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno 
+ XQuerypublisher=W3C ; Dunno ; nopublisher=Mozilla ; nopublisher=WebKit ; Dunno ; no ; Dunno ; no 

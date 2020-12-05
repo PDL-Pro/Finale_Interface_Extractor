@@ -1,0 +1,43 @@
+;Standalone executables creation support;Symbolic computation support;OOP support;GUI creation support;Multi-dimensional arrays as primitive data type;Centralized extension library website;Can call code in other languages;Can be called from other languages
+Analytica;No;No;Yes;Yes;Yes;Yes;COM, Excel;Excel, COM, .NET
+Dyalog APL;Yes;Yes;Yes;Win32, .NET, WPF, HTML/JS;Yes;Yes;COM, .NET, WebServices, Shared Libraries, DLLs, NAG, R, JavaScript;COM, .NET, WebServices
+GNU Data Language;No;No;Yes;GUI Widgets since v.0.9 but still incomplete;Yes;No;C, Python;Python
+GNU MCSim;Yes;No;No;XMCSim with TCL/TK and wish;No;No;C;R
+GNU Octave;Yes with mkoctfile;GiNaC extension, wrappers to SymPy;Yes;Yes;Yes;Yes;C++, Fortran, Perl, Tcl;Java, Perl, C++
+J;No;Yes;Yes;Yes;Yes;Yes;JavaScript;JavaScript
+Julia;Yes;Wrappers to SymPy, SymEngine and others;Yes;Yes;Yes;Yes;C, Fortran Python, C++, Java, MATLAB, R;C, Fortran;Python, C++, Java, MATLAB, R;C, C++, Python, R
+C, Fortran
+Python, C++, Java, MATLAB, R
+LabVIEW;Professional System version With add-on;Professional System version;With add-on;No;Yes GOOP G#;Yes;GOOP;G#;Yes;Yes;Yes;C/C++, DLLs, Python, Perl, Tcl, MATLAB, ActiveX, C#/.NET With add-ons. I.e.;C/C++, DLLs, Python, Perl, Tcl, MATLAB, ActiveX, C#/.NET;With add-ons. I.e.;Yes
+Professional System version
+With add-on
+Yes
+GOOP
+G#
+C/C++, DLLs, Python, Perl, Tcl, MATLAB, ActiveX, C#/.NET
+With add-ons. I.e.
+Maple;No;Yes;Yes;Yes;Yes;Yes;C, C#, Fortran;MATLAB, Excel, VisualBasic, Java, and C
+Mathematica;Yes;Yes;Yes;Yes;Yes;Yes;Java, .NET, C++, Fortran, CUDA, OpenCL, R, Python, SQL, SPARQL, NodeJS;Java, .NET, C++, Python Excel, LabVIEW Haskell, AppleScript, Racket, Visual Basic, Clojure MATLAB;Java, .NET, C++, Python;Excel, LabVIEW;Haskell, AppleScript, Racket, Visual Basic, Clojure MATLAB
+Java, .NET, C++, Python
+Excel, LabVIEW
+Haskell, AppleScript, Racket, Visual Basic, Clojure MATLAB
+MATLAB;with extension;with extension library;Yes;Yes;Yes;Yes;Through MEX files: C, C++, Fortran. Also compiled Java and ActiveX components. Mathematica;Through MEX files: C, C++, Fortran. Also compiled Java and ActiveX components.;Mathematica;.NET, Java, Excel
+Through MEX files: C, C++, Fortran. Also compiled Java and ActiveX components.
+Mathematica
+MLAB;No;Yes;No;Yes;Yes;No;No;No
+PDL;Yes;No;Yes;Yes;Yes;Yes;C via perlXS, C, Python, F77, etc. via Inline;Perl, C
+Python;Py2exe, Py2App, PyInstaller, cxFreeze, etc.;SymPy & others;Yes Inherently Object Oriented;tkinter wxPython, QT, Kivy, many others;tkinter;wxPython, QT, Kivy, many others;Numpy;PyPI;C, C++, Fortran, many others;C, C++, Fortran, many others
+tkinter
+wxPython, QT, Kivy, many others
+R;No;Yes and extended via Ryacas package;Yes;Via the tcltk library;Yes;Yes;C, C++, Fortran MATLAB Python;C, C++, Fortran;MATLAB;Python;Excel Python SAS;Excel;Python;SAS
+C, C++, Fortran
+MATLAB
+Python
+Excel
+Python
+SAS
+SageMath;No;Yes;Yes;No;Yes;Yes;Many languages;Yes (any language that can call Python)
+SAS;No;No;DS2 and SCL;Yes;No;No;C, Java R (requires IML);C, Java;R (requires IML);No
+C, Java
+R (requires IML)
+TK Solver;with extension;No;Yes;with extension;Yes;Yes;.NET Excel;Unknown

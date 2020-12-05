@@ -1,0 +1,31 @@
+ Reader ; Plain text ; PDF ; ePub ; HTML ; Mobi- Pocket ; Fiction- Book (fb2) ; DjVu ; Broadband eBook (BBeB)Proprietary format ; eReader ; Kindle ; WOLF ; Tome Raider ; Open eBookPredecessor of ePUB ; Comic Book ; OpenXPS 
+ Amazon Kindle1 ; yes ; no ; no ; no ; yes ; no ; no ; no ; no ; yes ; no ; no ; no ; dunno ; dunno 
+ Amazon Kindle2,DX ; yes ; yes ; no ; yes ; yes ; no ; no ; no ; no ; yes ; no ; no ; no ; dunno ; dunno 
+ Amazon Kindle3 ; yes ; yes ; noYes, if the Duokan alternate Kindle OS (third-party software add-on) is used. ; yes ; yes ; no ; no ; no ; no ; yes ; no ; no ; no ; dunno ; dunno 
+ Amazon Kindle Fire ; yes ; yes ; yesBy adding epub capable apps, such as Aldiko ; yes ; yes ; no ; no ; no ; no ; yes ; no ; no ; no ; dunno ; dunno 
+ Android Devices ; yes ; yes ; yes ; yes ; yesRequires latest firmware ; yes ; yes ; no ; yes ; yes ; no ; yes ; yes ; dunno ; yes 
+ Apple iOS Devices ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes ; no ; yes ; yes ; yesWith third party apps, such as CloudReader ; dunno 
+ Azbooka WISEreader ; yes ; no ; yes ; yes ; yes ; yes ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+ Barnes & Noble Nook ; yes ; yes ; yes ; yes ; no ; no ; no ; no ; yes ; no ; no ; no ; no ; dunno ; dunno 
+ Barnes & Noble Nook Color ; yes ; yes ; yes ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+ Bookeen Cybook Gen3, Opus ; yes ; yes ; yesVersions support either ePUB or MobiPocket ; yes ; yes ; yesOnly ePUB version and with FW 2.0+ ; no ; no ; no ; no ; no ; no ; yes ; dunno ; dunno 
+ COOL-ER Classic ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+ Linux Operating System ; yes ; yes ; yes ; yes ; yes ; yesKDE's Okular supports fb2 ; yes ; yesCalibre supports lrf/lrx ; ? ; ? ; ? ; ? ; ? ; yes ; yes 
+ Foxit eSlick ; yes ; yes ; yes ; no ; no ; no ; no ; no ; yes ; no ; no ; no ; no ; dunno ; dunno 
+ Hanlin e-ReaderV3 ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; no ; yes ; no ; no ; dunno ; dunno 
+ Hanvon WISEreader ; yes ; yes ; yes ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+ iRex iLiad ; yes ; yes ; yes ; no ; yes ; no ; yes ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+ Iriver Story ; yes ; yes ; yes ; no ; no ; yes ; yes ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+ Kobo eReader ; yes ; yes ; yes ; yes ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; yes ; dunno 
+ Nokia N900 ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; no ; no ; no ; yes ; yes ; dunno 
+ NUUTbook2 ; yes ; yes ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+ OLPC XO, Sugar ; yes ; yes ; yes ; yes ; no ; no ; yes ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+ Onyx Boox 60 ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+ Mac OS X ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; dunno ; dunno ; yes ; dunno ; dunno 
+ TrekStor eBook Reader Pyrus ; yes ; yes ; yes ; no ; no ; yes ; yes ; no ; yes ; no ; no ; no ; dunno ; dunno ; dunno 
+ Windows ; yes ; yes ; yes ; yes ; yes ; yesICE Book Reader for Windows supports fb2 ; yes ; dunno ; yes ; yesDRM-protected publications are supported as of Kindle for PC v1.3.0 ; dunno ; dunno ; yes ; yesComic Book Reader for Windows ; yesXP or later, not on Windows 2000 
+ Pocketbook 301Plus, 302, 360° ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+ Pocketbook Aqua ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+ Sony Reader ; yes ; yes ; yes ; no ; no ; no ; no ; yes ; no ; no ; no ; no ; no ; dunno ; dunno 
+ Viewsonic VEB612 ; yes ; yes ; yes ; yes ; yes ; no ; no ; no ; no ; no ; no ; no ; no ; dunno ; dunno 
+ Windows Phone 7 ; yes ; yes ; yes ; yes ; no ; no ; no ; no ; no ; yes ; no ; no ; no ; dunno ; dunno 

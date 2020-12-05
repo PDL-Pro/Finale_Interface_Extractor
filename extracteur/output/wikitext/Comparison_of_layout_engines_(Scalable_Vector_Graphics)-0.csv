@@ -1,0 +1,8 @@
+ ; ; ; Trident ; Gecko ; WebKit ; Blink ; Presto ; KHTML ; Prince ; Amaya ; Batik ; Renesis ; LeonLabs 
+ SVG ; 1.1 ; Tiny (SVGT) ; 5.0last=Yu ; rowspan="3" partialpublisher=Mozilla ; rowspan="3" partial ; rowspan="3" partial ; 1.0 ; partial{{#tag:ref|KHTML does not have any native image support. This is by design: in Konqueror, multimedia files are handled by KParts. The KDE project also developed an SVG plugin for Konqueror, known as KSVG.See  ; rowspan="3" partial ; rowspan="3" partial ; Mostly ; rowspan="3" partial ; rowspan="3" partial 
+ SVG ; 1.1 ; Basic (SVGB) ; 5.0last=Yu ; Mostly ; partial{{#tag:ref|KHTML does not have any native image support. This is by design: in Konqueror, multimedia files are handled by KParts. The KDE project also developed an SVG plugin for Konqueror, known as KSVG.See  ; Mostly 
+ SVG ; 1.1 ; Full ; 5.0last=Yu ; Mostly ; partial{{#tag:ref|KHTML does not have any native image support. This is by design: in Konqueror, multimedia files are handled by KParts. The KDE project also developed an SVG plugin for Konqueror, known as KSVG.See  ; Mostly 
+ SVG ; 1.2 ; Tiny ; rowspan="4" no ; rowspan="4" no ; rowspan="4" no ; rowspan="4" no ; 2.1 ; rowspan="4" no ; dunno ; dunno ; partial ; partial ; partial 
+ SVG ; 1.2 ; Full ; rowspan="3" no ; rowspan="3" no ; rowspan="3" no ; no ; rowspan="3" no ; rowspan="3" no 
+ sXBL ; sXBL ; sXBL ; yes 
+ XBL 2.0 ; XBL 2.0 ; XBL 2.0 ; no 

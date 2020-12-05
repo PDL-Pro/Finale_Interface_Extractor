@@ -1,0 +1,15 @@
+ Manager ; Download Podcasts ; Rebuild iPod Database ; Portable ; 6th Gen. Firmware ; 5th Gen. nano Firmware ; shuffle3G Firmware ; iPod touch/ iPhone support ; Photo support ; Supports Gapless Metadata 
+ rh|Amarok ; yes ; yes ; dunno ; yes ; dunno ; no ; yes4 ; dunno ; dunno 
+ rh|Banshee ; yes ; yes ; dunno ; no ; yes ; yes ; yes ; dunno ; dunno 
+ rh|Clementine ; yes ; no ; dunno ; no ; no ; dunno ; yes ; dunno ; dunno 
+ rh|EphPod ; no ; yes ; dunno ; dunno ; no ; no ; no ; no ; no 
+ rh|gtkpod ; no ; dunno ; dunno ; yes2 ; yes4 ; yes4 ; yes, jailbroken only ; dunno ; yes 
+ rh|iRip ; yes ; dunno ; yes ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh|iTunes ; yes ; yes ; no ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh|JRiver Media Center ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh|MediaMonkey ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yes 
+ rh|Rhythmbox ; yes ; dunno ; dunno ; dunno ; yes ; no ; yes4 ; no ; no 
+ rh|Senuti ; no ; dunno ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; dunno 
+ rh|Winamp native ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; yes 
+ rh|XPlay ; no ; yes ; no ; dunno ; dunno ; dunno ; dunno ; yes ; dunno 
+ Manager ; Download Podcasts ; Rebuild iPod Database ; Portable ; 6th Gen. Firmware ; 5th Gen. nano Firmware ; shuffle3G Firmware ; iPod touch/iPhone support ; Photo support ; Supports Gapless Metadata 

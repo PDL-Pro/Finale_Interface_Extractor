@@ -1,0 +1,24 @@
+Shell;Secure (password) prompt;Encrypted variables/ parameters;File/directory passwords;Execute permission;Untrusted script blocking;Restricted shell subset;Safe data subset
+Bourne shell;via stty;No;?;N/A;No;Yes;No
+POSIX shell;via stty;No;?;N/A;No;No;No
+bash (v4.0);read -s;No;?;N/A;No;Yes;No
+csh;via stty;No;?;N/A;No;Yes;No
+tcsh;via stty;No;?;N/A;No;Yes;No
+Hamilton C shell;No;No;No;No;No;No;No
+Scsh;via stty;No;?;N/A;No;No;No
+ksh (ksh93t+);via stty;No;?;N/A;No;Yes;No
+pdksh;via stty;No;?;N/A;No;Yes;No
+zsh;read -s;No;?;N/A;No;Yes;No
+ash;via stty;No;?;N/A;No;Yes;No
+CCP;No;No;No;No;No;No;No
+COMMAND.COM;Partial (only under DR-DOS, prompts for password if file/directory is protected);No;Partial (only under DR-DOS via \dirname,dirpwd\filename,filepwd syntax);Partial (only under DR-DOS, if files are password-protected for read and/or execute permission);No;No;No
+OS/2 CMD.EXE;No;No;No;No;No;No;No
+Windows CMD.EXE;No;No;No;No;No;No;No
+4DOS;Yes (via INPUT /P or INKEY /P);No;Partial (only under DR-DOS via \dirname,,dirpwd\filename,,filepwd syntax);Partial (only under DR-DOS, if files are password-protected for read and/or execute permission);No;No;No
+4OS2;?;No;No;No;No;No;No
+TCC (formerly 4NT);Yes (via INPUT /P, INKEY /P or QUERYBOX /P);No;No;No;No;No;No
+PowerShell;Yes;Yes;No;No;Yes;Yes;Yes
+rc;via stty;No;?;N/A;No;Yes;No
+BeanShell;?;?;?;?;?;?;?
+VMS DCL;Yes;No;No;Yes;No;Yes;No
+fish;read -s;No;?;N/A;No;Yes (via fish -l);?

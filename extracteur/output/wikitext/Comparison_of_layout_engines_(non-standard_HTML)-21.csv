@@ -1,0 +1,8 @@
+ ; Trident ; EdgeHTML ; Gecko ; WebKit ; Presto 
+ getElementsByClassNamepublisher=QuirksMode ; 5.0url-status=dead  ; 12 ; 1.9publisher=Mozilla ; 525 ; 2.1 
+ registerProtocolHandler ; rowspan="2" No ; rowspan="2" No ; 1.91=Limited to the feed protocol in 1.8, fully supported in 1.9.archivedate=4 June 2011  date=May 2014 ; rowspan="2" yespublisher=WebKit ; 2.10url-status=dead  
+ registerContentHandler ; 1.81=Limited to feed MIME types in 1.8 and 1.9.publisher=Mozilla ; 2.10url-status=dead  
+ Cross-document messaging ; 4.0 ; 12 ; 1.9publisher=Mozilla ; Yes ; 2.0 
+ Drag-and-drop ; 6.0 ; 12 ; 1.9.1 ; Yes ; 2.10.270work=Opera 
+ pushState() and replaceState() ; 6.0publisher=Microsoft ; 12 ; 2.0publisher=Mozilla ; 528publisher=WebKit ; 2.9work=Opera 
+ ; Trident ; EdgeHTML ; Gecko ; WebKit ; Presto 

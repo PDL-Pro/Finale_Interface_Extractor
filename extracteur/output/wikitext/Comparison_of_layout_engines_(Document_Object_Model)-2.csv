@@ -1,0 +1,25 @@
+ ; ; Trident ; Tasman ; Gecko ; WebKit ; KHTML ; Presto 
+ rh| Interface CDATASection ; rh| Interface CDATASection ; rh| Interface CDATASection ; rh| Interface CDATASection ; rh| Interface CDATASection ; rh| Interface CDATASection ; rh| Interface CDATASection ; rh| Interface CDATASection 
+ DOM1 ; (no properties) ; no ; no ; 1.0 ; yes ; ? ; 2.0 
+ rh| Interface DocumentType ; rh| Interface DocumentType ; rh| Interface DocumentType ; rh| Interface DocumentType ; rh| Interface DocumentType ; rh| Interface DocumentType ; rh| Interface DocumentType ; rh| Interface DocumentType 
+ DOM1 ; name ; rowspan="3" no ; rowspan="3" no ; 1.0 ; rowspan="3" yes ; ? ; 1.0 
+ DOM1 ; entities ; rowspan="2" nopublisher=Mozilla ; ? ; 1.0 
+ DOM1 ; notations ; ? ; 1.0 
+ DOM2 ; publicId ; rowspan="3" no ; rowspan="3" no ; 1.0 ; rowspan="3" yes ; ? ; 1.0 
+ DOM2 ; systemId ; ? ; 1.0 ; 1.0 
+ DOM2 ; internalSubset ; ? ; 1.0 ; 1.0 
+ rh| Interface Notation ; rh| Interface Notation ; rh| Interface Notation ; rh| Interface Notation ; rh| Interface Notation ; rh| Interface Notation ; rh| Interface Notation ; rh| Interface Notation 
+ DOM1 ; publicId ; rowspan="2" no ; rowspan="2" no ; 1.0 ; rowspan="2" yes ; ? ; 2.0 
+ DOM1 ; systemId ; ? ; 1.0 ; 2.0 
+ rh| Interface Entity ; rh| Interface Entity ; rh| Interface Entity ; rh| Interface Entity ; rh| Interface Entity ; rh| Interface Entity ; rh| Interface Entity ; rh| Interface Entity 
+ DOM1 ; publicId ; rowspan="3" no ; rowspan="3" no ; 1.0 ; rowspan="3" yes ; ? ; rowspan="3" no 
+ DOM1 ; systemId ; ? ; 1.0 
+ DOM1 ; notationName ; ? ; 1.0 
+ DOM3 ; inputEncoding ; rowspan="3" no ; rowspan="3" no ; rowspan="3" no ; rowspan="3" no ; ? ; rowspan="3" no 
+ DOM3 ; xmlEncoding ; ? 
+ DOM3 ; xmlVersion ; ? 
+ rh| Interface EntityReference ; rh| Interface EntityReference ; rh| Interface EntityReference ; rh| Interface EntityReference ; rh| Interface EntityReference ; rh| Interface EntityReference ; rh| Interface EntityReference ; rh| Interface EntityReference 
+ DOM1 ; (no properties) ; no ; no ; 1.0 ; yes ; ? ; no 
+ rh| Interface ProcessingInstruction ; rh| Interface ProcessingInstruction ; rh| Interface ProcessingInstruction ; rh| Interface ProcessingInstruction ; rh| Interface ProcessingInstruction ; rh| Interface ProcessingInstruction ; rh| Interface ProcessingInstruction ; rh| Interface ProcessingInstruction 
+ DOM1 ; target ; rowspan="2" no ; rowspan="2" no ; 1.0 ; rowspan="2" yes ; ? ; 2.0 
+ DOM1 ; data ; ? ; 1.0 ; 2.0 

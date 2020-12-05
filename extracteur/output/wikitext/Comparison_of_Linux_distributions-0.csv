@@ -1,0 +1,95 @@
+ Distribution ; Founder ; Maintainer ; Initial release year ; Current stable version ; Security updates (years) ; Release date ; System distribution commitment ; Forked from ; Target audience ; Cost ; Status 
+ Rh| Alpine Linux ; Alpine Linux Team ; Alpine Linux Team ; 2006 ; 3.12.0 ; dunno ; 2020-05-29 ; X ; LEAF Project ; security, lightweight, general ; None ; site active 
+ Rh| ALT Linux ; ALT Linux Team ; ALT Linux Team, ALT Linux LLC ; 2001 ; 9.1 ; dunno ; 2020-07-29 ; X ; Mandrake Linux ; general, school ; None ; site active 
+ Rh| antiX ; Anticapitalista ; Anticapitalista ; 2007 ; 19 ; dunno ; 2019-10-17 ; X ; Debian, MEPIS ; old computers ; Some editions are free of charge ; site active 
+ Rh| ArchBang ; Willensky Aristide ; Stan McLaren ; 2011 ; Rolling ; Rolling ; dunno ; X ; Arch Linux (UKM Edition) ; general ; None ; site active 
+ Rh| Arch Linux ; Judd Vinet ; dev team ; 2002 ; Rolling ; Rolling ; Rolling ; X ; Independent, inspired from CRUX ; general ; None ; site active 
+ Rh| BLAG ; Brixton Linux Action Group ; Brixton Linux Action Group ; 2002 ; 140k ; dunno ; 2011-05-04 ; 100% Free: GNU FSDG ; Fedora ; desktop ; None ; site inactive 
+ Rh| Bodhi Linux ; Bodhi Linux Team ; Bodhi Linux Team ; 2011 ; 5.1.0 ; dunno ; 2020-03-25 ; X ; Debian, Ubuntu ; desktop, lightweight ; None ; site active 
+ Rh| Canaima ; CANTV / CNTI / CENTIDEL / Edelca / VIT / FUNDACITE / Free software community ; CANTV / CNTI / CENTIDEL / Edelca / VIT / FUNDACITE / Free software community ; 2007 ; 6.0 ; dunno ; 2018-03-19 ; X ; Debian, Ubuntu ; Government of Venezuela ; None ; site active 
+ Rh| CentOS ; CentOS Project ; CentOS Project ; 2003 ; 8.2-2004 ; 10 years ; 2020-6-15 ; X ; Red Hat Enterprise Linux (RHEL) ; server, workstation ; None ; site active 
+ Rh| Chakra ; Jan Mette and Arch Linux KDEmod developers ; The Chakra Project Team ; 2010 ; Rolling ; Rolling ; dunno ; X ; Arch Linux ; desktop ; None ; site active 
+ Rh| Chrome OS ; Sundar Pichai ; Google ; 2009 ; 84.0.4147.110 ; 6.5 years ; 2020-07-29 ; X ; Chromium OS ; web applications ; None ; site active 
+ Rh| ClearOS ; Peter Baldwin ; ClearFoundation ; 2000 ; 7.6.0 ; dunno ; 2019-05-09 ; X ; RHEL, CentOS ; server, gateway, network ; Some editions are free of charge ; site active 
+ Rh| CrunchBang Linux ; Philip Newborough ; Philip Newborough ; 2008 ; 11 ; dunno ; 2013-05-06 ; X ; Debian ; desktop ; None ; site inactive 
+ Rh| Damn Small Linux ; John Andrews ; dev team ; 2003 ; 4.4.10 ; dunno ; 2008-11-18 ; X ; Debian, Knoppix ; lightweight, portable ; None ; site inactive 
+ Rh| Debian ; Ian Murdock ; Debian Project ; 1993 ; 10.6 ; ~3 years ; 2020-09-26 ; Debian Social Contract and DFSG (main is 100% free, non-free packages are optional) ; Softlanding Linux System (SLS) ; general, server, desktop ; None ; site active 
+ Rh| Debian Edu ; ; Debian Project ; 2004 ; 10.3 ; ~3 years ; 2020-02-08 ; Debian Social Contract and DFSG ; Debian ; schools ; None ; site active 
+ Rh| Devuan ; The "Veteran Unix Admins" (VUA) ; The "Veteran Unix Admins" (VUA) ; 2016 ; 2.1 ; dunno ; 2019-11-25 ; X Default ISOs included non-free software ; Debian ; general ; None ; site active 
+ Rh| Deepin ; Wuhan Deepin Technology Co., Ltd. ; Wuhan Deepin Technology Co., Ltd. ; 2004 ; 15.11 ; dunno ; 2019-07-05 ; X ; Debian ; general ; None ; site active 
+ Rh| Dragora GNU/Linux-Libre ; Matias A. Fonzo ; Matias A. Fonzo ; 2009 ; 3.0-beta1 ; dunno ; 2019-10-16 ; 100% Free: GNU FSDG ; Independent, inspired from Slackware ; general ; None ; site active 
+ Rh| dyne:bolic ; Jaromil ; Jaromilx ; 2005 ; 3.0.0 ; dunno ; 2011-09-08 ; 100% Free: GNU FSDG ; Debian ; multimedia ; None ; site active 
+ Rh| Elementary OS ; Daniel Foré ; elementary LLC ; 2011 ; 5.1.2 ; dunno ; 2020-02-05 ; X ;Ubuntu, Debian ; general ; None ; site active 
+ Rh| ELinOS ; SYSGO ; SYSGO ; 1999 ; 6.2 ; dunno ; 2017-10-01 ; X ; – ; embedded system ; partial ; site active 
+ Rh| Emdebian Grip ; Embedded Debian Project ; Embedded Debian Project ; 2009 ; 3.1 ; End-of-life ; 2013-06-15 ; X ; Debian ; embedded system ; None ; site inactive 
+ Rh| EndeavourOS ; Bryan Poerwoatmodjo  ; EndeavourOS ; 2019 ; Rolling ; dunno ; 2020-07-15 ; X ; Arch Linux ; general ; None ; site active 
+ Rh| Fedora ; Fedora Project ; Fedora Project ; 2003 ; 32 ; 1 year ; 2020-04-28 ; Fedora Licensing Guidelines ; Red Hat Linux ; general ; None ; site active 
+ Rh| Freespire ; Lindows.com, Inc. ; PC/OpenSystems LLC ; 2001 ; 6.0 ; dunno ; 2020-02-10 ; X ; Ubuntu ; desktop ; None ; site active 
+ Rh| Gentoo Linux ; Daniel Robbins ; Gentoo Foundation, Inc. ; 2002 ; Rolling ; Rolling ; Rolling ; Gentoo Social Contract ; Enoch Linux ; general ; None ; site active 
+ Rh| Guix System ; Ludovic Courtès ; Ludovic Courtès, Ricardo Wurmus, the Guix community ; 2012 ; 1.1.0 ; Rolling ; 2020-04-15 ; 100% Free: GNU FSDG ; – ; general ; None ; site active 
+ Rh| gNewSense ; Brian Brazil and Paul O'Malley ; Sam Geeraerts with sponsorship from the FSF ; 2006 ; 4.0 (Ucclia) ; dunno ; 2016-05-02 ; 100% Free: GNU FSDG ; Debian ; general, server ; None ; site active 
+ Rh| Grml ; Michael Prokop ; The Grml Team ; 2005 ; 2018.12 ; dunno ; 2018-12-31 ; X ; Debian ; live, maintenance, security, network, forensic, accessibility ; None ; site active 
+ rh| Hyperbola GNU/Linux-libre ; Hyperbola Founders ; Hyperbola Founders ; 2017 ; 0.3{{cite web|title=Milky Way v0.3 install medium release|publisher=Hyperbola Project|date=2019-09-23|access-date=2019-09-26|url= ; 3 years (stable), 5 years (old stable){{cite web|website=Hyperwiki|title=Releases|date=2017-11-16|access-date=2018-12-07|url= ; 2019-09-23 ; 100% Free: GNU FSDG followed in Hyperbola Social Contract ; Arch Linux ; general ; None ; site active 
+ Rh| Kali Linux ; Max Moser, Mati Aharoni, Martin J. Muench ; Offensive Security ; 2013 ; 2020.2 ; dunno ; 2020-05-12 ; X ; Debian ; auditing, forensic, security, network ; None ; site active 
+ Rh| Knoppix ; Klaus Knopper ; dev team ; 2000 ; 8.6{{cite news|last=Knopper|first=Klaus|title=KNOPPIX 8.6.0 Public Release|date=2019-08-08|url= ; dunno ; 2019-08-08 ; X ; Debian ; live ; None ; site active 
+ Rh| Kodibuntu ; The XBMC Project ; Team Kodi ; 2008 ; dunno ; dunno ; dunno ; X ; Debian, Ubuntu ; multimedia ; None ; site inactive 
+ Rh| Korora ; Chris Smart ; Dev Team ; 2005 ; 26 ; dunno ; 2017-09-16 ; X ; Fedora ; desktop ; None ; site inactive 
+ Rh| LibreCMC ; LibreCMC team ; LibreCMC team ; 2010 ; 1.4.8 ; dunno ; 2019-06-30 ; 100% Free: GNU FSDG ; Merged from LibreWRT ; embedded system ; None ; site active 
+ Rh| Linspire ; Linspire, Inc. ; Linspire, Inc. ; iso ; 8.7 ; dunno ; 2020-03-03 ; X ; Ubuntu ; dunno ; Commercial{{cite web|url= ; site active 
+ Rh| Linux Mint ; Clement Lefebvre ; dev team ; 2006 ; 20 ; ~3 years (LMDE), 5 years (main editions) ; 2020-06-27 ; X ; Debian(LMDE), Ubuntu (main editions) ; desktop ; None ; site active 
+Rh| Linux Lite ;Jerry Bezencon ;Linux Lite Team ;2012 ;5.0 ; dunno ;2020-05-31 ; X ;Ubuntu ;desktop ; None ; site active 
+ Rh| Mageia ; Mageia Community ; mageia.org ; 2010 ; 7.1 ; 1 year ; 2019-07-01 ; X ; Mandriva Linux ; general ; None ; site active 
+ Rh| Mandriva Linux ; Mandrakesoft S.A. ; Mandriva S.A. ; 1998 ; 2011 ; dunno ;  2011-08-28 ; X ; Red Hat Linux ; general ; Some editions are free of charge ; site inactive 
+ Rh| Manjaro Linux ; Roland Singer ; dev team ; 2012 ; Rolling ; Rolling ; Rolling ; X ; Arch Linux ; general ; None ; site active 
+ Rh| MEPIS ; Warren Woodford ; MEPIS LLC ; 2003 ; 11.9.90 ; dunno ; dunno ; X ; Debian ; desktop, server ; None ; site inactive 
+ Rh| Musix GNU+Linux ; Musix team ; Musix team ; 2008 ; 3.0.1 ; dunno ; 2014-03-13 ; 100% Free: GNU FSDG ; Debian ; multimedia ; None ; site inactive 
+ Rh| Netrunner ; Blue Systems ; dev team ; 2009 ; 20.01 ; as per Debian ; 2020-02-23 ; X ; Debian ; desktop ; None ; site active 
+ Rh| NixOS ; Eelco Dolstra and Armijn Hemel ; NixOS Foundation ; 2003 ; 19.09 ; 0.5 years ; 2019-05-02 ; X ; – ; general, server, desktop ; None ; site active 
+ Rh| Novell Open Enterprise Server ; Novell ; Novell, Inc. dev team ; 2003 ; OES 2018 SP1 ; dunno ; dunno ; X ; SUSE Linux Enterprise Server ; server ; Commercial ; site active 
+ Rh| OpenELEC ; Stephan Raue, OpenELEC Team ; OpenELEC Team ; 2011 ; 8.0.4 ; dunno ; 2017-06-04 ; X ; Kodi ; multimedia ; None ; site inactive 
+ Rh| openSUSE ; SUSE Linux ; openSUSE Project ; 2006 ; Leap 15.2 ; 3 years ; 2020-07-02 ; X ; SLS/Slackware ; general, desktop ; None ; site active 
+ Rh| OpenWrt ; dunno ; OpenWrt team ; 2007 ; 18.06.4{{cite web|title=OpenWrt 18.06.4 - Fourth Service Release - July 2019|url= ; dunno ; 2019-07-01 ; X ; – ; embedded system ; None ; site active 
+ Rh| OpenMandriva Lx ; OpenMandriva Association ; OpenMandriva Association ; 2013 ; 4.1 ; dunno ; 2020-02-01 ; X ; Mandriva Linux ; general ; None ; site active 
+ Rh| Oracle Linux ; Oracle Corporation ; Oracle Corporation ; 2006 ; 8.1 ; dunno ; 2019-11-17 ; X ; Red Hat Enterprise Linux (RHEL) ; server ; None ; site active 
+ Rh| Parabola GNU/Linux-libre ; Parabola Hackers ; Parabola Hackers ; 2009 ; Rolling ; Rolling ; 2017-05-28 ; 100% Free: GNU FSDG followed in Parabola Social Contract ; Arch Linux ; general ; None ; site active 
+ Rh| Pardus ; Scientific and Technological Research Council of Turkey (TÜBİTAK) ; TÜBİTAK ; 2005 ; 19.1 ; dunno ; 2019-11-23 ; X ; Gentoo (2011.2)  Debian ; general ; None ; site active 
+ Rh| Parsix ; Alan Baghumian ; Parsix Project ; 2005 ; 8.15 ; dunno ; 2017-01-25 ; X ; Debian ; desktop ; None ; site inactive 
+ Rh| Parted Magic ; Patrick Verner ; Parted Magic LLC. ; dunno ; 2019_12_24 ; dunno ; 2019-12-34 ; X ; - ; live, maintenance ; Commercial ; site active 
+ Rh| PCLinuxOS ; Bill Reynolds ; dev team ; 2003 ; 2019.06 ; Semi-rolling ; 2019-06-16 ; X ; Mandriva Linux ; desktop ; None ; Active 
+ Rh| Pop! OS ; Carl Ritchell ; System76 ; 2017 ; 20.04 LTS ; 2 years for LTS releases. 2-3 months after the next release for other releases. ; 2020-04-30 ; X ; Ubuntu ; desktop, laptop ; None ; Active 
+ Rh| Pentoo ; Michael Zanetta, Rick Farina, Jens Pranaitis ; Pentoo ; 2005 ; 2019.1 ; dunno ; 2019-01-17 ; X ; Gentoo Linux ; auditing, security ; None ; site active 
+ Rh| Porteus ; Fanthom ; Porteus ; 2010 ; 4.0 ; dunno ; 2018-04-29 ; X ; Slackware ; lightweight, portable ; None ; site active 
+ Rh| Puppy Linux ; Barry Kauler ; Puppy Foundation ; 2003 ; 8.0 ; dunno ; 2019-04-11 ; X ; Independent, inspired from Vector linux ; lightweight, portable ; None ; site active 
+ Rh| PureOS ; Todd Weaver ; Purism ; 2009 ; 9.0 ; Rolling ; 2019-09-26 ; 100% Free: GNU FSDG ; Debian ; general, security, privacy ; None ; site active 
+ Rh| Qubes OS ; Joanna Rutkowska ; Invisible Things Lab ; 2012 ; 4.0.3 ; dunno ; 2019-01-23 ; X ; Xen and Fedora ; security by compartmentalization, desktop ; None ; site active 
+ Rh| Red Hat Enterprise Linux (RHEL) ; Red Hat ; Red Hat ; 2002 ; 8.2 ; 10 years ; 2020-04-28 ; X ; Red Hat Linux, Fedora ; server, workstation ; Commercial ; site active 
+ Rh| Red Hat Linux ; Red Hat ; Red Hat ; 1995 ; 9 ; dunno ; 2003-03-31 ; X ; – ; server, workstation ; None ; site inactive 
+ Rh| ROSA ; dunno ; LLC NTC IT ROSA ; 2011 ; R11 ; dunno ; 2019-03-15 ; X ;MandrivaLinux|Mandriva ; server, general ; None ; site active 
+ Rh| Rocks Cluster Distribution ; UCSD Supercomputing Center, Clustercorp ; UCSD Supercomputing Center, Clustercorp ; 2000 ; 7.0 ; dunno ; 2015-12-01 ; X ; Red Hat Linux ; server, workstation ; None ; site active 
+ Rh| Sabayon Linux ; Fabio Erculiani ; dev team ; 2005 ; 19.03 ; dunno ; 2019-03-31 ; X ; Gentoo Linux ; general ; None ; site active 
+ Rh| Salix OS ; Cyrille Pontvieux, George Vlahavas, Pierrick Le Brun, Thorsten Mühlfelder ; Salix team ; 2009 ; 14.2 ; dunno ; 2016-08-29 ; X ; Slackware ; general ; None ; dunno 
+ Rh| Scientific Linux ; CERN, Fermilab ; dev team ; 2004 ; 7.6 ; dunno ; 2018-12-03 ; X ; Red Hat Linux, Red Hat Enterprise Linux (RHEL) ; server, workstation ; None ; site inactive 
+ Rh| Slackware ; Patrick Volkerding ; dev team ; 1993 ; 14.2 ; dunno ; 2016-06-30 ; X ; Softlanding Linux System (SLS) ; general ; None ; site active 
+ Rh| Slax ; Tomas Matejicek ; Tomas Matejicek ; 2002 ; 9.9.1 ; dunno ; 2019-06-17 ; X ; Debian, Slackware (until Slax 9) ; live ; None ; site active 
+ Rh| SliTaz GNU/Linux ; Christophe Lincoln ; dev team ; 2008 ; Rolling ; Rolling ; 2017-12-03 ; X ; Independent ; portable ; None ; site active 
+ Rh| Solus ; Ikey Doherty ; dev team ;2005 ; Rolling ; Rolling ; 2020-01-25 ; X ; – ; desktop ; None ; site active 
+ Rh| SolydXK ; Arjen Balfoort ; dev team ; 2013 ; 201902 ; Debian packages as per Debian ; 2019-03-03 ; X ; Debian ; desktop ; None ; site active 
+ Rh| SparkyLinux ; dunno ; Sparky Linux team ; 2012 ; 5.10.1 ; dunno ; 2020-02-05 ; X ; Debian ; general, video games ; None ; site active 
+ Rh| Source Mage GNU/Linux ; Ryan Abrams, Eric Schabell ; dev team ; 2002 ; 0.62-11 ; dunno ; 2017-10-22 ; Source Mage Social Contract ; Sorcerer ; general ; None ; site active 
+ Rh| SteamOS ; Valve ; Valve ; iso ; 2.195 ; dunno ; 2019-07-19 ; X ; Debian ; video games ; None ; site active 
+ Rh| SUSE Linux Enterprise ; SUSE ; SUSE ; 2000 ; 15SP2 ; 13 years per version ; 2020-07-21 ; Common code base for x86-64, Power, System z, Arm64 ; Slackware, Jurix ; edge, workstation, server, supercomputer ; Commercial ; site active 
+ Rh| Tails ; dunno ; Tails Development Team ; 2009 ; 4.11 ; – ; 2020-09-22 ; X ; Debian ; security-focused aimed for anonymity and privacy ; None ; site active 
+ Rh| Tiny Core Linux ; Robert Shingledecker ; Team Tiny Core ; 2009 ; 11.0 ; dunno ; 2020-02-09 ; X ; Independent, inspired from Damn Small Linux ; portable ; None ; site active 
+ Rh| Trisquel GNU/Linux ; Rubén Rodríguez Pérez (quidam) ; Rubén Rodríguez Pérez (quidam) ; 2005 ; 8.0 ; 5 years ; 2018-04-18 ; 100% Free: GNU FSDG ; Ubuntu LTS ; desktop ; None ; site active 
+ Rh| TurnKey GNU/Linux ; Alon Swartz, Liraz Siri ; TurnKey GNU/Linux Team ; 2008 ; 15.x ; Debian packages as per Debian, TurnKey packages for life of current major version (plus backports per request) ; 2019-06-28 ; Debian Social Contract and DFSG ; Debian ; server based software appliance library aiming to balance security and ease of use ; None ; site active 
+ Rh| Ubuntu and Derivatives ; Canonical Ltd. ; Canonical Ltd. ; 2004 ; 20.04.1 LTS{{cite web |title=Ubuntu 20.04.1 LTS released |date=2020-08-06 |url= ; Standard releases 1 year, LTS releases 5 years. Flavor LTS releases 3 or 5 years. Ubuntu Pro 10 years. ; 2020-08-06 ; X ; Debian ; general, server, desktop, supercomputer, IBM mainframe ; None ; site active 
+ Rh| Univention Corporate Server ; Univention GmbH ; Univention GmbH ; 2004 ; 4.4-4 ; up to 6 months for the free Core Edition, if maintenance is purchased, it's up to 7 years, see:{{cite web |title=Prices and subscriptions |publisher=Univention |url= ; 2020-03-24 ; X ; Debian ; home, business, and school ; Core Edition is free of charge ; site active 
+ Rh| Ututo ; Diego Saravia, Daniel Olivera ; UTUTO dev team ; 2000 ; XS 2012 ; dunno ; 2012-04-27 ; 100% Free: GNU FSDG ; Ututo XS: Gentoo Linux, Ututo UL: Ubuntu ; general ; None ; site active 
+ Rh| VectorLinux ; Robert S. Lange ; dev team ; 1999 ; VL 7.2 ; dunno ; 2017-08-28 ; X ; Slackware ; desktop ; None ; dunno 
+ Rh| Void Linux ; Juan Romero Pardines ; Juan RP and contributors ; 2008 ; Rolling ; Rolling ; 2019-11-09 ; X ; Independent, partially inspired by FreeBSD/NetBSD ; general ; None ; site active 
+ Rh| Webconverger ; Kai Hendry ; Webconverger Limited ; 2007 ; 35.0 ; dunno ; 2016-05-19 ; X ; Debian ; kiosk software, digital signage ; Commercial ; site active 
+ Rh| Xandros ; Xandros Incorporated ; Xandros Incorporated ; iso ; dunno ; dunno ; 2007-07-26 ; X ; Corel Linux ; dunno ; Commercial ; site inactive 
+ Rh| Zentyal ; eBox Technologies ; eBox Technologies ; 2005 ; 6.1 ; dunno ; 2019-12-12 ; X ; Debian, Ubuntu ; small business server ; Some editions are free of charge ; dunno 
+ Rh| Zenwalk ; Jean-Philippe Guillemin ; dev team ; 2004 ; Rolling ; dunno ; 2018-03-09 ; X ; Slackware ; general ; None ; site active 
+ Rh| Zorin OS ; Zorin Group ; Zorin Group ; 2009 ; OS 15 ; dunno ; 2019-06-05 ; X ; Ubuntu ; general, desktop ; Zorin OS Lite & Core are free, while Business and Ultimate are paid for ; site active 
+ Distribution ; Founder ; Maintainer ; Initial release year ; Current stable version ; Security updates (years) ; Release date ; System distribution commitment ; Forked from ; Target audience ; Cost ; Status 

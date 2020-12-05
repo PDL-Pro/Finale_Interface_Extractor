@@ -1,0 +1,19 @@
+ Distribution ; Compile time buffer checks ; Mandatory access control ; Software executable space protection ; grsecurity ; RSBAC 
+ Rh| Alpine Linux ; yes ; Unknown ; PaX ; Discontinued in 3.8.0 ; Unknown 
+ Rh| BLAG ; Unknown ; Unknown ; Unknown ; Unknown ; Unknown 
+ Rh| Debian/Ubuntu ; yes ; SELinux, AppArmor ; PaX optional ; Optional ; Optional 
+ Rh| Dragora GNU/Linux-Libre ; Unknown ; Unknown ; Unknown ; Unknown ; Unknown 
+ Rh| dyne:bolic ; Unknown ; Unknown ; Unknown ; Unknown ; Unknown 
+ Rh| Fedora ; Yes ; SELinux ; Exec Shield ; No ; No 
+ Rh| Gentoo ; Optional ; SELinux, AppArmor ; PaX optional ; Optional ; Optional 
+ Rh| gNewSense ; Unknown ; SELinux, AppArmorBased on Debian ; Unknown ; Unknown ; Unknown 
+ Rh| Guix System ; Unknown ; Unknown ; Unknown ; Unknown ; Unknown 
+ Rh| LibreCMC ; Unknown ; Unknown ; Unknown ; Unknown ; Unknown 
+ Rh| Mandriva ; Unknown ; AppArmor ; Unknown ; Unknown ; Yes 
+ Rh| Musix GNU+Linux ; Unknown ; Unknown ; Unknown ; Unknown ; Unknown 
+ Rh| Parabola GNU/Linux-libre ; Unknown ; Optional ; Unknown ; Optional ; Unknown 
+ Rh| Slackware ; Unknown ; AppArmor, tomoyo ; Unknown ; Unknown ; optional 
+ Rh| SUSE Linux ; Yes ; AppArmor ; Hardware NX and other methods in mainline kernel and toolchain ; No ; No 
+ Rh| Solus ; Yes ; AppArmor ; Unknown ; No ; Unknown 
+ Rh| Trisquel ; Unknown ; SELinux, AppArmorBased on Ubuntu ; Unknown ; Unknown ; Unknown 
+ Rh| Ututo ; Unknown ; Unknown ; Unknown ; Unknown ; Unknown 

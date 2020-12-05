@@ -1,0 +1,9 @@
+ Name ; SSH1 ; SSH2 ; Port forwarding ; SFTP ; SCP ; Supports IPv6 ; Supports OpenSSH authorized keys ; Privilege separation ; FIPS 140-2 support 
+ Apache MINA SSHD ; no ; yes ; yes ; yes ; yes ; yes ; yes ; no ; ? 
+ Bitvise SSH Server ;no ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yes 
+ CopSSH ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yessshd_config man page on openbsd project 2016-05-18. Retrieved on 2016-05-18. ; ? 
+ CrushFTP Server ;no ;yes ;yes ;yes ;yes ;yes ;yes ;yes ; ?  
+ Dropbear ;no ;yes ;yes ;partial ;yes ;yes ;yes ;no ; ? 
+ Lsh ;no ;yes ;yes ;yes ;yes ; ? ; ? ; ? ; ? 
+ OpenSSH (OpenBSD Secure Shell) ;noOpenSSH 7.5 Release notes, SSHv1 server no longer supported Retrieved on 2017-07-09. ;yes ;yes ;yes ;yes ;yes ;yes ;yes ;yesfips 
+ wolfSSH ;no ;yes ;yes ;yes ;yes ;yes ;yes ;no ;yes 

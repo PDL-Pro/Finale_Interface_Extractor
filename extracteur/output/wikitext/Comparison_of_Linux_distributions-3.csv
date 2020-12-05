@@ -1,0 +1,57 @@
+ Distribution ; Free software repositories ; Approximate number of pre-compiled packages ; Approximate number of source packages ; Default package management tool(s) ; Package format ; Default installer ; Graphical installation process ; Netinstall ; Netboot 
+ Rh| Alpine Linux ; Free, and nonfree ; 8135 ; dunno ; apk ; .apk ; setup-alpine ; no ; dunno ; dunno 
+ Rh| ALT Linux ; Free, and nonfree ; 8300 ; dunno ; APT (APT-RPM), RPM ; RPM ; ; yes ; dunno ; dunno 
+ Rh| Arch Linux ; Free, and nonfree ; 10999 ; 66265 from AUR ; Pacman ; .pkg.tar.zst ; None (third-party install scripts only) ; no ; yes ; iPXE 
+ Rh| BLAG ; Free only ; 10000 ; dunno ; RPM, yum, APT ; RPM ; ; yes ; no ; no 
+ Rh| Bodhi Linux ; Free, and nonfree ; Based on Debian ; dunno ; APT ; .dpkg ; Ubiquity ; yes ; dunno ; dunno 
+ Rh| CentOS ; Free, and nonfree ; Based on Fedora ; dunno ; RPM, yum/up2date ; RPM ;Anaconda ; yes ; yes ; dunno 
+ Rh| Chakra ; Free, and nonfree ; 3074 ; prefix=CCR: ; Pacman (will be replaced by Akabei in future) ; .pkg.tar.xz ; ; Package manager in development ; dunno ; dunno 
+ Rh| ClearOS ; Free, and nonfree ; Based on Fedora ; dunno ; RPM, yum ; RPM ; ; no ; dunno ; dunno 
+ Rh| CrunchBang Linux ; Free, and nonfree ; Based on Debian ; dunno ; APT ; .deb ; ; yes ; dunno ; dunno 
+ Rh| Debian ; Free, and nonfree ; 89403 ; 28923From the Sources.gz files in the main, contrib and non-free sections of Debian Buster. On the 2020-06-12, Debian Sid, the development release, have 31717 source packages. ; APT ; .deb ; Debian-Installer ; yes ; yes ; PXE 
+ Rh| Devuan ; Free, and nonfree ; Based on Debian ; dunno ; APT ;.deb ; Debian-Installer ; yes ; yes ; PXE 
+ Rh| Dragora GNU/Linux-Libre ; Free only ; 484 ; dunno ; pkgsystem ; .tlz ; dunno ; no ; no ; no 
+ Rh| dyne:bolic ; Free only ; dunno ; dunno ; APT ; .deb ; Debian-Installer ; yes ; no ; no 
+ Rh| Fedora ; Free, and nonfree ; 58991 with RPM fusionyum list all command, fedora 31 ; 30681 ; DNF, yum, PackageKit ; RPM ; Anaconda ; yes ; yes ; dunno 
+ Rh| Gentoo ; Free, and nonfree ; 10000 ; 19092Note this number is just of packages in the Official Gentoo Overlay (or Portage Tree). Several hundred other packages are available from other overlays ; Portage ; .ebuild, .tbz2 ; None (third-party install scripts only) ; yesCan be installed graphically (GTK+ and ncurses), but traditionally done by command line (install cd, live cd, netboot, and from distributions). ; yes ; PXE 
+ Rh| gNewSense ; Free only ; dunno ; dunno ; APT ; .deb ; Debian-Installer ; yes ; yes ; no 
+ Rh| Guix System ; Free only ; 13168 ; 13168 ; Guix ; .scm, .go ; guix system init ; yes ; yes ; no 
+ rh| Hyperbola GNU/Linux-libre ; Free only ; 14494{{cite web|title=Hyperbola GNU/Linux-libre packages|access-date=2018-12-07|url= ; dunno ; Pacman ; .pkg.tar.xz ; None (third-party install scripts only) ; no ; yes ; dunno 
+ Rh| Knoppix ; Free, and nonfree ; Based on Debian ; dunno ; APT ; .deb ; ; no ; dunno ; dunno 
+ Rh| LibreCMC ; Free only ; 826 ; dunno ; dunno ; dunno ;  ; no ; no ; no 
+ Rh| Linux Mint ; Free, and nonfree ; Based on Debian ; dunno ; APT ; .deb ; Ubiquity ; yes ; dunno ; dunno 
+ Rh| Mageia ; Free, and nonfree ; 17283 (i586), 11409 (x86-64) ; 8834 ; urpmi, rpmdrake ; RPM ; DrakX ; yes ; yes ; dunno 
+ Rh| Mandriva Linux ; Free, and nonfree ; 22600 ; dunno ; urpmi, rpmdrake ; RPM ; DrakX ; yes ; dunno ; dunno 
+ Rh| Manjaro Linux ; Free, and nonfree ; dunno ; Based on AUR ; Pacman ; .pkg.tar.xz ; Calamares ; yes ; yes ; iPXE 
+ Rh| MEPIS ; Free, and nonfree ; Based on Debian ; dunno ; APT ; .deb ; MEPIS Install ; yes ; dunno ; dunno 
+ Rh| Musix GNU+Linux ; Free only ; 1819 ; dunno ; APT ; .deb ; Debian-Installer ; yes ; no ; no 
+ Rh| OpenELEC ; Free, and nonfree ; 140 ; dunno ; XBMCbuntu addon manager, own and 3rd party addons ; .zip ; ; yes ; dunno ; dunno 
+ Rh| openSUSE ; Free, and nonfree ; 42236 with PackMan Queried on Leap 15.2 using zypper se -s | wc -l on June 22, 2020, with default repositories plus packman.  ; 34000 ; YaST, Zypper ; RPM ; YaST ; yes ; yes ; dunno 
+ Rh| OpenWrt ; Free, and nonfree ; 2000 ; dunno ; opkg ; .ipk ; - ; no ; dunno ; dunno 
+ Rh| Parabola GNU/Linux-libre ; Free only ; 23000 ; dunno ; Pacman ; .pkg.tar.xz ; None (third-party install scripts only) or Calamares ; yes ; yes ; dunno 
+ Rh| Pardus ; Free, and nonfree ; 4000 ; dunno ; PiSi ; .pisi ; YALI ; yes ; dunno ; dunno 
+ Rh| Parsix ; Free, and nonfree ; Based on Debian ; 14900 ; APT ; .deb ; ; yes ; dunno ; dunno 
+ Rh| PCLinuxOS ; Free, and nonfree ; 12000 ; dunno ; APT, RPM ; RPM ; ; yes ; dunno ; dunno 
+ Rh| Puppy ; Free, and nonfree ; 700 ; dunno ; PupGet, DotPup ;.pup, .pet ; ; yes ; dunno ; dunno 
+ Rh| Red Hat Enterprise Linux ; Free, and nonfree ; 3000 (plus 9155 from EPEL) ; dunno ; RPM, yum ; RPM ;Anaconda ; yes ; dunno ; dunno 
+ Rh| Rxart ; Free, and nonfree ; Based on Debian ; dunno ; APT ; .deb ; ; yes ; dunno ; dunno 
+ Rh| Sabayon Linux ; Free, and nonfree ; Based on Gentoo ; dunno ; Portage, Entropy ; ebuild, .tbz2 ; Calamares ; yes ; dunno ; dunno 
+ Rh| Scientific ; Free, and nonfree ; Based on Fedora ; dunno ; APT/yum ; RPM ; ; yes ; dunno ; dunno 
+ Rh| Slackware ; Free, and nonfree ; 2292 ; 7705 from SlackBuilds{{cite web |title=SBo - packages |url= ; slackpkg ; tgz, .txz, .tlz, .tbz ; bash scriptfound this in /usr/lib/setup/setup ; no ; yes ; yes 
+ Rh| Slax ; Free, and nonfree ; 2050 ; dunno ; none ; .lzm ; ; ; dunno ; dunno 
+ Rh| SliTaz GNU/Linux ; Free, and nonfree ; 3381 ; dunno ; Tazpkg ; .tazpkg ; tazinst ; yes ; iPXE ; iPXE 
+ Rh| Solus ; Free, and nonfree ; 9500 ; dunno ; eopkg ; .eopkg ; os-installer ; yes ; no ; no 
+ Rh| Source Mage GNU/Linux ; Free, and nonfree ; 118 ; 8876 ; Sorcery Package Manager ; src ; ; yes ; dunno ; dunno 
+ Rh| SUSE Linux ; Free, and nonfree ; 24094 ; 11385 ; YaST, Zypper ; RPM ; YaST ; yes ; dunno ; dunno 
+ Rh| Tiny Core Linux ; Free, and nonfree ; 25160 ; dunno ; ab, tce-load ; tcz ; tc-install, core2usb ; yes ; dunno ; dunno 
+ Rh| Tiny SliTaz ; Free, and nonfree ; 50 ; dunno ; Web site ; tazpkg ; ; no ; dunno ; iPXE 
+ Rh| Trisquel ; Free only ; 52748{{cite web|title=All Trisquel Packages in "belenos"|url= ; dunno ; APT ; .deb ; Ubiquity ; yes ; yes ; dunno 
+ Rh| TurnKey GNU/Linux ; Free, and nonfree ; Based on Debian (plus ≈30 custom packages) ; 21041From the Sources.gz files in the main, contrib and non-free sections of Debian Jessie. On the 2015-11-21, Debian Sid, the development release, have 24757 source packages. (currently TurnKey only supplies source code for custom packages) ; APT ; .deb ; DI-Live (custom fork of Debian Installer) ; no ; no ; no 
+ Rh| Ubuntu, Kubuntu, Xubuntu ; Free, and nonfree ; Based on Debian ; 24474From the Sources.gz files in the main,universe, multiverse and restricted sections of Ubuntu Wily. ; APT ; .deb ; Ubiquity ; yes ; yes ; PXE 
+ Rh| Ututo ; Free only ; 5000 ; dunno ; UTUTO Package Manager ; ebuild ; dunno ; dunno ; no ; no 
+ Rh| Vector Linux ; Free, and nonfree ; dunno ; dunno ; slapt-get, gslapt, installpkg ; tgz ; ; yes ; dunno ; dunno 
+ Rh| Void Linux ; Free, nonfree and multilib ; 6000 ; 6719 ; xbps ; .xbps ; ncurses script ; yes ; yes ; no 
+ Rh| XBMC Live ; Free, and nonfree ; dunno ; dunno ; APT ; .deb ; ; no ; dunno ; dunno 
+ Rh| Zentyal ; Free, and nonfree ; Based on Debian ; dunno ; APT ; .deb ; dpkg ; yes ; dunno ; dunno 
+ Rh| Zenwalk ; Free, and nonfree ; 2000 ; dunno ; netpkg, installpkg, upgradepkg ; tgz, txz ; ; yes ; dunno ; dunno 
+ Distribution ; Free software repositories ; Approximate number of pre-compiled packages ; Approximate number of source packages ; Default package management tools ; Package format ; Default installer ; Graphical installation process ; Netinstall ; Netboot 

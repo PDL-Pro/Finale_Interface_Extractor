@@ -1,0 +1,17 @@
+ Name ; Bootable ; Encryption Type ; Certification ; Managed ; Interface ; Max Capacity ; Included Software ; Other Features 
+Rh| datAshur PRO ; yes ; AES 256-bit XTS Hardware Encryption ; FIPS 140-2 Level 3  ; No ; USB 3.0 ; 64GB ; ; OS & Platform independent- software free 
+Rh| diskAshur PRO² ; Yes ; AES 256-bit XTS Hardware Encryption ; FIPS 140-2 ; No ; USB 3.1 ; 5TB ; ; OS & Platform independent- software free 
+Rh| SafeStick SuperSonic ; no ; AES 256-bit CBC Hardware Encryption ; CESG CCTM,  FIPS 140-2FIPS 140-2 Level 2 Pending ; Optional (with SafeConsole) ; USB 2.0 ; 8GB ; ; High transfer speeds, Inactivity lock   
+Rh| IronKey S100 ; no ; AES 128-bit CBC Hardware Encryption ; FIPS 140-2 Level 2 ; Enterprise Model only ; USB 2.0 ; 16GB ; Identity Manager, Secure Sessions ; 
+Rh| IronKey S200 ; no ; AES 256-bit CBC Hardware Encryption ; FIPS 140-2 Level 3 ; Enterprise Model only ; USB 2.0 ; 16GB ; Identity Manager, Secure Sessions ; 
+Rh| IronKey D200 ; no ; AES 256-bit CBC Hardware Encryption ; FIPS 140-2 Level 3 ; Enterprise Model only ; USB 2.0 ; 32GB ; Identity Manager, Secure Sessions ;  
+Rh| CryptX2 ; yes ; AES 256-bit CBC Hardware Encryption ; no ; no ; USB 2.0 ; 64GB / Future Support for 4TB ; No Software Required ; ID Verify, Panic Mode, Upgradeable Firmware 
+Rh| DataTraveler 5000 ; no ; AES 256-bit XTS Hardware Encryption ; FIPS 140-2 Level 2FIPS 140-2 Level 3 Pending ; no ; USB 2.0 ; 16GB ;  ; Water resistant 
+Rh| DataTraveler Locker+ ; no ; Hardware Encryption ; no ; no ; USB 2.0 ; 32GB ; no ; 
+Rh| DataTraveler Vault ; no ; AES 256-bit Hardware Encryption ; no ; no ; USB 2.0 ; 32GB ; DTVaultLock ; Second unsecured partition 
+Rh| DataTraveler Vault – Privacy Edition ; no ; AES 256-bit Hardware Encryption ; no ;  ; USB 2.0 ; 32GB ; ; Waterproof to 4' 
+Rh| JumpDrive SecureII Plus ; no ; Hardware ; FIPS 140-2 ? ; ; USB 2.0 ; ; ; 
+Rh| IronClad ; yes ; AES 256-bit CBC Hardware Encryption ; FIPS 140-2 Level 3 ; Yes ; USB 2.0 ; 16GB ; ; 
+Rh| Cruzer Enterprise ; no ; Hardware ; FIPS 140-2 ? ; yes ; USB 2.0 ; ; ; 
+Rh| Store 'n' Go Corporate ; no ; Hardware ; FIPS 140-2 ? ; ; USB 2.0 ; ; ; 
+ Name ; Bootable ; Encryption Type ; Certification ; Managed ; Interface ; Max Capacity ; Included Software ; Other Features 

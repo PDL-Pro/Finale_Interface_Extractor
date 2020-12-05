@@ -1,0 +1,38 @@
+ File Manager ; Undo/redo file operation ; File compression  ; File encryption ; Rename busy files ; File preview ; File coloring filter Files matching certain user defined criteria (e.g. name pattern, attributes) are displayed in another color. Example: Since Windows 2000, the UI guide requires NTFS compressed files and folders displayed in blue, whereas uncompressed ones are black.  ; File selection filter ; Paste clipboard as file ; File and folder reports ; ACL (Access control list) ; Mass Rename Mass Rename is a feature to rename large number of files in a convenient way and including a preview, see the screenshot for an example. Common options are subdirectory inclusion, wildcards, manual mode (offering to edit names as text files in editors), counters, time related fields (e.g. "date created"), path related fields (e.g. "parent directory name"), regular expressions, etc. See also: Batch renaming. ; Run executable files 
+ rh| Altap Salamander ; dunno ; yes ; yes ; dunno ; yes ; yes ; yes, multiple Altap Salamander offers to show only selected files and hide unselected ones, also in picture viewer, etc. For selection, the usual wildcards and add/subtract/intersect with 1...N stored selections are offered. ; dunno ; yes ; yes ACL is dependent on the type and version of file- and operating system. Altap Salamander offers quick access to owner, auditing and permission settings in WinXP with NTFS 5. ; yes ; yes 
+ rh| Commander One ; dunno ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; no  ; dunno ; dunno ; dunno 
+ rh| CRAX Commander ; dunno ; yes ; no ; yes ; yes ; yes ; yes ; yes ; yes ; dunno  ; yes ; yes 
+ rh| Directory Opus ; yes ; yes ; partial ; partial ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; dunno 
+ rh| Dired ; dunno ; yes ; yes ; yes ; no ; yes ; yes ; no ; dunno ; no ; yes ; yes 
+rh| Documents by Readdle ; ; ; ; ; ; ; ; ; ; ; ; 
+ rh| Dolphin ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; yes ; dunno ; yes ; partial ; yes 
+ rh| Double Commander ; no ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; dunno 
+ rh| emelFM2 ; dunno ; yes ; yes ; yes ; no ; dunno ; yes ; no ; dunno ; yes ; dunno ; dunno 
+ rh| FAR Manager ; dunno ; yes ; yes ; yes ; yes ; yes ; yes ; partial With plug-ins, or this can be implemented as a macros ; yes ; Plugin ; Plugin ; dunno 
+ rh| File Commander ; dunno ; yes ; no ; no ; yes ; yes ; yes ; no ; no ; no ; yes ; dunno 
+ rh| File Manager ; dunno ; yes ; dunno ; dunno ; no ; yes ; yes ; no ; dunno ; yes ; yes ; yes 
+rh| Files (Apple) ; ; Yes ; ; ; Yes ; ; ; ; ; ; ; 
+rh| Files by Google ; ;  ; ; ; ; ; ; ; ; ; ; 
+ rh| Finder ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; no ; dunno ; yes ; yes ; yes 
+ rh| ForkLift ; yes ; yes ; no ; no ; yes ; yes ; yes ; no ; no  ; yes ; yes ; dunno 
+ rh| GNOME Commander ; dunno ; yes ; dunno ; dunno ; yes ; yes ; dunno ; dunno ; dunno ; no ; yes ; dunno 
+ rh| Konqueror ; partial Konqueror can undo, not redo. ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; Yes ; yes ; Yes 
+ rh| Krusader ; dunno ; yes ; yes ; yes ; yes ; no ; yes ; yes ; dunno ; yes ; yes ; yes 
+ rh| Midnight Commander ; dunno ; yes ; dunno ; dunno ; dunno ; yes ; yes ; partialCreate new file with desired name, then paste contents. ; dunno ; dunno ; yes ; yes 
+ rh| GNOME Files (Nautilus) ; yes ; yes ; no ; yes ; yes ; no ; no ; partial Only text which is dragged from another program and dropped into a folder in GNOME Files (Nautilus) can be pasted as a new file. ; no ; yes ; no ; no Removed in version 3.29. 
+ rh| Nemo ; yes ; yes ; yes ; ? ; yes ; yes ; ? ; yes ; ? ; ? ; no ; yes 
+ rh| Nomad.NET ; dunno ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; partial ; dunno 
+ rh| Path Finder ; dunno ; yes ; no Path Finder apparently integrates with Knox date=2011-06-19 , an encryption utility. ; no ; yes ; no ; yes ; no ; yes ; no ; no ; dunno 
+ rh| PCManFM ; no ; yes ; dunno ; yes ; no ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; yes 
+ rh| ROX-Filer ; dunno ; With helper applications ; With helper applications ; yes ; yes ; no ; yes ; no ; no ; no ; yes ; dunno 
+ rh| STDU Explorer ; dunno ; no ; no ; no ; yes ; no ; no ; no ; no ; no ; no ; dunno 
+ rh| Thunar ; no ; no ; no ; dunno ; yes ; no ; yes ; dunno ; dunno ; dunno ; yes ; yes 
+ rh| Total Commander ; dunno ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; Log file ; yes ; dunno 
+ rh| Windows Explorer ; yes ; yes ; partial ; no ; yes ; no ; no ; partial Supported up to Windows XP only. Document scraps are not supported in Windows Vista and later. ; no ; yes Via system File Properties dialog, NTFS-only. Must be enabled manually date=2007-05-28  in Windows versions prior to Server 2003. ; partial ; yes 
+ rh| Xandros File Manager ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Xfe ; yes ; yes ; no ; yes ; no ; dunno ; yes ; no ; dunno ; yes ; no ; dunno 
+ rh| Xfm ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| xplorer² ; no ; yes ; partial  ; partial ; yes ; yes ; yes ; yes ; yes ; yes Via system File Properties dialog, NTFS-only. ; yes ; dunno 
+ rh| XYplorer ; yes ; yes ; partial  ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno 
+ rh| ZTreeWin ; dunno ; yes ; partial Encryption is supported for Zip and Rar, other formats depend on the editable ARCHIVER.BB2 file ; yes ; yes ; yes ; yes ; no ; yes ; no ; yes ; dunno 
+ File Manager ; Undo/redo file operation ; File compression  ; File encryption ; Rename busy files ; File preview ; File coloring filter ; File selection filter ; Paste clipboard as file ; File and folder reports ; ACL (Access control list) ; Mass Rename ; Run executable files 

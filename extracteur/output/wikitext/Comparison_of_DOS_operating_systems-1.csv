@@ -1,0 +1,54 @@
+ rh| Name ; Hard drive: partition size max ; Native support:File system ; Native support:floppy capacities 3.5" ; Native support:floppy capacities 5.25" ; Native support:floppy capacities 8.0" ; Integrated disk compression utility ; Native support:long file names 
+ rh| 86-DOS&nbsp,0.42-1.00 ; n/a ; FAT12,(CP/M2 through RDCPM) ; n/a ; NorthStar 87.5KB ; Cromemco/Tarbell 250.25KB (1981-07-21) ; No ; No 
+ rh| MS-DOS&nbsp,1.25 ; n/a ; FAT12 ; n/a ; 160KB, 320KB ; 250.25KB ; No ; No 
+ rh| MS-DOS&nbsp,2.0-2.11 ; 16MB (32MB with third-party FORMAT)Scott Mueller (1995). Upgrading and Repairing PCs, 5th Edition. Que Corporation. 0-7897-0321-1. p784: "The limit of 16MB did not come from the FAT, but from the high-level DOS FORMAT command...  Most vendors supplied modified high-level format programs that permitted partitions of up to 32MB to be formatted properly." ; FAT12 ; n/a ; 160KB, 180KB, 320KB, 360KB ; 250.25KB, 500.5KB, 616KB, 1232KBXerox (1983-11). Xerox 16/8 Professional Computer - MS-DOS OS Handbook for 8" Floppy Disks. 1983-11, MS-DOS 2.0 () ; No ; No 
+ rh| MS-DOS&nbsp,3.0 ; 32MB ; FAT12, FAT16 ; n/a ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; n/a ; No ; No 
+ rh| MS-DOS&nbsp,3.1 ; 32MB ; FAT12, FAT16 ; n/a ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; n/a ; No ; No 
+ rh| MS-DOS&nbsp,3.2 ; 32MB ; FAT12, FAT16 ; 720KB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; n/a ; No ; No 
+ rh| MS-DOS&nbsp,3.3 ; 32MB ; FAT12, FAT16 ; 720KB, 1.44MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; n/a ; No ; No 
+ rh| MS-DOS&nbsp,3.31 ; 512MB ; FAT12, FAT16, FAT16B ; 720KB, 1.44MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; n/a ; No ; No 
+ rh| MS-DOS&nbsp,4.0 ; 2GB ; FAT12, FAT16, FAT16B ; 720KB, 1.44MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; n/a ; No ; No 
+ rh| MS-DOS&nbsp,5.0 ; 2GB ; FAT12, FAT16, FAT16B ; 720KB, 1.44MB, 2.88MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; n/a ; No ; No 
+ rh| MS-DOS&nbsp,6.0 ; 2GB ; FAT12, FAT16, FAT16B ; 720KB, 1.44MB, 2.88MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; n/a ; DoubleSpace ; No 
+ rh| MS-DOS&nbsp,6.20 ; 2GB ; FAT12, FAT16, FAT16B ; 720KB, 1.44MB, 2.88MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; n/a ; DoubleSpace ; No 
+ rh| MS-DOS&nbsp,6.21 ; 2GB ; FAT12, FAT16, FAT16B ; 720KB, 1.44MB, 2.88MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; n/a ; No ; No 
+ rh| MS-DOS&nbsp,6.22 ; 2GB ; FAT12, FAT16, FAT16B ; 720KB, 1.44MB, 2.88MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; n/a ; DriveSpace ; No 
+ rh| MS-DOS&nbsp,7.0 (Windows&nbsp,95A) ; 2GB ; FAT12, FAT16, FAT16B ; 720KB, 1.44MB, 2.88MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; n/a ; DriveSpace ; No 
+ rh| MS-DOS&nbsp,7.1 (Windows95B/OSR2, Windows95C/OSR2.5, Windows 98, and Windows 98SE) ; 124.55GB with FAT32As stated at  Microsoft's KB article 184006, the limit of 124.55 GB for FAT32 partition size is a mainly a limit of Windows 95/98's 16-bit SCANDISK utility.  Other DOS versions supporting FAT32 may allow a larger partition size closer to the theoretical 2TB/16TB maximum suggested by FAT32's specifications.  Windows2000 and XP can mount and use a FAT32 partition larger than 32 GB, but they cannot natively create one, which according to Microsoft is by design. ; FAT12, FAT16, FAT16B, FAT32 ; 720KB, 1.44MB, 2.88MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; n/a ; DriveSpace for Windows95, none for Windows98 ; No 
+ rh| MS-DOS&nbsp,8.0 (Windows&nbsp,Meand later Windows versions) ; 124.55GB with FAT32 ; FAT12, FAT16, FAT16B, FAT32 ; 720KB, 1.44MB, 2.88MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; n/a ; No ; No 
+ rh| PC&nbsp,DOS&nbsp,1.0 ; n/a ; FAT12 ; n/a ; 160KB ; n/a ; No ; No 
+ rh| PC&nbsp,DOS&nbsp,1.1 ; n/a ; FAT12 ; n/a ; 160KB, 320KB (double-sided) ; n/a ; No ; No 
+ rh| PC&nbsp,DOS&nbsp,2.0-2.1 ; 16MB (32MB with third-party FORMAT) ; FAT12 ; n/a ; 160KB, 180KB, 320KB, 360KB ; n/a ; No ; No 
+ rh| PC&nbsp,DOS&nbsp,3.0 ; 32MB ; FAT12, FAT16 ; n/a ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; n/a ; No ; No 
+ rh| PC&nbsp,DOS&nbsp,3.1 ; 32MB ; FAT12, FAT16 ; n/a ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; n/a ; No ; No 
+ rh| PC&nbsp,DOS&nbsp,3.2 ; 32MB ; FAT12, FAT16 ; 720KB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; n/a ; No ; No 
+ rh| PC&nbsp,DOS&nbsp,3.3 ; 32MB ; FAT12, FAT16 ; 720KB, 1.44MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; n/a ; No ; No 
+ rh| IBM&nbsp,DOS&nbsp,4.0 ; 2GB ; FAT12, FAT16, FAT16B ; 720KB, 1.44MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; n/a ; No ; No 
+ rh| IBM&nbsp,DOS&nbsp,5.0 ; 2GB ; FAT12, FAT16, FAT16B ; 720KB, 1.44MB, 2.88MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; n/a ; No ; No 
+ rh| PC&nbsp,DOS&nbsp,6.1 (early version) ; 2GB ; FAT12, FAT16, FAT16B ; 720KB, 1.44MB, 2.88MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; n/a ; No ; No 
+ rh| PC&nbsp,DOS&nbsp,6.1 with Compression / PC&nbsp,DOS&nbsp,6.3 ; 2GB ; FAT12, FAT16, FAT16B ; 720KB, 1.44MB, 2.88MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; n/a ; SuperStor ; No 
+ rh| PC&nbsp,DOS&nbsp,7.0 / PC&nbsp,DOS&nbsp,2000 ; 2GB ; FAT12, FAT16, FAT16B ; 720KB, 1.44MB, 1.86MB (XDF), 2.88MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB, 1.54MB (XDF) ; n/a ; Stacker ; No 
+ rh| PC&nbsp,DOS&nbsp,7.10 ; ? ; FAT12, FAT16, FAT16B, FAT32 ; 720KB, 1.44MB, 1.86MB (XDF), 2.88MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB, 1.54MB (XDF) ; n/a ; Stacker, not on FAT32 ; No 
+ rh| DOS&nbsp,Plus&nbsp,1.1 ; 32MB ; FAT12, FAT16, CP/M-86 ; 315KB, 720KB, CP/M 315KB, CP/M 720KB, MSX-DOS 360 KB, MSX-DOS 720 KB ; 160KB, 180KB, 320KB, 360KB, 800KB, 1.2MB, CP/M 160KB, CP/M 320KB ; n/a ; No ; No 
+ rh| DOS&nbsp,Plus&nbsp,1.2-2.1 ; 32MB ; FAT12, FAT16, CP/M-86 ; Apricot 315KB,DOSPlus2.1e/g versions for the Apricot ACT series and for the Jasmin Turbo from the French company T.R.A.N.S.A. support a non-standard single-sided 315KB FAT12 format. (720KBDOSPlus DISK.CMD versions for the Amstrad PC1512, the T.R.A.N. Jasmin Turbo and the BBC Master 512 support variants of 720KB FAT12 formats including the original MS-DOS, and PCDOS format, however known versions of DOSPlus itself don't make use of them.) ; 160KB, 180KB, 320KB, 360KB, 1.2MB, Acorn640KB, Acorn800KB,DOSPlus for the BBC Master 512 supports two non-standard FAT12 formats with 640KB and 800KB. CP/M 320KB ; n/a ; No ; No 
+ rh| DR&nbsp,DOS&nbsp,3.31-3.35 ; 2GB ; FAT12, FAT16, FAT16B ; 720KB, 1.44MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; n/a ; No ; No 
+ rh| DR&nbsp,DOS&nbsp,3.40-3.41 ; 2GB ; FAT12, FAT16, FAT16B ; 720KB, 1.44MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; (250.25KBThe DR&nbsp,DOS 3.41-8.0 BIOS (DRBIOS.SYS aka IBMBIO.COM) has a profile for an undocumented 250.25KB (aka "243KB") logical format with a non-standard media descriptor of E5h. DRDOS3.31 does not support this format. The format is similar, but not identical to the two 250.25KB formats with FAT ID FDh and FEh supported by MS-DOS 1.25/2.x.) ; No ; No 
+ rh| DR&nbsp,DOS&nbsp,5.0 ; 2GB ; FAT12, FAT16, FAT16B ; 720KB, 1.44MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; (250.25KB) ; No ; No 
+ rh| DR&nbsp,DOS&nbsp,6.0 ; 2GB ; FAT12, FAT16, FAT16B ; 720KB, 1.44MB, 2.88MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; (250.25KB) ; SuperStor ; No 
+ rh| PalmDOS&nbsp,1.0 ; 2GB ; FAT12, FAT16, FAT16B ; 720KB, 1.44MB, 2.88MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; (250.25KB) ; SuperStor ; No 
+ rh| Novell&nbsp,DOS&nbsp,7 ; 2GB ; FAT12, FAT16, FAT16B ; 720KB, 1.44MB, 2.88MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; (250.25KB) ; Stacker ; No 
+ rh| OpenDOS&nbsp,7.01 ; 2GB ; FAT12, FAT16, FAT16B ; 720KB, 1.44MB, 2.88MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; (250.25KB) ; Stacker ; No 
+ rh| DR-OpenDOS&nbsp,7.02 ; 2GB ; FAT12, FAT16, FAT16B ; 720KB, 1.44MB, 2.88MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; (250.25KB) ; Stacker ; No 
+ rh| DR-DOS&nbsp,7.02 ; 2GB ; FAT12, FAT16, FAT16B, (FAT32 in FDISK only) ; 720KB, 1.44MB, 2.88MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; (250.25KB) ; Stacker ; Partial, COMMAND.COM and LONGNAME only 
+ rh| DR-DOS&nbsp,7.03 ; 2GB ; FAT12, FAT16, FAT16B, (FAT32 in FDISK only) ; 720KB, 1.44MB, 2.88MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; (250.25KB) ; Stacker ; Partial, COMMAND.COM and LONGNAME only 
+ rh| DR-DOS&nbsp,7.04-7.05 ; ? ; FAT12, FAT16, FAT16B, FAT32 (non-bootable) ; 720KB, 1.44MB, 2.88MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; (250.25KB) ; Stacker, not on FAT32 ; Partial, COMMAND.COM and LONGNAME only 
+ rh| DR-DOS&nbsp,7.06-7.07 ; ? ; FAT12, FAT16, FAT16B, FAT32 (bootable) ; 720KB, 1.44MB, 2.88MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; (250.25KB) ; Stacker, not on FAT32 ; Partial, COMMAND.COM and LONGNAME only 
+ rh| DR-DOS8.0 ; ? ; FAT12, FAT16, FAT16B, FAT32 ; 720KB, 1.44MB, 2.88MB ; 160KB, 180KB, 320KB, 360KB, 1.2MB ; (250.25KB) ; Supported, not on FAT32 ; Partial, COMMAND.COM only 
+ rh| DR-DOS8.1 ; ? ; FAT12, FAT16, FAT16B, FAT32 ; 720KB, 1.44MB, 2.88MB ; 360KB, 1.2MB ; n/a ; No ; No 
+ rh| FreeDOS&nbsp,1.0 ; 2&nbsp,TB date=January 2012 ; FAT12, FAT16, FAT16B, FAT32 ; 720KB, 1.44MB, 2.88MB ; 360KB, 1.2MB ; n/a ; Dunno ; No 
+ rh| FreeDOS&nbsp,1.1-1.2 ; 2&nbsp,TB date=January 2012 ; FAT12, FAT16, FAT16B, FAT32 ; 720KB, 1.44MB, 2.88MB ; 360KB, 1.2MB ; n/a ; No ; Yes 
+ rh| PTS-DOS 32 ; ? ; FAT12, FAT16, FAT16B, FAT32 ; 720KB, 1.44MB, 2.88MB ; 360KB, 1.2MB ; n/a ; No ; No 
+ rh| PTS-DOS 2000 ; ? ; FAT12, FAT16, FAT16B, FAT32 ; 720KB, 1.44MB, 2.88MB ; 360KB, 1.2MB ; n/a ; No ; No 
+ rh| PTS-DOS 2000 PRO ; ? ; FAT12, FAT16, FAT16B, FAT32 ; 720KB, 1.44MB, 2.88MB ; 360KB, 1.2MB ; n/a ; No ; No 
+ rh| Datalight ROM-DOS ; ? ; FAT12, FAT16, FAT16B, FAT32 ; 720KB, 1.44MB, 2.88MB ; 360KB, 1.2MB ; n/a ; No ; Yes 
+ rh| DIP&nbsp,DOS ; n/a ; FAT12 ; n/a ; n/a ; n/a ; No ; No 

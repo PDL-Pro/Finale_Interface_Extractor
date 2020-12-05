@@ -1,0 +1,24 @@
+Implementation ;Block cipher with mode of operation ;Block cipher with mode of operation ;Block cipher with mode of operation ;Block cipher with mode of operation ;Block cipher with mode of operation ;Block cipher with mode of operation ;Block cipher with mode of operation ;Block cipher with mode of operation ;Block cipher with mode of operation ;Block cipher with mode of operation ; Stream cipher ; None 
+Implementation ; AES GCMRFC 5288, RFC 5289 ; AES CCMRFC 6655, RFC 7251 ; AES CBC ; Camellia GCMRFC 6367 ; Camellia CBCRFC 5932, RFC 6367 ; ARIA GCM ; ARIA CBCRFC 6209 ; SEED CBCRFC 4162 ; 3DES EDE CBC(insecure) ; GOST 28147-89 CNT(proposed)This algorithm is not defined yet as TLS cipher suites in RFCs, is proposed in drafts. ; ChaCha20-Poly1305RFC 7905 ; Null(insecure)authentication only, no encryption 
+ Botan ; yes ; Yes ; Yes ; yes ; Yes ; No ; No ; Disabled by default ; Disabled by default ; No ; yes ; Not implemented 
+ BoringSSL ; yes ; No ; Yes ; No ; No ; No ; No ; No ; Yes ; No ; yes ; 
+ cryptlib ; yes ; No ; Yes ; No ; No ; No ; No ; No ; Yes ; No ; no ; Not implemented 
+ GnuTLS ; yes ; Yes ; Yes ; yes ; Yes ; No ; No ; No ; Disabled by default ; No ; yes{{cite web|url= 3.4.12|date=2016-05-20|accessdate=2016-05-29|archive-url= ; Disabled by default 
+ JSSE ; Yes ; No ; Yes ; No ; No ; No ; No ; No ; Disabled by default ; No ; Yes(JDK 12+) ; Disabled by default 
+ LibreSSL ; yes ; No ; Yes ; No ; Yes ; No ; No ; No ; Yes ; Yes ; yes ; Disabled by default 
+ MatrixSSL ; yes ; No ; Yes ; No ; No ; No ; No ; Yes ; Disabled by default ; No ; yes ; Disabled by default 
+ Mbed TLS ; yes ; Yes  ; Yes ; yes ; Yes ; yes ; Yes ; No ; Yes ; No ; yes ; Disabled by default at compile time 
+ NSS ; yes ; No ; Yes ; NoThis algorithm is implemented in an NSS fork used by Pale Moon. ; Yes ; No ; No ; Yes ; Yes ; No ; yes ; Disabled by default 
+ OpenSSL ; yes ; Disabled by default ; Yes ; No ; Disabled by default ; Disabled by default ; No ; Disabled by default ; Disabled by default ; Yes ; yes ; Disabled by default 
+ RSA BSAFE Micro-Edition Suite ; yes ; Yes ; Yes ; No ; No ; No ; Yes ; Yes ; Lowest priority ; No ; no ; Disabled by default 
+ RSA BSAFE SSL-J ; yes ; Yes ; Yes ; No ; No ; No ; No ; No ; Disabled by default ; No ; no ; Disabled by default 
+ SChannel XP/2003 ; no ; No ; 2003 onlyHofix 984963: TLS AES cipher suites for Microsoft Windows 2003 ; No ; No ; No ; No ; No ; Yes ; No ; no ; Disabled by default 
+ SChannel Vista/2008, 2008R2, 2012 ; no ; No ; Yes ; No ; No ; No ; No ; No ; Yes ; No ; no ; Disabled by default 
+ SChannel 7, 8, 8.1/2012R2 ; Yes except ECDHE_RSA ; No ; Yes ; No ; No ; No ; No ; No ; Yes ; No ; no ; Disabled by default 
+ Schannel 10 ; yes ; No ; Yes ; No ; No ; No ; No ; No ; Yes ; No ; no ; Disabled by default 
+ Secure Transport OS X 10.6 - 10.10 ; no ; No ; Yes ; No ; No ; No ; No ; No ; Yes ; No ; no ; Disabled by default 
+ Secure Transport OS X 10.11 ; yes ; No ; Yes ; No ; No ; No ; No ; No ; Yes ; No ; no ; Disabled by default 
+ wolfSSL ; yes ; Yes ; Yes ; No ; Yes ; No ; No ; No ; Yes ; No ; yes ; Disabled by default 
+Erlang/OTP SSL application ; yes ; No ; Yes ; No ; No ; No ; No ; No ;  Disabled by default ; No ;Experimental ;Disable by default  
+Implementation ;Block cipher with mode of operation ;Block cipher with mode of operation ;Block cipher with mode of operation ;Block cipher with mode of operation ;Block cipher with mode of operation ;Block cipher with mode of operation ;Block cipher with mode of operation ;Block cipher with mode of operation ;Block cipher with mode of operation ;Block cipher with mode of operation ; Stream cipher ; None 
+Implementation ; AES GCM ; AES CCM ; AES CBC ; Camellia GCM ; Camellia CBC ; ARIA GCM ; ARIA CBC ; SEED CBC ; 3DES EDE CBC(insecure) ; GOST 28147-89 CNT(proposed) ; ChaCha20-Poly1305 ; Null(insecure)  

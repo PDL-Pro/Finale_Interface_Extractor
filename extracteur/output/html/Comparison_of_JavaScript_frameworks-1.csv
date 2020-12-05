@@ -1,0 +1,30 @@
+;AngularJS;Apache Royale;Dojo;Ember.js;Enyo;Ext JS;Google Web Toolkit;jQuery;jQWidgets;MooTools;OpenUI5;Prototype & script. aculo.us;qooxdoo;SproutCore;Svelte;Vue;Wakanda;ZK;Webix
+Feature detection;Yes;;Yes;Yes;;Yes;No;Yes;Yes;Yes;;No;Yes;Yes;;;Partial;No;Yes
+DOM wrapped;Yes;;Yes;No;Yes;Yes;Yes;Yes;;No;;No;Yes;No;;;Yes;Yes;Yes
+XMLHttpRequest data retrieval;Yes;Yes;Yes;;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;;;Yes;;Yes
+WebSocket;;;Yes;;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes;Via Plugin;;;Yes;;Yes
+Server push data retrieval;;;Yes;;;Yes;Yes;Yes;No;;;;;Via Plugin;;;;Yes;Yes
+Other data retrieval;;Yes: XML, HTML, CSV, ATOM, AMF, JSON;Yes: XML, HTML, CSV, ATOM;;;Yes: XML, SOAP, AMF, Ext.Direct;Yes: RPC, RequestFactory;Yes: XML, HTML;Yes: XML, JSON, CSV, TSV;Yes: XML, HTML;;;;;;;Yes: JSON-RPC, Wakanda REST;;Yes: XML, HTML, CS, JSON, JSArray, CSV
+Drag and drop;;Yes;Yes;;;Yes;With plugin;With plugins;Yes;Yes;Yes;Yes;Yes;Yes;;;Yes;Yes;Yes
+Simple visual effects;Yes;Yes;Yes;;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;;;Yes;Yes;Yes
+Animation / advanced visual effects;Yes;;Yes;;Yes;Yes;Yes;Yes;Yes;Yes;;Yes;Yes;Yes;;;Yes;Yes;Yes
+Back button support / history management;;;Yes;Yes;Yes;Yes;Yes;With plugins;No;With plugin;;Yes;Yes;Yes;;;;Yes;Yes
+Input form widgets & validation;Yes;Yes;Yes;;Yes;Yes;Yes, Validation requires plugin;With plugins;Yes;Yes;Yes;Yes;Yes;Yes;;;Yes;Yes;Yes
+;AngularJS;Apache Royale;Dojo;Ember.js;Enyo;ExtJS;Google Web Toolkit;jQuery;jQWidgets;MooTools;OpenUI5;Prototype & script. aculo.us;qooxdoo;SproutCore;Svelte;Vue;Wakanda;ZK;Webix
+Grid;;Yes;Yes;;;Yes;Yes;With plugins;Yes;With plugin;Yes;;Yes;Yes;;;Yes;Yes;Yes
+Hierarchical Tree;;Yes;Yes;;Yes;Yes;Yes;With plugins;Yes;With plugins;Yes;;Yes;Yes;;;Yes (Auto Form);Yes;Yes
+Rich text editor;No;Yes;Yes;;;Yes;Yes;With plugins;Yes;Yes;;;Yes;Via plugin;;;Yes;Yes;Yes
+Autocompletion tools;No;;Yes;;;Yes;Yes;Yes;Yes;With plugin;;Yes;;With plugins;;;Yes;Yes;Yes
+HTML generation tools;No;;Yes;;;Yes;Yes;Yes;Yes;Yes;;Yes;Yes;Yes;;;No;Yes;Yes
+Widgets themeable / skinnable;;Yes;Yes;;Yes;Yes;Yes;Yes;;Yes;Yes;Yes;;Yes;;;;Yes;Yes
+GUI resizable panels and modal dialogs;;Yes;Yes;;Yes;Yes;Yes;With plugins;Yes;Yes;;;Yes;Yes;;;Yes;Yes;Yes
+GUI page layout;;;Yes;;;Yes;Yes;With plugin;Yes;Yes;;;Yes;Yes;;;Yes;Yes;Yes
+Canvas support;;Yes;Yes;;Yes;Yes;Yes;With plugin;Yes;Yes;;;Yes;Yes;;;Yes;Yes;Yes
+Mobile/tablet support (touch events);Yes;Yes;Yes;Yes;Yes;Yes;With plugin;With plugin;Yes;With plugin;Yes;;Yes;Yes;;;Yes;Yes;Yes
+Accessibility / graceful degradation;Yes;;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;;;No;Degradation: No Accessibility: Yes;;;;Yes;Yes
+ARIA compliant;;;Yes;;;Yes;;Yes;Yes;;Yes;;No;Yes;;;;Yes;Yes
+Developer tools, Visual design;;;Yes;;in progress;Yes;Yes;Yes;Yes;Yes;;;Yes;No;;;Yes;Yes;Yes
+Offline storage;;Yes;No;;Yes;Yes;Via Google Gears;With plugin;Yes;;;;Yes;Yes;;;planned;Yes;Yes
+Cross-browser 2d Vector Graphics;;;Yes;;;Yes;;With plugin;Yes;Yes;;;;No];;;Yes (via Raphael);Yes;Yes (via Raphael)
+Charting & Dashboard;;Yes;Yes;;;Yes;;With plugin;Yes;;;;;No;;;Yes;Yes;Yes
+RTL Support in UI Components;;Yes;Yes;;;Yes;;Depends on the plugin used;Yes;;Yes;;;Yes;;;;;No

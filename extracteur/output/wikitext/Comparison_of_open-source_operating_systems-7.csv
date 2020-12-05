@@ -1,0 +1,8 @@
+ Operating system ;Mandatory access control ;Software executable space protection ;Operating system-level virtualization ;Virtualisation ;Userspace protection ;Others 
+Linux ;SELinux, AppArmorz1  ;Exec Shield,z1 PaXz1  ;Chroot, namespace and cgroups,z4 Linux-VServer,z1 OpenVZz1  ;KVM ;IPFilter, Iptables ;grsecurity,z1 RSBACz1 
+FreeBSD ;SeBSD,z2z3 TrustedBSD ;ProPolice/SSPz5 ;jail ;bhyve{{cite web|title=bhyve|url= ;IPFW, PF, IPFilter ; 
+Darwin ;SEDarwin, TrustedBSD ; ;jail ; ;IPFW ; 
+OpenBSD ; ;W^X, ProPolice/SSPz6 ; ;vmm  ;PF ; 
+OpenSolaris, illumos ;TrustedBSD ; ;Solaris Containers ;KVM  ;IPFilter ;RBAC 
+ Plan 9 ; no ; no ; per-process namespaces ; ; ; 
+ Inferno ; no ; no ; per-process namespaces ; ; ; 

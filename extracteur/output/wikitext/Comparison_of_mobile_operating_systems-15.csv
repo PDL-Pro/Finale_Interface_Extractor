@@ -1,0 +1,10 @@
+ Feature ; Android ; iOS ; Tizen ; Sailfish OS ; Ubuntu Touch 
+Separate volume for ringtone and media ;Yes;Yes;?;Yes;Yes 
+Voice commands ;YesList of Google Now voice commands ;5+ (Siri);?;3rd party software, such as SaeraVoice Control ;No 
+Offline voice commands ;6+;Yes;?;No;No 
+Voice recognition ;Yes;5+ (Siri);?;No;No 
+Offline voice recognition ;4.1+Android 4.1 Jelly Bean adds Offline Voice Typing – SlashGear . Slashgear.com. Retrieved on 2012-07-03.;Limited, only calling and music playbackTips for using Voice Control with iPhone and iPod touch . Apple.com. Retrieved on 2015-04-10.;No;No;No 
+Non-English voice recognition ;Yes;Yes;?;No;No 
+Sound recorder ;Very limited (Doesn't work in background and not voice controlled);3+: Limited (Not voice controlled);Partial;No2 3rd party software;3rd party software 
+Call recorder ;No2 Prevented by OS restrictions, but possible with 3rd party firmware;3rd party software;No;Disabled by default, must be interactively switched on during a call when enabled / 3rd party software{cite web | url= | title=Call Recorder | accessdate=2010-05-02}};? 
+Sound trim ;No2No, but 3rd party software available;YesHow to Edit a Voice Memo on Your iPhone video from Answers.com Videos ;?;?;? 

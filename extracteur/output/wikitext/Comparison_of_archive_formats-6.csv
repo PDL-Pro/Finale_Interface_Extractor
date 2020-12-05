@@ -1,0 +1,20 @@
+ Archive format ; Built-in compression ; Self-extracting ; Directory structure ; POSIX attributes ; ACL ; Alternate data streams 
+ cpio ; no ; no ; yes ; yes ; no ; dunno 
+ tar ; no ; no ; yes ; yes ; some ; (in Solaris implementation) 
+ dar ; yes ; no ; yes ; yes ; yes ; yes 
+ ar ; no ; no ; no ; yes ; no ; dunno 
+ pax ; no ; no ; yes ; yes ; yes ; dunno 
+ dump ; no ; no ; yes ; yes ; yes ; dunno 
+ shar ; no ; yes ; yes ; yes ; no ; dunno 
+ makeself ; yes ; yes ; yes ; yes ; yes ; dunno 
+ zip ; yes ; yes ; yes ; no ; dunno ; dunno 
+ rar ; yes ; yes ; yes ; no ; dunno ; yes 
+ ace ; yes ; dunno ; yes ; no ; dunno ; dunno 
+ arj ; yes ; yes ; yes ; no ; no ; dunno 
+ zoo ; yes ; dunno ; yes ; no ; dunno ; dunno 
+ ISO 9660 (CD-ROM) ; no ; no ; yes ; (with Rock Ridge extension) ; no ; dunno 
+ cab ; yes ; yes ; dunno ; no ; dunno ; dunno 
+ rpm ; yes ; no ; yes ; yes ; dunno ; dunno 
+ deb ; yes ; no ; yes ; yes ; dunno ; dunno 
+ 7z ; yes ; yes ; yes ; yes ; dunno ; dunno 
+ Archive format ; Built-in compression ; Self-extracting ; Directory Structure ; POSIX attributes ; ACL ; Alternate data streams 

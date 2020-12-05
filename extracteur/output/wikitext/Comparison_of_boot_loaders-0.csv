@@ -1,0 +1,43 @@
+ Name ; License ; Can reside in ; Can reside in ; Can reside in ; Can reside in ; Can boot from ; Can boot from ; Can boot from ; Can boot from ; Can boot from ; Can boot from ; Can boot from ; Can boot from ; Can boot ; Can boot ; Can boot ; Can boot ; Can boot ; Can boot ; Can boot ; Can boot ; Can boot 
+ Name ; License ; ESP (UEFI) ; MBR ; VBR ; Floppy  ; Hard disk ; Second Hard disk ; Logical partitions ; CD-ROM ; Floppy ; USB ; Zip ; LAN  ; MS-DOS ; Windows 9x/Me ; Windows NT series ; Windows Vista/7/8/10 ; Linux ; ReactOS ; MenuetOS ; *BSD ; MacOSX 
+ rh| Acronis OS Selector ; proprietary ; Dunno ; Dunno ; Dunno ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Dunno ; Yes ; Yes ; Yes ; Yes ; Yes ; Dunno ; Dunno ; Yes ; Yes 
+ rh| AiR-BOOT ; GPLv3 ; Dunno ; Yes ; No ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Yes ; Yes ; Yes ; Yes ; Yes ; Dunno ; Dunno ; Dunno ; Dunno 
+ rh| AKernelLoader ; GPLv2 ; Dunno ; Yes ; No ; Yes ; Yes ; Yes ; Yes ; Dunno ; Yes ; Yes ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Yes ; Dunno ; Dunno ; Dunno ; Dunno 
+ rh| Barebox ; GPLv2 ; Yes ; Yes ; No ; Dunno ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; No ; Yes ; Dunno ; Dunno ; Dunno ; Dunno ; Yes ; Dunno ; Dunno ; Dunno ; Dunno 
+ rh| BOOTBOOT ; MIT ; Yes ; Yes ; Yes ; No ; Yes ; Yes ; Yes ; Yes ; No ; Yes ; No ; No ; Yes ; Yes ; Yes ; Yes ; Yes ; Dunno ; Dunno ; Dunno ; Dunno 
+ rh| Boot Manager ; proprietary ; No ; No ; No ; No ; Yes ; Yes ; Yes ; No ; No ; Dunno ; Dunno ; No ; Yes ; Yes ; Yes ; Yes ; Yes ; Dunno ; Dunno ; Dunno ; Dunno 
+ rh| BootIt Bare Metal (formerly BootIt Next Generation) ; proprietary ; Dunno ; Dunno ; Dunno ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Dunno ; Yes ; Yes ; Yes ; Yes ; Yes ; Dunno ; Dunno ; Dunno ; Dunno 
+ rh| BootKey ; proprietary ; Dunno ; No ; No ; Yes ; No ; No ; No ; Yes ; Yes ; Yes ; No ; No ; Yes ; Yes ; Yes ; Yes ; Yes ; Dunno ; Dunno ; Dunno ; Dunno 
+ rh| BootManager ; MIT ; Dunno ; Yes ; No ; No ; Yes ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; No ; Yes ; Yes ; Calls NTLDR ; Calls Windows Boot Manager ; Calls GRUB or LILO ; Dunno ; Dunno ; Dunno ; Dunno 
+ rh| BootX (Apple) ; proprietary ; Dunno ; Dunno ; Dunno ; Dunno ; Yes ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Yes ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Yes 
+ rh| BootX (Linux) ; proprietary ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Yes ; Dunno ; Dunno ; Dunno ; Dunno 
+ rh| Clover (fork of rEFIt) ; GPLv2/BSD license ; yes ; yes ; yes ; yes ; yes ; yes ; Dunno ; no ; Dunno ; yes ; Dunno ; no ; Dunno ; Dunno ; yes ; yes ; yes ; Dunno ; Dunno ; yes ; yes 
+ rh| Darwin Boot Loader ; APSL 2.0 ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; Dunno ; yes ; Yes 
+ rh| Das U-Boot ; GPLv2 ; Dunno ; Dunno ; Dunno ; Dunno ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; No ; Yes ; Dunno ; Dunno ; Dunno ; Dunno ; Yes ; Dunno ; Dunno ; Yes (FreeBSD) ; Dunno 
+ rh| GAG ; GPLv2+ ; Dunno ; Yes (SafeBoot) ; No ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; No ; No ; Yes ; Yes ; Calls NTLDR ; Calls Windows Boot Manager ; Calls GRUB or LILO ; Calls bootloader ; Calls bootloader ; Calls bootloader ; No 
+ rh| GRUB Legacy ; GPLv2+ ; no ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; Calls NTLDR ; Calls Windows Boot Manager ; yes ; Calls FreeLoader ; yes ; yes ; yes 
+ rh| GNU GRUB ; GPLv3 ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; Calls NTLDR ; Calls Windows Boot Manager ; yes ; Calls FreeLoader ; yes ; yes ; yes 
+ rh| Grub2Win ; GPLv3 ; yes ; no ; no ; no ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes ; Calls NTLDR ; Calls Windows Boot Manager ; yes ; dunno ; dunno ; Yes (FreeBSD) ; Calls Clover 
+ rh| GRUB4DOS ; GPLv2+ ; Dunno ; no ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; Calls NTLDR ; Calls Windows Boot Manager ; yes ; dunno ; dunno ; dunno ; dunno 
+ rh| Gujin  ; GPLv2 ; Dunno ; no ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes ; Calls NTLDR ; yes ; yes ; dunno ; dunno ; dunno ; dunno 
+ rh| systemd-boot / Gummiboot ; LGPL 2.1 ; yes ; no ; no ; no ; yes ; yes ; yes ; dunno ; dunno ; yes ; dunno ; dunno ; no ; no ; Windows Server 2013 64bits with UEFI only ; Calls Windows Boot ManagerRod Smith, "Managing EFI Boot Loaders for Linux: Using gummiboot", 2012-11-05. ; yes ; dunno ; dunno ; UEFI only ; yes 
+ rh| iBoot ; proprietary ; yes ; dunno ; dunno ; dunno ; yes ; dunno ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; yes 
+ rh| LILO ; BSD license ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; yes ; Calls NTLDR ; yes ; yes ; dunno ; dunno ; Calls biosboot (FreeBSD, PC-BSD, ...) ; dunno 
+ rh| loader(8) ; BSD license ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; yes (FreeBSD, TrueOS) ; dunno 
+ rh| loadlin ; GPLv2+ ; Dunno ; no ; no ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; no ; no ; no ; yes ; no ; no ; dunno ; dunno 
+ rh| MasterBooter ; proprietary ; dunno ; yes ; Dunno ; dunno ; yes ; yes ; yes ; dunno ; yes ; dunno ; dunno ; dunno ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; yes ; dunno 
+ rh| NTLDR ; proprietary ; Dunno ; no ; yes ; yes ; yes ; dunno ; no ; no ; yes ; yes ; dunno ; dunno ; yes ; yes ; yes ; no ; Calls GRUB4DOS ; dunno ; dunno ; dunno ; Calls Darwin bootloader 
+ rh| OSL2000 Boot Manager ; proprietary ; Dunno ; yes ; yes ; no ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes ; yes ; yes ; Calls GRUB or LILO ; dunno ; dunno ; dunno ; dunno 
+ rh| PLoP Bootmanager, Plop Boot Manager Six (PBM6) ; proprietary ; Dunno ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; Calls GRUB or LILO ; dunno ; dunno ; dunno ; dunno 
+ rh| RedBoot ;mod GPLv2+ ; Dunno ; no ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; Calls NTLDR ; Calls Windows Boot Manager ; yes ; Calls FreeLoader ; yes ; yes ; yes 
+ rh| rEFInd (fork of rEFIt) ; GPLv3/BSD license ; yes ; no ; no ; no ; yes ; yes ; Dunno ; yes ; Dunno ; yes ; Dunno ; yes ; Dunno ; Dunno ; yes ; yes ; yes ; Dunno ; Dunno ; yes ; yes 
+ rh| rEFIt (not maintained) ; GPLv2/BSD license ; yes ; no ; no ; no ; yes ; yes ; Dunno ; no ; Dunno ; yes ; Dunno ; no ; Dunno ; Dunno ; yes ; yes ; yes ; Dunno ; Dunno ; yes ; yes 
+ rh| Smart Boot Manager ; GPLv2+ ; Dunno ; yes ; no ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; yes ; yes ; yes ; dunno ; yes ; dunno ; dunno ; yes ; dunno 
+ rh| SPFdisk ; GPLv2+ ; Dunno ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; yes ; dunno ; dunno ; dunno ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| SYSLINUX ; GPLv2+ ; no ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; Calls NTLDR ; Calls Windows Boot Manager ; yes ; dunno ; yes ; via mboot.c32 module  ; dunno 
+ rh| Tianocore EDK II ; BSD-2-Clause ; Dunno ; No ; No ; No ; Yes ; Yes ; Dunno ; Yes ; Dunno ; Yes ; No ; Yes ; No ; No ; No ; Yes ; Yes ; No ; Dunno ; Yes (FreeBSD,OpenBSD) ; Yes 
+ rh| XOSL ; GPLv2 ; Dunno ; no ; no ; yes ; yes ; yes ; yes ; yes ; dunno ; no ; dunno ; no ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno 
+ rh| Windows Boot Manager ; proprietary ; yes ; no ; yes ; no ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; dunno ; dunno ; yes ; Calls NTLDR ; yes ; Calls GRUB or LILO ; dunno ; dunno ; dunno ; dunno 
+ rh| FreeLoader (ReactOS Boot Loader) ; GPLv2+ ; Dunno ; no ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; dunno ; yes ; yes ; partial - Freeloader can load Windows Server 2003 directly, as long as it is on a FAT32 partition ; Calls Windows Boot Manager ; yes ; yes ; dunno ; dunno ; dunno 
+ Name ; Software license ; Can reside in ; Can reside in ; Can reside in ; Can reside in ; Can boot from ; Can boot from ; Can boot from ; Can boot from ; Can boot from ; Can boot from ; Can boot from ; Can boot from ; Can boot ; Can boot ; Can boot ; Can boot ; Can boot ; Can boot ; Can boot ; Can boot ; Can boot 
+ Name ; Software license ; ESP (UEFI) ; MBR ; VBR ; Floppy ; Hard disk ; Second hard disk ; Logical partitions ; CD-ROM ; Floppy ; USB ; Zip ; LAN ; MS-DOS ; Windows 9x/Me ; Windows NT series ; Windows Vista/7/8 ; Linux ; ReactOS ; MenuetOS ; *BSD ; MacOSX 

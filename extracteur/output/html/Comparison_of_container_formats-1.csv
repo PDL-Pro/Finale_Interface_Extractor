@@ -1,0 +1,28 @@
+Format;Type;3GP, 3G2;ASF;AVI;DMF;EVO;FLV;F4V;MKV;PS, TS;M2TS;MP4;MXF;Ogg;QTFF;RMVB;VOB;WebM
+DV;Intra-frame;No;Yes;Yes;No;No;No;No;VCM;No;No;DVCPRO HD;Yes;No;DV 25;No;No;No
+M-JPEG;Intra-frame;No;Yes;Yes;No;No;No;No;VCM;No;No;Yes;No;No;Yes;No;No;No
+MJ2;Intra-frame;No;No;Not standard;No;No;No;No;No;No;No;Yes;Yes;No;No;No;No;No
+MPEG-1 Video;Lossy;No;Yes;Yes;No;Yes;No;No;Yes;Yes;Yes;Yes;Yes;No;Yes;No;Yes;No
+MPEG-2 Video;Lossy;No;Yes;Yes;No;Yes;No;No;Yes;Yes;Yes;Yes;Yes;Needs VLC;Yes;No;Yes;No
+MPEG-4 Visual;Lossy;Yes;Yes;Yes;MPEG-4 ASP with DivX profiles;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Needs VLC;Yes;No;No;No
+Microsoft MPEG4 V2;Lossy;No;Yes;Yes;No;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No
+VC-1;Lossy;No;Yes;Yes;No;Yes;No;No;VCM;No;Yes;Yes;Yes;Needs VLC;Yes;No;No;No
+Sorenson;Lossy;No;No;Version 1;No;No;Spark;No;Yes;No;No;Yes;No;No;Versions 1 and 3;No;No;No
+H.263;Lossy;Yes;Yes;Yes;No;No;No;Yes;No;No;No;Yes;No;No;Yes;No;No;No
+VP6;Lossy;No;No;Needs VP6;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No
+RealVideo;Lossy;No;No;Not standard;No;No;No;No;RV10, RV20, RV30, RV40;No;No;RV60;No;No;No;RV30, RV40, RV60;No;No
+Cinepak;Lossy;No;No;Yes;No;No;No;No;Yes;No;No;Yes;No;No;Yes;No;No;No
+Indeo;Lossy;No;No;Yes;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+Theora;Lossy;No;No;Needs ffdshow;No;No;No;No;Yes;No;No;Yes;No;Yes;No;No;No;No
+MPEG-4 AVC;Lossy or lossless;Yes;Yes;Yes;No;Yes;Not standard;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;No;No;No
+MPEG-H HEVC;Lossy or lossless;Yes;Yes;Yes;No;No;No;No;Beta;Yes;No;Yes;Pending;No;Yes;No;No;No
+Dirac;Lossy or lossless;No;No;Needs Dirac;No;No;No;No;VCM;Private;No;Yes;No;Yes;Not standard;No;No;No
+VP8;Lossy or lossless;No;Yes;Yes;No;No;No;No;Yes;No;No;Yes;No;Needs Firefox;No;No;No;Yes
+VP9;Lossy or lossless;No;Yes;Yes;No;No;No;No;Yes;No;No;Yes;No;Needs Firefox;No;No;No;Yes
+AV1;Lossy or lossless;No;No;No;No;No;No;No;Beta;Planned;No;Yes;No;No;No;No;No;Beta
+MVC;Stereoscopic;Yes;No;No;No;No;No;No;Yes;No;No;Yes;No;No;No;No;No;No
+HuffYUV;Lossless;No;No;Needs HuffYUV;No;No;No;No;VCM;No;No;No;No;No;No;No;No;No
+YCbCr;Not compressed;No;Yes;Yes;No;No;No;No;Yes;No;No;SheerVideo;Yes;Beta;Yes;No;No;No
+Other;Other;—;—;—;—;—;Screen Video;—;—;JPEG 2000, TICO;—;—;—;MNG, JNG, PNG;DVC Pro 50, Photo JPEG, Graphics, QuickTime Animation, Apple ProRes;—;—;—
+Obsolete;Other;—;—;—;—;—;—;—;—;—;—;—;—;—;—;—;—;—
+Format;Type;3GP, 3G2;ASF;AVI;DMF;EVO;FLV;F4V;MKV;PS, TS;M2TS;MP4;MXF;Ogg;QTFF;RMVB;VOB;WebM

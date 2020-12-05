@@ -1,0 +1,12 @@
+ ;Australia Post ;Canada Post ;DHL ;FedEx ;OnTrac ;United States Postal Service ;UPS ;Purolator 
+ Apache OFBiz ; no ; no ; yes ; yes ; no ; yes ; yes ; no 
+ Bigcommerce ; yes ; yes ; no ; yes ; no ; yes ; yes ; no 
+ KonaKart ; no ; no ; no ; yes ; no ; yes ; yes ; no 
+ Magento ; no ; yes ; yes ; yes ; no ; yes ; yes ; yes 
+ nopCommerce ; yes ; yes ; no ; yes ; no ; yes ; yes ; no 
+ osCommerce ; no ; no ; no ; no ; no ; no ; no ; no 
+ PrestaShop ; yes ; yes ; no ; yes ; no ; yes ; yes ; yes 
+ Shopify ; no ; add-on ; no ; no ; no ; yes ; yes ; no 
+ WooCommerce ; no ; yes ; no ; no ; no ; yes ; no ; no 
+ Zen Cart ; add-on ; add-on ; add-on ; add-on ; yes ; add-on ; yes ; yes 
+ ;Australia Post ;Canada Post ;DHL ;FedEx ;OnTrac ;United States Postal Service ;UPS ;Purolator 

@@ -1,0 +1,20 @@
+Server;Authoritative;Recursive;Recursion ACL;Secondary mode;Caching;DNSSEC;TSIG;IPv6;Wildcard;Free Software;Interface;split horizon
+BIG-IP DNS;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;API, command line;Yes
+BIND;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes (since 9.x);Yes (since 4.x);Yes;Web, command line;Yes
+PowerDNS;Yes;Yes;Yes;Yes;Yes;Yes (since 3.0);Yes (since 3.0);Yes;Yes;Yes;REST, Web, command line;Partial
+djbdns;Yes;Yes;Yes;Yes;Yes;Partial;No;Partial via generic records. [6];Partial;Yes;command line and web (VegaDNS & NicTool);Yes
+dbndns;Yes;Yes;Yes;Yes;Yes;No;No;Yes;Partial;Yes;command line and web;Yes
+pdnsd;Partial;Yes;Partial;Partial;Yes;No;Partial;Yes;Yes;Yes;command line, pdnsd-ctl program;Partial
+MaraDNS;Yes;Yes;Yes;Partial;Yes;No;No;Partial;Yes;Yes;command line;No
+Posadis;Yes;Yes;Yes;Yes;Yes;No;No;Yes;Yes;Yes;command line, API;No
+Unbound;Partial;Yes;Yes;N/A;Yes;Yes;No;Yes;Yes;Yes;command line, API;Yes
+Dnsmasq;Partial;No;No;No;Yes;Yes (since 2.69);No;Yes;Yes;Yes;command line;Partial
+NSD;Yes;No;N/A;Yes;N/A;Yes;Yes;Yes;Yes;Yes;command line;No
+Knot DNS;Yes;No;N/A;Yes;N/A;Yes;Yes;Yes;Yes;Yes;command line;Yes
+Knot Resolver;No;Yes;Yes;N/A;Yes;Yes;No;Yes;Yes;Yes;command line and web;No
+YADIFA;Yes;No;N/A;Yes;N/A;Yes;Yes;Yes;Yes;Yes;command line;No
+Microsoft DNS;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;GUI, command line, API, WMI, RPC;Yes
+Simple DNS Plus;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;GUI, Web, command line;Yes
+Secure64 DNS Authority;Yes;No;No;Yes;No;Yes;Yes;Yes;Yes;No;Command Line or Web GUI;Yes
+Secure64 DNS Cache;No;Yes;Yes;No;Yes;Yes;No;Yes;Yes;No;Command Line or Web GUI;Yes
+Server;Authoritative;Recursive;Recursion ACL;Secondary mode;Caching;DNSSEC;TSIG;IPv6;Wildcard;Free Software;Interface;split horizon

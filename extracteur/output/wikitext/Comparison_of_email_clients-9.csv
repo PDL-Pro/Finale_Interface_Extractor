@@ -1,0 +1,48 @@
+ Client ; Message file format ; Encrypted database ; Virtual folder ; Scheduled backup ; New mail notification ; New mail notification ; New mail notification ; New mail notification ; Customizable interface ; Customizable keybindings ; Fragmented messages FragmentedMessages ; Database search with regular expression support ; Indexed search ; Search folders Searchfolders ; IMAP ; IMAP ; IMAP ; IMAP 
+ Client ; Message file format ; Encrypted database ; Virtual folder ; Scheduled backup ; ticker ; tray icon ; tooltip ; sound ; Customizable interface ; Customizable keybindings ; Fragmented messages FragmentedMessages ; Database search with regular expression support ; Indexed search ; Search folders Searchfolders ; Search ; IDLE 
+ rh| Alpine ; mbox, mbx, MIX, maildir (with patches), MMDF, tenex, mtx, MH, mx, news, phile ; dunno ; yes ; partial ; dunno ; dunno ; dunno ; yes ; yes ; no ; dunno ; no ; yes ; yes ; yes ; no 
+ rh| Becky! Internet Mail ; mbox ; dunno ; dunno ; no ; yes ; dunno ; yes ; yes ; dunno ; dunno ; dunno ; yes ; dunno ; yes ; yes ; yes 
+ rh| Citadel ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Claws Mail ; MH, mbox (plugin) ; no ; no ; no ; yes ; yes ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; no ; yes ; no 
+ rh| Cone ; mbox, maildir ; no ; no ; no ; no ; dunno ; dunno ; dunno ; yes (colors) ; no ; no ; no ; no ; yes ; yes ; yes 
+ rh2| Courier ; Proprietary ; yes (weak) ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; yes (layout) ; no ; dunno ; no ; no ; yes ; no ; yes 
+ rh| Elm ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| eM Client ; Proprietary (sqlite) ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes ; yes ; no ; no ; yes ; yes ; no ; yes 
+ rh| EmailTray ; Proprietary ; yes ; yes ; no ; yes ; yes ; no ; yes ; no ; no ; no ; no ; yes ; yes ; dunno ; dunno 
+ rh2| Eudora ; modified mbox ; no ; yes ; no ; no ; yes ; yes ; yes ; yes ; yes ; yes ; yes date=January 2007 ; yes ; yes ; yes ; dunno 
+ rh| Evolution ; maildir, mbox, MH ; no ; yes ; no ; no ; yes ; yes ; yes ; partial ; yes Keybindings ; yes ; yes ; yes ; yes ; yes ; yes 
+ rh| Gnus ; babyl, maildir, mbox, MMDF, news, rnews, SOUP, outlook, oe-dbx ; no ; yes ; no ; no ; dunno ; dunno ; dunno ; yes ; yes ; yes ; yes ; yes{{refn|group=Note|name=GnusNNIR|Via nnir backends such as Notmuch{{cite web ;url= ;title=The Gnus Newsreader ;publisher=Free Software Foundation, Inc. ;year=2015 ;access-date=2016-11-21 ;first=Lars Magne ;last=Ingebrigtsen }}}} ; yes ; yes ; dunno 
+ rh| GroupWise ; Proprietary ; yes ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; yes ; yes ; yes ; no 
+ rh| Hiri ; Proprietary ; no ; no ; no ; no ; no ; no ; no ; yes ; no ; no ; no ; yes ; yes ; no ; no 
+ rh| IBM Notes ; Proprietary ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes ; yes Lotus_frag ; no ; yes ; yes ; dunno ; no 
+ rh| KMail ; mbox, maildir ; no ; yes ; no ; dunno ; dunno ; dunno ; dunno ; yes ; yes ; no ; yes ; dunno ; yes ; yes ; yes 
+ rh2| Mailbird ; Proprietary ; no ; Yes ; no ; yes ; yes ; yes ; yes ; yes ; yes ; No ; yes ; Partial ; Yes ; Yes ; Yes 
+ rh| Mailpile ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Microsoft Entourage ; Proprietary (Personal Storage Table) ; dunno ; Yes ; Partial eragebackups ; dunno ; dunno ; dunno ; dunno ; Partial ; No ; No ; Partial eragedbgrepsearch ; Yes ; Yes ; Yes ; Yes 
+ rh| Microsoft Office Outlook ; Proprietary (Personal Storage Table) ; Yes ; yes ; yes ; dunno ; yes ; yes ; yes ; yes ; Yes ; dunno ; dunno ; yes MSO ; yes ; dunno ; yes 
+ rh2| Mozilla Mail & Newsgroups ; mbox ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| Mozilla Thunderbird ; mbox, maildir ; no ; yes ; dunno ; dunno ; yes ; yes ; yes ; yes TBThemes ; dunno ; no ; dunno ; yes (as of 3.0) ; yes ; yes ; yes 
+ rh2| Mulberry ; mbox MulberryMBox ; partial MulberryDB ; partial MulberryDB ; partial MulberryDB ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; dunno ; yes date=January 2007 ; partial MulberryDB ; no ; yes ; no 
+ rh| Mutt ; mbox, MMDF, MH, maildir ; yes (with compressed folders patch) ; dunno (has limit command) ; no ; dunno ; dunno ; dunno ; dunno ; yes ; yes ; dunno ; yes ; yes ; yesmuttindexers ; yes ; yes 
+ rh2| Netscape Messenger ; mbox ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh2| Netscape Messenger 9 ; mbox ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno 
+ rh| nmh / MH ; MH ; no ; yes ; no ; no ; dunno ; dunno ; dunno ; yes ; yes ; dunno ; yes ; yes ; yes ; no ; dunno 
+ rh| Opera Mail ; mbox, MH, Proprietary ; no ; yes(all folders are virtual) ; no ; no ; yes ; yes ; yes ; yes ; yes ; no ; yes ; yes ; yes ; dunno ; yes 
+ rh2| Outlook Express ; Proprietary ; no ; no ; no ; dunno ; yes ; no ; yes ; no ; no ; yes ; dunno ; no ; dunno ; dunno ; yes 
+ rh| Pegasus Mail ; Proprietary (mbox-like) ; no ; yes ; no ; dunno ; yes ; yes ; yes ; yes ; dunno ; dunno ; yes ; dunno ; yes ; yes ; no 
+ rh2| Pine ; mbox, mbx, MIX, maildir (with patches), MMDF, tenex, mtx, MH, mx, news, phile ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; no 
+ rh2| Pocomail ; mbox ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; dunno ; yes ; yes ; yes ; dunno ; dunno 
+ rh| RoundCube ; [IMAP Server] ; dunno ; dunno ; dunno ; Yes ; No ; No ; Yes ; Yes ; Yes ; dunno ; dunno ; dunno ; Yes ; Yes ; dunno 
+ rh| i.Scribe / InScribe ; Proprietary (sqlite) ; no ; no ; no ; no ; yes ; no ; yes ; yes ; no ; no ; no ; no ; no ; no ; yes 
+ rh| SeaMonkey Mail & Newsgroups ; mbox ; dunno ; dunno ; dunno ; yes ; yes ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; yes ; yes 
+ rh| SquirrelMail ; [IMAP Server] ; dunno ; dunno ; dunno ; Yes ; No ; No ; Yes ; Yes ; Yes ; dunno ; dunno ; dunno ; Yes ; Yes ; dunno 
+ rh| Sylpheed ; MH ; no ; yes ; no ; dunno ; yes ; dunno ; dunno ; yes ; yes ; no ; no GrepMH ; no GrepMH ; yes ; dunno ; no 
+ rh| The Bat! ; Proprietary ; Yes (AES 128 bit) (with Pro and Voyager version) TBEncryptedDB ; yes ; yes ; yes ; yes ; no ; yes ; yes ; yes ; yes ; yes (PCRE 6.2) ; no ; yes ; yes ; yes 
+ rh| Trojitá ; IMAP ; no ; no ; no ; no ; yes ; no ; no ; yes ; yes ; no ; no ; yes ; no ; yes ; yes 
+ rh2| Turnpike ; Proprietary ; yes ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; dunno ; yes ; dunno ; dunno 
+ rh2| Windows Live Mail ; File System (.eml) ; no ; no ; no ; no ; yes ; dunno ; yes ; yes ; no ; yes ; no ; yes ; yes ; dunno ; dunno 
+ rh2| Windows Mail ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; yes ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; dunno ; yes 
+ rh| YAM ; mbox, maildir, oe-dbx ; no ; no ; no ; dunno ; dunno ; yes ; yes ; yes ; no ; no ; no ; no ; no ; no ; no 
+ rh| Zimbra ; File system ; No ; Yes ; Yes ; dunno ; dunno ; dunno ; dunno ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes ; Yes 
+ Client ; Message file format ; Encrypted database ; Virtual folder ; Scheduled backup ; New mail notification ; New mail notification ; New mail notification ; New mail notification ; Customizable interface ; Customizable keybindings ; Fragmented messages FragmentedMessages ; Database search with regular expression support ; Indexed search ; Search folders Searchfolders ; IMAP ; IMAP ; IMAP ; IMAP 
+ Client ; Message file format ; Encrypted database ; Virtual folder ; Scheduled backup ; ticker ; tray icon ; tooltip ; sound ; Customizable interface ; Customizable keybindings ; Fragmented messages FragmentedMessages ; Database search with regular expression support ; Indexed search ; Search folders Searchfolders ; Search ; IDLE 

@@ -1,0 +1,7 @@
+ Feature ; Android ; iOS ; Tizen ; Sailfish OS ; Ubuntu Touch 
+Official app store ;Google Play;App Store;Tizen Store;Jolla Store;OpenStore 
+Non-discriminatory stores ;No2No, Some apps like Ad blocker are censored on Google PlayGoogle Takes the Dark Path, Censors AdBlock Plus on Android | Electronic Frontier Foundation Google removes Samsung's first Android ad blocker from the Play Store | The Verge  but developers can distribute apps from their own sources;No, Apple discriminates based on country and own Apple policies;?;{{Yes|Openrepos.;? 
+Common API for smartphones, tablets, and PCs ;Yesarchivedate=2014-05-17;Smartphone and tablet only;No;Yes;Yes 
+Official SDK platform(s) ;Linux, macOS and Windows;macOS using iOS SDK;GNU/Linux, Windows, macOS;Windows, macOS and Linux;Yes 
+Cost to develop for the mobile OS ;Free;No, Requires Apple hardware.{{Cite web|title=Do I Need a Mac to Make iPhone Apps?|url=;Free;Free;Free 
+Cost to publish app to official store ;US$25 once to offer it on Google Play;US$99/year;Free;Free{{cite web|url= Harbour|accessdate=2014-01-25|url-status=live|archiveurl=;Free 

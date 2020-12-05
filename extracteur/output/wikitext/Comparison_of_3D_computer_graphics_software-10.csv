@@ -1,0 +1,6 @@
+ Application ; MIPMAPgeneration ; Adaptive Tessellation ; Instansing ; Camera Culling ; Deep Pixel Rendering ; Fisheye Stereofor Fulldome ; Omnidirectional stereofor HMD ; Deforming Motion Blur ; GPU Rendering ; Texture Streaming(GPU) 
+ V-Ray ; img2tiledexr ; ? ; Yes ; ? ; Yes ; Domemaster Stereo Shader ; 3.2 and later ; Yes ; V-Ray GPU (formerly V-Ray RT) ; YesAdvancements in V-Ray RT GPU, p.15 
+ RenderMan (RIS) ; txmake ; ? ; Yes ; ? ; Yes ; ? ; YesFeatures date=2016-12-24 , Pixar ; Yes ; In developmentPixar Animation Studios Showcases New Rendering Technologies at SIGGRAPH 2017, AWN, August 2, 2017 ; No 
+ Arnold ; maketx ; YesSubdivision Settings, Solid Angle ; Yes ; ? ; Yes ; Domemaster Stereo Shader ; 5 and later ; Yes ; Yes ; ? 
+ Houdini Mantra (Path-Tracing mode) ; icp ; ? ; Yes ; ? ; Yes ; ? ; 15.5 and later ; Yes ; No ; No 
+ Blender Cycles ; No ; 2.78 and later ; Some ; Camera Cull ; No ; 2.78 and later ; 2.78 and later ; Yes ; Yes ; 2.80 and laterBf-blender-cvs - c621832d3d3 - master: Cycles: CUDA support for rendering scenes that don't fit on GPU., Blender Foundation, January 3, 2018 

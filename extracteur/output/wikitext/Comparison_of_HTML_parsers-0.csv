@@ -1,0 +1,5 @@
+ Parser ; License ; Implementation language(s) ; Latest date* ; HTML parsing12.2 Parsing HTML documents — HTML Standard  ; HTML5-compliant parsing ; Clean HTML** ; Update HTML*** 
+ HTML Tidy ; W3C license ; ANSI C ; 2017-03-01HTML Tidy release 5.4.0 ; YesWhat is Tidy? ; Yes ; Yes ; Yes 
+ HtmlUnit ; Apache License 2.0 ; Java ; 2019-08-24HtmlUnit Release 2.36.0 ; Yes ; dunno ; No ; No 
+libxml2 HTMLparser ; MIT License ; C ; 2017-11-02libxml2 Releases ; Yes ; No ; dunno ; dunno 
+ Parser ; License ; Implementation language(s) ; Latest date* ; HTML Parsing ; HTML5-compliant Parsing ; Clean HTML** ; Update HTML*** 
